@@ -342,3 +342,364 @@ NOTES: None
 Natural beauty and wonder are priceless heirlooms which God has bestowed upon our nation. How shall we escape the contempt of the coming generation if we suffer this irreplaceable heritage to be wasted?
 
 *Henry Van Dyke*
+
+<!-- Original Booklet Page 57 -->
+
+<!--
+WR-ID: WR-B-011
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: The Morning Hangs a Signal
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Morning
+- Faith
+NOTES: None
+-->
+
+## The Morning Hangs a Signal
+
+The morning hangs a signal\
+Upon the mountain crest,\
+While all the sleeping valleys\
+In silent darkness rest.\
+From peak to peak it flashes,\
+It laughs along the sky\
+Till glory of the sunshine\
+On all the land shall lie.\
+Above the generations\
+The lonely prophets rise\
+While truth flings dawn and daystar\
+Within their glowing eyes:\
+And other eyes, beholding,\
+And kindled from that light:\
+And dawn becomes the morning,\
+The darkness put to flight.\
+The soul hath lifted moments,\
+Above the drift of days,\
+When life's great meaning breaketh\
+In sunrise on our ways...\
+Behold the radiant token\
+Of faith above all fear:\
+Night shall be lost in splendor\
+And morning shall appear.
+
+*Unknown*
+
+<!--
+WR-ID: WR-B-012
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [God Has Infinite Time to Give Us]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Time
+- Morning
+NOTES: None
+-->
+
+## [God Has Infinite Time to Give Us]
+
+God has infinite time to give us; but how did He get it? In one immense tract of lazy millenniums? No, He cut it up into a neat succession of new mornings.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-B-013
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Plants Should Be Regarded as Jewels]
+BOOKLET_AUTHOR: Uberto Tosco
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Plants
+- Environment
+NOTES: None
+-->
+
+## [Plants Should Be Regarded as Jewels]
+
+[Plants should be regarded as] jewels in the devalued currency of our world environment.
+
+*Uberto Tosco*
+
+<!--
+WR-ID: WR-B-014
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Who Walks with Beauty]
+BOOKLET_AUTHOR: David Morton
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Beauty
+- Peace
+NOTES: None
+-->
+
+## [Who Walks with Beauty]
+
+Who walks with beauty have no need of fear; the sun and moon and stars keep peace with him.
+
+*David Morton*
+
+<!--
+WR-ID: WR-B-015
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [That Beautiful Season the Summer]
+BOOKLET_AUTHOR: Henry Wadsworth Longfellow
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Summer
+- Childhood
+NOTES: None
+-->
+
+## [That Beautiful Season the Summer]
+
+That beautiful season the Summer! Filled was the air with a dreamy and magical light, and the landscape lay as if newly created in all the freshness of childhood.
+
+*Henry Wadsworth Longfellow*
+
+<!--
+WR-ID: WR-B-016
+PAGE: 57
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Now the Sun Is Rising]
+BOOKLET_AUTHOR: Henry Wadsworth Longfellow
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Sun
+- Morning
+NOTES: None
+-->
+
+## [Now the Sun Is Rising]
+
+Now the sun is rising calm and bright. The birds are singing... The sky rejoices... All things that love the sun are out of doors.
+
+*Henry Wadsworth Longfellow*
+
+<!-- Original Booklet Page 58 -->
+
+<!--
+WR-ID: WR-B-017
+PAGE: 58
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: Nothing Gold Can Stay
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Transience
+NOTES: None
+-->
+
+## Nothing Gold Can Stay
+
+Nature's first green is gold\
+Her hardest hue to hold.\
+Her early leaf's a flower;\
+But only so an hour.\
+Then leaf subsides to leaf.\
+So Eden sank to grief,\
+So dawn goes down to day.\
+Nothing gold can stay.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-B-018
+PAGE: 58
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [May I Walk]
+BOOKLET_AUTHOR: Navajo Indians
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Beauty
+- Walking
+NOTES: None
+-->
+
+## [May I Walk]
+
+May I walk\
+With beauty before me,\
+May I walk\
+With beauty behind me,\
+May I walk\
+With beauty above me,\
+May I walk\
+With beauty below me,\
+May I walk\
+With beauty all around me,\
+May I walk\
+Wandering on a trail of beauty,\
+Lively, I walk.
+
+*Navajo Indians*
+
+<!--
+WR-ID: WR-B-019
+PAGE: 58
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Those Who Contemplate the Beauty of the Earth]
+BOOKLET_AUTHOR: Rachel Carson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Strength
+NOTES: None
+-->
+
+## [Those Who Contemplate the Beauty of the Earth]
+
+Those who contemplate the beauty of the earth find reserves of strength that will endure as long as life lasts. There is symbolic as well as actual beauty in the migration of the birds, the ebb and the flow of the tides, the folded bud ready for the spring. There is something infinitely healing in the repeated refrains of nature, the assurance that dawn comes after night, and spring after winter.
+
+The lasting pleasures of contact with the natural world are not reserved for scientist but are available to anyone who will place himself under the influence of earth, sea, and sky, and their amazing life.
+
+*Rachel Carson*
+
+<!--
+WR-ID: WR-B-020
+PAGE: 58
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Wonder of the World]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wonder
+- Life
+NOTES: None
+-->
+
+## [The Wonder of the World]
+
+The wonder of the world, the beauty and the power, the shapes of things, their colors, lights and shade. These I saw. Look ye also while life lasts.
+
+*Unknown*
+
+<!--
+WR-ID: WR-B-021
+PAGE: 58
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Far Away There]
+BOOKLET_AUTHOR: Louisa May Alcott
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Aspiration
+- Beauty
+NOTES: None
+-->
+
+## [Far Away There]
+
+Far away there\
+in the sunshine are my highest aspirations.\
+I may not reach them,\
+but I can look up and see their beauty,\
+believe in them,\
+and try to follow where they lead.
+
+*Louisa May Alcott*
