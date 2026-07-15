@@ -29,3 +29,5 @@ The scan order around pages 20-21 is reversed: PDF page 19 contains original pag
 The scan moves directly from the Knowledge and Wisdom divider on original page 31 to content on original page 33. Original page 32 is treated as the customary blank reverse of the divider, but no separate scanned leaf is present.
 
 Near the Beauty section, the scan moves from original page 51 to the Beauty divider on original page 53, then directly to content on original page 55. Original pages 52 and 54 are treated as blank reverses, but neither is present as a separate scanned leaf.
+
+At the transition from Beauty to Wilderness, the scan moves from original page 63 directly to the Wilderness divider on original page 65. Original page 64 is treated as the blank reverse of the preceding content leaf, but no separate scanned leaf is present.

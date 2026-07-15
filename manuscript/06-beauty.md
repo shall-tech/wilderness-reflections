@@ -1602,3 +1602,216 @@ NOTES: None
 I thanked to the Author of my being for the gift of that wild forest, those green mansions where I had found so great a happiness!
 
 *William Henry Hudson*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!--
+WR-ID: WR-B-052
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Beauty Created by Nature Is Equal in Value To]
+BOOKLET_AUTHOR: David Sive
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Beauty Created by Nature Is Equal in Value To]
+
+Beauty created by nature is equal in value to, and to be accorded reverence equal to, that of the beauty of music, art, or poetry of man, and experts are available to testify as to degrees of natural beauty just as they are able to testify to the quality of mortals' art.
+
+*David Sive*
+
+<!--
+WR-ID: WR-B-053
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Heavens Declare God's Glory]
+BOOKLET_AUTHOR: Psalm 19:1-4
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [The Heavens Declare God's Glory]
+
+The heavens declare God's glory and the magnificence of what made them. Each new dawn is a miracle; each new sky fills with beauty. Their testimony speaks to the whole world and reaches to the ends of the earth. In them is a path for the sun, who steps forth handsome as a bridegroom and rejoices like an athlete as he runs. He starts at one end of the heavens and circles to the other end, and nothing can hide from his heat.
+
+*Psalm 19:1-4*
+
+<!--
+WR-ID: WR-B-054
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Nothing Is Less Known; Nothing More Neglected]
+BOOKLET_AUTHOR: Georges Lois Leclerc, comte de Buffon
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Nothing Is Less Known; Nothing More Neglected]
+
+Nothing is less known; nothing more neglected. The forest is a gift of nature which it is sufficient to accept just as it comes from her hands.
+
+*Georges Lois Leclerc, comte de Buffon*
+
+<!--
+WR-ID: WR-B-055
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Thoughts of the Earth Are My Thoughts]
+BOOKLET_AUTHOR: Navajo Song
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [The Thoughts of the Earth Are My Thoughts]
+
+The thoughts of the earth are my thoughts.\
+The voice of the earth is my voice.\
+All that belongs to the earth belongs to me.\
+All that surrounds the earth surrounds me.\
+It is lovely indeed, it is lovely indeed.
+
+*Navajo Song*
+
+<!--
+WR-ID: WR-B-056
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [If There Is Light in the Soul]
+BOOKLET_AUTHOR: Chinese Proverb
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [If There Is Light in the Soul]
+
+If there is light in the soul,\
+There will be beauty in the person.\
+If there is beauty in the person,\
+There will harmony in the house.\
+If there is harmony in the house,\
+There will be order in the nation.\
+If there is order in the nation,\
+There will be peace in the world.
+
+*Chinese Proverb*
+
+<!--
+WR-ID: WR-B-057
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Hours When the Mind Is Absorbed by Beauty]
+BOOKLET_AUTHOR: Richard Jefferies
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [The Hours When the Mind Is Absorbed by Beauty]
+
+The hours when the mind is absorbed by beauty are the only hours when we truly live.
+
+*Richard Jefferies*
+
+<!--
+WR-ID: WR-B-058
+PAGE: 63
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Then I Was Standing on the Highest Mountain]
+BOOKLET_AUTHOR: Black Elk
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Then I Was Standing on the Highest Mountain]
+
+Then I was standing on the highest mountain of them all, and round about beneath me was the whole hoop of the world. And while I stood there I saw more than I could tell and I understood more than I saw, for I was seeing in a sacred manner the shapes of all things in the spirit, and the shapes of all shapes as they must live together like one being. And I saw the sacred hoop of my people was one of the many hoops that made one circle, wide as daylight and as straight, and in the center grew one mighty flowering tree to shelter all the children of one mother and one father. And I saw that it was holy.
+
+*Black Elk*
+
+<!-- Original Booklet Page 64 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->
