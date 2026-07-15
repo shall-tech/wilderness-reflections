@@ -5,7 +5,6 @@
 
 <!-- Original Booklet Page 8 -->
 <!-- Blank page -->
-
 <!-- Original Booklet Page 9 -->
 
 <!--
@@ -462,3 +461,183 @@ At the end of the open road we come to ourselves.
 
 <!-- Original Booklet Page 12 -->
 <!-- Blank page -->
+
+<!-- Original Booklet Page 13 -->
+
+<!--
+WR-ID: WR-L-013
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: The More You Put In
+BOOKLET_AUTHOR: Reverend Bill Sutherland
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Reflection
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Generosity
+- Service
+NOTES: None
+-->
+
+## The More You Put In
+
+The chaplain and his young son were camping just outside a small seaside town. Not far away was a tiny church that had no minister, so the chaplain offered his services for Sunday. No fee was payable.
+
+As the chaplain and his son were passing out of the door after the service, the son noticed a small box which had on it the words, "For Contributions."
+
+"Father, don't you think you should put something in the box?" the son asked.
+
+"Certainly," the chaplain said. He dug into his pocket, pulled out a dollar, and placed it in the box. The two had gone a little way back to camp when a man came running after them.
+
+"It's our custom to give the minister whatever is dropped into the box," he said when he caught up with them. "I found this dollar and here it is." And he handed back the money the chaplain had donated.
+
+After the man had left, the boy look up at his dad. "Father," he said, "if you had only put more money into the box, you would have got so much more out."
+
+*Reverend Bill Sutherland*
+
+<!--
+WR-ID: WR-L-014
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Grow Wild According to Thy Nature]
+BOOKLET_AUTHOR: Terry and Renny Russell
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Freedom
+NOTES: None
+-->
+
+## [Grow Wild According to Thy Nature]
+
+Grow wild according to thy nature, like these sedges and brakes, which will never become English hay. Let the thunder ramble; what if it threatens ruin to farmer's crops? That is not its errand to thee. Take shelter under the cloud, while they flee to carts and sheds. Let not to get a living by thy trade, but by thy sport. Enjoy the land, but own it not.
+
+*Terry and Renny Russell*
+
+<!--
+WR-ID: WR-L-015
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The World Is Your Exercise Book]
+BOOKLET_AUTHOR: Richard Bach, from Illusions
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Choice
+- Responsibility
+NOTES: None
+-->
+
+## [The World Is Your Exercise Book]
+
+The world is your exercise book, the pages on which you do your sums. It is not reality although you can express reality there if you wish. You are also free to write nonsense, or lies, or to tear the pages.
+
+*Richard Bach, from Illusions*
+
+<!--
+WR-ID: WR-L-016
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Live as to Die Tomorrow]
+BOOKLET_AUTHOR: Isadore of Seville
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Learning
+- Purpose
+NOTES: None
+-->
+
+## [Live as to Die Tomorrow]
+
+Live as to die tomorrow. Learn as to live forever.
+
+*Isadore of Seville*
+
+<!--
+WR-ID: WR-L-017
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Try Not to Become a Man of Success]
+BOOKLET_AUTHOR: Albert Einstein
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Character
+- Values
+NOTES: None
+-->
+
+## [Try Not to Become a Man of Success]
+
+Try not to become a man of success, rather become a man of value.
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-L-018
+PAGE: 13
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Left the Woods]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Reflection
+NOTES: None
+-->
+
+## [I Left the Woods]
+
+I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one. It is remarkable how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond side; and though it is five or six years since I trod it, it is still quite distinct. It is true, I fear that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world, how deep the ruts of tradition and conformity! I did not wish to take a cabin passage, but rather to go before the mast and on the deck of the world, for there I could best see the moonlight amid the mountains. I do not wish to go below now.
+
+*Henry David Thoreau*

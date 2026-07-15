@@ -7,3 +7,4 @@
 - Documented the initial scan-to-booklet page mapping and intake assumptions.
 - Completed intake transcription of Life pages 9-10.
 - Completed intake transcription of Life pages 11-12.
+- Completed intake transcription of Life page 13.
