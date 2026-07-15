@@ -7,7 +7,7 @@
 
 <!-- Original Booklet Page 66 -->
 
-<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->
 
 
 <!-- Original Booklet Page 67 -->
@@ -370,7 +370,7 @@ NOTES: None
 That wonderful world of high mountains, dazzling in their rock and ice, acts as a catalyst. It suggests the infinite but it is not the infinite. The heights only give us what we ourselves bring them.
 
 *Lucien Devies*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!-- Original Booklet Page 69 -->
@@ -958,7 +958,7 @@ NOTES: None
 Money is the wealth of the materialists and works miracles in the realm of the physical. Time is the wealth of the pilgrim, and works miracles in all realms.
 
 *Ed Burgen, Vagabonding in the U.S.A.*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!-- Original Booklet Page 71 -->
@@ -1457,7 +1457,7 @@ NOTES: None
 Her mighty lakes, like oceans of liquid silver; her mountains with their bright aerial tints; her valleys, teeming with wild fertility; her tremendous cataracts, thundering in their solitudes; her boundless plains, waving with spontaneous verdure; her broad deep rivers, rolling in solemn silence to the ocean; her trackless forests, where vegetation puts forth all its magnificence; her skies, kindling with magic of summer clouds and glorious sunshine; no, never need an American look beyond his own country for the sublime and beautiful of natural scenery.
 
 *Washington Irving*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!-- Original Booklet Page 73 -->
@@ -1940,7 +1940,7 @@ NOTES: None
 Woe unto them that join house to house, that lay field to field, till there be no place that they may be placed also in the midst of the earth.
 
 *Isiah 5:8*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!-- Original Booklet Page 75 -->
@@ -2422,7 +2422,7 @@ I've finally found mine...\
 in the mountains
 
 *Hoyt Axton*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!-- Original Booklet Page 77 -->
@@ -2819,3 +2819,78 @@ NOTES: None
 Parks are at the center of a community's character; they reflect and strengthen the sense of place and identity that makes cities fit places for people.
 
 *Conservation Foundation*
+
+
+
+<!-- Original Booklet Page 79 -->
+
+<!--
+WR-ID: WR-W-095
+PAGE: 79
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: The Call of the Wild
+BOOKLET_AUTHOR: Robert Service
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Calling
+NOTES: None
+-->
+
+## The Call of the Wild
+
+Have you grazed upon the naked grandeur where there's noting else to gaze on,\
+Set pieces and drop curtain scenes galore,\
+Big mountains heaved up to heaven, which the binding sunsets blazon,\
+Black canyons where the rapids rip and roar?\
+Have you swept the visioned valley with the green stream streaking through it,\
+Searched the vastness for something you have lost?\
+Have you strung your soul to silence? Then for god's sake go and do it\
+Hear the challenge, learn the lesson, pay the cost.\
+Have you wandered in the wilderness, the sagebrush desolation,\
+The bunch-grass levels where cattle graze?\
+Have you whistled a bit of ragtime at the end of all creation,\
+And learned to know the desert's little ways?\
+Have you camped upon the foothills, have you galloped o'er the ranges,\
+Have you roamed the arid sun-lands through and through?\
+Have you chummed up with the mesas? Do you know its moods and changes?\
+Then listen to the wild - it's calling you.\
+Have you known the Great White Silence, not a snow-gemmed twig aquiver? (Eternal truths that\
+shame out soothing lies.)\
+Have you broken trail on snowshoes? Mushed your huskies up the river,\
+Dared the unknown, led the way, clutched the prize?\
+Have you marked the map's void spaces, mingled with the mongrel races,\
+Felt the savage strength of brute in every thew?\
+And though grim as hell the worst is, can you round it off with curses?\
+Then harken to the wild - it's wanting you.\
+Have you suffered, starved, and triumphed, groveled down, yet grasped at glory,\
+Grown bigger in the bigness of the whole?\
+Done things, just for doing, letting babblers tell the story,\
+Seeing through the nice veneer the naked soul?\
+Have you seen God in his splendors, heard the text that nature renders?\
+(You'll never hear it in the family pew.)\
+The simple things, the true things, the silent men who do things -\
+The listen to the wild - it's calling you.\
+They have cradled you in custom, they have primed you with their preaching,\
+They have soaked you in convention through and through;\
+They have put you in a showcase; you're a credit to their teaching -\
+But can't you hear the wild? - It's calling you.\
+Let us probe the silent places, let us seek what luck betides us;\
+Let us journey to a lonely land I know.\
+There's a whisper on the night wind, there's a star agleam to guide us,\
+And the wild is calling, calling... let us go.
+
+*Robert Service*
+
+<!-- Original Booklet Page 80 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->

@@ -10,7 +10,8 @@
 - Knowledge and Wisdom divider and pages 31-46
 - Scouting and Adventures divider and pages 47-51
 - Beauty divider and pages 53-64
-- Wilderness divider and pages 65-78
+- Wilderness divider and pages 65-80
+- Author Index divider: original page 81
 
 ## Next batch
 
@@ -18,8 +19,9 @@
 - Knowledge and Wisdom intake is complete through original page 46.
 - Scouting and Adventures intake is complete through original page 51.
 - Beauty intake is complete through original page 64.
-- Wilderness intake has begun through original page 78.
-- Resume with original page 79.
+- Wilderness intake is complete through original page 80.
+- Author Index intake has begun with the original page-81 divider.
+- Resume with original page 82.
 
 ## Source
 

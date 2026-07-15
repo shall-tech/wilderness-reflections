@@ -43,3 +43,5 @@
 - Completed intake transcription of Wilderness pages 73-74.
 - Completed intake transcription of Wilderness pages 75-76.
 - Completed intake transcription of Wilderness pages 77-78.
+- Completed Wilderness through page 80 and began the Author Index with its page-81 divider.
+- Removed captured shell-warning and patch-seam artifacts from earlier manuscript batches.

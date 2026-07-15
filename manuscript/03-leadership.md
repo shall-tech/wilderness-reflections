@@ -345,7 +345,6 @@ NOTES: None
 Argue for your limitations, and sure enough, they're yours.
 
 *Richard Bach, from Illusions*
-+
 <!-- Original Booklet Page 28 -->
 
 <!--

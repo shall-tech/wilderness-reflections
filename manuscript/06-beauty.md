@@ -703,7 +703,7 @@ believe in them,\
 and try to follow where they lead.
 
 *Louisa May Alcott*
-+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!--
@@ -1179,7 +1179,7 @@ NOTES: None
 Sequoias, kings of their race, growing close together like grass in a meadow, poised their brave domes and spires in the sky three hundred feet above the ferns and lilies that enameled the ground; towering serene through the long centuries, preaching God's forestry fresh from heaven.
 
 *John Muir*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!--
@@ -1602,7 +1602,7 @@ NOTES: None
 I thanked to the Author of my being for the gift of that wild forest, those green mansions where I had found so great a happiness!
 
 *William Henry Hudson*
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
 
 
 <!--
