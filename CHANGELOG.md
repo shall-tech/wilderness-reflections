@@ -28,3 +28,4 @@
 - Completed intake transcription of Knowledge and Wisdom pages 41-42.
 - Completed intake transcription of Knowledge and Wisdom pages 43-44.
 - Completed intake transcription of Knowledge and Wisdom pages 45-46.
+- Completed Knowledge and Wisdom and began Scouting and Adventures with pages 47-48.
