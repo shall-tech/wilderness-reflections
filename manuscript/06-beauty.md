@@ -703,3 +703,479 @@ believe in them,\
 and try to follow where they lead.
 
 *Louisa May Alcott*
++/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!--
+WR-ID: WR-B-022
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: Pine Tree Tops
+BOOKLET_AUTHOR: Gary Snyder
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Night
+- Nature
+NOTES: None
+-->
+
+## Pine Tree Tops
+
+In the blue night\
+Frost haze, the sky glows\
+With the moon.\
+Pine tree tops\
+Bend snow-blue, fade\
+Into sky, frost, starlight\
+The creak of boots.\
+Rabbit tracks, deer tracks,\
+What do we know?
+
+*Gary Snyder*
+
+<!--
+WR-ID: WR-B-023
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Sometimes the Rare, the Beautiful]
+BOOKLET_AUTHOR: Loren Eiseley
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Creativity
+- Solitude
+NOTES: None
+-->
+
+## [Sometimes the Rare, the Beautiful]
+
+Sometimes the rare, the beautiful can only emerge or survive in isolation. In a similar manner, some degree of withdrawal serves to nurture man's creative powers. The artist and the scientist bring out of the dark void, like the mysterious universe itself, the unique, the strange, and unexpected.
+
+*Loren Eiseley*
+
+<!--
+WR-ID: WR-B-024
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [No Synonym for God Is So Perfect as Beauty]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Beauty
+- God
+NOTES: None
+-->
+
+## [No Synonym for God Is So Perfect as Beauty]
+
+No synonym for God is so perfect as beauty. Whether as seen carving the lines of the mountains with glaciers, or gathering matter into stars, or planning the movement of water, or gardening - still all is beauty.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-025
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Thank God, They Cannot Cut Down the Clouds]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Clouds
+- Conservation
+NOTES: None
+-->
+
+## [Thank God, They Cannot Cut Down the Clouds]
+
+Thank God, they cannot cut down the clouds.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-B-026
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Sun Does Not Shine for a Few Trees and Flowers]
+BOOKLET_AUTHOR: Henry Ward Beecher
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Sunlight
+- Joy
+NOTES: None
+-->
+
+## [The Sun Does Not Shine for a Few Trees and Flowers]
+
+The sun does not shine for a few trees and flowers, but for the wide world's joy.
+
+*Henry Ward Beecher*
+
+<!--
+WR-ID: WR-B-027
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Nature Is Painting for Us]
+BOOKLET_AUTHOR: James Russell Lowell
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Nature Is Painting for Us]
+
+Nature is painting for us, day after day, pictures of infinite beauty.
+
+*James Russell Lowell*
+
+<!--
+WR-ID: WR-B-028
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Riverbanks Lined with Green Trees]
+BOOKLET_AUTHOR: Zen Verse
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Sacredness
+- Nature
+NOTES: None
+-->
+
+## [Riverbanks Lined with Green Trees]
+
+Riverbanks lined with green trees, fragrant grasses: a place not sacred? Where?
+
+*Zen Verse*
+
+<!--
+WR-ID: WR-B-029
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Machine Turned Nature into an Art Form]
+BOOKLET_AUTHOR: Marshal McLuhan
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Technology
+- Nature
+NOTES: None
+-->
+
+## [The Machine Turned Nature into an Art Form]
+
+The machine turned nature into an art form. For the first time men began to regard nature as a source of aesthetic and spiritual values.
+
+*Marshal McLuhan*
+
+<!--
+WR-ID: WR-B-030
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Greatest Beauty Is Organic Wholeness]
+BOOKLET_AUTHOR: Robinson Jeffers
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wholeness
+- Beauty
+NOTES: None
+-->
+
+## [The Greatest Beauty Is Organic Wholeness]
+
+The greatest beauty is organic wholeness, the wholeness of life and things, the divine beauty of the universe. Love that, not man apart from that.
+
+*Robinson Jeffers*
+
+<!--
+WR-ID: WR-B-031
+PAGE: 59
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Looking Good Never Takes a Day Off]
+BOOKLET_AUTHOR: Fr. Don Hummel
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Appearance
+- Humor
+NOTES: None
+-->
+
+## [Looking Good Never Takes a Day Off]
+
+Looking good never takes a day off.
+
+*Fr. Don Hummel*
+
+<!--
+WR-ID: WR-B-032
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: To look at anything
+BOOKLET_AUTHOR: John Moffitt
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Perception
+- Nature
+NOTES: None
+-->
+
+## To look at anything
+
+To look at anything,\
+If you would know that thing,\
+You must look at it long:\
+To look at this green and say\
+"I have seen spring in these\
+woods," will not do - you must\
+Be the thing you see:\
+You must be the dark snakes of\
+Stems and ferny plumes of leaves,\
+You must enter in\
+To the small silences between\
+The leaves,\
+You must take your time\
+And touch the very peace\
+They issue from.
+
+*John Moffitt*
+
+<!--
+WR-ID: WR-B-033
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Indifference to the Aesthetic]
+BOOKLET_AUTHOR: Josiah Stamp
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Aesthetics
+- Economics
+NOTES: None
+-->
+
+## [Indifference to the Aesthetic]
+
+Indifference to the aesthetic will in the long run lessen the economic product... attention to the aesthetic will increase economic welfare.
+
+*Josiah Stamp*
+
+<!--
+WR-ID: WR-B-034
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [To See Is One of God's Great Gifts]
+BOOKLET_AUTHOR: Waite Phillips, Epigrams
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Perception
+- Beauty
+NOTES: None
+-->
+
+## [To See Is One of God's Great Gifts]
+
+To see is one of God's great gifts to man and to comprehend what we see is doubly so. Furthermore, He has endowed some people with the qualities to see the beauties of life and nature much more than others and they have the greatest gift of all.
+
+*Waite Phillips, Epigrams*
+
+<!--
+WR-ID: WR-B-035
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [So Much for Me Here]
+BOOKLET_AUTHOR: Julie Fine
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Happiness
+- Discovery
+NOTES: None
+-->
+
+## [So Much for Me Here]
+
+So much for me here...\
+Peace, air, sunlight, rain.\
+Happiness, discovery, lows and highs.\
+It's like a puzzle that fits together\
+Perfectly, yet its parts are interchangeable.
+
+*Julie Fine*
+
+<!--
+WR-ID: WR-B-036
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Our Ability to Perceive Quality in Nature]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Perception
+NOTES: None
+-->
+
+## [Our Ability to Perceive Quality in Nature]
+
+Our ability to perceive quality in nature begins, as in art, with the pretty. It expands through successive stages of the beautiful to values as yet uncaptured by language. The quality of cranes lies, I think, in this higher gamut, as yet beyond the reach of words.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-B-037
+PAGE: 60
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Sequoias, Kings of Their Race]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Forests
+- God
+NOTES: None
+-->
+
+## [Sequoias, Kings of Their Race]
+
+Sequoias, kings of their race, growing close together like grass in a meadow, poised their brave domes and spires in the sky three hundred feet above the ferns and lilies that enameled the ground; towering serene through the long centuries, preaching God's forestry fresh from heaven.
+
+*John Muir*

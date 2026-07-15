@@ -34,3 +34,4 @@
 - Corrected the Beauty divider to original page 53 and documented missing blank pages 52 and 54.
 - Completed intake transcription of Beauty pages 55-56.
 - Completed intake transcription of Beauty pages 57-58.
+- Completed intake transcription of Beauty pages 59-60.
