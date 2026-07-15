@@ -24,3 +24,4 @@ The source PDF contains 76 scanned leaves. The first content sequence is:
 | 7 | 8 | Blank |
 | 8 | 9 | Life content begins |
 
+The scan order around pages 20-21 is reversed: PDF page 19 contains original page 21, while PDF page 20 contains original page 20. The canonical manuscript restores the printed page order.

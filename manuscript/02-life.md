@@ -2078,12 +2078,237 @@ At the gates of the forest, the surprised man of the world is forced to leave hi
 *Ralph Waldo Emerson*
 
 <!-- Original Booklet Page 20 -->
-<!-- Blank or unscanned page; numbering resumes at page 21 in the source scan. -->
+
+<!--
+WR-ID: WR-L-067
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Have Came to Terms with the Future]
+BOOKLET_AUTHOR: M.J. Slim Hooey
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Stewardship
+- Harmony
+NOTES: None
+-->
+
+## [I Have Came to Terms with the Future]
+
+I have came to terms with the future. From this day onward I will walk easy on the earth. Plant trees. Kill no living things. Live in harmony with all creatures. I will restore the earth where I am, Use no more of its resources than I need. And listen, listen to what it is telling me.
+
+*M.J. Slim Hooey*
+
+<!--
+WR-ID: WR-L-068
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Think I Could Turn and Live with the Animals]
+BOOKLET_AUTHOR: Walt Whitman
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Nature
+- Simplicity
+NOTES: None
+-->
+
+## [I Think I Could Turn and Live with the Animals]
+
+I think I could turn and live with the animals, they are so placid and self-contained.
+
+*Walt Whitman*
+
+<!--
+WR-ID: WR-L-069
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [A Coward Dies a Thousand Deaths]
+BOOKLET_AUTHOR: William Shakespeare
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Mortality
+NOTES: None
+-->
+
+## [A Coward Dies a Thousand Deaths]
+
+A coward dies a thousand deaths, a brave man only one.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-L-070
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Love Your Life]
+BOOKLET_AUTHOR: The Twelfth Commandment of the Redman
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Service
+NOTES: None
+-->
+
+## [Love Your Life]
+
+Love your life, perfect your life, beautify all things in life; glory in your strength and beauty. Rejoice in the fullness of your aliveness. Seek to make your life long and full of service to others, to your people. And prepare a noble Death Song for the day when you are about to cross the Great Divide.
+
+*The Twelfth Commandment of the Redman*
+
+<!--
+WR-ID: WR-L-071
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Acceptance Is the Art of Making the Obstacle the Path]
+BOOKLET_AUTHOR: China Galland
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Acceptance
+- Courage
+NOTES: None
+-->
+
+## [Acceptance Is the Art of Making the Obstacle the Path]
+
+Acceptance is the art of making the obstacle the path. Therefore, embrace the enemy. This is the lesson of the river guide; face the danger, move toward it, that is where the current is the strongest, and it will carry you around the obstacle. Use it.
+
+*China Galland*
+
+<!--
+WR-ID: WR-L-072
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Preservationist Is Not an Elitist]
+BOOKLET_AUTHOR: Joseph Sax
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Conservation
+- Stewardship
+NOTES: None
+-->
+
+## [The Preservationist Is Not an Elitist]
+
+The preservationist is not an elitist who wants to exclude others, notwithstanding popular opinion to the contrary; he is a moralist who wants to convert them. He is concerned about what other people do in the parks not because he is unaware of the diversity of taste in the society, but because he views certain kinds of activity as calculated to undermine the attitudes he believes the park can, and should, encourage.
+
+*Joseph Sax*
+
+<!--
+WR-ID: WR-L-073
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [One Aspect of the Machine World]
+BOOKLET_AUTHOR: Henry Beston
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Joy
+- Technology
+NOTES: None
+-->
+
+## [One Aspect of the Machine World]
+
+One aspect of the machine world which has not had sufficient attention is the relation of the machine age to the mystery of human joy. If there is one thing clear about the centuries dominated by the factory and the wheel, it is that although the machine can make everything from a spoon to a landing craft, a natural joy in earthly living is something it never has and never will be able to manufacture. It has given us conveniences (often most uncomfortable) and comforts (often most inconvenient) but human happiness was never on its tray of wares. The historical result of the era has been an economic world so glutted with machine power that it is being shaken apart like a jerry-built factory, and a frustrated human world full of neurotic and ugly substitutes for joy. Part of the confused violence of our time represents, I think, the unconscious search of man for his own natural happiness. He cannot live by bread alone and particularly not by sawdust bread. To speak in paradox, a sense of some joy in living is one of the most serious things in all the world.
+
+*Henry Beston*
+
+<!--
+WR-ID: WR-L-074
+PAGE: 20
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Plants Are Superb Opportunists]
+BOOKLET_AUTHOR: Anthony Huxley
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Plants
+- Adaptation
+NOTES: None
+-->
+
+## [Plants Are Superb Opportunists]
+
+[Plants] are superb opportunists, making the most of different combinations of water, air, soil, and climate. Their grip on the planet, their capacities for colonization, and their integration with the environment are due to astounding diversification and variety.
+
+*Anthony Huxley*
+
+
 
 <!-- Original Booklet Page 21 -->
 
 <!--
-WR-ID: WR-L-067
+WR-ID: WR-L-075
 PAGE: 21
 SECTION: Life
 STATUS: NEEDS RESEARCH
@@ -2141,7 +2366,7 @@ And, which is more, You'll be a man, my son!
 *Rudyard Kipling, from Waite Phillip's Epigrams*
 
 <!--
-WR-ID: WR-L-068
+WR-ID: WR-L-076
 PAGE: 21
 SECTION: Life
 STATUS: NEEDS RESEARCH
