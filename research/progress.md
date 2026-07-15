@@ -5,16 +5,15 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life page 9: "The Bridge Builder"
+- Life pages 9-10
 
 ## Next batch
 
-- Resume on original page 9 with "The Man in the Glass."
-- Continue through original page 11 if visual verification remains unambiguous.
+- Resume on original page 11 with "Believe in Yourself!"
+- Continue through original page 12 if visual verification remains unambiguous.
 
 ## Source
 
 - Scan: Wilderness Reflections.pdf
 - Scan length: 76 PDF pages
 - Text layer: none; transcription requires OCR plus visual comparison
-
