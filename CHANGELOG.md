@@ -45,3 +45,5 @@
 - Completed intake transcription of Wilderness pages 77-78.
 - Completed Wilderness through page 80 and began the Author Index with its page-81 divider.
 - Removed captured shell-warning and patch-seam artifacts from earlier manuscript batches.
+- Added the First Line Index divider and transcribed the Sources page.
+- Documented missing Author Index pages 82-84 and First Line Index pages 86-90 after processing all supplied PDF scans.

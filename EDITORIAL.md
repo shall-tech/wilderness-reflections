@@ -35,3 +35,5 @@ At the transition from Beauty to Wilderness, the scan moves from original page 6
 The scan moves directly from the Wilderness divider on original page 65 to content on original page 67. Original page 66 is treated as the customary blank reverse of the divider, but no separate scanned leaf is present.
 
 At the transition from Wilderness to the Author Index, the scan moves from original page 79 directly to the Author Index divider on original page 81. Original page 80 is treated as the blank reverse of the preceding content leaf, but no separate scanned leaf is present.
+
+The final scans are incomplete relative to the booklet pagination. After the Author Index divider on original page 81, the PDF jumps to the First Line Index divider on original page 85, so Author Index pages 82-84 are absent. It then jumps to the Sources page on original page 91, so First Line Index pages 86-90 are absent. These eight pages cannot be reconstructed faithfully from the supplied scan and require replacement scans.
