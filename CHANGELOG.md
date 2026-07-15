@@ -35,3 +35,4 @@
 - Completed intake transcription of Beauty pages 55-56.
 - Completed intake transcription of Beauty pages 57-58.
 - Completed intake transcription of Beauty pages 59-60.
+- Completed intake transcription of Beauty pages 61-62.

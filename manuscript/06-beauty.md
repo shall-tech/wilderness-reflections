@@ -1179,3 +1179,426 @@ NOTES: None
 Sequoias, kings of their race, growing close together like grass in a meadow, poised their brave domes and spires in the sky three hundred feet above the ferns and lilies that enameled the ground; towering serene through the long centuries, preaching God's forestry fresh from heaven.
 
 *John Muir*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!--
+WR-ID: WR-B-038
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: I Remember
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## I Remember
+
+I remember streams and lakes\
+clear and alive with life,\
+shores of sand moist and clean,\
+woodlands dense, birds that sang,\
+leaves that crunched beneath my tread.\
+I remember sunshine so bright and warm\
+And air so pure you wanted to take great gulps of it in.\
+I remember...\
+And a tear runs down my cheek\
+for you,\
+My bright young face,\
+My bright young friend.\
+And I sorrow that you will never see\
+What I remember.
+
+*Unknown*
+
+<!--
+WR-ID: WR-B-039
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [We Believe That Ugliness Begets Ugliness]
+BOOKLET_AUTHOR: Carl Carmer
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [We Believe That Ugliness Begets Ugliness]
+
+We believe that ugliness begets ugliness and that nature's beauty, once destroyed, may never be restored by the artifice of man.
+
+*Carl Carmer*
+
+<!--
+WR-ID: WR-B-040
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Ordinarily the Demands of Utility Are Imperative]
+BOOKLET_AUTHOR: Hiram Chittenden
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Ordinarily the Demands of Utility Are Imperative]
+
+Ordinarily the demands of utility are imperative and scenic beauty where it stands in the way must yield.
+
+*Hiram Chittenden*
+
+<!--
+WR-ID: WR-B-041
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [There Can Be No Greater Moral Obligation]
+BOOKLET_AUTHOR: Frank Fraser Darling
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [There Can Be No Greater Moral Obligation]
+
+There can be no greater moral obligation in the environmental field than to ease out the living space and replace dereliction by beauty.
+
+*Frank Fraser Darling*
+
+<!--
+WR-ID: WR-B-042
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [For Oft When on My Couch I Lie]
+BOOKLET_AUTHOR: William Wordsworth
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [For Oft When on My Couch I Lie]
+
+For oft when on my couch I lie,\
+In vacant or in pensive mood,\
+They flash upon that inward eye,\
+Which is the bliss of solitude,\
+And then my heart with pleasure fills,\
+And dances with the daffodils.
+
+*William Wordsworth*
+
+<!--
+WR-ID: WR-B-043
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [O, These Vast, Calm, Measureless Mountain Days]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [O, These Vast, Calm, Measureless Mountain Days]
+
+O', these vast, calm, measureless mountain days inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-044
+PAGE: 61
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Thus It Appears That Everything Here Is Marching to Music]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Thus It Appears That Everything Here Is Marching to Music]
+
+Thus it appears that everything here is marching to music, and the harmonies are all so simple and young they are easily apprehended by those who will keep still and listen and look.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-045
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Everybody Needs Beauty as Well as Bread]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Everybody Needs Beauty as Well as Bread]
+
+Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and cheer and give strength to body and soul alike.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-046
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [The Mountains Are Fountains of Men]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [The Mountains Are Fountains of Men]
+
+The mountains are fountains of men as well as of rivers, of glaciers, of fertile soil. The great poets, philosophers, prophets, able men whose thoughts and deeds have moved the world, have come down from the mountains, mountain dwellers who have grown strong there with the forest trees in Natures work shops.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-047
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [How Deep Our Sleep Last Night in the Mountains Here]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [How Deep Our Sleep Last Night in the Mountains Here]
+
+How deep our sleep last night in the mountains here, beneath the trees and stars, hushed by solemn sounding waterfalls and many small-soothing voices in sweet accord whispering peace! And our first pure mountain day, warm, calm, cloudless, how immeasurable it seems, how serenely wild! I can scarcely remember its beginning. Along the river, over the hills, in the ground, in the sky, spring work is going on with joyful enthusiasm, new life, new beauty, unfolding, unrolling in glorious exuberant extravagance, new birds in their nests, new winged creatures in the air, and new leaves, new flowers, spreading, shining, rejoicing everywhere.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-048
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [Here Is Calm]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [Here Is Calm]
+
+Here is calm\
+So deep, grasses cease waving...\
+Wonderful how completely\
+Everything in wild\
+Nature fits into us, as if truly part\
+And parent of us. The\
+Sun shines not on us. The\
+Rivers flow not past,\
+But through us, thrilling, tingling,\
+Vibrating ever fiber\
+And cell of the substance of our\
+Bodies, making them glide and sing.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-049
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [I Care to Live Only to Entice People]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [I Care to Live Only to Entice People]
+
+I care to live only to entice people to look at nature's loveliness. My own special self is nothing (I want to be) like a flake of glass through which light passes.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-050
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [These Beautiful Days Must Enrich All My Life]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [These Beautiful Days Must Enrich All My Life]
+
+These beautiful days must enrich all my life. They do not exist as mere pictures - maps hung upon the walls of memory... but they saturate themselves into every part of my body and live always.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-051
+PAGE: 62
+SECTION: Beauty
+STATUS: NEEDS RESEARCH
+TITLE: [I Thanked to the Author of My Being]
+BOOKLET_AUTHOR: William Henry Hudson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Beauty
+NOTES: None
+-->
+
+## [I Thanked to the Author of My Being]
+
+I thanked to the Author of my being for the gift of that wild forest, those green mansions where I had found so great a happiness!
+
+*William Henry Hudson*
