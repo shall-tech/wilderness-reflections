@@ -252,3 +252,213 @@ Because the greatest hazard in life, is to risk nothing.\
 The man, the woman, who risks nothing, does nothing, has nothing, is nothing.
 
 *Richard Bach, from Illusions*
+<!-- Original Booklet Page 11 -->
+
+<!--
+WR-ID: WR-L-006
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: Believe in Yourself!
+BOOKLET_AUTHOR: Edgar A. Guest
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Confidence
+- Perseverance
+NOTES: None
+-->
+
+## Believe in Yourself!
+
+Believe in yourself! Believe you were made to do any task without calling for aid. Believe, without growing too scornfully proud that you, as the greatest and least are endowed. A mind to do thinking, two hands and two eyes are all the equipment God gives to the wise.
+
+Believe in yourself! You're divinely designed and perfectly made for the work of mankind. This truth you must cling to through danger and pain; the heights man has reached you can also attain, believe to the very last hour, for it's true, that whatever you will you've been gifted to do.
+
+Believe in yourself and step out unafraid. By misgivings and doubt be not easily swayed. You've the right to succeed; the precision of skill which betokens the great you can earn if you will! The wisdom of ages is yours if you'll read. But you've got to believe in yourself to succeed.
+
+*Edgar A. Guest*
+
+<!--
+WR-ID: WR-L-007
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: Are You Strong Enough to Handle Critics?
+BOOKLET_AUTHOR: Theodore Roosevelt
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Perseverance
+NOTES: None
+-->
+
+## Are You Strong Enough to Handle Critics?
+
+It is not the critic who counts, not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes short again and again because there is no effort without error and shortcomings, who knows the great devotion, who spends himself in a worthy cause, who at best knows in the end the high achievement of triumph and who at worst, if he falls while daring greatly, knows his place shall never be with those timid and cold souls who know neither victory nor defeat.
+
+*Theodore Roosevelt*
+
+<!--
+WR-ID: WR-L-008
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Come into the Mountains, Dear Friend]
+BOOKLET_AUTHOR: Susan Poliz Schuetz
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Reflection
+NOTES: None
+-->
+
+## [Come into the Mountains, Dear Friend]
+
+Come into the mountains, dear friend\
+Leave society and take no one with you\
+But your true self\
+Get close to nature\
+Your everyday games will be insignificant\
+Notice the clouds spontaneously forming patterns\
+And try to do that with your life.
+
+*Susan Poliz Schuetz*
+
+<!--
+WR-ID: WR-L-009
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Expect to Pass This Way but Once]
+BOOKLET_AUTHOR: Etienne Griellet
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Service
+- Kindness
+NOTES: None
+-->
+
+## [I Expect to Pass This Way but Once]
+
+I expect to pass this way but once; any good therefore that I can do, or any kindness that I can show to any fellow creature, let me do it now. Let me not defer or neglect it, for I shall not pass this way again.
+
+*Etienne Griellet*
+
+<!--
+WR-ID: WR-L-010
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Will Act as if What I Do Makes a Difference]
+BOOKLET_AUTHOR: William James
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Service
+- Purpose
+NOTES: None
+-->
+
+## [I Will Act as if What I Do Makes a Difference]
+
+I will act as if what I do makes a difference.
+
+*William James*
+
+<!--
+WR-ID: WR-L-011
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [If You Don't Take Chances]
+BOOKLET_AUTHOR: Michael Spinks
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Risk
+NOTES: None
+-->
+
+## [If You Don't Take Chances]
+
+If you don't take chances, you cannot do anything in life.
+
+*Michael Spinks*
+
+<!--
+WR-ID: WR-L-012
+PAGE: 11
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [At the End of the Open Road]
+BOOKLET_AUTHOR: Louis Simpson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Self-Knowledge
+NOTES: None
+-->
+
+## [At the End of the Open Road]
+
+At the end of the open road we come to ourselves.
+
+*Louis Simpson*
+
+<!-- Original Booklet Page 12 -->
+<!-- Blank page -->

@@ -5,12 +5,12 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life pages 9-10
+- Life pages 9-12
 
 ## Next batch
 
-- Resume on original page 11 with "Believe in Yourself!"
-- Continue through original page 12 if visual verification remains unambiguous.
+- Resume on original page 13 with "The More You Put In."
+- Continue through original page 14 if visual verification remains unambiguous.
 
 ## Source
 
