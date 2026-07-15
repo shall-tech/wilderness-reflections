@@ -641,3 +641,292 @@ NOTES: None
 I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one. It is remarkable how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond side; and though it is five or six years since I trod it, it is still quite distinct. It is true, I fear that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world, how deep the ruts of tradition and conformity! I did not wish to take a cabin passage, but rather to go before the mast and on the deck of the world, for there I could best see the moonlight amid the mountains. I do not wish to go below now.
 
 *Henry David Thoreau*
+
+<!-- Original Booklet Page 14 -->
+
+<!--
+WR-ID: WR-L-019
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: To My Friend
+BOOKLET_AUTHOR: Susan Poliz Schuetz
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Friendship
+- Encouragement
+NOTES: None
+-->
+
+## To My Friend
+
+You have such a positive outlook on life\
+Your words are always encouraging\
+Your face is lit up with excitement\
+Your actions are so straightforward\
+Your inner self helps you achieve so much\
+When people are around you they seem to absorb uplifting attitudes\
+When I think of you I can only think of happiness\
+and how lucky I am to know you.
+
+*Susan Poliz Schuetz*
+
+<!--
+WR-ID: WR-L-020
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Don't Be Dismayed at Good Byes]
+BOOKLET_AUTHOR: Richard Bach
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Friendship
+- Farewell
+NOTES: None
+-->
+
+## [Don't Be Dismayed at Good Byes]
+
+Don't be dismayed at good byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for friends.
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-L-021
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [An Agreeable Companion on a Journey]
+BOOKLET_AUTHOR: Max 143, Publius Syrus
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Friendship
+- Journey
+NOTES: None
+-->
+
+## [An Agreeable Companion on a Journey]
+
+An agreeable companion on a journey is as good as a carriage.
+
+*Max 143, Publius Syrus*
+
+<!--
+WR-ID: WR-L-022
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Happiness Is a Perfume]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Happiness
+- Service
+NOTES: None
+-->
+
+## [Happiness Is a Perfume]
+
+Happiness is a perfume you cannot pour on others without getting a few drops on yourself
+
+*Unknown*
+
+<!--
+WR-ID: WR-L-023
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Some Think That Happiness Comes from Getting]
+BOOKLET_AUTHOR: Lord Baden Powell
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Happiness
+- Generosity
+NOTES: None
+-->
+
+## [Some Think That Happiness Comes from Getting]
+
+Some think that happiness comes from getting, others know it comes from giving.
+
+*Lord Baden Powell*
+
+<!--
+WR-ID: WR-L-024
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [No One Should Boast of Being Honest]
+BOOKLET_AUTHOR: Waite Phillips, Epigrams
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Character
+- Integrity
+NOTES: None
+-->
+
+## [No One Should Boast of Being Honest]
+
+No one should boast of being honest, dependable, courteous, and considerate for those are fundamental qualities essential to good character that everyone ought to develop and use.
+
+*Waite Phillips, Epigrams*
+
+<!--
+WR-ID: WR-L-025
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Live Each Day as You Would Climb a Mountain]
+BOOKLET_AUTHOR: Joe Porcino
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Perseverance
+NOTES: None
+-->
+
+## [Live Each Day as You Would Climb a Mountain]
+
+Live each day as you would climb a mountain. An occasional glance towards the summit puts the goal in mind. Many beautiful scenes can be observed from each new vantage point. Climb steadily, slowly, enjoy each passing moment, and the view from the summit will serve as a fitting climax to the journey.
+
+*Joe Porcino*
+
+<!--
+WR-ID: WR-L-026
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [We Who Are Gathered Here]
+BOOKLET_AUTHOR: Ansel Adams
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Earth
+- Stewardship
+NOTES: None
+-->
+
+## [We Who Are Gathered Here]
+
+We who are gathered here may represent a particular elite, not of money and power, but of concern for the earth for the earth's sake.
+
+*Ansel Adams*
+
+<!--
+WR-ID: WR-L-027
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [There Are Beginnings and There Are Endings]
+BOOKLET_AUTHOR: John Hurst
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Responsibility
+- Farewell
+NOTES: None
+-->
+
+## [There Are Beginnings and There Are Endings]
+
+There are beginnings and there are endings. What meaning and effect your experience here will have in your life only you will ultimately know. The responsibility as always, is yours to make of it what you will. Bon Voyage, my friends.
+
+*John Hurst*
+
+<!--
+WR-ID: WR-L-028
+PAGE: 14
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [All Paths Lead Nowhere]
+BOOKLET_AUTHOR: Carlos Castenda
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Choice
+- Purpose
+NOTES: None
+-->
+
+## [All Paths Lead Nowhere]
+
+All paths lead nowhere, so it is important to choose a path that has heart
+
+*Carlos Castenda*

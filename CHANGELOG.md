@@ -8,3 +8,4 @@
 - Completed intake transcription of Life pages 9-10.
 - Completed intake transcription of Life pages 11-12.
 - Completed intake transcription of Life page 13.
+- Completed intake transcription of Life page 14.

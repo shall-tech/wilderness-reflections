@@ -5,12 +5,12 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life pages 9-13
+- Life pages 9-14
 
 ## Next batch
 
-- Resume on original page 14 with "To My Friend."
-- Continue through original page 15 if visual verification remains unambiguous.
+- Resume on original page 15 with "The Road not Taken."
+- Continue through original page 16 if visual verification remains unambiguous.
 
 ## Source
 
