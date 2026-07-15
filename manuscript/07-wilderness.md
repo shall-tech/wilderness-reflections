@@ -958,3 +958,502 @@ NOTES: None
 Money is the wealth of the materialists and works miracles in the realm of the physical. Time is the wealth of the pilgrim, and works miracles in all realms.
 
 *Ed Burgen, Vagabonding in the U.S.A.*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!-- Original Booklet Page 71 -->
+
+<!--
+WR-ID: WR-W-033
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: I've Known Rivers
+BOOKLET_AUTHOR: Langston Hughes
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## I've Known Rivers
+
+I've known rivers ancient as the world and older than the flow of human blood in human veins.\
+My soul has grown deep like the rivers.\
+I bathed in the Euphrates when dawns were young.\
+I built my hut near the Congo and it lulled me to sleep.\
+I looked upon the Nile and raised the pyramids above it.\
+I heard the singing of the Mississippi when Abe Lincoln went down to New Orleans, and I've seen\
+    its muddy bosom turn all golden in the sunset.\
+I've known rivers:\
+Ancient, dusky rivers.\
+My soul has grown deep like rivers.
+
+*Langston Hughes*
+
+<!--
+WR-ID: WR-W-034
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Nature Shows Us Only Surfaces]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Nature Shows Us Only Surfaces]
+
+Nature shows us only surfaces, but she is a million fathoms deep.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-035
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [And Forget Not the Earth Delights]
+BOOKLET_AUTHOR: Kahil Gibran
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [And Forget Not the Earth Delights]
+
+And forget not the earth delights to feel your bare feet and the winds long to play with your hair.
+
+*Kahil Gibran*
+
+<!--
+WR-ID: WR-W-036
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [We Are the Most Dangerous Species]
+BOOKLET_AUTHOR: Wallace Stegner
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [We Are the Most Dangerous Species]
+
+We are the most dangerous species of life on the planet, and every other species, even the earth itself, has cause to fear our power to exterminate. But we are also the only species which, when it chooses to do so, will go to great effort to save what it might destroy.
+
+*Wallace Stegner*
+
+<!--
+WR-ID: WR-W-037
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Still Mind of the Sage]
+BOOKLET_AUTHOR: Chuang Tzu
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Still Mind of the Sage]
+
+The still mind of the sage is a mirror of heaven and earth.
+
+*Chuang Tzu*
+
+<!--
+WR-ID: WR-W-038
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Once in a While You Find a Place on Earth]
+BOOKLET_AUTHOR: Sundance
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Once in a While You Find a Place on Earth]
+
+Once in a while you find a place on earth that becomes your very own. A place undefined. Waiting for you to bring your color, your self. A place untouched, unspoiled, undeveloped. Raw, honest, and haunting. No one, nothing is telling you how to feel or who to be. Let the mountains have you for a day.
+
+*Sundance*
+
+<!--
+WR-ID: WR-W-039
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Gueorgui Loved the Forest]
+BOOKLET_AUTHOR: Nicolai Levkov
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Gueorgui Loved the Forest]
+
+Gueorgui loved the forest, this forest as old as a legend, gentle as a mother, and stern as a father.
+
+*Nicolai Levkov*
+
+<!--
+WR-ID: WR-W-040
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Your Equipment Stands Between You and the Wilderness]
+BOOKLET_AUTHOR: Ed Burgen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Your Equipment Stands Between You and the Wilderness]
+
+Your equipment stands between you and the wilderness. The less of it you have the closer you approach the wilderness. Expensive space age technology makes backpacking easier, or at least more efficient, but it is not what backpacking is all about, merely a means to it. Do only what you have to do.
+
+*Ed Burgen*
+
+<!--
+WR-ID: WR-W-041
+PAGE: 71
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Supreme Reality of Our Time]
+BOOKLET_AUTHOR: John F. Kennedy
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Supreme Reality of Our Time]
+
+The supreme reality of our time is... the vulnerability of our planet.
+
+*John F. Kennedy*
+
+<!-- Original Booklet Page 72 -->
+
+<!--
+WR-ID: WR-W-042
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Humanity Is Cutting Down Forests]
+BOOKLET_AUTHOR: Isaac Asimov
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Humanity Is Cutting Down Forests]
+
+Humanity is cutting down forests, apparently oblivious to the fact that we may not be able to live without them.
+
+*Isaac Asimov*
+
+<!--
+WR-ID: WR-W-043
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Remember Thy Creator in the Days of Thy Youth]
+BOOKLET_AUTHOR: Terry and Renny Russell
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Remember Thy Creator in the Days of Thy Youth]
+
+Remember thy Creator in the days of thy youth. Rise free from care before the dawn and seek adventures. Let the moon find thee by other lakes, and the night overtake thee everywhere at home. There are no larger fields than these, no worthier games may here be played.
+
+*Terry and Renny Russell*
+
+<!--
+WR-ID: WR-W-044
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Look Forward to an America]
+BOOKLET_AUTHOR: John F. Kennedy
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Look Forward to an America]
+
+I look forward to an America which will not be afraid of grace and beauty, which will protect the beauty of our natural environment, which will preserve the great old American houses and squares and parks of our national past and which will build handsome and balanced cities for our future.
+
+*John F. Kennedy*
+
+<!--
+WR-ID: WR-W-045
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [When I Go to Be 70]
+BOOKLET_AUTHOR: Lady Bird Johnson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [When I Go to Be 70]
+
+When I go to be 70, I thought, I'm going to take time to what I really yearn to do, and that is work with native plants, wildflowers and trees, and encourage their use in the nation's landscape so they won't just be something of the past but will be passed on to our grandchildren.
+
+*Lady Bird Johnson*
+
+<!--
+WR-ID: WR-W-046
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Man Is Not Himself Only]
+BOOKLET_AUTHOR: Mary Austin
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Man Is Not Himself Only]
+
+Man is not himself only...\
+He is all that he sees;\
+All that flows to him from a\
+Thousand sources...\
+He is the land, the lift of its\
+Mountain lines, the\
+Reach of its valleys.
+
+*Mary Austin*
+
+<!--
+WR-ID: WR-W-047
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Coming, Going, the Waterfowl]
+BOOKLET_AUTHOR: Zen Verse
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Coming, Going, the Waterfowl]
+
+Coming, going, the waterfowl\
+Leaves not a trace,\
+Nor does it need a guide.
+
+*Zen Verse*
+
+<!--
+WR-ID: WR-W-048
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [At First, the People Talking About Ecology]
+BOOKLET_AUTHOR: Osmarino Amancio Rodrigues
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [At First, the People Talking About Ecology]
+
+At first, the people talking about ecology were only defending the fishes, the animals, the forest, and the river. They didn't realize that human beings were in the forest - and that these humans were the real ecologist, because they couldn't live without the forest and the forest couldn't be saved without them.
+
+*Osmarino Amancio Rodrigues*
+
+<!--
+WR-ID: WR-W-049
+PAGE: 72
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Her Mighty Lakes, Like Oceans of Liquid Silver]
+BOOKLET_AUTHOR: Washington Irving
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Her Mighty Lakes, Like Oceans of Liquid Silver]
+
+Her mighty lakes, like oceans of liquid silver; her mountains with their bright aerial tints; her valleys, teeming with wild fertility; her tremendous cataracts, thundering in their solitudes; her boundless plains, waving with spontaneous verdure; her broad deep rivers, rolling in solemn silence to the ocean; her trackless forests, where vegetation puts forth all its magnificence; her skies, kindling with magic of summer clouds and glorious sunshine; no, never need an American look beyond his own country for the sublime and beautiful of natural scenery.
+
+*Washington Irving*
