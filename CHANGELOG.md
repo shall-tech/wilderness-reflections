@@ -10,3 +10,4 @@
 - Completed intake transcription of Life page 13.
 - Completed intake transcription of Life page 14.
 - Completed intake transcription of Life page 15.
+- Completed intake transcription of Life page 16.

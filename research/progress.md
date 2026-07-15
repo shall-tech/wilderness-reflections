@@ -5,12 +5,12 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life pages 9-15
+- Life pages 9-16
 
 ## Next batch
 
-- Resume on original page 16 with "The Mending Wall."
-- Continue through original page 17 if visual verification remains unambiguous.
+- Resume on original page 17.
+- Continue through original page 18 if visual verification remains unambiguous.
 
 ## Source
 
