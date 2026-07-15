@@ -2422,3 +2422,400 @@ I've finally found mine...\
 in the mountains
 
 *Hoyt Axton*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!-- Original Booklet Page 77 -->
+
+<!--
+WR-ID: WR-W-082
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: Into My Own
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## Into My Own
+
+One of my wishes is that those dark trees,\
+So old and firm they scarcely show the breeze,\
+Were not, as 'twere, the merest mask of gloom,\
+But stretched away unto the edge of doom.\
+I should not be withheld but that some day\
+Into their vastness I should steal away,\
+Fearless of ever finding open land,\
+Or highway where the slow wheel pours the sand.\
+I do not see why I should e'er turn back,\
+Or those should not set forth upon my track\
+To overtake me, who should miss me here\
+And long to know if still I held them dear.\
+They would not find me changed from him they knew -\
+Only more sure of all I thought was true.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-083
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [It Was Kind of Solemn]
+BOOKLET_AUTHOR: Mark Twain, from Adventures of Huckleberry Finn
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [It Was Kind of Solemn]
+
+It was kind of solemn, drifting down the big, still river, laying on our backs, looking up at the stars, and we didn't even feel like talking aloud.
+
+*Mark Twain, from Adventures of Huckleberry Finn*
+
+<!--
+WR-ID: WR-W-084
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Conceive That the Land Belongs]
+BOOKLET_AUTHOR: Nigerian Chieftan
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Conceive That the Land Belongs]
+
+I conceive that the land belongs to a vast family of which many are dead, few are living, and countless numbers are still unborn.
+
+*Nigerian Chieftan*
+
+<!--
+WR-ID: WR-W-085
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [This Is About a Stretch of Mountain Country]
+BOOKLET_AUTHOR: Dave Caffey, from Head for the High Country
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [This Is About a Stretch of Mountain Country]
+
+This is about a stretch of mountain country that started out as just a place. It is only an uncivilized piece of country, but something is there that can touch a person. Those summer days somehow brought me closer to an earth that was real and good. I began to discover a few simple goods that satisfied more than all the entertaining gadgets and conveniences a factory could turn out. I discovered self dependence and time that flowed without calibrations, and a kind of beauty that appeared in the absence of invented things. I met people. The days were not loaded in advance, but the sun would come up and there would be, and by dusk it had proved its worth.
+
+*Dave Caffey, from Head for the High Country*
+
+<!--
+WR-ID: WR-W-086
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [To Us the Ashes of Our Ancestors Are Sacred]
+BOOKLET_AUTHOR: Chief Seattle, upon surrendering his land
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [To Us the Ashes of Our Ancestors Are Sacred]
+
+To us the ashes of our ancestors are sacred and their resting place is hallowed ground.
+
+*Chief Seattle, upon surrendering his land*
+
+<!--
+WR-ID: WR-W-087
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [There Is No Quiet Place in White Man's Cities]
+BOOKLET_AUTHOR: Chief Seattle
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [There Is No Quiet Place in White Man's Cities]
+
+There is no quiet place in white man's cities. No place to hear the unfurling of leaves in the spring or the rustle of an insects wings.
+
+*Chief Seattle*
+
+<!--
+WR-ID: WR-W-088
+PAGE: 77
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Land, the Earth God Gave to Man]
+BOOKLET_AUTHOR: Abraham Lincoln
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Land, the Earth God Gave to Man]
+
+The land, the earth God gave to man for his home... should never be the possession of any man, corporation, [or] society... any more than the air or water.
+
+*Abraham Lincoln*
+
+<!-- Original Booklet Page 78 -->
+
+<!--
+WR-ID: WR-W-089
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: Sleeping in the Forest
+BOOKLET_AUTHOR: Mary Oliver
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## Sleeping in the Forest
+
+I thought the earth remembered me,\
+she took me back so tenderly,\
+arranging her dark skirts, her pockets\
+full of lichens and seeds.\
+I slept as never before, a stone on the river bed,\
+nothing between me and the white fire of the stars\
+but my thoughts, and they flowed light as moths\
+among the branches of the perfect trees.\
+All night I heard the small kingdoms\
+breathing around me, the insects,\
+and the birds who do their work in the darkness.\
+All night I rose and fell, as if in water,\
+grappling with a luminous doom. By morning\
+I had vanished at least a dozen times\
+into something better.
+
+*Mary Oliver*
+
+<!--
+WR-ID: WR-W-090
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [There Is No Plant That Is Unimportant]
+BOOKLET_AUTHOR: Edward S. Ayensu
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [There Is No Plant That Is Unimportant]
+
+There is no plant that is unimportant. The genetic information contained in the germ plasm of each species is unique and cannot be reproduced once the last living tissue is gone.
+
+*Edward S. Ayensu*
+
+<!--
+WR-ID: WR-W-091
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [We Are No Longer Nature's Children]
+BOOKLET_AUTHOR: Richard Garfield
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [We Are No Longer Nature's Children]
+
+We are no longer nature's children; we are her masters.
+
+*Richard Garfield*
+
+<!--
+WR-ID: WR-W-092
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Land Is Immortal]
+BOOKLET_AUTHOR: Anwar el-Sadat
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Land Is Immortal]
+
+Land is immortal, for it harbors the mysteries of creation.
+
+*Anwar el-Sadat*
+
+<!--
+WR-ID: WR-W-093
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [For in Their Hearts Doth Nature Stir Them So]
+BOOKLET_AUTHOR: Geoffery Chaucer
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [For in Their Hearts Doth Nature Stir Them So]
+
+For in their hearts doth Nature stir them so, then people long on pilgrimage to go, and palmers to be seeding foreign strands, to distant shrines renounced in sundry lands.
+
+*Geoffery Chaucer*
+
+<!--
+WR-ID: WR-W-094
+PAGE: 78
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Parks Are at the Center of a Community's Character]
+BOOKLET_AUTHOR: Conservation Foundation
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Parks Are at the Center of a Community's Character]
+
+Parks are at the center of a community's character; they reflect and strengthen the sense of place and identity that makes cities fit places for people.
+
+*Conservation Foundation*

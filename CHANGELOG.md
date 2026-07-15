@@ -42,3 +42,4 @@
 - Completed intake transcription of Wilderness pages 71-72.
 - Completed intake transcription of Wilderness pages 73-74.
 - Completed intake transcription of Wilderness pages 75-76.
+- Completed intake transcription of Wilderness pages 77-78.
