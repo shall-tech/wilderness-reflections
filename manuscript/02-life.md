@@ -2392,3 +2392,173 @@ NOTES: None
 One final paragraph of advice: Do not burn yourselves out. Be as I am - a reluctant enthusiast... a part time crusader, a half-hearted fanatic. Save the other half of yourselves and your lives for pleasure and adventure. It is not enough to fight for the land; it is even more important to enjoy it while you still can. While it's still there. So get out there and hunt and fish and mess around with your friends, ramble out yonder and explore the forests, encounter the grizz, climb the mountains, bag the peaks, run the rivers, breath deep of that yet sweet and lucid air, sit quietly for a while and contemplate the precious stillness, that lovely mysterious and awesome space. Enjoy yourselves, keep your brain in your head and your head attached to your body, the body active and alive, and I promise you this one sweet victory over our enemies, over those desk-bound people with their hearts in a safe-deposit box and their eyes hypnotized by desk calculators. I promise this: YOU WILL OUTLIVE THE BASTARDS.
 
 *Edward Abbey*
+
+<!-- Original Booklet Page 22 -->
+
+<!--
+WR-ID: WR-L-077
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [You May Not Ever Travel to Maine]
+BOOKLET_AUTHOR: Eric Ashby
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Plants
+- Adaptation
+NOTES: None
+-->
+
+## [You May Not Ever Travel to Maine]
+
+You may not ever travel to Maine to see the Furbish lousewort. But the weeds in any patch of natural vegetation issue the same challenge. We have survived, say the weeds, since the Cretaceous. Man is a mere novice in evolution compared with us. He hasn't yet learned the secret of the weeds: how to create fail-safe communities.
+
+*Eric Ashby*
+
+<!--
+WR-ID: WR-L-078
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Up to a Point in a Man's Life]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Responsibility
+- Growth
+NOTES: None
+-->
+
+## [Up to a Point in a Man's Life]
+
+Up to a point in a man's life is shaped by environment, heredity, and movements and changes in the world around him. Then there comes a time when it lies within his grasp to shape the clay of his life into the sort of thing he wishes to be. Only the weak blame parents, their times, lack of good fortune, or the quirks of fate. Everyone has it within his power to say, "This I am today. That I will be tomorrow."
+
+*Unknown*
+
+<!--
+WR-ID: WR-L-079
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [There Are No Idealists in the Plant World]
+BOOKLET_AUTHOR: Hal Borland
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Plants
+- Competition
+NOTES: None
+-->
+
+## [There Are No Idealists in the Plant World]
+
+There are no idealists in the plant world and no compassion. The rose and the morning glory know no mercy. Bindweed, the morning glory, will quickly choke its competitors to death, and the fence row rose will just as quietly crowd out any other plant that tried to share its root hold. Idealism and mercy are human terms and human concepts.
+
+*Hal Borland*
+
+<!--
+WR-ID: WR-L-080
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Until One Is Committed]
+BOOKLET_AUTHOR: William H. Murray, The Scottish Himalayan Expedition
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Commitment
+- Courage
+NOTES: None
+-->
+
+## [Until One Is Committed]
+
+Until one is committed, there is hesitancy, a chance to draw back, always ineffectiveness. Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too. All sorts of things occur to help one that would never have otherwise occurred. A whole stream of events issue from that decision, raising in one's favor all manner of unforeseen incidents and meeting and material assistance, which no man could have dreamt would have come his way if he was still doing his thing. I have learned a deep respect for one of Goethe's couplets: "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it."
+
+*William H. Murray, The Scottish Himalayan Expedition*
+
+<!--
+WR-ID: WR-L-081
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [I Said Out Loud]
+BOOKLET_AUTHOR: Jack Kerouac, The Dharma Bums
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Gratitude
+NOTES: None
+-->
+
+## [I Said Out Loud]
+
+I said out loud, "I don't know when we'll meet again or what'll happen in the future, but Desolation, Desolation, I owe so much to Desolation, thank you forever for guiding me to the place where I learned all. Now comes the sadness of coming back to cities and I've grown two months older and there's all that humanity of bars and burlesque shows and gritty love, all upside down in the void God bless them, but Japhy you and me forever we know, O ever youthful, O ever weeping." Down by the lake rosy reflections of celestial vapor appeared, and I said "God, I love you" and looked up to the sky and really meant it. "I have fallen in love with you, God. Take care of us all, one way or the other." To the Children and the innocent it's all the same. And in keeping with Japhy's habit of always getting down on one knee and delivering a little prayer to the camp we left... I turned and knelt on the trail and said "Thank you, shack." Then I added "Blah," with a little grin, because I know that shack and that mountain would understand what that meant, and I turned and went down the trail back to this world.
+
+*Jack Kerouac, The Dharma Bums*
+
+<!--
+WR-ID: WR-L-082
+PAGE: 22
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Keep Your Face to the Sunshine]
+BOOKLET_AUTHOR: Helen Keller
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Hope
+- Optimism
+NOTES: None
+-->
+
+## [Keep Your Face to the Sunshine]
+
+Keep your face to the sunshine, and you cannot see the shadow.
+
+*Helen Keller*
