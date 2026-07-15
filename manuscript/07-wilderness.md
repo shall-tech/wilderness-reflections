@@ -1940,3 +1940,485 @@ NOTES: None
 Woe unto them that join house to house, that lay field to field, till there be no place that they may be placed also in the midst of the earth.
 
 *Isiah 5:8*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!-- Original Booklet Page 75 -->
+
+<!--
+WR-ID: WR-W-066
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: The Pasture
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## The Pasture
+
+I'm going out to clean the pasture spring;\
+I'll only stop to rake the leaves away\
+(And wait to watch the water clear, I may);\
+I shan't be gone long. You come too.\
+I'm going out to fetch the little calf\
+That's standing by the mother. It's so young\
+It totters when she licks it with her tongue.\
+I shan't be gone long. You come too.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-067
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Science Has Never Drummed Up]
+BOOKLET_AUTHOR: W. Earl Hall
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Science Has Never Drummed Up]
+
+Science has never drummed up quite as effective a tranquilizing agent as a sunny spring day.
+
+*W. Earl Hall*
+
+<!--
+WR-ID: WR-W-068
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [My Heart Is Tuned to the Quietness]
+BOOKLET_AUTHOR: Hazrat Inayat Khan
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [My Heart Is Tuned to the Quietness]
+
+My heart is tuned to the quietness that the stillness of nature inspires.
+
+*Hazrat Inayat Khan*
+
+<!--
+WR-ID: WR-W-069
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [What a Joy It Is to Feel the Soft, Springy Earth]
+BOOKLET_AUTHOR: Helen Keller
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [What a Joy It Is to Feel the Soft, Springy Earth]
+
+What a joy it is to feel the soft, springy earth under my feet once more, to follow grassy roads that lead to ferny brooks where I can bathe my fingers in a cataract of rippling notes, or to clamber over a stone wall into green fields that tumble and roll and climb in riotous gladness!
+
+*Helen Keller*
+
+<!--
+WR-ID: WR-W-070
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Care of Rivers]
+BOOKLET_AUTHOR: Tanaka Shozo
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Care of Rivers]
+
+The care of rivers is not a question of rivers, but of the human heart.
+
+*Tanaka Shozo*
+
+<!--
+WR-ID: WR-W-071
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [No Pain Here]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [No Pain Here]
+
+No pain here, no dull empty hours, no fear of the past, no fear of the Future... Drinking this champagne water is pure pleasure, so is breathing the living air.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-072
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Am Always Glad to Touch the Living Rock]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Am Always Glad to Touch the Living Rock]
+
+I am always glad to touch the living rock again and dip my hand in the high mountain air.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-073
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
+
+Thousands of tired, nerve-shaken, over-civilized people are beginning to find out that going to the mountains is going home; that wilderness is a necessity; that mountain parks and reservations are useful not only as fountains of timber and irrigating rivers, but as fountains of life.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-074
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [And This, Our Life Exempt from Public Haunt]
+BOOKLET_AUTHOR: William Shakespeare
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [And This, Our Life Exempt from Public Haunt]
+
+And this, our life exempt from public haunt, finds tongues in trees, books in the running brooks, sermons in stones, and good in everything.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-W-075
+PAGE: 75
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Without Enough Wilderness America Will Change]
+BOOKLET_AUTHOR: Walt Whitman
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Without Enough Wilderness America Will Change]
+
+Without enough wilderness America will change. Democracy, with its myriad personalities and increasing sophistication, must be fibered and vitalized by the regular contact with outdoor growths - animals, trees, sun warmth, and free skies - or it will dwindle and pale.
+
+*Walt Whitman*
+
+<!-- Original Booklet Page 76 -->
+
+<!--
+WR-ID: WR-W-076
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: Sand Dunes
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## Sand Dunes
+
+Sea waves are green and wet,\
+But up from where they die\
+Rise others vaster yet,\
+And those are brown and dry.\
+They are the sea made land\
+To come at the fisher town\
+And bury in solid sand\
+The men she could not drown.\
+She may know cove and cape,\
+But she does not know mankind\
+If by any change of shape\
+She hopes to cut off mind.\
+Men left her a ship to sink:\
+They can leave her a hut as well:\
+And be but more free to think\
+For the one more cast off shell.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-077
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [There Is Just One Hope of Repulsing]
+BOOKLET_AUTHOR: Bob Marshall
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [There Is Just One Hope of Repulsing]
+
+There is just one hope of repulsing the tyrannical ambition of civilization to conquer every inch on the whole earth. That hope is the organization of spirited people who will fight for the freedom and preservation of wilderness.
+
+*Bob Marshall*
+
+<!--
+WR-ID: WR-W-078
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [A Thousand Fantasies Begin to Throng]
+BOOKLET_AUTHOR: John Milton
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [A Thousand Fantasies Begin to Throng]
+
+A thousand fantasies begin to throng into my memory... On sands and shores and desert wildernesses.
+
+*John Milton*
+
+<!--
+WR-ID: WR-W-079
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Miller Owns the Field]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Miller Owns the Field]
+
+Miller owns the field, Locke that, and Manning the woodland beyond. But none of them owns the landscape. There is a property in the horizon which no man has but he whose eye can integrate all the parts, that is, the poet. This is the best part of these men's farms, yet to this their warranty - deeds give no title.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-080
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [One Touch of Nature]
+BOOKLET_AUTHOR: William Shakespeare
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [One Touch of Nature]
+
+One touch of nature makes the whole world kin.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-W-081
+PAGE: 76
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Feel]
+BOOKLET_AUTHOR: Hoyt Axton
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Feel]
+
+I feel...\
+we could be happy in the mountains.\
+Everybody's talking about the place of their dream,\
+where they can find peace of mind.\
+I'm not sure, but I think it seems\
+I've finally found mine...\
+in the mountains
+
+*Hoyt Axton*
