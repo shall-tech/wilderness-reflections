@@ -23,3 +23,4 @@
 - Completed Leadership page 30 and began Knowledge and Wisdom through page 34.
 - Documented the absent scanned leaf inferred to be blank original page 32.
 - Completed intake transcription of Knowledge and Wisdom pages 35-36.
+- Completed intake transcription of Knowledge and Wisdom pages 37-38.

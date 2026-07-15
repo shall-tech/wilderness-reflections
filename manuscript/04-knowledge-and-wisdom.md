@@ -1257,3 +1257,471 @@ NOTES: None
 A ruin is not just something that happened long ago to someone else; its history is that of us all, the transience of power, of ideas, of all human endeavors.
 
 *George Schaller*
++
+<!-- Original Booklet Page 37 -->
+
+<!--
+WR-ID: WR-KW-045
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Perspective - Use It or Lose It]
+BOOKLET_AUTHOR: Richard Bach, from Illusions
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Perspective
+- Reality
+NOTES: None
+-->
+
+## [Perspective - Use It or Lose It]
+
+Perspective - use it or lose it. If you turned this page, you're forgetting what is going on around you is not reality. Think about that. Remember where you came from, where you are going, and why you created the mess you got yourself into in the first place. You're going to die a horrible death, remember. It's all good training, and you'll enjoy it more if you keep the facts in mind.
+
+*Richard Bach, from Illusions*
+
+<!--
+WR-ID: WR-KW-046
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Simplest Questions]
+BOOKLET_AUTHOR: Richard Bach, from Illusions
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Questions
+- Reflection
+NOTES: None
+-->
+
+## [The Simplest Questions]
+
+The simplest questions are the most profound. Where were your born? Where is your home? Where are you going? What are you doing? Think about these once in a while and watch your answers change.
+
+*Richard Bach, from Illusions*
+
+<!--
+WR-ID: WR-KW-047
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Old People Came Literally to Love the Soil]
+BOOKLET_AUTHOR: Chief Luther Standing Bear
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Indigenous wisdom
+NOTES: None
+-->
+
+## [The Old People Came Literally to Love the Soil]
+
+The old people came literally to love the soil and they sat or reclined on the ground with a feeling of being close to a mothering power. It was good for the skin to touch the earth and the old people liked to remove their moccasins and walk with bare feet on the sacred earth. Their teepees were built upon the earth and their altars were made of earth. The birds that flew into the air came to rest upon the earth and it was the final abiding place of all things that lived and grew. The soil was soothing, strengthening, cleansing and healing.
+
+*Chief Luther Standing Bear*
+
+<!--
+WR-ID: WR-KW-048
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The White Man Does Not Understand the Indian]
+BOOKLET_AUTHOR: Chief Luther Standing Bear
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Land
+- Belonging
+NOTES: None
+-->
+
+## [The White Man Does Not Understand the Indian]
+
+The white man does not understand the Indian for the reason that he does not understand America. He is too far removed from its formative processes. The roots of the tree of his life have not yet grasped the rock and soil. The white man is still troubled with primitive fears; he still has in his consciousness the perils of his frontier continent, some of its vastness not yet having yielded to his questing footsteps and inquiring eyes. He shudders still with the memory of the loss of his forefathers upon its scorching deserts and forbidding mountain tops. The man from Europe is still a foreigner and an alien. And he still hates the man who questioned his path across the continent. But in the Indian the spirit of the land is still vested; it will be until other men are able to divine and meet its rhythm. Men must be born and reborn to belong. Their bodies must be formed of the dust of their forefather's bones.
+
+*Chief Luther Standing Bear*
+
+<!--
+WR-ID: WR-KW-049
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [We Have Loved the Stars Too Fondly]
+BOOKLET_AUTHOR: Epitaph of two amateur astronomers
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Stars
+- Courage
+NOTES: None
+-->
+
+## [We Have Loved the Stars Too Fondly]
+
+We have loved the stars too fondly to be fearful of the night.
+
+*Epitaph of two amateur astronomers*
+
+<!--
+WR-ID: WR-KW-050
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The World Is Round]
+BOOKLET_AUTHOR: Ivy Barker Priest
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Beginnings
+- Perspective
+NOTES: None
+-->
+
+## [The World Is Round]
+
+The world is round and the place which may seem like the end may only be the beginning.
+
+*Ivy Barker Priest*
+
+<!--
+WR-ID: WR-KW-051
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [He That Riseth Late]
+BOOKLET_AUTHOR: Ben Franklin, Poor Richard's Almanac
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Time
+- Diligence
+NOTES: None
+-->
+
+## [He That Riseth Late]
+
+He that riseth late must trot all day.
+
+*Ben Franklin, Poor Richard's Almanac*
+
+<!--
+WR-ID: WR-KW-052
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Pilgrimage to the Place of the Wise]
+BOOKLET_AUTHOR: Old Sufi saying
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wisdom
+- Nature
+NOTES: None
+-->
+
+## [Pilgrimage to the Place of the Wise]
+
+Pilgrimage to the place of the wise is to escape the flame of separation from nature.
+
+*Old Sufi saying*
+
+<!--
+WR-ID: WR-KW-053
+PAGE: 37
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [You Are Never Given a Wish]
+BOOKLET_AUTHOR: Richard Bach, from Illusions
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wishes
+- Effort
+NOTES: None
+-->
+
+## [You Are Never Given a Wish]
+
+You are never given a wish without also being given the power to make it true. You may have to work for it however.
+
+*Richard Bach, from Illusions*
+
+<!-- Original Booklet Page 38 -->
+
+<!--
+WR-ID: WR-KW-054
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: The Indian & the Cricket
+BOOKLET_AUTHOR: Dave Moriah
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Anecdote
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Awareness
+- Attention
+NOTES: None
+-->
+
+## The Indian & the Cricket
+
+I was walking with my friend, an American Indian, on a crowded street in New York City when he suddenly exclaimed, "I hear a cricket."
+
+"You're crazy," I said, as I observed the crowded noon-time street scene in mid-town. Cars were honking, construction crews working, plans flying overhead.
+
+"No, I hear a cricket," he insisted, and proceeded to walk to a flower bed in front of a fancy office building. There, under a leafy plant, he showed me a cricket chirping with life.
+
+"That's amazing," I responded. "You must have fantastic hearing."
+
+"Not really. It all depends on what you're tuned into," my friend explained.
+
+"I find that hard to believe," I said.
+
+"Watch," my wise friend offered, and he proceeded to drop a handful of coins onto the crowded sidewalk.
+
+Instantly heads turned, eyes darted, and hands reached for pockets to see if they were the poor soul who'd lost his or her money.
+
+"See," his eyes twinkled, "it all depends on what you're tuned into."
+
+*Dave Moriah*
+
+<!--
+WR-ID: WR-KW-055
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [In the Point of Rest]
+BOOKLET_AUTHOR: Dag Hammarskjold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Simplicity
+- Mystery
+NOTES: None
+-->
+
+## [In the Point of Rest]
+
+In the point of rest at the center of our being, we encounter a world where all things are at rest in the same way. Then a tree becomes a mystery, a cloud a revelation, each man a cosmos of whose riches we can only catch glimpses. The life of simplicity is simple, but it opens to us a book in which we never get beyond the first syllable.
+
+*Dag Hammarskjold*
+
+<!--
+WR-ID: WR-KW-056
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Mental Domain of Fantasy]
+BOOKLET_AUTHOR: Sigmund Freud
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Fantasy
+- Wilderness
+NOTES: None
+-->
+
+## [The Mental Domain of Fantasy]
+
+The creation of the mental domain of fantasy has a complete counterpart in the establishment of reservations and natural parks... The reservation is to maintain the old condition of things which has been regretfully sacrificed to necessity every where else; there everything may grow and spread as it pleases, including what is useless and even what is harmful. The mental realm of fantasy is also such a reservation reclaimed from the encroaches of the reality principle.
+
+*Sigmund Freud*
+
+<!--
+WR-ID: WR-KW-057
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [To Know One's Landscape]
+BOOKLET_AUTHOR: Richard E. Dodge
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Landscape
+- Peace
+NOTES: None
+-->
+
+## [To Know One's Landscape]
+
+To know one's landscape, to feel in sympathy with it, is often to be at peace with life. When all the world seems wrong and the burdens overwhelming he can look out on the familiar fields and hills or get among them and give way to their beauties of form and color as a resource within himself that will be an ever-present power of recuperation.
+
+*Richard E. Dodge*
+
+<!--
+WR-ID: WR-KW-058
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Oh God of Dust and Rainbows]
+BOOKLET_AUTHOR: Langston Hughes
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Prayer
+- Beauty
+NOTES: None
+-->
+
+## [Oh God of Dust and Rainbows]
+
+Oh God of dust and rainbows, help us see that without dust the rainbow would not be.
+
+*Langston Hughes*
+
+<!--
+WR-ID: WR-KW-059
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Discovery Consists of Looking]
+BOOKLET_AUTHOR: Albert Szent-Goygyi
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Discovery
+- Thought
+NOTES: None
+-->
+
+## [Discovery Consists of Looking]
+
+Discovery consists of looking at the same thing as everyone else and thinking something different.
+
+*Albert Szent-Goygyi*
+
+<!--
+WR-ID: WR-KW-060
+PAGE: 38
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [It Is the Love of Country]
+BOOKLET_AUTHOR: J. Horace McFarland
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Country
+- Beauty
+NOTES: None
+-->
+
+## [It Is the Love of Country]
+
+It is the love of country that has lighten and that keeps glowing the holy fire of patriotism. And this life is excited, primarily, by the beauty of the country.
+
+*J. Horace McFarland*
