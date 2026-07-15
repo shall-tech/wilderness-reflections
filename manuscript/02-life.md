@@ -979,7 +979,6 @@ I took the one less traveled by\
 And that has made all the difference.
 
 *Robert Frost*
-
 <!--
 WR-ID: WR-L-030
 PAGE: 15
@@ -1223,3 +1222,315 @@ And he likes having thought of it so well\
 He says again, "Good fences make good neighbors."
 
 *Robert Frost*
+
+<!-- Original Booklet Page 17 -->
+
+<!--
+WR-ID: WR-L-037
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Man Who Sat on the Ground]
+BOOKLET_AUTHOR: Chief Luther Standing Bear
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Unity
+- Reflection
+NOTES: None
+-->
+
+## [The Man Who Sat on the Ground]
+
+The man who sat on the ground in his teepee meditating on life and its meaning, accepting the kinship of all creatures and acknowledging unity with the universe of things was infusing into his being the true essence of civilization. And when native man left off this form of development, his humanization was retarded in growth.
+
+*Chief Luther Standing Bear*
+
+<!--
+WR-ID: WR-L-038
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Then Here's a Hail to Each Flaming Dawn]
+BOOKLET_AUTHOR: A grave marker in the Adirondacks
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Life
+NOTES: None
+-->
+
+## [Then Here's a Hail to Each Flaming Dawn]
+
+Then here's a hail to each flaming dawn\
+And here's a cheer to the night that's gone\
+And may I go roaming on until the day I die.
+
+*A grave marker in the Adirondacks*
+
+<!--
+WR-ID: WR-L-039
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [What Is Life?]
+BOOKLET_AUTHOR: Crowfoot
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Nature
+NOTES: None
+-->
+
+## [What Is Life?]
+
+What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the winter time. It is the little shadow which runs across the grass and loses itself in the sunset.
+
+*Crowfoot*
+
+<!--
+WR-ID: WR-L-040
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [A Human Being Should Be Able To]
+BOOKLET_AUTHOR: Lew Hitcher
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Self-Reliance
+- Capability
+NOTES: None
+-->
+
+## [A Human Being Should Be Able To]
+
+A human being should be able to heal a wound, plan an expedition, order from a French menu, climb a mountain face, enjoy a ballet, balance accounts, roll a kayak, embolden a friend, tell a joke, laugh at himself, cooperate, act alone, sing a children's song, solve equations, throw a dog a stick, pitch manure, program a computer, cook a tasty meal, love heartily, fight efficiently, die gallantly. Specialization is for insects.
+
+*Lew Hitcher*
+
+<!--
+WR-ID: WR-L-041
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [As for Small Difficulties and Worryings]
+BOOKLET_AUTHOR: Herman Melville
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Courage
+NOTES: None
+-->
+
+## [As for Small Difficulties and Worryings]
+
+As for small difficulties and worryings, prospects of sudden disaster, peril of life and limb; all these, and death itself, seem to him only sly, good natured hits, and jolly punches in the side bestowed by an unseen and unaccountable old joker... There is nothing like the perils of the wilderness to breed this free and easy sort of genial, desperado philosophy.
+
+*Herman Melville*
+
+<!--
+WR-ID: WR-L-042
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [When You Lose Your Name]
+BOOKLET_AUTHOR: Navajo saying
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Identity
+- Spirit
+NOTES: None
+-->
+
+## [When You Lose Your Name]
+
+When you lose your name, you become small. When you lose your spirit you become nothing.
+
+*Navajo saying*
+
+<!--
+WR-ID: WR-L-043
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Play for More Than You Can Afford to Lose]
+BOOKLET_AUTHOR: Winston Churchill
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Risk
+- Learning
+NOTES: None
+-->
+
+## [Play for More Than You Can Afford to Lose]
+
+Play for more than you can afford to lose, and you will learn the game.
+
+*Winston Churchill*
+
+<!--
+WR-ID: WR-L-044
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [If More of Us Valued Good Food and Drink]
+BOOKLET_AUTHOR: J.R.R. Tolken
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Simplicity
+- Happiness
+NOTES: None
+-->
+
+## [If More of Us Valued Good Food and Drink]
+
+If more of us valued good food and drink over hoarded gold, it would be a happier world indeed.
+
+*J.R.R. Tolken*
+
+<!--
+WR-ID: WR-L-045
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Life Is a Daring Adventure]
+BOOKLET_AUTHOR: Helen Keller
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Life
+NOTES: None
+-->
+
+## [Life Is a Daring Adventure]
+
+Life is a daring adventure, or it is nothing.
+
+*Helen Keller*
+
+<!--
+WR-ID: WR-L-046
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Best Way Out Is Always Through]
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Perseverance
+- Courage
+NOTES: None
+-->
+
+## [The Best Way Out Is Always Through]
+
+The best way out is always through.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-L-047
+PAGE: 17
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Once the Game Is Over]
+BOOKLET_AUTHOR: Italian proverb
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Equality
+- Mortality
+NOTES: None
+-->
+
+## [Once the Game Is Over]
+
+Once the game is over, the king and the pawn go back into the same box.
+
+*Italian proverb*

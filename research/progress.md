@@ -5,12 +5,12 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life pages 9-16
+- Life pages 9-17
 
 ## Next batch
 
-- Resume on original page 17.
-- Continue through original page 18 if visual verification remains unambiguous.
+- Resume on original page 18.
+- Continue through original page 19 if visual verification remains unambiguous.
 
 ## Source
 
