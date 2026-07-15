@@ -1478,7 +1478,6 @@ NOTES: None
 Life is a daring adventure, or it is nothing.
 
 *Helen Keller*
-
 <!--
 WR-ID: WR-L-046
 PAGE: 17
@@ -2562,3 +2561,106 @@ NOTES: None
 Keep your face to the sunshine, and you cannot see the shadow.
 
 *Helen Keller*
+
+<!-- Original Booklet Page 23 -->
+
+<!--
+WR-ID: WR-L-083
+PAGE: 23
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: Lessons for Life from Geese
+BOOKLET_AUTHOR: Chicken Soup for the Soul
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Community
+- Leadership
+NOTES: None
+-->
+
+## Lessons for Life from Geese
+
+As each bird flaps its wings, it creates an uplift for the bird following. By flying in a V formation, the whole flock adds 71% longer flying range than if each bird flew alone.
+
+Lesson: People who share a common direction and sense of community can go where they are going quicker and easier when they travel on the trust of one another.
+
+Whenever a goose falls out of formation, it suddenly feels the drag and resistance of trying to fly alone and quickly gets back into formation to take advantage of the lifting power of the bird immediately in front.
+
+Lesson: If we have as much sense as a goose we will stay in formation with those who are headed where we want to go.
+
+When the lead goose tires, it rotates back into the formation and another goose takes over at the point position.
+
+Lesson: It pays to take turns doing the hard tasks and sharing the leadership because people, like geese, are interdependent on each other.
+
+The geese in formation honk from behind to encourage those up front to keep up their speed. Lesson: We need to make sure our honking from behind is encouraging, not something less helpful.
+
+When a goose gets sick, wounded, or shot down, two geese drop out of formation and follow him down to help and protect him. They stay with him until he is either able to fly again or dies. Then they launch out on their own, either with another formation or to catch up with the original flock. Lesson: If we have as much sense as geese, we'll stand by each other like they do.
+
+*Chicken Soup for the Soul*
+
+<!--
+WR-ID: WR-L-084
+PAGE: 23
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [There Is More to Life Than Increasing Its Speed]
+BOOKLET_AUTHOR: Ghandi
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Simplicity
+NOTES: None
+-->
+
+## [There Is More to Life Than Increasing Its Speed]
+
+There is more to life than increasing its speed.
+
+*Ghandi*
+
+<!--
+WR-ID: WR-L-085
+PAGE: 23
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Experience Is Not What Happens to a Man]
+BOOKLET_AUTHOR: Aldous Huxley
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Experience
+- Responsibility
+NOTES: None
+-->
+
+## [Experience Is Not What Happens to a Man]
+
+Experience is not what happens to a man. It is what a man does with what happens to him.
+
+*Aldous Huxley*
+
+<!-- Original Booklet Page 24 -->
+<!-- Blank page -->

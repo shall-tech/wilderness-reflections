@@ -17,3 +17,4 @@
 - Completed intake transcription of Life page 21.
 - Restored original page 20 from an out-of-order scanned leaf and renumbered page-21 work IDs.
 - Completed intake transcription of Life page 22.
+- Completed intake transcription of Life pages 23-24.
