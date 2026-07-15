@@ -2552,3 +2552,338 @@ NOTES: None
 Simplicity in all things is the secret of the wilderness and one of its most valuable lessons. It is what we leave behind that is important. I think the matte of simplicity goes farther than just food, equipment, and unnecessary gadgets; it goes into the matter of thoughts and objectives as well. When in the wilds, we must not carry our problems with us or the joy is lost.
 
 *Sigurd F. Olsen*
+
+<!-- Original Booklet Page 43 -->
+
+<!--
+WR-ID: WR-KW-089
+PAGE: 43
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [How Often We Speak of the Great Silences]
+BOOKLET_AUTHOR: Sigurd F. Olsen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Silence
+- Wilderness
+NOTES: None
+-->
+
+## [How Often We Speak of the Great Silences]
+
+How often we speak of the great silences of the wilderness and of the importance of preserving them and the wonder of peace to be found there. When I think of them, I see the lakes and rivers of the north, the muskegs and expanses of tundra, the barren lands beyond all roads. I see the mountain ranges of the west and the high, rolling ridges of the Appalachians. I picture the deserts of the southwest and their brilliant panoramas of color, the impenetrable swamplands of the south. They will always be there and their beauty may not change, but should their silences be broken, they will never be the same.
+
+*Sigurd F. Olsen*
+
+<!--
+WR-ID: WR-KW-090
+PAGE: 43
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Speak to Us of Friendship]
+BOOKLET_AUTHOR: Kahlil Gibran, from The Prophet
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Friendship
+- Spirit
+NOTES: None
+-->
+
+## [Speak to Us of Friendship]
+
+And a youth said, Speak to us of Friendship. And he answered, saying:
+
+Your friend is your needs answered. He is your field which you sow and reap with thanksgiving. And he is your board and your fireside.
+
+For you come to him with your hunger, and you seek him for peace. When your friend speaks his mind you fear not the "nay" in your own mind, nor do you withhold the "ay." And when he is silent your heart ceases not to listen to his heart; for without words, in friendship, all thoughts, all desires, all expectations are born and shared, with joy that is unacclaimed. When you part from your friend, you grieve not for that which you love most in him may be clearer in his absence, as the mountain to the climber is clearer from the plain. And let there be no purpose in friendship. Save the deepening of the spirit. For love that seeks ought but the disclosure of it's own mystery is not love but a net cast forth: and only the unprofitable is caught. And let your best be for your friend. If he must know the ebb of your tide, let him know its flood also. For what is your friend that you should seek him with hours to live. For it is his to fill your need, but not your emptiness. And in the sweetness of friendship let there be laughter, and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.
+
+*Kahlil Gibran, from The Prophet*
+
+<!--
+WR-ID: WR-KW-091
+PAGE: 43
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Keep Your Mouth Closed]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Verse
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Simplicity
+- Union
+NOTES: None
+-->
+
+## [Keep Your Mouth Closed]
+
+Keep your mouth closed.\
+Guard your senses.\
+Temper your sharpness.\
+Simplify your problems.\
+Mask your brightness.\
+Be at one with the dust of the earth.\
+This is primal union.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-092
+PAGE: 43
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Since Water Still Flows]
+BOOKLET_AUTHOR: Li Po
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Sorrow
+- Freedom
+NOTES: None
+-->
+
+## [Since Water Still Flows]
+
+Since water still flows, though we cut it with swords\
+And sorrow returns, though we drown it with wine,\
+Since the world can in no way answer to our craving,\
+I will loosen my hair tomorrow and take to a fishing boat.
+
+*Li Po*
+
+<!--
+WR-ID: WR-KW-093
+PAGE: 43
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Men Go Back to the Mountains]
+BOOKLET_AUTHOR: Abram T. Collier
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Character
+NOTES: None
+-->
+
+## [Men Go Back to the Mountains]
+
+Men go back to the mountains, as they go back to sailing ships at sea, because in the mountains and on the sea they must face up, as did men of another age, to the challenge of nature. Modern man lives in a highly synthetic kind of existence. He specializes in this and that. Rarely does he test all his powers or find himself whole. But in the hills and on the water the character of a man comes out.
+
+*Abram T. Collier*
+
+<!-- Original Booklet Page 44 -->
+
+<!--
+WR-ID: WR-KW-094
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [A Land Ethic for Tomorrow]
+BOOKLET_AUTHOR: Stewart L. Udall
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Land ethic
+- Ecology
+NOTES: None
+-->
+
+## [A Land Ethic for Tomorrow]
+
+A land ethic for tomorrow should be as honest as Thoreau's Walden, and as comprehensive as the sensitive science of ecology. It should stress the oneness of our resources and the live-and-help-live logic of the great chain of life. If, in our haste to progress, the economics of ecology are disregarded by citizens and policy makes alike, the result will be an ugly America.
+
+*Stewart L. Udall*
+
+<!--
+WR-ID: WR-KW-095
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Difficulties and Obstructions]
+BOOKLET_AUTHOR: from I Ching
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Difficulty
+- Introspection
+NOTES: None
+-->
+
+## [Difficulties and Obstructions]
+
+Difficulties and obstructions throw a man back upon himself. While the inferior man seeks to put the blame on other persons, bewailing his fate, the superior man seeks the error within himself, and through this introspection the external obstacle becomes for him an occasion for inner enrichment and education.
+
+*from I Ching*
+
+<!--
+WR-ID: WR-KW-096
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Mountains Can Be Reached in All Seasons]
+BOOKLET_AUTHOR: William O. Douglass
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Adventure
+NOTES: None
+-->
+
+## [The Mountains Can Be Reached in All Seasons]
+
+The mountains can be reached in all seasons. They offer a fighting challenge to heart, soul and mind, both in summer and winter. If throughout time the youth of the nation accept the challenge the mountains offer, they will keep alive in our people the spirit of adventure. That spirit is a measure of the vitality of both nations and men. A people who climb the ridges and sleep under the stars in high mountain meadows, who enter the forest and scale peaks, who explore glaciers and walk ridges buried deep in snow - these people will give their country some of the indomitable spirit of the mountains.
+
+*William O. Douglass*
+
+<!--
+WR-ID: WR-KW-097
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Concept of Public Welfare]
+BOOKLET_AUTHOR: William O. Douglass
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Public welfare
+- Beauty
+NOTES: None
+-->
+
+## [The Concept of Public Welfare]
+
+The concept of public welfare is broad and inclusive... The values it represents are spiritual as well as physical, aesthetic as well as monetary. It is within the power of the legislature to determine that the community should be beautiful as well as healthy, spacious as well as clean.
+
+*William O. Douglass*
+
+<!--
+WR-ID: WR-KW-098
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Art of Land Doctoring]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Land health
+- Science
+NOTES: None
+-->
+
+## [The Art of Land Doctoring]
+
+The art of land doctoring is being practiced with vigor, but the science of land health is yet to be born.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-099
+PAGE: 44
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Winning Is Realizing You Already Have Won]
+BOOKLET_AUTHOR: Joe Henderson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Winning
+- Persistence
+NOTES: None
+-->
+
+## [Winning Is Realizing You Already Have Won]
+
+Winning is realizing you already have won by being in the running. You may not finish ahead of many other runners, but you already have beaten the much bigger pack of people who choose to move on wheels instead of on foot.
+
+Losing is not starting, but being content to talk about what might be, or what might have been if...
+
+Winning is finishing the distance you set for yourself, however humble it might be. Speed is a gift your parents either gave you or couldn't. Your had little to say about it, so the time you take to run your distance doesn't say much about your spirit. But endurance and persistence are qualities that are largely trained and learned. Finishing is a victory of strong spirit over weak flesh.
+
+Losing is dropping out for no other reason than a weak will. Quitting in the face of actual or potential injury is wisdom, but giving up to moderate inconvenience or mild discomfort is defeat.
+
+Winning is measuring yourself against yourself. It is learning to take pride in your improvements, no matter how small. Later it is taking pleasure in more subtle measures of victory which have little to do with time and place.
+
+Losing is matching yourself against everyone else who runs. This is self-defeating, because few people win this way and those who do don't keep it up very long.
+
+*Joe Henderson*

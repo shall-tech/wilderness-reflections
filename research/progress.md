@@ -7,13 +7,13 @@
 - Life divider: original pages 7-8
 - Life pages 9-24
 - Leadership divider and pages 25-30
-- Knowledge and Wisdom divider and pages 31-42
+- Knowledge and Wisdom divider and pages 31-44
 
 ## Next batch
 
 - Leadership intake is complete through original page 30.
-- Knowledge and Wisdom intake has begun through original page 42.
-- Resume with original page 43.
+- Knowledge and Wisdom intake has begun through original page 44.
+- Resume with original page 45.
 
 ## Source
 
