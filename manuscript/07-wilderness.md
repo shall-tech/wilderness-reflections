@@ -1457,3 +1457,486 @@ NOTES: None
 Her mighty lakes, like oceans of liquid silver; her mountains with their bright aerial tints; her valleys, teeming with wild fertility; her tremendous cataracts, thundering in their solitudes; her boundless plains, waving with spontaneous verdure; her broad deep rivers, rolling in solemn silence to the ocean; her trackless forests, where vegetation puts forth all its magnificence; her skies, kindling with magic of summer clouds and glorious sunshine; no, never need an American look beyond his own country for the sublime and beautiful of natural scenery.
 
 *Washington Irving*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!-- Original Booklet Page 73 -->
+
+<!--
+WR-ID: WR-W-050
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: Home to the Wilderness
+BOOKLET_AUTHOR: Sally Carrighar
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## Home to the Wilderness
+
+I held a blue flower in my hand, probably a wild aster, wondering what its name was, and then thought that human names for natural things are superfluous. Nature herself does not name them. The important thing is to know this flower, look at its color, until the blends become as real as a keynote of music. Look at the exquisite yellow flowerets in the center, become very small with them. Be the flower, be the trees, the blowing grasses. Fly with the birds, jump with the squirrel!
+
+*Sally Carrighar*
+
+<!--
+WR-ID: WR-W-051
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Think That I Shall Never See]
+BOOKLET_AUTHOR: Ogden Nash
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Think That I Shall Never See]
+
+I think that I shall never see\
+A billboard lovely as a tress.\
+Indeed, unless the billboards fall\
+I'll never see a tree at all.
+
+*Ogden Nash*
+
+<!--
+WR-ID: WR-W-052
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Earth, Born in Fire]
+BOOKLET_AUTHOR: E.V. Komarek
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Earth, Born in Fire]
+
+The earth,\
+Born in fire,\
+Baptized by lightening,\
+Since before life's beginning has been and is,\
+A fire planet.
+
+*E.V. Komarek*
+
+<!--
+WR-ID: WR-W-053
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Am Part of My Environment]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Am Part of My Environment]
+
+I am part of my environment, and my environment is part of me. When I maim the earth, I wound me. When I pollute a stream, I poison me. When I fill the sky with smog, I choke me. For this is my world. I am the world, and the world is me.
+
+*Unknown*
+
+<!--
+WR-ID: WR-W-054
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Good News Is That Americans Will]
+BOOKLET_AUTHOR: Charles E. Little
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Good News Is That Americans Will]
+
+The good news is that Americans will, in increasing numbers, begin to value and protect the vast American landscape. The bad news is that they may love it to death.
+
+*Charles E. Little*
+
+<!--
+WR-ID: WR-W-055
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Come Said the Wind]
+BOOKLET_AUTHOR: A children's song, circa 1886
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Come Said the Wind]
+
+Come said the wind to\
+the leaves one day,\
+Come o'er the meadows\
+and we will play.\
+Put on your dresses\
+scarlet and gold,\
+For summer is gone\
+and the days grow cold.
+
+*A children's song, circa 1886*
+
+<!--
+WR-ID: WR-W-056
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Laws Change; People Die]
+BOOKLET_AUTHOR: Abraham Lincoln
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Laws Change; People Die]
+
+Laws change; people die; the land remains.
+
+*Abraham Lincoln*
+
+<!--
+WR-ID: WR-W-057
+PAGE: 73
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Birds I Heard Today]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Birds I Heard Today]
+
+The birds I heard today, which, fortunately, did not come within the scope of my science, sang as freshly as if it had been the first morning of creations.
+
+*Henry David Thoreau*
+
+<!-- Original Booklet Page 74 -->
+
+<!--
+WR-ID: WR-W-058
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: Stopping by the Woods on a Snowy Evening
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## Stopping by the Woods on a Snowy Evening
+
+Whose woods these are I think I know.\
+His house is in the village through;\
+He will not see me stopping here\
+To watch his woods fill up with snow.\
+My little horse must think it queer\
+To stop without a farmhouse near\
+Between the woods and frozen lake\
+The darkest evening of the year.\
+He gives his harness bells a shake\
+To ask if there is some mistake.\
+The only other sound's the sweep\
+Of easy wind and downy flake.\
+The woods are lovely dark and deep...\
+But, I have promises to keep\
+and miles to go before I sleep\
+And miles to go before I sleep.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-059
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [This Grand Show Is Eternal]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [This Grand Show Is Eternal]
+
+This grand show is eternal. It is always sunrise somewhere; the dew is never all dried at once; a shower is forever falling; vapor is ever rising. Eternal sunrise, eternal sunset, eternal dawn and glowing, on sea and continues and islands, each in its turn, as the round earth rolls.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-060
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [This Is the Forest Primeval]
+BOOKLET_AUTHOR: Henry Wadsworth Longfellow
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [This Is the Forest Primeval]
+
+This is the forest primeval. The murmuring pines and the hemlocks... Stand like druids of old.
+
+*Henry Wadsworth Longfellow*
+
+<!--
+WR-ID: WR-W-061
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Essence of What We Call America]
+BOOKLET_AUTHOR: Paul Strand
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Essence of What We Call America]
+
+(The essence of what) we call America lies not so much in political institutions as in its rocks and skies and seas.
+
+*Paul Strand*
+
+<!--
+WR-ID: WR-W-062
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [We Love the Quiet]
+BOOKLET_AUTHOR: Indian Chief to the governor of Pennsylvania, 1796
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [We Love the Quiet]
+
+We love the quiet, we suffer the mouse to play; when the woods are rustled by the wind, we fear not.
+
+*Indian Chief to the governor of Pennsylvania, 1796*
+
+<!--
+WR-ID: WR-W-063
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Conservation Is the Foresighted Utilization]
+BOOKLET_AUTHOR: Gifford Pinchot
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Conservation Is the Foresighted Utilization]
+
+Conservation is the foresighted utilization, preservation, and/or renewal of the forest, waters, lands, and minerals, for the greatest good of the greatest number for the longest time.
+
+*Gifford Pinchot*
+
+<!--
+WR-ID: WR-W-064
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Holy Mother Earth]
+BOOKLET_AUTHOR: A Winnebago wise saying
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Holy Mother Earth]
+
+Holy Mother Earth, the trees and all nature, are witnesses of your thoughts and deeds.
+
+*A Winnebago wise saying*
+
+<!--
+WR-ID: WR-W-065
+PAGE: 74
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Woe unto Them That Join House to House]
+BOOKLET_AUTHOR: Isiah 5:8
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Woe unto Them That Join House to House]
+
+Woe unto them that join house to house, that lay field to field, till there be no place that they may be placed also in the midst of the earth.
+
+*Isiah 5:8*
