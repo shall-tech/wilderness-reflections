@@ -24,3 +24,4 @@
 - Documented the absent scanned leaf inferred to be blank original page 32.
 - Completed intake transcription of Knowledge and Wisdom pages 35-36.
 - Completed intake transcription of Knowledge and Wisdom pages 37-38.
+- Completed intake transcription of Knowledge and Wisdom pages 39-40.

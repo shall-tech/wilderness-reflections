@@ -633,7 +633,7 @@ NOTES: None
 Observe all of the light that surrounds you; but, you remember the dark that is there.
 
 *Tao T.E. Ching*
-+
+
 <!-- Original Booklet Page 35 -->
 
 <!--
@@ -1257,7 +1257,7 @@ NOTES: None
 A ruin is not just something that happened long ago to someone else; its history is that of us all, the transience of power, of ideas, of all human endeavors.
 
 *George Schaller*
-+
+
 <!-- Original Booklet Page 37 -->
 
 <!--
@@ -1725,3 +1725,446 @@ NOTES: None
 It is the love of country that has lighten and that keeps glowing the holy fire of patriotism. And this life is excited, primarily, by the beauty of the country.
 
 *J. Horace McFarland*
+
+<!-- Original Booklet Page 39 -->
+
+<!--
+WR-ID: WR-KW-061
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: Rain and the Rhinoceros
+BOOKLET_AUTHOR: Thomas Merton
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Rain
+- Solitude
+NOTES: None
+-->
+
+## Rain and the Rhinoceros
+
+What a thing it is to sit absolutely alone,\
+In the forest, at night, cherished by this\
+Wonderful, unintelligible,\
+Perfectly innocent speech,\
+The most comforting speech in the world,\
+The talk that rain makes by itself all over the ridges,\
+And the talk of the watercourses everywhere in the hollows,\
+Nobody started it, nobody is going to stop it\
+It will talk as long as it wants, this rain.\
+As long as it talks I am going to listen.
+
+*Thomas Merton*
+
+<!--
+WR-ID: WR-KW-062
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Everywhere Is Walking Distance]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Walking
+- Time
+NOTES: None
+-->
+
+## [Everywhere Is Walking Distance]
+
+Everywhere is walking distance, if you have the time.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-063
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [You Can't Be Lost]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wandering
+- Perspective
+NOTES: None
+-->
+
+## [You Can't Be Lost]
+
+You can't be lost if you don't care where you are.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-064
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [There Isn't Enough Darkness]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Light
+- Hope
+NOTES: None
+-->
+
+## [There Isn't Enough Darkness]
+
+There isn't enough darkness in all the world to snuff out the light of one little candle.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-065
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Think Over My Small Adventures]
+BOOKLET_AUTHOR: Old Inuit Song
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Adventure
+- Light
+NOTES: None
+-->
+
+## [I Think Over My Small Adventures]
+
+I think over my small adventures;\
+My fears,\
+Those small ones that seemed so big:\
+For all the vital things\
+I had to get and reach,\
+And yet there is only one great thing,\
+The only thing:\
+To live to see the great day that dawns\
+And the light that fills the world.
+
+*Old Inuit Song*
+
+<!--
+WR-ID: WR-KW-066
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [A Human Being Is Part of the Whole]
+BOOKLET_AUTHOR: Albert Einstein
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Compassion
+- Nature
+NOTES: None
+-->
+
+## [A Human Being Is Part of the Whole]
+
+A human being is part of the whole, called by us universe, a part limited in time and space. He experiences himself, his thoughts and feelings, as something separate from the rest - a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal decisions and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole nature in its beauty.
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-KW-067
+PAGE: 39
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [You Ask Me to Plow the Ground]
+BOOKLET_AUTHOR: Smohalla
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Indigenous wisdom
+NOTES: None
+-->
+
+## [You Ask Me to Plow the Ground]
+
+You ask me to plow the ground. Shall I take a knife and tear my mother's breast? Then when I die she will not take me to her bosom to rest. You ask me to dig for stone. Shall I dig under her skin or spare her bones? Then when I die I cannot enter her body to be born again. You ask me to cut grass and make hay and sell it and be rich like white men. But how dare I cut off my mother's hair?
+
+*Smohalla*
+
+<!-- Original Booklet Page 40 -->
+
+<!-- Page heading: Walking -->
+
+<!--
+WR-ID: WR-KW-068
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Hope and the Future]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Hope
+- Wilderness
+NOTES: None
+-->
+
+## [Hope and the Future]
+
+Hope and the future for me are not in the lawns and cultivated fields, not in the towns and cities, but in the impervious and quaking swamps.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-069
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [If We Were Required to Know]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Ferns
+- Revelation
+NOTES: None
+-->
+
+## [If We Were Required to Know]
+
+If we were required to know the position of the fruit dots or the character of the enthusiasm, nothing could be easier to ascertain, but if it is required that you be affected by ferns, that they amount to anything, signify anything to you, that they be another sacred scripture and revelation to you, help to redeem your life, this end is not so easily accomplished.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-070
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [We Are Affected Like the Earth]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Renewal
+NOTES: None
+-->
+
+## [We Are Affected Like the Earth]
+
+We are affected like the earth, and yield to the elemental tenderness; winter breaks up within us; accumulated masses of ice and snow dissolve, and thoughts like a freshet pour down unwonted channels.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-071
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [He Who Has Known How to Love the Land]
+BOOKLET_AUTHOR: Stefan Zeromski
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Land
+- Eternity
+NOTES: None
+-->
+
+## [He Who Has Known How to Love the Land]
+
+He who has known how to love the land has loved eternity.
+
+*Stefan Zeromski*
+
+<!--
+WR-ID: WR-KW-072
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [All That Glitters Is Not Gold]
+BOOKLET_AUTHOR: William Shakespeare
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wandering
+- Value
+NOTES: None
+-->
+
+## [All That Glitters Is Not Gold]
+
+All that glitters is not gold. All who wander are not lost.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-KW-073
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Went to the Woods]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Purpose
+NOTES: None
+-->
+
+## [I Went to the Woods]
+
+I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world: or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion. For most men, it appears to me, are in a strange uncertainty about it, whether it is of the devil or of God, and have somewhat hastily concluded that it is the chief end of man here to "glorify God and enjoy Him forever."
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-074
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [No Matter How Cold and Wet You Are]
+BOOKLET_AUTHOR: Old Woodsman's Adage
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Weather
+- Perspective
+NOTES: None
+-->
+
+## [No Matter How Cold and Wet You Are]
+
+No matter how cold and wet you are, you're always warm and dry.
+
+*Old Woodsman's Adage*
+
+<!--
+WR-ID: WR-KW-075
+PAGE: 40
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [A Californian Whom I Had Recently the Pleasure of Meeting]
+BOOKLET_AUTHOR: George Santayana
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Philosophy
+NOTES: None
+-->
+
+## [A Californian Whom I Had Recently the Pleasure of Meeting]
+
+A Californian whom I had recently the pleasure of meeting observed that if the philosophers had lived among your mountains, their systems would have been different from what they are. Certainly very different from what those systems are which the European genteel tradition has handed down since Socrates; for these systems are egotistical; directly or indirectly they are anthropocentric, and inspired by the conceited notion the man, or human reason, or the human distinction between good and evil, is the center and pivot of the universe. That is what the mountains and woods should make you at last ashamed to assert.
+
+*George Santayana*
