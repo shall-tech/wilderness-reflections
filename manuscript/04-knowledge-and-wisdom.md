@@ -2887,3 +2887,263 @@ Winning is measuring yourself against yourself. It is learning to take pride in 
 Losing is matching yourself against everyone else who runs. This is self-defeating, because few people win this way and those who do don't keep it up very long.
 
 *Joe Henderson*
+
+<!-- Original Booklet Page 45 -->
+
+<!--
+WR-ID: WR-KW-100
+PAGE: 45
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Man Always Kills the Thing He Loves]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Imagination
+NOTES: None
+-->
+
+## [Man Always Kills the Thing He Loves]
+
+Man always kills the thing he loves, and so we the pioneers have killed our wilderness. Some say we had to. Be that as it may, I am glad I shall never by young without wild country to be young in. Of what avail are forty freedoms without a blank spot on the map? The disquieting thing in the modern picture is the trophy hunter who never grows up, in whom the capacity for isolation, perception, and husbandry is undeveloped, or perhaps lost... To enjoy he must possess, invade, appropriate. Hence the wilderness that he cannot personally see has no value to him. Hence the universal assumption that an unused hinterland is rendering no service to society. Those devoid of imagination, a blank spot on the map is a useless waste; to others, the most valuable part. (Is my share in Alaska worthless to me because I shall never go there? Do I need a road to show me the arctic prairies, the goose pastures of the Yukon, the Kodiak bear, the sheep meadows behind McKinley?) It would appear, in short, that the rudimentary grades of outdoor recreation consume their resource base; the higher grades, at least to a degree, create their own satisfaction with little or no attrition of land or life... development is a job not of building roads into lovely country, but of building receptivity into the still unlovely human mind.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-101
+PAGE: 45
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [No Servant Brought Them Meats]
+BOOKLET_AUTHOR: Aldo Leopold, from Sand County Almanac
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Freedom
+NOTES: None
+-->
+
+## [No Servant Brought Them Meats]
+
+No servant brought them meats: they got their meat out of the river, or went without. No traffic cop whistled them off the hidden rock in the next rapids. No friendly roof kept them dry when they misguessed whether or not to pitch the tent. No guide showed them which camping spots offered a nightlong breeze, and which a nightlong misery of mosquitoes; which firewood made clean coals, and which only smoke... The elemental simplicities of wilderness travel were thrills not only because of their novelty, but because they represented complete freedom to make mistakes. The wilderness gave them their first taste of those rewards and penalties for wise and foolish acts which every woodsman faces daily, but against which civilization has built a thousand buffers. These boys were on their own in this particular sense.
+
+*Aldo Leopold, from Sand County Almanac*
+
+<!--
+WR-ID: WR-KW-102
+PAGE: 45
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Land, Then, Is Not Merely Soil]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Land
+- Energy
+NOTES: None
+-->
+
+## [Land, Then, Is Not Merely Soil]
+
+Land, then, is not merely soil; it is a fountain of energy flowing through a circuit of soils, plants, and animals. Food chains are the living channels which conduct energy upward; death and decay return it to the soil. The circuit is not closed; some energy is dissipated in decay, some is added by absorption from the air, some is stored in soils, peats, and long-lived forests; but it is a sustained circuit, like a slowly augmented revolving fund of life.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-103
+PAGE: 45
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Universe Has Been Quite Literally Writing upon Humans]
+BOOKLET_AUTHOR: Joe Meeker
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wild lands
+- Language
+NOTES: None
+-->
+
+## [The Universe Has Been Quite Literally Writing upon Humans]
+
+The universe has been quite literally writing upon humans for many thousands of years, and our alphabets are among the trails that nature has carved in order to cross our minds. Wild lands have cut deeper trails in my life than I will ever be able to make in the forest.
+
+*Joe Meeker*
+
+<!--
+WR-ID: WR-KW-104
+PAGE: 45
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [While My Companion Contemplated]
+BOOKLET_AUTHOR: Mary Wollstoncraft Shelly
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Curiosity
+NOTES: None
+-->
+
+## [While My Companion Contemplated]
+
+While my companion contemplated with serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes... Curiosity, earnestness, research to learn the hidden laws of nature, gladness akin to rapture, as they unfolded to me are among the earliest sensations I can remember.
+
+*Mary Wollstoncraft Shelly*
+
+<!-- Original Booklet Page 46 -->
+
+<!--
+WR-ID: WR-KW-105
+PAGE: 46
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [We of the Genus Homo Ride the Logs]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Planning
+NOTES: None
+-->
+
+## [We of the Genus Homo Ride the Logs]
+
+We of the genus Homo ride the logs that float down the Round river, and by little judicious "burling" we have learned to guide their direction and speed. This feat entitles us to the specific appellation sapiens. The technique of burling called economics, the remembering of old routes is called history, the selection of new ones is called statesmanship, the conservation about oncoming riffles and rapids is called politics. Some of the crew aspire to burl not only their own logs, but the whole flotilla as well. This collective bargaining with nature is called national planning.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-106
+PAGE: 46
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Our Newly Found Capacity]
+BOOKLET_AUTHOR: Arthur H. Carhart, 1962
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Conservation
+- Survival
+NOTES: None
+-->
+
+## [Our Newly Found Capacity]
+
+Our newly found capacity for dealing with the massed death has us to overlook momentarily the more gentle sciences which underwrite life and affect the survival of man as surely as does the atom. In the last analysis, what we know and do in conservation... will determine whether or not people and nations of the earth will continue to exist.
+
+*Arthur H. Carhart, 1962*
+
+<!--
+WR-ID: WR-KW-107
+PAGE: 46
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [For a Great Tree, Death Comes]
+BOOKLET_AUTHOR: Edwin Way Teale
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Trees
+- Death
+NOTES: None
+-->
+
+## [For a Great Tree, Death Comes]
+
+For a great tree, death comes as a gradual transformation. Its vitality ebbs slowly. Even when life has abandoned it entirely it remains a majestic thing. On some hill top a dead tree may dominate the landscape for miles around. Alone among living things it retains its character and dignity after death. Plants wither; animals disintegrate. But a dead tree may be as arresting, as filled with personality, in death as it is in life. Even in its final moments when the massive trunk lies prone and it has moldered into a ridge covered with mosses and fungi, it arrives at a fitting and noble end. It enriches and refreshes the earth. And later, as part of other green and growing things, it rises again.
+
+*Edwin Way Teale*
+
+<!--
+WR-ID: WR-KW-108
+PAGE: 46
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [You Must Teach Your Children]
+BOOKLET_AUTHOR: Chief Seattle
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Connection
+NOTES: None
+-->
+
+## [You Must Teach Your Children]
+
+You must teach your children that the ground beneath their feet is the ashes of our grandfathers. So that they will respect the land, tell you children that the earth is rich with the lives of our kin. Teach your children what we have taught our children - that the earth is our mother. Whatever befalls the earth, befalls the sons of the earth. If men spit upon the ground, they spit upon themselves.
+
+This we know, the earth does not belong to man; man belongs to earth. This we know. All things are connected like the blood which unites one family. All things are connected.
+
+Whatever befalls the earth befalls the sons of the earth. Man did not weave the web of life; he is merely a strand in it. Whatever he does to the web, he does to himself.
+
+*Chief Seattle*
