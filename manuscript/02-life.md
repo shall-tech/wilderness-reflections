@@ -1534,3 +1534,285 @@ NOTES: None
 Once the game is over, the king and the pawn go back into the same box.
 
 *Italian proverb*
+
+<!-- Original Booklet Page 18 -->
+
+<!--
+WR-ID: WR-L-048
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [There Is a Certain Delight in the Hardy Life]
+BOOKLET_AUTHOR: Theodore Roosevelt
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Conservation
+NOTES: None
+-->
+
+## [There Is a Certain Delight in the Hardy Life]
+
+There is a certain delight in the hardy life of the open. There are no words that can call the hidden spirit of the wilderness that can reveal its mystery, its melancholy and its charm. The nation behaves well if it treats the natural resources as assets which it must turn over to the next generation increases and not impaired in value. Conservation means development as much as it does protection.
+
+*Theodore Roosevelt*
+
+<!--
+WR-ID: WR-L-049
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [In This Age]
+BOOKLET_AUTHOR: Thomas Cole, from Essay on American Society
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Imagination
+- Culture
+NOTES: None
+-->
+
+## [In This Age]
+
+In this age, when a meager utilitarianism seems ready to absorb every feeling and sentiment, and what is sometimes called improvement in its march makes us fear that the bright and tender flowers of the imagination shall be crushed beneath its iron tramp, it would be well to cultivate the oasis that yet remains to us, and thus preserves the germs of a future and purer system.
+
+*Thomas Cole, from Essay on American Society*
+
+<!--
+WR-ID: WR-L-050
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Where We Begin and Where We Finish]
+BOOKLET_AUTHOR: Hung Tsu
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Experience
+NOTES: None
+-->
+
+## [Where We Begin and Where We Finish]
+
+Where we begin and where we finish are little more than reference points. What truly matters is what happens between them.
+
+*Hung Tsu*
+
+<!--
+WR-ID: WR-L-051
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Reeds Know What the Wind Does Not]
+BOOKLET_AUTHOR: Faung Tse
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Endurance
+- Resilience
+NOTES: None
+-->
+
+## [The Reeds Know What the Wind Does Not]
+
+The reeds know what the wind does not the power to endure harm outlives the power to inflict it.
+
+*Faung Tse*
+
+<!--
+WR-ID: WR-L-052
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Unknown Is Not to Be Avoided]
+BOOKLET_AUTHOR: Dave Marinaccio
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Understanding
+NOTES: None
+-->
+
+## [The Unknown Is Not to Be Avoided]
+
+The unknown is not to be avoided, it is to be examined, understood, and accepted. Fear should be handled the same way.
+
+*Dave Marinaccio*
+
+<!--
+WR-ID: WR-L-053
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [We Must Learn to Reawaken]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Awareness
+- Purpose
+NOTES: None
+-->
+
+## [We Must Learn to Reawaken]
+
+We must learn to reawaken and keep ourselves awake, not by mechanical aids, but by an infinite expectation of the dawn which does not forsake us in our soundest sleep. I know of no more encouraging fact than the unquestionable ability of man to elevate his life by a conscious endeavor. To affect the quality of the day - that is the highest of arts.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-L-054
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [When You Were Born]
+BOOKLET_AUTHOR: Navajo saying
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Legacy
+NOTES: None
+-->
+
+## [When You Were Born]
+
+When you were born, you cried and the world rejoiced, live you life so that when you die, the world cries and you rejoice.
+
+*Navajo saying*
+
+<!--
+WR-ID: WR-L-055
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Most People Are About as Happy]
+BOOKLET_AUTHOR: Abraham Lincoln
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Happiness
+- Mindset
+NOTES: None
+-->
+
+## [Most People Are About as Happy]
+
+Most people are about as happy as they make up their minds to be.
+
+*Abraham Lincoln*
+
+<!--
+WR-ID: WR-L-056
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Hard Rain Cannot Fall All Day]
+BOOKLET_AUTHOR: Lao Tse
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Endurance
+- Nature
+NOTES: None
+-->
+
+## [Hard Rain Cannot Fall All Day]
+
+Hard rain cannot fall all day, harsh winds cannot blow forever. If nature cannot make violent actions last, how can you?
+
+*Lao Tse*
+
+<!--
+WR-ID: WR-L-057
+PAGE: 18
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [In a Field I Am the Absence of Field]
+BOOKLET_AUTHOR: Mark Strand
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Identity
+- Wholeness
+NOTES: None
+-->
+
+## [In a Field I Am the Absence of Field]
+
+In a field I am the absence of field. That is always the case. Wherever I am, I am what is missing. When I walk I part the air and always the air moves in to fill the space where my body has been. We all have reasons for moving. I move to keep things whole.
+
+*Mark Strand*
