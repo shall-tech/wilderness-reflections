@@ -25,3 +25,5 @@ The source PDF contains 76 scanned leaves. The first content sequence is:
 | 8 | 9 | Life content begins |
 
 The scan order around pages 20-21 is reversed: PDF page 19 contains original page 21, while PDF page 20 contains original page 20. The canonical manuscript restores the printed page order.
+
+The scan moves directly from the Knowledge and Wisdom divider on original page 31 to content on original page 33. Original page 32 is treated as the customary blank reverse of the divider, but no separate scanned leaf is present.

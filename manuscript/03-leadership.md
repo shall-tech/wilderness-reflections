@@ -714,3 +714,7 @@ NOTES: None
 I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours. He will put some things behind, he will pass on invisible boundary; new, universal, and more liberal laws will begin to establish themselves around and within him; or the old laws be expanded, and interpreted in his favor in a more liberal sense and he will live with the license of a higher order of beings. In proportion as he simplifies his life, the laws of the universe will appear less complex, and solitude will not be solitude, nor poverty, nor weakness. if you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.
 
 *Henry David Thoreau*
+
+<!-- Original Booklet Page 30 -->
+
+<!-- Blank page -->

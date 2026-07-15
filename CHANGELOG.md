@@ -20,3 +20,5 @@
 - Completed intake transcription of Life pages 23-24.
 - Began the Leadership section and completed intake of pages 25-27.
 - Completed intake transcription of Leadership pages 28-29.
+- Completed Leadership page 30 and began Knowledge and Wisdom through page 34.
+- Documented the absent scanned leaf inferred to be blank original page 32.
