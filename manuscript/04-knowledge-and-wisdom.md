@@ -633,5 +633,627 @@ NOTES: None
 Observe all of the light that surrounds you; but, you remember the dark that is there.
 
 *Tao T.E. Ching*
++
+<!-- Original Booklet Page 35 -->
 
+<!--
+WR-ID: WR-KW-023
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Only Went Out for a Walk]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Walking
+- Nature
+NOTES: None
+-->
 
+## [I Only Went Out for a Walk]
+
+I only went out for a walk, and finally concluded to stay out until sundown; for going out, I found, was really going in.
+
+*John Muir*
+
+<!--
+WR-ID: WR-KW-024
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [To Allow Mystery]
+BOOKLET_AUTHOR: Barry Lopez
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mystery
+- Knowledge
+NOTES: None
+-->
+
+## [To Allow Mystery]
+
+To allow mystery, which is to say to yourself: there could be more, there could be things we don't understand; is not to damn knowledge.
+
+*Barry Lopez*
+
+<!--
+WR-ID: WR-KW-025
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Life Is Change]
+BOOKLET_AUTHOR: KKC
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Change
+- Choice
+NOTES: None
+-->
+
+## [Life Is Change]
+
+Life is change; growth is optional; choose wisely.
+
+*KKC*
+
+<!--
+WR-ID: WR-KW-026
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Secret of Making the Best Person]
+BOOKLET_AUTHOR: Walt Whitman, from Leaves of Grass
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Growth
+- Earth
+NOTES: None
+-->
+
+## [The Secret of Making the Best Person]
+
+Now I see the secret of making the best person, it is to grow in the open air and to eat and sleep with the earth.
+
+*Walt Whitman, from Leaves of Grass*
+
+<!--
+WR-ID: WR-KW-027
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Those Who Know Do Not Talk]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Knowledge
+- Silence
+NOTES: None
+-->
+
+## [Those Who Know Do Not Talk]
+
+Those who know do not talk.\
+Those who talk do not know.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-028
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Fact Remains]
+BOOKLET_AUTHOR: T.J. Walker
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Nature
+- Observation
+NOTES: None
+-->
+
+## [The Fact Remains]
+
+The fact remains that the people who profess to know about these things and to love them haven't the vaguest notion of how to see nature. They don't know where to find it, they don't know how to experience it, and if they demonstrate the existence of it they do so on a field trip which is more a social outing than a field trip. If anything, they do more damage to nature by their activity than they do if they never brought the kids out at all. The point is that people should find these things out for themselves. You shouldn't have to go to some expert to know that if you look here or there you'll find something. You're there - look! It's as simple as that.
+
+*T.J. Walker*
+
+<!--
+WR-ID: WR-KW-029
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Born with Curiosity and Wonder]
+BOOKLET_AUTHOR: Sigurd F. Olsen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Curiosity
+- Wonder
+NOTES: None
+-->
+
+## [Born with Curiosity and Wonder]
+
+While we are born with curiosity and wonder and our early years full of the adventure they bring, I know such inherent joys are often lost. I also know that, being deep within us, their latent glow can be fanned to flame again by awareness and an open mind.
+
+*Sigurd F. Olsen*
+
+<!--
+WR-ID: WR-KW-030
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Awaken People's Curiosity]
+BOOKLET_AUTHOR: Anatole France
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Curiosity
+- Teaching
+NOTES: None
+-->
+
+## [Awaken People's Curiosity]
+
+Do not try to satisfy your vanity by teaching a great many things. Awaken people's curiosity. It is enough to open minds; do not overload them. Put there just a spark. If there is some good inflammable stuff, it will catch fire.
+
+*Anatole France*
+
+<!--
+WR-ID: WR-KW-031
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [If We Are to Have Broad-Thinking Men and Women]
+BOOKLET_AUTHOR: Arthur Carhart
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Perspective
+NOTES: None
+-->
+
+## [If We Are to Have Broad-Thinking Men and Women]
+
+If we are to have broad-thinking men and women of high mentality, of good physique and with a true perspective on life, we must allow our populace a communication with nature in areas of more or less wilderness condition.
+
+*Arthur Carhart*
+
+<!--
+WR-ID: WR-KW-032
+PAGE: 35
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Speak to the Earth]
+BOOKLET_AUTHOR: Job 12:8
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Earth
+- Teaching
+NOTES: None
+-->
+
+## [Speak to the Earth]
+
+Speak to the earth, and it shall teach thee.
+
+*Job 12:8*
+
+<!-- Original Booklet Page 36 -->
+
+<!--
+WR-ID: WR-KW-033
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [If You Plan for a Year]
+BOOKLET_AUTHOR: Chinese proverb
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Education
+- Foresight
+NOTES: None
+-->
+
+## [If You Plan for a Year]
+
+If you plan for a year, plant rice. If you plan for ten years, plant trees. If you plan for 100 years, educate your children.
+
+*Chinese proverb*
+
+<!--
+WR-ID: WR-KW-034
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The Forests and This Planet Are Alive]
+BOOKLET_AUTHOR: Paulinho Paiakan
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Forest
+- Knowledge
+NOTES: None
+-->
+
+## [The Forests and This Planet Are Alive]
+
+I am trying to save the knowledge that the forests and this planet are alive, to give it back to you who have lost the understanding.
+
+*Paulinho Paiakan*
+
+<!--
+WR-ID: WR-KW-035
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Of What Avail Is an Open Eye]
+BOOKLET_AUTHOR: Solomon Ibn Gabirol
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Vision
+- Heart
+NOTES: None
+-->
+
+## [Of What Avail Is an Open Eye]
+
+Of what avail is an open eye, if the heart is blind?
+
+*Solomon Ibn Gabirol*
+
+<!--
+WR-ID: WR-KW-036
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Have Learned a Lot from Trees]
+BOOKLET_AUTHOR: Walking Buffalo
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Trees
+- Learning
+NOTES: None
+-->
+
+## [I Have Learned a Lot from Trees]
+
+I have learned a lot from trees;\
+Sometimes about the weather,\
+Sometimes about animals,\
+Sometimes about the great spirit
+
+*Walking Buffalo*
+
+<!--
+WR-ID: WR-KW-037
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [If You Understand]
+BOOKLET_AUTHOR: Zen Verse
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Understanding
+- Reality
+NOTES: None
+-->
+
+## [If You Understand]
+
+If you understand, things are just as they are; if you do not understand, things are just as they are.
+
+*Zen Verse*
+
+<!--
+WR-ID: WR-KW-038
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Believe One Who Knows]
+BOOKLET_AUTHOR: St. Bernard de Clairvaux
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Woods
+- Learning
+NOTES: None
+-->
+
+## [Believe One Who Knows]
+
+Believe one who knows; you will find something greater in woods than in books. Trees and stones will teach you that which you can never learn from masters.
+
+*St. Bernard de Clairvaux*
+
+<!--
+WR-ID: WR-KW-039
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Wonder If the Mountains Still Stand]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Wonder
+NOTES: None
+-->
+
+## [I Wonder If the Mountains Still Stand]
+
+I wonder if the mountains still stand when I turn my head, or do they dip their peaks and nod at my retreating back.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-040
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Things Excellent Are as Difficult]
+BOOKLET_AUTHOR: Spinoza
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Excellence
+- Difficulty
+NOTES: None
+-->
+
+## [Things Excellent Are as Difficult]
+
+Things excellent are as difficult are they are rare.
+
+*Spinoza*
+
+<!--
+WR-ID: WR-KW-041
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [When I Go Quiet]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Silence
+- Awareness
+NOTES: None
+-->
+
+## [When I Go Quiet]
+
+When I go quiet I stop hearing myself and start hearing the world outside me. Then I hear something very great.
+
+*Unknown*
+
+<!--
+WR-ID: WR-KW-042
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [The World Is a Looking Glass]
+BOOKLET_AUTHOR: William Makepeace Thackery
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Reflection
+- Attitude
+NOTES: None
+-->
+
+## [The World Is a Looking Glass]
+
+The world is a looking glass, and gives back to every man the reflection of his own face. Frown at it, and it will look sourly upon; laugh at it and with it, and it is a jolly and kind companion.
+
+*William Makepeace Thackery*
+
+<!--
+WR-ID: WR-KW-043
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [In the Midst of Winter]
+BOOKLET_AUTHOR: Albert Camus
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Resilience
+- Hope
+NOTES: None
+-->
+
+## [In the Midst of Winter]
+
+In the midst of winter I finally learned that there was in me an invincible summer.
+
+*Albert Camus*
+
+<!--
+WR-ID: WR-KW-044
+PAGE: 36
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [A Ruin Is Not Just Something]
+BOOKLET_AUTHOR: George Schaller
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- History
+- Transience
+NOTES: None
+-->
+
+## [A Ruin Is Not Just Something]
+
+A ruin is not just something that happened long ago to someone else; its history is that of us all, the transience of power, of ideas, of all human endeavors.
+
+*George Schaller*
