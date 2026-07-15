@@ -6,11 +6,12 @@
 - Introduction and table of contents
 - Life divider: original pages 7-8
 - Life pages 9-24
+- Leadership divider and pages 25-27
 
 ## Next batch
 
-- Life section intake is complete through its final blank page.
-- Resume with the Leadership section on original page 25.
+- Leadership intake has begun through original page 27.
+- Resume with original page 28.
 
 ## Source
 
