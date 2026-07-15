@@ -371,3 +371,7 @@ NOTES: None
 Sometimes it is better to travel than arrive. For my part, I travel not to go anywhere, but to go.
 
 *Travels with a Donkey*
+
+<!-- Original Booklet Page 52 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->

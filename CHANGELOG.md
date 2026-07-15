@@ -30,4 +30,5 @@
 - Completed intake transcription of Knowledge and Wisdom pages 45-46.
 - Completed Knowledge and Wisdom and began Scouting and Adventures with pages 47-48.
 - Completed intake transcription of Scouting and Adventures pages 49-50.
-- Completed Scouting and Adventures page 51 and began Beauty with its page-52 divider.
+- Completed Scouting and Adventures page 51 and began Beauty with its page-53 divider.
+- Corrected the Beauty divider to original page 53 and documented missing blank pages 52 and 54.
