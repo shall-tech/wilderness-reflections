@@ -1816,3 +1816,266 @@ NOTES: None
 In a field I am the absence of field. That is always the case. Wherever I am, I am what is missing. When I walk I part the air and always the air moves in to fill the space where my body has been. We all have reasons for moving. I move to keep things whole.
 
 *Mark Strand*
+
+<!-- Original Booklet Page 19 -->
+
+<!--
+WR-ID: WR-L-058
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: Song of the Open Road
+BOOKLET_AUTHOR: Walt Whitman, from Leaves of Grass
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Freedom
+NOTES: None
+-->
+
+## Song of the Open Road
+
+Afoot and light-hearted I take to the open road,\
+Healthy, free, the world before me,\
+The long brown path before me leading wherever I choose.\
+Henceforth I ask not good-fortune, I myself am good fortune,\
+Henceforth I whimper no more, postpone no more, need nothing,\
+Done with indoor complaints, libraries, querulous criticisms,\
+Strong and content I travel the open road.
+
+*Walt Whitman, from Leaves of Grass*
+
+<!--
+WR-ID: WR-L-059
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Fairest Thing We Can Experience]
+BOOKLET_AUTHOR: Albert Einstein
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Mystery
+- Wonder
+NOTES: None
+-->
+
+## [The Fairest Thing We Can Experience]
+
+The fairest thing we can experience is the mysterious. It is the fundamental emotion at the cradle of true art and true science. He who knows it not is as good as dead, a snuffed out candle...
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-L-060
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [They Sleep Generally in the Open Air]
+BOOKLET_AUTHOR: J.A. Allen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Adventure
+NOTES: None
+-->
+
+## [They Sleep Generally in the Open Air]
+
+They sleep generally in the open air, in winter as well as in summer, subjected to every inclemency of the weather. As may well be imagined, a buffalo hunter, at the end of the season, is by no means prepossessing in his appearance, being, in addition to his filthy aspect, a paradise for hoards of nameless parasites. They are a rollicking set, and occasionally include men of intelligence, who formerly possessed an ordinary amount of refinement.
+
+*J.A. Allen*
+
+<!--
+WR-ID: WR-L-061
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Always in a Big Woods]
+BOOKLET_AUTHOR: Wendell Berry
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Exploration
+NOTES: None
+-->
+
+## [Always in a Big Woods]
+
+Always in a big woods when you leave familiar ground and step off into a new place there will be, along with feelings of curiosity and excitement, a little nagging of dread. It is the ancient fear of the unknown, and it is your first bond with the wilderness you are going into. What you are doing is exploring. You are undertaking the first experience of our essential loneliness for nobody can discover the world for anyone else. It is only after we have discovered it for ourselves that it becomes a common ground and a bond, and we cease to be alone.
+
+*Wendell Berry*
+
+<!--
+WR-ID: WR-L-062
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [All Men Die]
+BOOKLET_AUTHOR: William Wallace, line from Braveheart
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Courage
+NOTES: None
+-->
+
+## [All Men Die]
+
+All men die, not all men ever truly live.
+
+*William Wallace, line from Braveheart*
+
+<!--
+WR-ID: WR-L-063
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [They Danced the Dance of Life]
+BOOKLET_AUTHOR: Gilgamesh
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Life
+- Mortality
+NOTES: None
+-->
+
+## [They Danced the Dance of Life]
+
+They danced the dance of life, which lingers close to death.
+
+*Gilgamesh*
+
+<!--
+WR-ID: WR-L-064
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Those Who Have the Humility of a Child]
+BOOKLET_AUTHOR: J. Allen Boone
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Humility
+- Reverence
+NOTES: None
+-->
+
+## [Those Who Have the Humility of a Child]
+
+Those who have the humility of a child may find again the key to reverence for, and kinship with, all life.
+
+*J. Allen Boone*
+
+<!--
+WR-ID: WR-L-065
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Never a Day Passes]
+BOOKLET_AUTHOR: George Washing Carver
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Nature
+- Reverence
+NOTES: None
+-->
+
+## [Never a Day Passes]
+
+Never a day passes but that I do myself the honor to commune with some of nature's varied forms.
+
+*George Washing Carver*
+
+<!--
+WR-ID: WR-L-066
+PAGE: 19
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [At the Gates of the Forest]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Perspective
+NOTES: None
+-->
+
+## [At the Gates of the Forest]
+
+At the gates of the forest, the surprised man of the world is forced to leave his city estimates of great and small, wise and foolish. The knapsack of custom falls off his back.
+
+*Ralph Waldo Emerson*
+
+<!-- Original Booklet Page 20 -->
+<!-- Blank or unscanned page; numbering resumes at page 21 in the source scan. -->

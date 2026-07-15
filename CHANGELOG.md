@@ -13,3 +13,4 @@
 - Completed intake transcription of Life page 16.
 - Completed intake transcription of Life page 17.
 - Completed intake transcription of Life page 18.
+- Completed intake transcription of Life pages 19-20.
