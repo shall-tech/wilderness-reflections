@@ -2079,3 +2079,91 @@ At the gates of the forest, the surprised man of the world is forced to leave hi
 
 <!-- Original Booklet Page 20 -->
 <!-- Blank or unscanned page; numbering resumes at page 21 in the source scan. -->
+
+<!-- Original Booklet Page 21 -->
+
+<!--
+WR-ID: WR-L-067
+PAGE: 21
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: If
+BOOKLET_AUTHOR: Rudyard Kipling, from Waite Phillip's Epigrams
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Character
+- Perseverance
+NOTES: None
+-->
+
+## If
+
+If you can keep your head when all about you\
+Are losing theirs, and blaming it on you,\
+If you can trust yourself when all men doubt you,\
+But make allowance for their doubting, too,\
+If you can wait and not be tired by waiting.\
+Or being lied about, don't deal in lies,\
+Or being hated, don't give way to hating,\
+And yet don't look too good, nor talk too wise,\
+If you can think, and not make thoughts your aim,\
+If you can meet with triumph and disaster,\
+And treat those two imposters just the same;\
+If you can bear to hear the truth you've spoken\
+Twisted by knaves to make a trap for fools,\
+Or watch the things you gave your life to, broken\
+And stoop and build them up with worn-out tools.\
+If you can make one heap of all your winnings,\
+And risk it on one turn of pitch-and-toss,\
+And lose, and start at the beginning\
+And never breathe a word about your loss;\
+If you can force your heart and nerve and sinew\
+To serve your turn long after they are gone,\
+And hold on when there is nothing in you,\
+Except the will, which says to them, "hold on!"\
+If you talk with crowds and keep your virtue\
+Or walk with kings, nor lose the common touch,\
+If neither foes nor living friends can hurt you,\
+If all men count with you, but none too much;\
+If you can fill the unforgiving minute\
+With sixty seconds worth of distance run,\
+Yours is the Earth, and everything that's in it,\
+And, which is more, You'll be a man, my son!
+
+*Rudyard Kipling, from Waite Phillip's Epigrams*
+
+<!--
+WR-ID: WR-L-068
+PAGE: 21
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [One Final Paragraph of Advice]
+BOOKLET_AUTHOR: Edward Abbey
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Wilderness
+- Adventure
+NOTES: None
+-->
+
+## [One Final Paragraph of Advice]
+
+One final paragraph of advice: Do not burn yourselves out. Be as I am - a reluctant enthusiast... a part time crusader, a half-hearted fanatic. Save the other half of yourselves and your lives for pleasure and adventure. It is not enough to fight for the land; it is even more important to enjoy it while you still can. While it's still there. So get out there and hunt and fish and mess around with your friends, ramble out yonder and explore the forests, encounter the grizz, climb the mountains, bag the peaks, run the rivers, breath deep of that yet sweet and lucid air, sit quietly for a while and contemplate the precious stillness, that lovely mysterious and awesome space. Enjoy yourselves, keep your brain in your head and your head attached to your body, the body active and alive, and I promise you this one sweet victory over our enemies, over those desk-bound people with their hearts in a safe-deposit box and their eyes hypnotized by desk calculators. I promise this: YOU WILL OUTLIVE THE BASTARDS.
+
+*Edward Abbey*
