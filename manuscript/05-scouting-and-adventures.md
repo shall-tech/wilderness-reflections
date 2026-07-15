@@ -313,3 +313,61 @@ Walk away quietly in any direction and taste the freedom of the mountaineer...
 Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The wind will blow their own freshness into you, and the storms their energy, while cares will drop off like autumn leaves.
 
 *John Muir*
+
+<!-- Original Booklet Page 51 -->
+
+<!--
+WR-ID: WR-SA-010
+PAGE: 51
+SECTION: Scouting and Adventures
+STATUS: NEEDS RESEARCH
+TITLE: [The Mountains Are Calling]
+BOOKLET_AUTHOR: John Muir
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Mountains
+- Calling
+NOTES: None
+-->
+
+## [The Mountains Are Calling]
+
+The mountains are calling and I must go.
+
+*John Muir*
+
+<!--
+WR-ID: WR-SA-011
+PAGE: 51
+SECTION: Scouting and Adventures
+STATUS: NEEDS RESEARCH
+TITLE: [Sometimes It Is Better to Travel]
+BOOKLET_AUTHOR: Travels with a Donkey
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: The booklet supplies a source title but no personal attribution.
+THEMES:
+- Travel
+- Journey
+NOTES: None
+-->
+
+## [Sometimes It Is Better to Travel]
+
+Sometimes it is better to travel than arrive. For my part, I travel not to go anywhere, but to go.
+
+*Travels with a Donkey*

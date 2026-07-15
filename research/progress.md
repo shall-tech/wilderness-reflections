@@ -8,14 +8,16 @@
 - Life pages 9-24
 - Leadership divider and pages 25-30
 - Knowledge and Wisdom divider and pages 31-46
-- Scouting and Adventures divider and pages 47-50
+- Scouting and Adventures divider and pages 47-51
+- Beauty divider: original page 52
 
 ## Next batch
 
 - Leadership intake is complete through original page 30.
 - Knowledge and Wisdom intake is complete through original page 46.
-- Scouting and Adventures intake has begun through original page 50.
-- Resume with original page 51.
+- Scouting and Adventures intake is complete through original page 51.
+- Beauty intake has begun with the original page 52 divider.
+- Resume with original page 53.
 
 ## Source
 
