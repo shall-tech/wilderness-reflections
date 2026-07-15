@@ -19,3 +19,4 @@
 - Completed intake transcription of Life page 22.
 - Completed intake transcription of Life pages 23-24.
 - Began the Leadership section and completed intake of pages 25-27.
+- Completed intake transcription of Leadership pages 28-29.
