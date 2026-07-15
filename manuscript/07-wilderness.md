@@ -370,3 +370,591 @@ NOTES: None
 That wonderful world of high mountains, dazzling in their rock and ice, acts as a catalyst. It suggests the infinite but it is not the infinite. The heights only give us what we ourselves bring them.
 
 *Lucien Devies*
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 18: /bin/ps: Operation not permitted
+
+
+<!-- Original Booklet Page 69 -->
+
+<!--
+WR-ID: WR-W-013
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [When the Night Is Almost Done]
+BOOKLET_AUTHOR: Emily Dickinson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [When the Night Is Almost Done]
+
+When the night is almost done,\
+And sunrise grown so near\
+That we can touch the spaces,\
+It's time to smooth the hair.\
+And get the dipples ready,\
+And wonder we could care\
+For that old faded midnight\
+That frightened but an hour.
+
+*Emily Dickinson*
+
+<!--
+WR-ID: WR-W-014
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Earth Laughs in Flowers]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Earth Laughs in Flowers]
+
+The earth laughs in flowers.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-015
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [I Do Not Know of a Flowering Plant]
+BOOKLET_AUTHOR: Euell Gibbons
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [I Do Not Know of a Flowering Plant]
+
+I do not know of a flowering plant that tastes good and is poisonous. Nature is not out to get you.
+
+*Euell Gibbons*
+
+<!--
+WR-ID: WR-W-016
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Since the Land Is the Parent]
+BOOKLET_AUTHOR: Plato
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Since the Land Is the Parent]
+
+Since the land is the parent, let the citizens take care of her more carefully than children do their mother.
+
+*Plato*
+
+<!--
+WR-ID: WR-W-017
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Let Us Dance in the Sun]
+BOOKLET_AUTHOR: Susan Poliz Schuetz
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Let Us Dance in the Sun]
+
+Let us dance in the sun, wearing wild flowers in our hair and let us huddle together as darkness takes over. We are at home amidst the birds and the trees, for we are children of nature.
+
+*Susan Poliz Schuetz*
+
+<!--
+WR-ID: WR-W-018
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Nature Is More Than a Refuge]
+BOOKLET_AUTHOR: Donald Culross
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Nature Is More Than a Refuge]
+
+Nature is more than a refuge from human chaos, more than fresh air for smoke filled lungs, and quietude for ears in torture. It is the common way of living, and as such it is our touchstone.
+
+*Donald Culross*
+
+<!--
+WR-ID: WR-W-019
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [There Is No Graduation from the School of the Outdoors]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [There Is No Graduation from the School of the Outdoors]
+
+There is no graduation from the school of the outdoors.
+
+*Unknown*
+
+<!--
+WR-ID: WR-W-020
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Clearest Way into the Universe]
+BOOKLET_AUTHOR: Wang Wei
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Clearest Way into the Universe]
+
+The clearest way into the universe is through a forest wilderness.\
+Deep in the mountain wilderness\
+Where nobody ever comes\
+Only once in a great while\
+Something like the sound of a far off voice,\
+The low rays of the sun\
+Slip through the dark forest,\
+And gleam again on the shadowy moss.
+
+*Wang Wei*
+
+<!--
+WR-ID: WR-W-021
+PAGE: 69
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [We Must Not Only Protect the Country Side]
+BOOKLET_AUTHOR: Lyndon B. Johnson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [We Must Not Only Protect the Country Side]
+
+We must not only protect the country side and save it from destruction, we must restore what has been destroyed and salvage the beauty and charm of our cities... Once our natural splendor has been destroyed, it can never be recaptured. And once can no longer walk with beauty or wonder at nature, his spirit will wither and his sustenance be wasted.
+
+*Lyndon B. Johnson*
+
+<!-- Original Booklet Page 70 -->
+
+<!--
+WR-ID: WR-W-022
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: A new "Pledge of Allegiance"
+BOOKLET_AUTHOR: Bruce Hagen, Petaluma, CA 1983
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## A new "Pledge of Allegiance"
+
+"I pledge devotion to the earth, our one and only home,\
+and to the life this earth sustains;\
+one nation, one spirit indivisible,\
+with freedom and fulfillment for all."
+
+*Bruce Hagen, Petaluma, CA 1983*
+
+<!--
+WR-ID: WR-W-023
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Nature Includes All of the Universe]
+BOOKLET_AUTHOR: N.J. Berrill
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Nature Includes All of the Universe]
+
+Nature includes all of the universe and man is not only a part of nature, he is in it up to his neck.
+
+*N.J. Berrill*
+
+<!--
+WR-ID: WR-W-024
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Landscapes Were Like a Violin Bow]
+BOOKLET_AUTHOR: Stendhal
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Landscapes Were Like a Violin Bow]
+
+The landscapes were like a violin bow that played upon my soul.
+
+*Stendhal*
+
+<!--
+WR-ID: WR-W-025
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [There Is Not as Much Wilderness Out There]
+BOOKLET_AUTHOR: David Brower
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [There Is Not as Much Wilderness Out There]
+
+There is not as much wilderness out there as I wish there were. There is more inside than you think.
+
+*David Brower*
+
+<!--
+WR-ID: WR-W-026
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [All Living Creatures and All Plants]
+BOOKLET_AUTHOR: Okute, Sioux Indian
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [All Living Creatures and All Plants]
+
+All living creatures and all plants are a benefit to something.
+
+*Okute, Sioux Indian*
+
+<!--
+WR-ID: WR-W-027
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Earth, Like the Sun, Like the Air]
+BOOKLET_AUTHOR: Edward Abbey
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Earth, Like the Sun, Like the Air]
+
+The earth, like the sun, like the air, belongs to everyone, and to no one.
+
+*Edward Abbey*
+
+<!--
+WR-ID: WR-W-028
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Wilderness Is Nature's Bank]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Wilderness Is Nature's Bank]
+
+Wilderness is nature's bank of genetic variability.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-W-029
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [The Wilderness Needs No Defense]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [The Wilderness Needs No Defense]
+
+The wilderness needs no defense, only more defenders.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-W-030
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [A Thing Is Right When It Tends to Preserve]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [A Thing Is Right When It Tends to Preserve]
+
+A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-W-031
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [In the Soft Evening of June]
+BOOKLET_AUTHOR: Philip Kloss
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [In the Soft Evening of June]
+
+In the soft evening of June, the rosy summits,\
+Above the lateral where the tree line crosses\
+Are like faces lifted up in serene torture,\
+Spilling blood of beauty over the foothills,\
+Of pinion and red juniper, each tree in itself,\
+A crucifix for the stretched out soul.
+
+*Philip Kloss*
+
+<!--
+WR-ID: WR-W-032
+PAGE: 70
+SECTION: Wilderness
+STATUS: NEEDS RESEARCH
+TITLE: [Money Is the Wealth of the Materialists]
+BOOKLET_AUTHOR: Ed Burgen, Vagabonding in the U.S.A.
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Nature
+NOTES: None
+-->
+
+## [Money Is the Wealth of the Materialists]
+
+Money is the wealth of the materialists and works miracles in the realm of the physical. Time is the wealth of the pilgrim, and works miracles in all realms.
+
+*Ed Burgen, Vagabonding in the U.S.A.*

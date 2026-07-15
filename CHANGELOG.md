@@ -38,3 +38,4 @@
 - Completed intake transcription of Beauty pages 61-62.
 - Completed Beauty through page 64 and began Wilderness with its page-65 divider.
 - Completed intake transcription of Wilderness pages 66-68.
+- Completed intake transcription of Wilderness pages 69-70.
