@@ -930,3 +930,223 @@ NOTES: None
 All paths lead nowhere, so it is important to choose a path that has heart
 
 *Carlos Castenda*
+
+<!-- Original Booklet Page 15 -->
+
+<!--
+WR-ID: WR-L-029
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: The Road not Taken
+BOOKLET_AUTHOR: Robert Frost
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Choice
+- Journey
+NOTES: None
+-->
+
+## The Road not Taken
+
+Two roads diverged in a yellow wood\
+And sorry that I could not travel both\
+And be one traveler I stood\
+And looked as far as I could\
+To where it bent in the undergrowth.\
+Then took the other one just as far\
+And perhaps having the better claim\
+Because it was grassy and wanted wear\
+Though as far as passing there\
+Had worn them really about the same.\
+And both that morning equally lay\
+In leaves no step and trodden back\
+Oh, I kept the first another day!\
+Yet knowing how way leads onto way\
+I doubted if I should ever come back.\
+I shall be telling this with a sigh\
+Somewhere ages and ages hence;\
+Two roads diverged in a yellow woods, and I\
+I took the one less traveled by\
+And that has made all the difference.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-L-030
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [Expose Yourself to the Possibility]
+BOOKLET_AUTHOR: C. Cunningham
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Courage
+- Possibility
+NOTES: None
+-->
+
+## [Expose Yourself to the Possibility]
+
+Expose yourself to the possibility of doing something remarkable.
+
+*C. Cunningham*
+
+<!--
+WR-ID: WR-L-031
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [It's Kind of Fun to Do the Impossible]
+BOOKLET_AUTHOR: Walt Disney
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Possibility
+- Imagination
+NOTES: None
+-->
+
+## [It's Kind of Fun to Do the Impossible]
+
+It's kind of fun to do the impossible.
+
+*Walt Disney*
+
+<!--
+WR-ID: WR-L-032
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [To Achieve the Impossible]
+BOOKLET_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Imagination
+- Vision
+NOTES: None
+-->
+
+## [To Achieve the Impossible]
+
+To achieve the impossible, one must think absurd; to look where everyone else has looked, but to see what no one else has seen.
+
+*Unknown*
+
+<!--
+WR-ID: WR-L-033
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [To See a World in a Grain of Sand]
+BOOKLET_AUTHOR: William Blake
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Beauty
+- Wonder
+NOTES: None
+-->
+
+## [To See a World in a Grain of Sand]
+
+To see a world in a grain of sand\
+And heaven in a wild flower,\
+Hold infinity in the palm of your hand\
+And eternity in an hour.
+
+*William Blake*
+
+<!--
+WR-ID: WR-L-034
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [You Can Only Go Halfway into the Darkest Forest]
+BOOKLET_AUTHOR: Chinese Proverb
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Journey
+- Perseverance
+NOTES: None
+-->
+
+## [You Can Only Go Halfway into the Darkest Forest]
+
+You can only go halfway into the darkest forest, then you are coming out the other side.
+
+*Chinese Proverb*
+
+<!--
+WR-ID: WR-L-035
+PAGE: 15
+SECTION: Life
+STATUS: NEEDS RESEARCH
+TITLE: [The Worst Sin Toward Our Fellow Creatures]
+BOOKLET_AUTHOR: George Bernard Shaw
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: None
+THEMES:
+- Compassion
+- Humanity
+NOTES: None
+-->
+
+## [The Worst Sin Toward Our Fellow Creatures]
+
+The worst sin toward our fellow creatures is not to hate them but to be indifferent to them, that's the essence of inhumanity.
+
+*George Bernard Shaw*

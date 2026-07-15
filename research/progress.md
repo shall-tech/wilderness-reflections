@@ -5,12 +5,12 @@
 - Front cover
 - Introduction and table of contents
 - Life divider: original pages 7-8
-- Life pages 9-14
+- Life pages 9-15
 
 ## Next batch
 
-- Resume on original page 15 with "The Road not Taken."
-- Continue through original page 16 if visual verification remains unambiguous.
+- Resume on original page 16 with "The Mending Wall."
+- Continue through original page 17 if visual verification remains unambiguous.
 
 ## Source
 
