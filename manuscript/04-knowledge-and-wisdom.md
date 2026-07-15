@@ -2168,3 +2168,387 @@ NOTES: None
 A Californian whom I had recently the pleasure of meeting observed that if the philosophers had lived among your mountains, their systems would have been different from what they are. Certainly very different from what those systems are which the European genteel tradition has handed down since Socrates; for these systems are egotistical; directly or indirectly they are anthropocentric, and inspired by the conceited notion the man, or human reason, or the human distinction between good and evil, is the center and pivot of the universe. That is what the mountains and woods should make you at last ashamed to assert.
 
 *George Santayana*
+
+<!-- Original Booklet Page 41 -->
+
+<!--
+WR-ID: WR-KW-076
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: King of the Mountain
+BOOKLET_AUTHOR: Edward Cunningham
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Poem
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Growth
+- Possibility
+NOTES: None
+-->
+
+## King of the Mountain
+
+This is the first time for the girl, a time of revelation,\
+Mysteries unravel at this height, patterns emerge.\
+She stands woman-tall, shoulder to shoulder, with the sun and laughs to think that such a\
+splendid world had ever frightened her.\
+All that she sees, farm and forest, pasture and prairie, city and country, and continent, stretches\
+before her like tomorrows filled with promise...\
+She was born to this kingdom.\
+In time it will be hers to explore, to make her own.\
+One climb is over, another just beginning.\
+She is rich in days, wealthy in possibilities.\
+And here in this crowning moment,\
+For the very first time... She knows.
+
+*Edward Cunningham*
+
+<!--
+WR-ID: WR-KW-077
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [In the Woods, Too]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Woods
+- Renewal
+NOTES: None
+-->
+
+## [In the Woods, Too]
+
+In the woods, too, a man casts off his years, as the snake his slough, and at what period so ever of life is always a child.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-KW-078
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Mountains and Deserts]
+BOOKLET_AUTHOR: George Schaller
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Exploration
+NOTES: None
+-->
+
+## [Mountains and Deserts]
+
+Mountains and deserts, with their sparse life at the limit of existence, make one restless and disconsolate; one becomes an explorer in an intellectual realm as well as in a physical one.
+
+*George Schaller*
+
+<!--
+WR-ID: WR-KW-079
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [He Who Reads the Landscape]
+BOOKLET_AUTHOR: Barry Lopez
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Landscape
+- Observation
+NOTES: None
+-->
+
+## [He Who Reads the Landscape]
+
+He who reads the landscape without the aid of maps as a matter of habit, becomes as sophisticated of eye as it is popular to believe the bat is sophisticated of ear.
+
+*Barry Lopez*
+
+<!--
+WR-ID: WR-KW-080
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [When I Would Recreate Myself]
+BOOKLET_AUTHOR: Henry David Thoreau
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Swamps
+- Nature
+NOTES: None
+-->
+
+## [When I Would Recreate Myself]
+
+When I would recreate myself, I seek the darkest wood, the thickest and most interminable, and to the citizen, most dismal swamp. I enter the swamp as a sacred place - a sanctum sanctorum. There is strength, the marrow of Nature.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-081
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [About Mountains It Is Useless to Argue]
+BOOKLET_AUTHOR: Ralph Waldo Emerson
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Mountains
+- Attention
+NOTES: None
+-->
+
+## [About Mountains It Is Useless to Argue]
+
+About mountains it is useless to argue, you have either been up or you haven't. The view from halfway is nobody's view. The best flowers are on top under a ledge, nourished by the wind. A sense of smell is of less importance than a sense of balance, walking on clouds through holes in which you can see the earth, the wind has its own level to find.
+
+To the attentive eye, each movement of the year has it's own beauty, and in the same field it beholds, every hour, a picture which was never seen before and which shall never be seen again.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-KW-082
+PAGE: 41
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [He Who Has Achieved This State]
+BOOKLET_AUTHOR: Lao Tzu
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Verse
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Equanimity
+- Wisdom
+NOTES: None
+-->
+
+## [He Who Has Achieved This State]
+
+He who has achieved this state\
+Is unconcerned with friends and enemies,\
+With good and harm, with honor and disgrace.\
+This therefore is the highest state of man.
+
+*Lao Tzu*
+
+<!-- Original Booklet Page 42 -->
+
+<!--
+WR-ID: WR-KW-083
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Ability to See the Cultural Value of Wilderness]
+BOOKLET_AUTHOR: Aldo Leopold
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Wilderness
+- Humility
+NOTES: None
+-->
+
+## [Ability to See the Cultural Value of Wilderness]
+
+Ability to see the cultural value of wilderness boils down, in the last analysis, to a question of intellectual humility. The shallow minded modern who has lost his rootage in the land assumes that he has already discovered what is important.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-084
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Am in Love with This World]
+BOOKLET_AUTHOR: John Burroughs
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- World
+- Beauty
+NOTES: None
+-->
+
+## [I Am in Love with This World]
+
+I am in love with this world. I have nestled lovingly in it I have climbed its mountains, roamed its forests, sailed its waters, crossed its deserts, felt the sting of its frosts, the oppression of its heats, the drench of its rains, the fury of its winds, and always have beauty and joy waited upon my goings and comings.
+
+*John Burroughs*
+
+<!--
+WR-ID: WR-KW-085
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [To Touch and Feel Is to Experience]
+BOOKLET_AUTHOR: Hyemeyohsts Storm Seven Arrows
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Experience
+- Life
+NOTES: None
+-->
+
+## [To Touch and Feel Is to Experience]
+
+To touch and feel is to experience. Many people live out their entire lives without ever really touching or being touched by anything. These people live within a world of mind and imagination that may move them sometimes to joy, tears, happiness or sorrow. But these people never really touch. They do not live and become one with life.
+
+*Hyemeyohsts Storm Seven Arrows*
+
+<!--
+WR-ID: WR-KW-086
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [I Touched the Nothingness of Air]
+BOOKLET_AUTHOR: Nancy Wood
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Awareness
+- Perception
+NOTES: None
+-->
+
+## [I Touched the Nothingness of Air]
+
+I touched the nothingness of air once and felt nothing. I touched it again and felt a breeze. I filled my lungs with air and smelled nothing. I filled my body and soul with it and smelled the violets. I read a tight-fisted poem once and realized nothing. I read it again and was surprised to see it burst into blossom and reveal its inner palm. To look once is to be blind. To look again is to see inside. To run quickly and glance is to realize nothing. To move slowly and become what you look at is to realize that nothing does not exist. Do you see what reality is or do you see what you want it to be? Is he saying what's in his heart or what he thinks is in yours? To see a person is to know what he is. To see through a person is to know why he is like that. To know what a forest is you must become part of the green coolness that is that forest. And when you return they'll say, "Where have you been?" and you'll reply "I've been in a forest." And they will look at you and sigh and wonder when you will learn that you can't go around pretending to be what you aren't. And you will know what they are thinking and say, "But how can I know what a forest feels unless I feel it too?" And they'll wonder when their problem child is going to change and begin to learn something useful.
+
+*Nancy Wood*
+
+<!--
+WR-ID: WR-KW-087
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Awareness Is Becoming Acquainted with Environment]
+BOOKLET_AUTHOR: Sigurd F. Olsen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Awareness
+- Wonder
+NOTES: None
+-->
+
+## [Awareness Is Becoming Acquainted with Environment]
+
+Awareness is becoming acquainted with environment, no matter where one happens to be. Man does not suddenly become aware or infused with wonder; it is something we are born with. No child need be told its secret; he keeps it until the influence of gadgetry and the indifference of teenage satiation extinguish its intuitive joy.
+
+*Sigurd F. Olsen*
+
+<!--
+WR-ID: WR-KW-088
+PAGE: 42
+SECTION: Knowledge and Wisdom
+STATUS: NEEDS RESEARCH
+TITLE: [Simplicity in All Things]
+BOOKLET_AUTHOR: Sigurd F. Olsen
+VERIFIED_AUTHOR: Unknown
+WORK_TYPE: Quotation
+EXCERPT: No
+RELATIONSHIP: Unknown
+SOURCE_VERIFIED: No
+SOURCE_CONFIDENCE: Low
+FIRST_PUBLICATION: Unknown
+OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
+THEMES:
+- Simplicity
+- Wilderness
+NOTES: None
+-->
+
+## [Simplicity in All Things]
+
+Simplicity in all things is the secret of the wilderness and one of its most valuable lessons. It is what we leave behind that is important. I think the matte of simplicity goes farther than just food, equipment, and unnecessary gadgets; it goes into the matter of thoughts and objectives as well. When in the wilds, we must not carry our problems with us or the joy is lost.
+
+*Sigurd F. Olsen*
