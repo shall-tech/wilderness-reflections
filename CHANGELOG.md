@@ -47,3 +47,4 @@
 - Removed captured shell-warning and patch-seam artifacts from earlier manuscript batches.
 - Added the First Line Index divider and transcribed the Sources page.
 - Documented missing Author Index pages 82-84 and First Line Index pages 86-90 after processing all supplied PDF scans.
+- Transcribed the newly supplied Author Index pages 82-84.
