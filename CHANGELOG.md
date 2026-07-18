@@ -48,3 +48,5 @@
 - Added the First Line Index divider and transcribed the Sources page.
 - Documented missing Author Index pages 82-84 and First Line Index pages 86-90 after processing all supplied PDF scans.
 - Transcribed the newly supplied Author Index pages 82-84.
+- Transcribed the newly supplied First Line Index pages 86-87 and documented the remaining pages 88-90 gap.
+- Documented and canonically corrected the updated PDF's out-of-order placement of Sources page 91.
