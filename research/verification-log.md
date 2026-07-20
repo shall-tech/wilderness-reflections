@@ -282,3 +282,13 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete sentence with "toward" substituted for Shaw's "towards" and punctuation modernized.
 - Evidence: [Project Gutenberg play text](https://www.gutenberg.org/files/3638/3638-h/3638-h.htm) and [act-level citation](https://libquotes.com/george-bernard-shaw/quote/lbm6w2x).
 - Confidence: High.
+
+## 2026-07-20 - Life page 16
+
+### WR-L-036 - The Mending Wall
+
+- Verified author: Robert Frost.
+- Source identity: "Mending Wall," first published in *North of Boston* (1914).
+- Relationship: Complete poem with a changed title, one omitted line, and numerous textual variants. The booklet omits "There where it is we do not need the wall" and changes, among other readings, "meet to walk" to "meet and walk," "make them balance" to "make the balance," "our fingers rough with handling" to "out fingers rough handling," "built" to "build," "to whom" to "who," "stone grasped" to "stone to grasped," and "go behind" to "go beyond."
+- Evidence: [Poetry Foundation poem text](https://www.poetryfoundation.org/poems/44266/mending-wall) and [Academy of American Poets collection record](https://poets.org/book/north-boston).
+- Confidence: High.

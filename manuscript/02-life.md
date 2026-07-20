@@ -1163,22 +1163,22 @@ The worst sin toward our fellow creatures is not to hate them but to be indiffer
 WR-ID: WR-L-036
 PAGE: 16
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Mending Wall
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with a changed title, one omitted line, and numerous textual variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: North of Boston (1914)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Boundaries
 - Community
-NOTES: None
+NOTES: Frost's title is "Mending Wall." The booklet omits "There where it is we do not need the wall" and includes numerous variants, including "meet and walk" for "meet to walk," "make the balance" for "make them balance," "out fingers rough handling" for "our fingers rough with handling," "build" for "built," "who" for "to whom," "to grasped" for "grasped," and "go beyond" for "go behind." Punctuation, hyphenation, and quotation marks also differ.
 -->
 
 ## The Mending Wall

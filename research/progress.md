@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-035 on original page 15.
+- Source verification is complete through WR-L-036 on original page 16.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-036, "The Mending Wall," on original page 16.
+- Next entry: WR-L-037, "The Man Who Sat on the Ground," on original page 17.
 
 ## Source
 
