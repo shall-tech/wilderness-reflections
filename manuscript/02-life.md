@@ -471,22 +471,22 @@ At the end of the open road we come to ourselves.
 WR-ID: WR-L-013
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The More You Put In
 BOOKLET_AUTHOR: Reverend Bill Sutherland
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Rev. Bill Sutherland
 WORK_TYPE: Reflection
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Anecdote reprinted without its concluding application to Scouting
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Printed in Scottish Scout News; date unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Generosity
 - Service
-NOTES: None
+NOTES: A Scout songbook credits Sutherland and Scottish Scout News and includes an additional concluding sentence applying the anecdote to Scouting and life.
 -->
 
 ## The More You Put In
@@ -509,22 +509,23 @@ After the man had left, the boy look up at his dad. "Father," he said, "if you h
 WR-ID: WR-L-014
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Grow Wild According to Thy Nature]
 BOOKLET_AUTHOR: Terry and Renny Russell
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Adapted excerpt from Walden, "Baker Farm"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Walden; or, Life in the Woods (1854)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Preserved the booklet attribution while recording Thoreau as the verified author.
 THEMES:
 - Wilderness
 - Freedom
-NOTES: None
+NOTES: The passage is Thoreau's, not Terry and Renny Russell's. The booklet changes "rumble" to "ramble," "threaten" to "threatens," "farmers'" to "farmer's," and omits words in the penultimate sentence.
 -->
 
 ## [Grow Wild According to Thy Nature]
@@ -537,22 +538,22 @@ Grow wild according to thy nature, like these sedges and brakes, which will neve
 WR-ID: WR-L-015
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The World Is Your Exercise Book]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard Bach
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt from Illusions: The Adventures of a Reluctant Messiah
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Choice
 - Responsibility
-NOTES: None
+NOTES: A published scholarly quotation identifies the passage as page 127; the booklet reverses "lies, or nonsense" to "nonsense, or lies" and has minor punctuation variants.
 -->
 
 ## [The World Is Your Exercise Book]
@@ -565,13 +566,13 @@ The world is your exercise book, the pages on which you do your sums. It is not 
 WR-ID: WR-L-016
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Live as to Die Tomorrow]
 BOOKLET_AUTHOR: Isadore of Seville
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Variant of a long-circulating maxim attributed to several writers
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -580,7 +581,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Learning
 - Purpose
-NOTES: None
+NOTES: The maxim has been attributed to Isidore of Seville, Edmund Rich, Alain de Lille, Erasmus, and later Gandhi. No primary text by Isidore was located; the booklet also misspells his name as "Isadore."
 -->
 
 ## [Live as to Die Tomorrow]
@@ -593,22 +594,22 @@ Live as to die tomorrow. Learn as to live forever.
 WR-ID: WR-L-017
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Try Not to Become a Man of Success]
 BOOKLET_AUTHOR: Albert Einstein
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Albert Einstein
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed quotation from a 1955 interview
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Death of a Genius," Life, May 2, 1955
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Character
 - Values
-NOTES: None
+NOTES: The booklet omits "but rather try to" from the second clause and the explanatory sentences that follow.
 -->
 
 ## [Try Not to Become a Man of Success]
@@ -621,22 +622,22 @@ Try not to become a man of success, rather become a man of value.
 WR-ID: WR-L-018
 PAGE: 13
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Left the Woods]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt from Walden, "Conclusion"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Walden; or, Life in the Woods (1854)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Reflection
-NOTES: None
+NOTES: Substantially complete consecutive excerpt with minor punctuation and compound-word variants.
 -->
 
 ## [I Left the Woods]

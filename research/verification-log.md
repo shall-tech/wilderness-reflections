@@ -101,3 +101,51 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: One-line excerpt, reproduced accurately.
 - Evidence: [Washington Post review identifying the poem and collection](https://www.washingtonpost.com/archive/entertainment/books/2003/10/26/i-first-fell-for-louis-simpso/5a71a9a3-35fd-40a4-8152-4da20f7bbcda/) and [Walt Whitman Quarterly Review textual discussion](https://whitmanarchive.org/criticism/wwqr/pdf/anc.00371.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Life page 13
+
+### WR-L-013 - The More You Put In
+
+- Verified author: Rev. Bill Sutherland.
+- Relationship: The booklet omits a final application: "And isn't that true about everything - Scouting, living? The more you put in you will get out."
+- Evidence: [Scout songbook reprint crediting Rev. Bill Sutherland and *Scottish Scout News*](https://dankohn.info/~scouts/songbook/fives.pdf).
+- Confidence: Medium; the cited original issue and date remain unknown.
+
+### WR-L-014 - [Grow Wild According to Thy Nature]
+
+- Verified author: Henry David Thoreau, correcting the booklet's attribution to Terry and Renny Russell.
+- Source identity: *Walden*, "Baker Farm" (1854).
+- Relationship: Adapted excerpt. The booklet contains several wording errors or alterations and omits parts of Thoreau's sentences.
+- Evidence: [Walden Woods Project attribution](https://www.walden.org/quotation-category/economy-2/economy/) and [Digital Thoreau, "Baker Farm"](https://digitalthoreau.org/walden/fluid/text/10.html).
+- Confidence: High.
+
+### WR-L-015 - [The World Is Your Exercise Book]
+
+- Verified author: Richard Bach.
+- Source identity: *Illusions: The Adventures of a Reluctant Messiah* (1977), page 127 in the cited edition.
+- Relationship: Complete short passage with minor punctuation and word-order variants.
+- Evidence: [University of Wisconsin dissertation quoting and citing the passage](https://research.cs.wisc.edu/graphics/Papers/Gleicher/Thesis/Acrobat/thesisA.pdf).
+- Confidence: High for work identity and wording; a direct edition scan remains preferable.
+
+### WR-L-016 - [Live as to Die Tomorrow]
+
+- Booklet attribution: "Isadore of Seville," intended as Isidore of Seville.
+- Finding: Attribution unresolved. Variants have been assigned to Isidore, Edmund Rich, Alain de Lille, Erasmus, and Gandhi, but no primary Isidore location was found.
+- Evidence: [1969 printed attribution to Isidore](https://documents.adventistarchives.org/Periodicals/RH/RH19690814-V146-33.pdf) and [discussion of related medieval wording and uncertain source](https://wp.cune.edu/matthewphillips/page/18/).
+- Confidence: Low for attribution.
+
+### WR-L-017 - [Try Not to Become a Man of Success]
+
+- Verified author: Albert Einstein.
+- Source identity: William Miller's interview "Death of a Genius," published in *Life* on May 2, 1955.
+- Relationship: Condensed quotation; the full sentence reads "Try not to become a man of success, but rather try to become a man of value."
+- Evidence: [Interview context and transcription](https://www.sundheimgroup.com/a-brief-visit-with-einstein/).
+- Confidence: High.
+
+### WR-L-018 - [I Left the Woods]
+
+- Verified author: Henry David Thoreau.
+- Source identity: *Walden*, "Conclusion" (1854).
+- Relationship: Substantially complete consecutive excerpt with minor punctuation and compound-word variants.
+- Evidence: [Project Gutenberg text of *Walden*](https://www.gutenberg.org/files/205/205-h/205-h.htm).
+- Confidence: High.
