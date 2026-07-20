@@ -69,3 +69,4 @@
 - Verified the next three Life page 19 entries, identifying Joel Asaph Allen's bison study, documenting Wendell Berry's condensed excerpt, and correcting the authorship and wording of a Braveheart line.
 - Completed Life page 19 verification, tracing the Gilgamesh line to Herbert Mason, correcting Carver's name, and identifying Boone and Emerson sources.
 - Verified the first three Life page 20 entries, identifying Slim Hooey's poem and Whitman's source while separating a later proverb from Shakespeare's actual wording.
+- Reviewed the next three Life page 20 entries, documenting the unsupported Tecumseh tradition, a transmitted China Galland attribution, and Joseph Sax's verified book source.

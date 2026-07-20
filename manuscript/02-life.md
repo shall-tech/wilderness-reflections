@@ -2173,13 +2173,13 @@ A coward dies a thousand deaths, a brave man only one.
 WR-ID: WR-L-070
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Love Your Life]
 BOOKLET_AUTHOR: The Twelfth Commandment of the Redman
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Adapted excerpt from a modern speech widely but unsupportedly attributed to Tecumseh
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2188,7 +2188,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Service
-NOTES: None
+NOTES: The wording circulates as part of a longer supposed speech by Tecumseh and as a "Commandment of the Redman," but no contemporary Shawnee-language or documentary source was located. The booklet adds phrases absent from common versions.
 -->
 
 ## [Love Your Life]
@@ -2201,22 +2201,22 @@ Love your life, perfect your life, beautify all things in life; glory in your st
 WR-ID: WR-L-071
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Acceptance Is the Art of Making the Obstacle the Path]
 BOOKLET_AUTHOR: China Galland
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: China Galland (as circulated)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete quotation as circulated; original publication not located
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Acceptance
 - Courage
-NOTES: None
+NOTES: Later witnesses consistently attribute the passage to Galland, but none located in this pass identifies the original book, essay, or date.
 -->
 
 ## [Acceptance Is the Art of Making the Obstacle the Path]
@@ -2229,22 +2229,22 @@ Acceptance is the art of making the obstacle the path. Therefore, embrace the en
 WR-ID: WR-L-072
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Preservationist Is Not an Elitist]
 BOOKLET_AUTHOR: Joseph Sax
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Joseph L. Sax
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Essay excerpt
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Mountains Without Handrails: Reflections on the National Parks (1980)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Conservation
 - Stewardship
-NOTES: None
+NOTES: The checked source supports the wording and context as Sax's argument about preservationists as moralists rather than exclusionary elitists.
 -->
 
 ## [The Preservationist Is Not an Elitist]

@@ -555,3 +555,27 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: The exact wording is a later proverb, not a verbatim Shakespeare line. It paraphrases *Julius Caesar*: "Cowards die many times before their deaths; / The valiant never taste of death but once."
 - Evidence: [Proverb record](https://goodliving.com/quotation/proverb-a-coward-dies-a-thousand-deaths-a-brave-man-only-one/) and [1959 *Maverick* witness for the exact modern wording](https://www.imdb.com/title/tt0644537/quotes/).
 - Confidence: High for the Shakespearean precursor; the originator of the exact modern form remains unresolved.
+
+## 2026-07-20 - Life page 20, entries 4-6
+
+### WR-L-070 - [Love Your Life]
+
+- Booklet attribution: "The Twelfth Commandment of the Redman."
+- Finding: Cultural and historical attribution unresolved. The passage is an adaptation of part of a longer modern speech widely attributed to Shawnee leader Tecumseh, but no contemporary Shawnee-language text, witness, or documentary source was located. The booklet also adds "glory in your strength and beauty" and "Rejoice in the fullness of your aliveness," which are absent from common Tecumseh-attributed versions.
+- Evidence: [1984-86 Tecumseh-attributed witness](https://www.njhistorical.org/uploads/Ringwood/Newsletter%201984-1986.pdf), [1993 sourcebook citation record](https://www.azquotes.com/quotes/topics/love-your-life.html?p=3), and [later treatment as one of twelve Indigenous commandments](https://wilmetteinstitute.org/wp-content/uploads/2018/12/Chapter-1-Selected-Writings-found-in-the-BF-on-Indians-of-the-WHemisp-LB-.pdf).
+- Confidence: High that the text was circulating in these modern forms; low for the claimed Tecumseh or traditional Indigenous origin.
+
+### WR-L-071 - [Acceptance Is the Art of Making the Obstacle the Path]
+
+- Booklet attribution: China Galland.
+- Finding: Later witnesses consistently repeat the complete passage under Galland's name, but no original book, essay, or date was located.
+- Evidence: [Wilderness-reading compilation](https://www.layinggroundwork.org/wp-content/uploads/2018/04/Readings-For-The-Wilderness-Jeff-Wagner.pdf) and [later outdoor-community witness](https://www.myccr.com/phpBB3_PROD/viewtopic.php?p=351020&t=37618).
+- Confidence: Medium for the transmitted attribution; low for original provenance.
+
+### WR-L-072 - [The Preservationist Is Not an Elitist]
+
+- Verified author: Joseph L. Sax.
+- Source identity: *Mountains Without Handrails: Reflections on the National Parks* (1980).
+- Relationship: Essay excerpt articulating Sax's view of preservationists as moralists seeking conversion rather than exclusion.
+- Evidence: [Searchable book text and publication note](https://dokumen.pub/download/mountains-without-handrails-reflections-on-the-national-parks.html) and [contemporary academic review quoting the key sentence](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/55588/LQN.0026.003.pdf?isAllowed=y&sequence=1).
+- Confidence: High.
