@@ -2,4 +2,4 @@
 
 This repository contains a page-verified Markdown transcription of the supplied scan of *Wilderness Reflections*, a book distributed to Philmont staff from the 1980s to the 2000s.
 
-All 81 leaves present in the updated PDF have been processed. The supplied scan still omits original First Line Index pages 88-90; placeholders and the source-gap details are documented in the manuscript and editorial notes pending replacement scans.
+All 84 leaves present in the updated PDF have been processed and visually verified. The scan now includes the complete Author and First Line indexes through original page 90, followed by Sources on original page 91; intentionally omitted blank leaves are documented in the editorial notes.

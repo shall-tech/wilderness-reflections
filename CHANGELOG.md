@@ -50,3 +50,5 @@
 - Transcribed the newly supplied Author Index pages 82-84.
 - Transcribed the newly supplied First Line Index pages 86-87 and documented the remaining pages 88-90 gap.
 - Documented and canonically corrected the updated PDF's out-of-order placement of Sources page 91.
+- Transcribed the newly supplied First Line Index pages 88-90.
+- Updated the scan map and completion notes after visually verifying all 84 supplied leaves through original page 91.

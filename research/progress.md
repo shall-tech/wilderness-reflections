@@ -12,24 +12,24 @@
 - Beauty divider and pages 53-64
 - Wilderness divider and pages 65-80
 - Author Index divider and pages 81-84
-- First Line Index divider and pages 85-87; content pages 88-90 absent from scan
+- First Line Index divider and pages 85-90
 - Sources: original page 91
 
-## Next batch
+## Completion status
 
 - Leadership intake is complete through original page 30.
 - Knowledge and Wisdom intake is complete through original page 46.
 - Scouting and Adventures intake is complete through original page 51.
 - Beauty intake is complete through original page 64.
 - Wilderness intake is complete through original page 80.
-- All 81 supplied PDF scans have been processed and visually verified.
-- Original booklet pages 88-90 are absent from the supplied scan and remain untranscribed.
-- Resume when replacement scans of the missing index pages are available.
+- All 84 supplied PDF scans have been processed and visually verified.
+- The complete indexes and Sources page have been transcribed through original page 91.
+- Blank reverse leaves omitted from the scan remain documented as inferred blanks.
 
 ## Source
 
 - Scan: Wilderness Reflections.pdf
-- Scan length: 81 PDF pages
+- Scan length: 84 PDF pages
 - Text layer: none; transcription requires OCR plus visual comparison
-- Missing source leaves: original pages 88-90
-- Final PDF ordering anomaly: original page 91 precedes original pages 86-87
+- Missing source leaves: intentionally omitted blank reverse pages only
+- Final sequence: original pages 81-90, followed by Sources on original page 91

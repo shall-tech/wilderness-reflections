@@ -11,7 +11,7 @@
 
 ## Scan mapping
 
-The source PDF contains 76 scanned leaves. The first content sequence is:
+The current source PDF contains 84 scanned leaves. The first content sequence is:
 
 | PDF page | Original booklet page | Content |
 | ---: | ---: | --- |
@@ -36,4 +36,4 @@ The scan moves directly from the Wilderness divider on original page 65 to conte
 
 At the transition from Wilderness to the Author Index, the scan moves from original page 79 directly to the Author Index divider on original page 81. Original page 80 is treated as the blank reverse of the preceding content leaf, but no separate scanned leaf is present.
 
-The updated scan supplies Author Index pages 82-84 and First Line Index pages 86-87. Near the end, its PDF order is original pages 81-85, then page 91, then pages 86-87; the canonical manuscript restores original pagination by placing Sources after the First Line Index. Original First Line Index pages 88-90 remain absent and require replacement scans.
+The updated scan supplies the complete Author Index on original pages 82-84 and the complete First Line Index on original pages 86-90. It ends with Sources on original page 91. Blank reverse leaves omitted during scanning are represented only by the inferred-page notes above.
