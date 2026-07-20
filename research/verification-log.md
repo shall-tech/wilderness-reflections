@@ -1004,3 +1004,34 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Corrupted excerpt. The source reads "will be soon reduced, from mere barrenness, to the poorest of all imitations" and "obliged"; the booklet substitutes "will soon," "bareness," "limitations," and "obligated." Its attribution prints "studends" and 1974 rather than 1774.
 - Evidence: [Scanned edition of Reynolds's life and discourses](https://upload.wikimedia.org/wikipedia/commons/c/cf/The_life_and_discourses_of_Sir_Joshua_Reynolds%2C_first_president_of_the_Royal_Academy_%28IA_lifediscoursesof00reyn%29.pdf) and [Project Gutenberg text](https://www.gutenberg.org/files/52436/52436-h/52436-h.htm).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 34, entries 5-8
+
+### WR-KW-016 - [The Old Lakota Was Wise]
+
+- Verified author and source: Luther Standing Bear, *Land of the Spotted Eagle* (1933).
+- Relationship: Condensed passage. The source begins "The old Lakota were wise," uses plural pronouns, and ends "So they kept their youth close to its softening influence." The booklet singularizes the passage and omits its ending.
+- Evidence: [Walden Woods Project source list with edition and page locator](https://www.walden.org/wp-content/uploads/2016/03/Bristers-Hill-Quotations-List-FINAL-4-2-04.pdf) and [extended passage witness](https://dspace.lib.hawaii.edu/bitstream/10790/3004/1/herman.l-2013-0001.pdf).
+- Confidence: High.
+
+### WR-KW-017 - [Natural Wilderness Is a Factor for World Stability]
+
+- Verified author and source: Sir Frank Fraser Darling, *Wilderness and Plenty: The 1969 Reith Lectures*, fourth lecture.
+- Relationship: Condensed composite. The source says wilderness is "a factor for world stability, not some remote place inimical to the human being" and later "not remote or indifferent, but an active agent in maintaining a habitable world." The booklet joins the clauses with a dash.
+- Evidence: [John Muir Trust review reproducing the extended primary passage](https://www.johnmuirtrust.org/assets/000/000/772/JMT_Journal_45_autumn_2008_original_original.pdf?1603115800=).
+- Confidence: High.
+
+### WR-KW-018 - [Remember What You Have Seen]
+
+- Circulated attribution: Navajo wind chant; the booklet calls it "a Navaho mantra."
+- Source identity: Epigraph to William Least Heat-Moon's *Blue Highways* (1982), later circulated as "The Lesson of the Winds."
+- Finding: No Navajo-language text, collector, ceremony, or earlier ethnographic source was located, so the claimed traditional provenance remains unresolved.
+- Evidence: [Later quotation record citing the Blue Highways epigraph](https://www.spiritualityandpractice.com/quotes/quotations/view/9768/spiritual-quotation) and [archived reproduction as "The Lesson of the Winds"](https://www.geocities.ws/mikerdna/june2000.html).
+- Confidence: Medium for the modern print history; low for traditional provenance.
+
+### WR-KW-019 - [Many of Our Greatest American Thinkers]
+
+- Verified author and source: Robert Marshall, "The Forest for Recreation," in *A National Plan for American Forestry* (U.S. Senate Document 12, 1933).
+- Relationship: Complete sentence; the source uses em dashes around the list where the booklet uses commas.
+- Evidence: [Digitized U.S. government report](https://upload.wikimedia.org/wikipedia/commons/6/6a/FEDLINK_-_United_States_Federal_Collection_%28IA_CAT31418412%29.pdf).
+- Confidence: High.

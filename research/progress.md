@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-015 on original page 34; Life and Leadership are complete.
+- Source verification is complete through WR-KW-019 on original page 34; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-016, "The Old Lakota Was Wise," on original page 34.
+- Next entry: WR-KW-020, "Come Forth into the Light of Things," on original page 34.
 
 ## Source
 

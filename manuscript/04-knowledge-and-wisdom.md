@@ -439,22 +439,22 @@ He who resolves never to ransack any mind but his own, will soon be reduced, fro
 WR-ID: WR-KW-016
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Old Lakota Was Wise]
 BOOKLET_AUTHOR: Chief Luther Standing Bear
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed passage from Land of the Spotted Eagle
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Land of the Spotted Eagle (1933)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Respect
-NOTES: None
+NOTES: The fuller passage begins "The old Lakota were wise," later uses "They knew" twice, and ends "So they kept their youth close to its softening influence." The booklet singularizes the opening and pronouns and omits the surrounding material.
 -->
 
 ## [The Old Lakota Was Wise]
@@ -467,22 +467,22 @@ The old Lakota was wise, he knew that man's heart, away from nature, becomes har
 WR-ID: WR-KW-017
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Natural Wilderness Is a Factor for World Stability]
 BOOKLET_AUTHOR: Sir Frank Fraser Darling
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sir Frank Fraser Darling
+WORK_TYPE: Lecture Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed composite from the fourth Wilderness and Plenty Reith Lecture
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Wilderness and Plenty: The 1969 Reith Lectures (1969)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Stability
-NOTES: None
+NOTES: The source says wilderness is "a factor for world stability, not some remote place inimical to the human being" and later "not remote or indifferent, but an active agent in maintaining a habitable world." The booklet joins the separated clauses with a dash.
 -->
 
 ## [Natural Wilderness Is a Factor for World Stability]
@@ -495,22 +495,22 @@ Natural wilderness is a factor for world stability - an active agent in maintain
 WR-ID: WR-KW-018
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Remember What You Have Seen]
 BOOKLET_AUTHOR: from a Navaho mantra
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Navajo tradition (specific source unverified)
+WORK_TYPE: Traditional Verse
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Verse circulated as a Navajo wind chant and used as an epigraph to Blue Highways
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In print by Blue Highways (1982); traditional provenance not established
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Memory
 - Nature
-NOTES: None
+NOTES: The verse appears as the epigraph to William Least Heat-Moon's Blue Highways and in later sources as "The Lesson of the Winds" or a Navajo wind chant. No Navajo-language text, collector, ceremony, or earlier ethnographic source was located; the booklet's "Navaho mantra" label remains unverified.
 -->
 
 ## [Remember What You Have Seen]
@@ -526,22 +526,22 @@ Returns to the circling winds.
 WR-ID: WR-KW-019
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Many of Our Greatest American Thinkers]
 BOOKLET_AUTHOR: Bob Marshall
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Robert Marshall
+WORK_TYPE: Government Report Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete sentence from "The Forest for Recreation"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A National Plan for American Forestry (U.S. Senate Document 12, 1933)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Forest
 - Thought
-NOTES: None
+NOTES: The source uses em dashes around "men of the caliber..." while the booklet uses commas; wording is otherwise exact.
 -->
 
 ## [Many of Our Greatest American Thinkers]
