@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-044 on original page 36; Life and Leadership are complete.
+- Source verification is complete through WR-KW-048 on original page 37; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-045, "Wisdom Is Supreme," on original page 37.
+- Next entry: WR-KW-049, "We Have Loved the Stars Too Fondly," on original page 37.
 
 ## Source
 

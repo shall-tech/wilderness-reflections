@@ -1223,3 +1223,33 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: The exact sentence circulates under Schaller's name, but no book, article, field journal, interview, page reference, or contemporaneous witness was located.
 - Evidence: [Later exact-wording attribution](https://www.azquotes.com/quote/594044).
 - Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+## 2026-07-20 - Knowledge and Wisdom page 37, entries 1-4
+
+### WR-KW-045 - [Perspective - Use It or Lose It]
+
+- Verified author and source: Richard Bach, *Illusions: The Adventures of a Reluctant Messiah* (1977), in the Messiah's Handbook passages.
+- Relationship: Nearly complete passage. The booklet omits "that" from "you're forgetting that what is going on around you is not reality" and changes capitalization and punctuation.
+- Evidence: [Extended quotation witness](https://www.goodreads.com/quotes/879693-perspective---use-it-or-lose-it-if-you-turned).
+- Confidence: High.
+
+### WR-KW-046 - [The Simplest Questions]
+
+- Verified author and source: Richard Bach, *Illusions: The Adventures of a Reluctant Messiah* (1977), in the Messiah's Handbook passages.
+- Relationship: Complete passage with a scan-confirmed booklet error: "Where were your born?" for source "Where were you born?" The booklet also omits a comma after "once in a while."
+- Evidence: [Extended *Illusions* quotation collection](https://www.barefootsworld.org/illusions.html) and [independent work attribution](https://www.worte-projekt.de/bach.html).
+- Confidence: High.
+
+### WR-KW-047 - [The Old People Came Literally to Love the Soil]
+
+- Verified author and source: Luther Standing Bear, *Land of the Spotted Eagle* (1933); p. 192 in the 2006 University of Nebraska Press edition.
+- Relationship: Paragraph excerpt. The source has "tipis" for the booklet's "teepees" and "flew in the air" for "flew into the air," with minor punctuation differences.
+- Evidence: [Edition and page locator](https://www.azquotes.com/quote/673399) and [independent 1933 attribution](https://www.whatismissing.org/content/love-of-the-soil-luther-standing-bear).
+- Confidence: High.
+
+### WR-KW-048 - [The White Man Does Not Understand the Indian]
+
+- Verified author and source: Luther Standing Bear, *Land of the Spotted Eagle* (1933).
+- Relationship: Extended excerpt. The source reads "this frontier continent" and "fastnesses" where the booklet prints "his frontier continent" and "vastness"; it also has the plural possessive "forefathers' bones."
+- Evidence: [Encyclopedia excerpt identifying the work](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/excerpt-land-spotted-eagle-1933-luther-standing-bear) and [fuller comparison witness](https://core.ac.uk/download/pdf/235885364.pdf).
+- Confidence: High.

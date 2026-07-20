@@ -1264,22 +1264,22 @@ A ruin is not just something that happened long ago to someone else; its history
 WR-ID: WR-KW-045
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Perspective - Use It or Lose It]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Richard Bach
+WORK_TYPE: Novel Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Messiah's Handbook passage from Illusions: The Adventures of a Reluctant Messiah
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Perspective
 - Reality
-NOTES: None
+NOTES: The source says "you're forgetting that what is going on around you is not reality"; the booklet omits "that." The source also prints the heading with title capitalization. The remainder matches apart from punctuation and contraction styling.
 -->
 
 ## [Perspective - Use It or Lose It]
@@ -1292,22 +1292,22 @@ Perspective - use it or lose it. If you turned this page, you're forgetting what
 WR-ID: WR-KW-046
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Simplest Questions]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Richard Bach
+WORK_TYPE: Novel Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Messiah's Handbook passage from Illusions: The Adventures of a Reluctant Messiah
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Questions
 - Reflection
-NOTES: None
+NOTES: The source reads "Where were you born?" The booklet's scan-confirmed "Where were your born?" is preserved as printed. The source also includes a comma after "once in a while."
 -->
 
 ## [The Simplest Questions]
@@ -1320,22 +1320,22 @@ The simplest questions are the most profound. Where were your born? Where is you
 WR-ID: WR-KW-047
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Old People Came Literally to Love the Soil]
 BOOKLET_AUTHOR: Chief Luther Standing Bear
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Paragraph excerpt from Land of the Spotted Eagle
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Land of the Spotted Eagle (1933)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Indigenous wisdom
-NOTES: None
+NOTES: The source uses "tipis," not the booklet's "teepees," and "flew in the air," not "flew into the air." The booklet otherwise closely follows the paragraph, with minor punctuation differences.
 -->
 
 ## [The Old People Came Literally to Love the Soil]
@@ -1348,22 +1348,22 @@ The old people came literally to love the soil and they sat or reclined on the g
 WR-ID: WR-KW-048
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The White Man Does Not Understand the Indian]
 BOOKLET_AUTHOR: Chief Luther Standing Bear
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Extended excerpt from Land of the Spotted Eagle
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Land of the Spotted Eagle (1933)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Land
 - Belonging
-NOTES: None
+NOTES: The source reads "this frontier continent" and "fastnesses," where the booklet has "his frontier continent" and "vastness." It also uses "mountaintops" or "mountain-tops" by edition and the plural possessive "forefathers' bones"; the booklet's singular possessive is preserved as printed.
 -->
 
 ## [The White Man Does Not Understand the Indian]

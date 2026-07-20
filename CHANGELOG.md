@@ -94,3 +94,4 @@
 - Began Knowledge and Wisdom page 36 with the Guanzi precursor, Paiakan, an unresolved Ibn Gabirol attribution, and Walking Buffalo's longer source context.
 - Continued Knowledge and Wisdom page 36 with Bernard's letter, Spinoza's scan-confirmed wording error, and two provenance-unresolved sayings.
 - Completed Knowledge and Wisdom page 36, recovering Brother Patrick Duffy's omitted identity and identifying Thackeray and Camus sources while leaving Schaller provenance unresolved.
+- Began Knowledge and Wisdom page 37, verifying two Richard Bach passages and two Luther Standing Bear excerpts while documenting scan-confirmed wording variants.
