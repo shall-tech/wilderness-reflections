@@ -752,22 +752,22 @@ Now I see the secret of making the best person, it is to grow in the open air an
 WR-ID: WR-KW-027
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Those Who Know Do Not Talk]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution); Gia-Fu Feng and Jane English translation
+WORK_TYPE: Philosophical Text Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening two lines of Tao Te Ching, chapter 56
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Tao Te Ching: A New Translation (Feng and English, 1972; ancient Chinese source)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Knowledge
 - Silence
-NOTES: None
+NOTES: The booklet gives no attribution, but its exact "talk" wording matches the Gia-Fu Feng and Jane English translation of chapter 56.
 -->
 
 ## [Those Who Know Do Not Talk]
@@ -781,13 +781,13 @@ Those who talk do not know.
 WR-ID: WR-KW-028
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Fact Remains]
 BOOKLET_AUTHOR: T.J. Walker
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: T. J. Walker (identity and attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Walker-attributed environmental-education statement; original source not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -796,7 +796,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Nature
 - Observation
-NOTES: None
+NOTES: Focused exact-phrase and name searches found no publication, interview, institutional record, or reliable biographical identification for T. J. Walker.
 -->
 
 ## [The Fact Remains]
@@ -809,22 +809,22 @@ The fact remains that the people who profess to know about these things and to l
 WR-ID: WR-KW-029
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Born with Curiosity and Wonder]
 BOOKLET_AUTHOR: Sigurd F. Olsen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Reflections from the North Country
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Reflections from the North Country (1976)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Curiosity
 - Wonder
-NOTES: None
+NOTES: The booklet misspells Olson as "Olsen." The quoted wording matches the source passage, including the grammatically compressed phrase "our early years full."
 -->
 
 ## [Born with Curiosity and Wonder]
@@ -837,22 +837,22 @@ While we are born with curiosity and wonder and our early years full of the adve
 WR-ID: WR-KW-030
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Awaken People's Curiosity]
 BOOKLET_AUTHOR: Anatole France
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anatole France (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely circulated France-attributed teaching maxim; original work not located
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In English-language quotation collections by 1983; original occasion unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Curiosity
 - Teaching
-NOTES: None
+NOTES: The passage appears under France's name in environmental-education materials and in a corresponding French form, but no title, speech, letter, or primary French publication was located. Later copies alternate between "inflammable" and "flammable."
 -->
 
 ## [Awaken People's Curiosity]

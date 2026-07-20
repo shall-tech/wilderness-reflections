@@ -1088,3 +1088,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Altered two-line excerpt. Whitman writes "the secret of the making of the best persons"; the booklet omits "the making of," changes plural to singular, and renders the verse as prose.
 - Evidence: [Whitman Archive 1856 edition](https://whitmanarchive.org/about/archive/wwa-2000-to-2007/published/LG/1856/poems/12.html) and [Whitman Archive 1881-82 edition](https://whitmanarchive.org/item/ppp.01663_01749).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 35, entries 5-8
+
+### WR-KW-027 - [Those Who Know Do Not Talk]
+
+- Verified source: *Tao Te Ching*, chapter 56, traditionally attributed to Laozi.
+- Translation identity: Gia-Fu Feng and Jane English, *Tao Te Ching: A New Translation* (1972).
+- Relationship: Exact opening two lines; the booklet supplies no attribution.
+- Evidence: [Translation comparison for chapter 56](https://www.egreenway.com/taoism/ttclz56.htm) and [bilingual text reproducing the exact translation](https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/tao-te-ching/Accurate-Translation-of-the-Tao-Te-Ching.pdf).
+- Confidence: High.
+
+### WR-KW-028 - [The Fact Remains]
+
+- Booklet attribution: T. J. Walker.
+- Finding: Focused exact-phrase and name searches found no publication, interview, institutional record, or reliable biographical identification.
+- Confidence: Low.
+
+### WR-KW-029 - [Born with Curiosity and Wonder]
+
+- Verified author and source: Sigurd F. Olson, *Reflections from the North Country* (1976), p. 153.
+- Relationship: Complete passage. The booklet misspells Olson as "Olsen"; the compressed phrase "our early years full" agrees with the source.
+- Evidence: [Book and page locator](https://www.azquotes.com/author/24694-Sigurd_F_Olson) and [independent institutional reproduction](https://www.stowelandtrust.org/fileadmin/files/newsletters/2010_Fall_Newsletter_web.pdf).
+- Confidence: High.
+
+### WR-KW-030 - [Awaken People's Curiosity]
+
+- Booklet attribution: Anatole France.
+- Finding: The full passage circulates under France's name in environmental-education materials and in a corresponding French form, but no title, speech, letter, or primary French publication was located. Copies alternate between "inflammable" and "flammable."
+- Evidence: [1983 quotation-collection citation](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/NBFU/TC-UNB-320.pdf), [later National Park Service witness](https://www.anpr.org/assets/ranger_magazine/Volume-10-Number-3.pdf), and [circulating French text](https://scienceforallnew.blogspot.com/2013/04/t68-favorite-quotes-from-great-french.html).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.
