@@ -848,3 +848,31 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Condensed statement. The standard form continues "regardless of their chosen field of endeavor," which the booklet omits.
 - Evidence: [2011 Congressional Record attribution](https://www.congress.gov/congressional-record/volume-157/issue-28/extensions-of-remarks-section/article/E332-1), [U.S. Air Force use of the fuller wording](https://www.travis.af.mil/News/Article/152339/late-football-coachs-statements-still-relevent-today/), and [1998 print citation](https://www.azquotes.com/quote/178087).
 - Confidence: Medium because no contemporaneous Lombardi speech or writing was located.
+
+## 2026-07-20 - Leadership page 28, entries 9-12
+
+### WR-LE-021 - [The Journey of a Thousand Miles]
+
+- Verified source: *Tao Te Ching*, chapter 64, traditionally attributed to Laozi.
+- Relationship: Familiar modern English rendering. The Chinese says a journey of a thousand *li* begins beneath one's feet; the booklet substitutes miles and a single step and misattributes the saying to Chuang Tzu.
+- Evidence: [Chinese text and close English translation](https://www.tao-te-ching.org/64) and [translation and attribution history](https://en.wikipedia.org/wiki/A_journey_of_a_thousand_miles_begins_with_a_single_step).
+- Confidence: High.
+
+### WR-LE-022 - [Everything Begins with Leadership]
+
+- Finding: Focused exact-phrase searches found no identifiable original publication, speaker, or earlier witness.
+- Confidence: Low; retained as an anonymous leadership maxim.
+
+### WR-LE-023 - [Where There Is No Vision]
+
+- Verified source: Proverbs 29:18, first clause, King James Version.
+- Relationship: Exact first clause; the booklet omits "but he that keepeth the law, happy is he." Modern translations commonly render the key terms as prophetic revelation and casting off restraint.
+- Evidence: [Parallel KJV and modern translations](https://www.biblegateway.com/passage/?search=Proverbs+29%3A18&version=KJV%3BNIV%3BNKJV).
+- Confidence: High.
+
+### WR-LE-024 - [Hold Yourself Responsible]
+
+- Booklet attribution: Henry Ward Beecher.
+- Finding: Later quotation collections frequently assign the opening two sentences to Beecher, but no Beecher speech, sermon, book, or contemporaneous witness was located. The complete four-sentence form is less consistently reproduced.
+- Evidence: [Later Civil Air Patrol print witness](https://hc.pcr.cap.gov/downloads/P265_002V3_2010.pdf) and [quotation record identifying its own source as Wikiquote](https://fixquotes.com/quotes/hold-yourself-responsible-for-a-higher-standard-35079/).
+- Confidence: Medium that the attribution is widely transmitted; original provenance unresolved.

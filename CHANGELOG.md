@@ -80,3 +80,4 @@
 - Completed Leadership page 27 verification through the remaining Phillips epigrams and Richard Bach's *Illusions* maxim.
 - Began Leadership page 28 verification, identifying altered *Witch Hunt* dialogue and separating an anonymous luck proverb from unsupported Patton attribution.
 - Continued Leadership page 28 through Lutzenberger, Stoddart, and Lombardi, while documenting the unresolved Don Hummel attribution.
+- Completed Leadership page 28 verification, correcting the thousand-mile saying to Laozi, identifying the KJV excerpt, and documenting two unresolved maxims.

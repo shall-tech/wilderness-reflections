@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-LE-020 on original page 28.
+- Source verification is complete through WR-LE-024 on original page 28.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-LE-021, "The Journey of a Thousand Miles," on original page 28.
+- Next entry: WR-LE-025, "I Learned This, at Least, by My Experiment," on original page 29.
 
 ## Source
 

@@ -575,22 +575,22 @@ The quality of a person's life is in direct proportion to their commitment to ex
 WR-ID: WR-LE-021
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Journey of a Thousand Miles]
 BOOKLET_AUTHOR: Chuang Tse
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_TYPE: Philosophical Text Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Modern English rendering of Tao Te Ching, chapter 64; misattributed to Chuang Tzu
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ancient Chinese text; date uncertain (traditionally c. fourth century BCE)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Beginnings
-NOTES: None
+NOTES: The Chinese text says literally that a journey of a thousand li begins beneath one's feet. The familiar English form substitutes miles and a single step. The passage belongs to the Tao Te Ching, traditionally attributed to Laozi, rather than to Chuang Tzu.
 -->
 
 ## [The Journey of a Thousand Miles]
@@ -603,13 +603,13 @@ The journey of a thousand miles begins with a single step.
 WR-ID: WR-LE-022
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Everything Begins with Leadership]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Anonymous leadership maxim
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -618,7 +618,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Leadership
 - Influence
-NOTES: None
+NOTES: Focused exact-phrase searches found no identifiable original publication, speaker, or earlier witness.
 -->
 
 ## [Everything Begins with Leadership]
@@ -631,22 +631,22 @@ Everything begins with leadership; you start a spiral up or down.
 WR-ID: WR-LE-023
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Where There Is No Vision]
 BOOKLET_AUTHOR: Proverbs 29:18
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Biblical Book of Proverbs
+WORK_TYPE: Scripture Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: First clause of Proverbs 29:18 in the King James Version
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: King James Bible (1611; ancient Hebrew source)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Vision
 - Leadership
-NOTES: None
+NOTES: The booklet omits the verse's second clause, "but he that keepeth the law, happy is he." Modern translations commonly render the key terms as prophetic revelation and casting off restraint.
 -->
 
 ## [Where There Is No Vision]
@@ -659,22 +659,22 @@ Where there is no vision, the people perish.
 WR-ID: WR-LE-024
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Hold Yourself Responsible]
 BOOKLET_AUTHOR: Henry Ward Beecher
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry Ward Beecher (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Beecher-attributed maxim; full form not traced to an original source
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Responsibility
 - Standards
-NOTES: None
+NOTES: Later quotation collections frequently attribute the opening two sentences to Beecher, but no Beecher speech, sermon, book, or contemporaneous witness was located. The complete four-sentence form is less consistently reproduced.
 -->
 
 ## [Hold Yourself Responsible]
