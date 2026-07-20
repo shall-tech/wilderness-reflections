@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-018 on original page 13.
+- Source verification is complete through WR-L-022 on original page 14.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-019, "To My Friend," on original page 14.
+- Next entry: WR-L-023, "Some Think That Happiness Comes from Getting," on original page 14.
 
 ## Source
 

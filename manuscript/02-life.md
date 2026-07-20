@@ -652,22 +652,23 @@ I left the woods for as good a reason as I went there. Perhaps it seemed to me t
 WR-ID: WR-L-019
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: To My Friend
 BOOKLET_AUTHOR: Susan Poliz Schuetz
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Susan Polis Schutz
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Poem attributed to Schutz; direct source text not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Corrected the intended author identity in metadata while preserving the booklet spelling.
 THEMES:
 - Friendship
 - Encouragement
-NOTES: None
+NOTES: Schutz's publications and correct name are verified, but this poem was not located in an inspectable edition during this pass.
 -->
 
 ## To My Friend
@@ -687,22 +688,22 @@ and how lucky I am to know you.
 WR-ID: WR-L-020
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Don't Be Dismayed at Good Byes]
 BOOKLET_AUTHOR: Richard Bach
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard Bach
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Quotation from Illusions: The Adventures of a Reluctant Messiah
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Friendship
 - Farewell
-NOTES: None
+NOTES: The booklet prints "good byes" and omits "those who are" before the final word "friends."
 -->
 
 ## [Don't Be Dismayed at Good Byes]
@@ -715,22 +716,23 @@ Don't be dismayed at good byes. A farewell is necessary before you can meet agai
 WR-ID: WR-L-021
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [An Agreeable Companion on a Journey]
 BOOKLET_AUTHOR: Max 143, Publius Syrus
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Publilius Syrus
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Maxim 143 in Darius Lyman's 1856 English translation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ancient Latin maxim; English translation published 1856
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Interpreted "Max 143" as a source pointer, not part of the author's name.
 THEMES:
 - Friendship
 - Journey
-NOTES: None
+NOTES: Modern references generally spell the author Publilius Syrus; the booklet prints Publius Syrus.
 -->
 
 ## [An Agreeable Companion on a Journey]
@@ -743,22 +745,22 @@ An agreeable companion on a journey is as good as a carriage.
 WR-ID: WR-L-022
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Happiness Is a Perfume]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Modernized variant of an anonymous nineteenth-century maxim
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Earliest located appearance: Punch, October 11, 1856
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Happiness
 - Service
-NOTES: None
+NOTES: Often attributed to Ralph Waldo Emerson or Og Mandino, but the saying appeared anonymously before either claimed source and has not been located in Emerson's works.
 -->
 
 ## [Happiness Is a Perfume]

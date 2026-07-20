@@ -149,3 +149,36 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Substantially complete consecutive excerpt with minor punctuation and compound-word variants.
 - Evidence: [Project Gutenberg text of *Walden*](https://www.gutenberg.org/files/205/205-h/205-h.htm).
 - Confidence: High.
+
+## 2026-07-20 - Life page 14, batch 1
+
+### WR-L-019 - To My Friend
+
+- Intended author identity: Susan Polis Schutz, correcting the booklet's "Susan Poliz Schuetz."
+- Finding: Attribution unresolved at the source-text level. Schutz's bibliography and 1972 debut collection are verified, but the poem was not located in an inspectable edition or reliable text source.
+- Evidence: [Google Books record for Schutz's 1972 collection](https://books.google.com/books/about/Come_Into_the_Mountains_Dear_Friend.html?id=ojdbAAAAMAAJ) and [Blue Mountain Arts author history](https://www.sps.com/susan-and-stephen-schutz).
+- Confidence: High for the intended author identity; low for placement in a specific work.
+
+### WR-L-020 - [Don't Be Dismayed at Good Byes]
+
+- Verified author: Richard Bach.
+- Source identity: *Illusions: The Adventures of a Reluctant Messiah* (1977).
+- Relationship: Complete short passage with two booklet variants: "good byes" for "good-byes" and "friends" for "those who are friends."
+- Evidence: [Work-linked quotation record](https://www.goodreads.com/quotes/49393-don-t-be-dismayed-at-good-byes-a-farewell-is-necessary-before) and [1994 printed witness](https://archives.nd.edu/observer/1994-04-15_v26_124.pdf).
+- Confidence: High for attribution and work identity; direct edition inspection remains desirable.
+
+### WR-L-021 - [An Agreeable Companion on a Journey]
+
+- Verified author: Publilius Syrus.
+- Source identity: Maxim 143 in Darius Lyman's *The Moral Sayings of Publius Syrus, a Roman Slave* (1856 translation).
+- Relationship: Complete maxim, accurately reproduced. The booklet's "Max 143" is a citation marker.
+- Evidence: [1856 translation record and maxim number](https://en.wikiquote.org/wiki/Publilius_Syrus) and [1917 printed epigraph](https://upload.wikimedia.org/wikipedia/commons/9/97/Great_companions_%28IA_cu31924013350313%29.pdf).
+- Confidence: High.
+
+### WR-L-022 - [Happiness Is a Perfume]
+
+- Verified author: Anonymous.
+- Source identity: A variant appeared anonymously in *Punch* on October 11, 1856 and circulated in periodicals from the 1850s onward.
+- Relationship: Modernized wording using "pour" and "getting" in place of the earlier "shed over" and "falling on oneself."
+- Evidence: [Historical source investigation and witness chronology](https://www.firstnerve.com/2008/10/happiness-is-perfume.html?showComment=1308313505955).
+- Confidence: High that the early saying was anonymous; no evidence supports later Emerson or Og Mandino claims.
