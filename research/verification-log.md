@@ -27,3 +27,21 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The booklet's two sentences are a shortened, modernized English paraphrase, not a verbatim rendering of the checked translation.
 - Evidence: [German text](https://www.gutenberg.org/cache/epub/7205/pg7205-images.html) and [Thomas Common English translation](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm).
 - Confidence: High.
+
+## 2026-07-20 - Life page 10
+
+### WR-L-004 - The Men That Don't Fit In
+
+- Verified author: Robert W. Service.
+- Source identity: "The Men That Don't Fit In" in *Songs of a Sourdough* (1907), published in the United States as *The Spell of the Yukon and Other Verses*.
+- Relationship: Complete poem with booklet variants. Among them, the source reads "prime is past," while the booklet prints "prime has past."
+- Evidence: [Project Gutenberg transcription of the 1907 collection](https://www.gutenberg.org/files/207/207-h/207-h.htm).
+- Confidence: High.
+
+### WR-L-005 - [To Laugh Is to Risk Appearing the Fool]
+
+- Booklet attribution: Richard Bach, from *Illusions*.
+- Finding: Attribution unresolved. Searches found this circulating text called "Risks" or "Risk" and credited variously to Janet Rand, William Arthur Ward, Leo Buscaglia, or no named author. No reliable source found in this pass connects it to Richard Bach or *Illusions*.
+- Relationship: The booklet carries a shortened version of the circulating text.
+- Evidence: [Rajasthan secondary-education text attributing it to Janet Rand](https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/CitizenCorner/Prayas%202020/Prayas%202018%20notes/26.0118_Prayas%2718_English.pdf), [1985 publication crediting "Author Unknown"](https://mn.gov/mnddc/parallels2/pdf/80s/85/85-WIS-WIN2.pdf), and [2006 discussion reporting the author as unknown](https://citeseerx.ist.psu.edu/document?doi=b0f28cb836ab04ce9ebdf10d3881ea31b19998e2&repid=rep1&type=pdf).
+- Confidence: High that the booklet attribution is unsupported by the evidence found; low confidence in any alternative author attribution.

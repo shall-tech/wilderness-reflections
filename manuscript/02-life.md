@@ -136,22 +136,22 @@ You cannot learn to fly by flying. First, you must learn to walk, and to run, an
 WR-ID: WR-L-004
 PAGE: 10
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Men That Don't Fit In
 BOOKLET_AUTHOR: Robert Service
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert W. Service
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with textual variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Songs of a Sourdough (1907); US title The Spell of the Yukon and Other Verses
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Individuality
 - Perseverance
-NOTES: None
+NOTES: The booklet preserves the complete poem but has punctuation, capitalization, and wording variants, including "prime has past."
 -->
 
 ## The Men That Don't Fit In
@@ -210,13 +210,13 @@ He's a man who won't fit in.
 WR-ID: WR-L-005
 PAGE: 10
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [To Laugh Is to Risk Appearing the Fool]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating version of "Risks"; claimed connection to Illusions not verified
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -225,7 +225,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Risk
-NOTES: None
+NOTES: The text circulates under several attributions, including Janet Rand, William Arthur Ward, Leo Buscaglia, and anonymous. No reliable evidence located in this pass supports the booklet's Richard Bach attribution.
 -->
 
 ## [To Laugh Is to Risk Appearing the Fool]

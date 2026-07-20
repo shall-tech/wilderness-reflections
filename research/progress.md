@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-003 on original page 9.
+- Source verification is complete through WR-L-005 on original page 10.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-004, "The Men That Don't Fit In," on original page 10.
+- Next entry: WR-L-006, "Believe in Yourself!," on original page 11.
 
 ## Source
 
