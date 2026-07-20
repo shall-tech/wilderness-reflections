@@ -463,13 +463,13 @@ Guts is that determination that will not be denied.
 WR-ID: WR-LE-017
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Freedom Without Discipline]
 BOOKLET_AUTHOR: Fr. Don Hummel
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Don Hummel (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Maxim attributed to Don Hummel in the booklet
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -478,7 +478,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Freedom
 - Discipline
-NOTES: None
+NOTES: Focused exact-phrase searches found no identifiable Don Hummel, publication, speech, or independent witness. Related formulations about freedom, discipline, anarchy, and slavery are widespread but do not establish this attribution.
 -->
 
 ## [Freedom Without Discipline]
@@ -491,22 +491,22 @@ Freedom without discipline is anarchy, and anarchy is slavery.
 WR-ID: WR-LE-018
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Ecological Sanity and Social Justice]
 BOOKLET_AUTHOR: Jose Lutzenberger
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: José Lutzenberger
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed restatement of a sentence in "Brazil's Amazonian Alliance"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Brazil's Amazonian Alliance," The Ecologist 17, nos. 4/5 (1987)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Ecology
 - Justice
-NOTES: None
+NOTES: Lutzenberger's article says that "ecological sanity and social justice always go together"; the booklet recasts that point as "two faces of the same coin" and adds "they are inseparable."
 -->
 
 ## [Ecological Sanity and Social Justice]
@@ -519,22 +519,22 @@ Ecological sanity and social justice are like two faces of the same coin - they 
 WR-ID: WR-LE-019
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [People Need a Model]
 BOOKLET_AUTHOR: Marion Stoddart
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Marion Stoddart
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Complete statement consistently attributed to Stoddart
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Example
 - Inspiration
-NOTES: None
+NOTES: Multiple environmental compilations reproduce the exact statement and identify Stoddart as founder of the Nashua River Watershed Association, but the original interview, speech, or publication was not located.
 -->
 
 ## [People Need a Model]
@@ -547,22 +547,22 @@ People need a model. If they can see a place become beautiful, they're inspired 
 WR-ID: WR-LE-020
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Quality of a Person's Life]
 BOOKLET_AUTHOR: Vince Lombardi
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Vince Lombardi
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed version of a Lombardi-attributed statement
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Original occasion unknown; in print by 1998
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Commitment
 - Excellence
-NOTES: None
+NOTES: The standard fuller form continues "regardless of their chosen field of endeavor." The booklet ends before that qualification. No contemporaneous Lombardi speech or writing was located.
 -->
 
 ## [The Quality of a Person's Life]

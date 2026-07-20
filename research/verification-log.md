@@ -817,3 +817,34 @@ This log records the external evidence used during the post-transcription verifi
 - Booklet attribution: George S. Patton Jr.
 - Finding: Focused exact-phrase searches found no Patton speech, letter, diary, book, or contemporaneous witness.
 - Confidence: Low; retained as an unresolved transmitted attribution.
+
+## 2026-07-20 - Leadership page 28, entries 5-8
+
+### WR-LE-017 - [Freedom Without Discipline]
+
+- Booklet attribution: Fr. Don Hummel.
+- Finding: Focused exact-phrase searches found no identifiable Don Hummel, publication, speech, or independent witness. Related formulations are widespread but do not establish this attribution.
+- Confidence: Low.
+
+### WR-LE-018 - [Ecological Sanity and Social Justice]
+
+- Verified author: José Lutzenberger.
+- Source identity: "Brazil's Amazonian Alliance," *The Ecologist* 17, nos. 4/5 (1987).
+- Relationship: Condensed restatement. Lutzenberger writes that "ecological sanity and social justice always go together"; the booklet recasts the idea as "two faces of the same coin" and adds "they are inseparable."
+- Evidence: [Scanned 1987 issue](https://www.resurgence.org/download.cgi?isid=1987-07&serial=ecologist).
+- Confidence: High.
+
+### WR-LE-019 - [People Need a Model]
+
+- Verified speaker as circulated: Marion Stoddart, founder of the Nashua River Watershed Association.
+- Source identity: Original interview, speech, or publication not located.
+- Relationship: Complete statement consistently reproduced in environmental compilations.
+- Evidence: [Later public-record quotation compilation](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf), [environmental essay identifying Stoddart's role](https://naturally244.rssing.com/chan-16127603/all_p1.html), and [habitat-program use](https://www.drbonine.com/nwf.html).
+- Confidence: Medium.
+
+### WR-LE-020 - [The Quality of a Person's Life]
+
+- Verified speaker as circulated: Vince Lombardi.
+- Relationship: Condensed statement. The standard form continues "regardless of their chosen field of endeavor," which the booklet omits.
+- Evidence: [2011 Congressional Record attribution](https://www.congress.gov/congressional-record/volume-157/issue-28/extensions-of-remarks-section/article/E332-1), [U.S. Air Force use of the fuller wording](https://www.travis.af.mil/News/Article/152339/late-football-coachs-statements-still-relevent-today/), and [1998 print citation](https://www.azquotes.com/quote/178087).
+- Confidence: Medium because no contemporaneous Lombardi speech or writing was located.
