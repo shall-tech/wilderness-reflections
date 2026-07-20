@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-079 on original page 22.
+- Source verification is complete through WR-L-082 on original page 22.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-080, "Until One Is Committed," on original page 22.
+- Next entry: WR-L-083, "Great Actions and Thoughts," on original page 23.
 
 ## Source
 

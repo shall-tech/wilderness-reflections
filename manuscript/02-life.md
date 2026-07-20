@@ -2489,22 +2489,22 @@ There are no idealists in the plant world and no compassion. The rose and the mo
 WR-ID: WR-L-080
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Until One Is Committed]
 BOOKLET_AUTHOR: William H. Murray, The Scottish Himalayan Expedition
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William H. Murray
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Altered excerpt from The Scottish Himalayan Expedition
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Scottish Himalayan Expedition (1951)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Commitment
 - Courage
-NOTES: None
+NOTES: The booklet combines Murray's passage with a later paraphrase, changes several words and grammatical forms, and inserts "if he was still doing his thing." Murray called the closing lines a Goethe couplet, but they derive from John Anster's very loose 1835 translation of Faust rather than Goethe's literal wording.
 -->
 
 ## [Until One Is Committed]
@@ -2517,22 +2517,22 @@ Until one is committed, there is hesitancy, a chance to draw back, always ineffe
 WR-ID: WR-L-081
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Said Out Loud]
 BOOKLET_AUTHOR: Jack Kerouac, The Dharma Bums
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Jack Kerouac
 WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed and altered excerpt from the conclusion of The Dharma Bums
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Dharma Bums (1958)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Gratitude
-NOTES: None
+NOTES: The booklet omits "Japhy" before "I said out loud," condenses the description of Japhy's prayers, and contains several smaller wording and punctuation variants.
 -->
 
 ## [I Said Out Loud]
@@ -2545,22 +2545,22 @@ I said out loud, "I don't know when we'll meet again or what'll happen in the fu
 WR-ID: WR-L-082
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Keep Your Face to the Sunshine]
 BOOKLET_AUTHOR: Helen Keller
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Helen Keller
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Quotation documented in an undated interview record
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Unknown; quoted in "Sundry Interviews," A Magazet, undated
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Hope
 - Optimism
-NOTES: None
+NOTES: The American Foundation for the Blind's Helen Keller archive gives "shadows" in the plural; the booklet has singular "the shadow." A similar anonymous proverb was in print by 1912, so original coinage is not established.
 -->
 
 ## [Keep Your Face to the Sunshine]

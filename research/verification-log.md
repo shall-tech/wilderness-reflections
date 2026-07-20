@@ -642,3 +642,29 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete passage. Checked witnesses use the closed compounds "fencerow" and "roothold," where the booklet separates both words.
 - Evidence: [Complete attributed quotation record](https://citatis.com/a2011/31dda9/) and [Borland sourced-quotation index](https://libquotes.com/hal-borland).
 - Confidence: Medium for the transmitted attribution; low for original provenance.
+
+## 2026-07-20 - Life page 22, entries 4-6
+
+### WR-L-080 - [Until One Is Committed]
+
+- Verified author: William H. Murray.
+- Source identity: *The Scottish Himalayan Expedition* (1951).
+- Relationship: Altered book excerpt. The booklet combines Murray's text with wording from a later paraphrase, changes several grammatical forms, and inserts "if he was still doing his thing." The closing "Goethe couplet" derives from John Anster's very loose 1835 translation of *Faust*, not a literal Goethe text.
+- Evidence: [Fuller source passage with book citation and translation note](https://en.wikiquote.org/wiki/William_Hutchinson_Murray) and [biographical corroboration](https://en.wikipedia.org/wiki/W._H._Murray).
+- Confidence: High.
+
+### WR-L-081 - [I Said Out Loud]
+
+- Verified author: Jack Kerouac.
+- Source identity: Conclusion of *The Dharma Bums* (1958).
+- Relationship: Condensed and altered book excerpt. The booklet omits "Japhy" before "I said out loud," changes "Down on the lake" to "Down by the lake," substantially condenses the description of Japhy's prayers, and has smaller wording variants.
+- Evidence: [Searchable book-text witness](https://hemphorsehealer.com/wp-content/uploads/2022/10/Jack-Kerouac-The-Dharma-Bums.pdf), [work-attributed passage](https://www.goodreads.com/quotes/11480332-i-don-t-know-when-we-ll-meet-again-or-what-ll-happen), and [contemporary literary discussion locating it at the conclusion](https://www.independent.co.uk/arts-entertainment/travel-beat-a-path-to-ke-rouac-country-1359395.html).
+- Confidence: High.
+
+### WR-L-082 - [Keep Your Face to the Sunshine]
+
+- Verified speaker as documented: Helen Keller.
+- Source identity: Quoted in "Sundry Interviews," *A Magazet*, undated; original occasion remains unknown.
+- Relationship: Complete maxim. The archival record has plural "shadows," while the booklet has singular "the shadow." A similar anonymous proverb was documented in 1912.
+- Evidence: [American Foundation for the Blind Helen Keller archive](https://afb.org/about-afb/history/helen-keller/helen-keller-quotes/helen-keller-quotes-optimism) and [proverb/source-history note](https://en.wikiquote.org/wiki/Sunny).
+- Confidence: Medium because the interview date and original occasion are unavailable.
