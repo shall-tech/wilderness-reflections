@@ -693,3 +693,36 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two-sentence excerpt. The source joins the clauses with a semicolon and continues, "It is a gift for dealing with the accidents of existence, not the accidents themselves."
 - Evidence: [Complete searchable book text](https://www.fadedpage.com/books/20230843/html.php), [contextualized passage and page citation](https://quotepark.com/quotes/1428140-aldous-huxley-experience-is-not-what-happens-to-a-man-it-is-wha/), and [scholarly quotation witness](https://mytext.cnm.edu/wp-content/uploads/2019/06/Excerpts-from-Lauren-Camp-Ekphrastic-esssay-.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Leadership page 27, entries 1-4
+
+### WR-LE-001 - [A Great Leader Takes People]
+
+- Booklet attribution: Rosalynn Carter.
+- Finding: Later witnesses consistently repeat the attribution, commonly with "don't necessarily want to go," but no original speech, interview, book, date, or contemporaneous record was located.
+- Evidence: [2016 print witness](https://theglobaltimes.in/archives/April4_2016.pdf) and [later institutional quotation sheet](https://neffafoundation.org/file_download/672e9305-8287-47df-8feb-7fdde8f6d485).
+- Confidence: Medium for the transmitted attribution; low for original provenance.
+
+### WR-LE-002 - [In What Direction We Are Moving]
+
+- Verified author: Oliver Wendell Holmes Sr., not Justice Oliver Wendell Holmes Jr.
+- Source identity: "The Autocrat of the Breakfast-Table," *The Atlantic Monthly* (February 1858), collected in chapter 4 of *The Autocrat of the Breakfast-Table* (1858).
+- Relationship: Altered excerpt. The source reads, "I find the great thing in this world is not so much where we stand, as in what direction we are moving," and continues with a sailing metaphor. The booklet corrupts "not so much" to "not shown much."
+- Evidence: [Complete book text](https://www.gutenberg.org/files/751/751-h/751-h.htm) and [dated passage citation](https://wist.info/holmes-sr-oliver-wendell/1927/).
+- Confidence: High.
+
+### WR-LE-003 - [What Lies Within Us]
+
+- Verified author: Henry Stanley Haskins.
+- Source identity: *Meditations in Wall Street* (1940), initially published anonymously.
+- Relationship: Maxim misattributed to Ralph Waldo Emerson, whose surname the booklet also misspells "Emmerson."
+- Evidence: [Fact-check citing the Emerson corpus editor and Haskins source](https://checkyourfact.com/2019/08/15/fact-check-ralph-waldo-emerson-quote-what-lies-within-behind-before-us/) and [source-history summary](https://www.noahkeesecker.net/news/2014/10/25/henry-stanley-haskins-was-not-a-bodybuilder).
+- Confidence: High.
+
+### WR-LE-004 - [Four C's]
+
+- Booklet attribution: Walt Disney.
+- Finding: The core passage derives from a third-person account explaining Disney's success, not a verbatim Disney statement. In that account, Disney's own answer is that dreams are achieved "by working."
+- Relationship: Composite adaptation. The booklet changes "Constancy" to "consistency," rewrites the opening, and adds further Disney-attributed advice.
+- Evidence: [Source-history analysis reproducing the earlier account](https://mouseplanet.com/walt-never-said-it/5482/), [1986 advertising-hall biography preserving the standard form](https://www.oneclub.org/adc-hall-of-fame/-bio/walt-disney/), and [1984 newspaper witness](https://richesmi.cah.ucf.edu/sanford_herald/files/original/825b71dc55069c2e3ff4976cf0456cd6.pdf).
+- Confidence: High that the booklet is not verbatim Disney; underlying narrator and precise first publication remain unresolved.

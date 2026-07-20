@@ -14,13 +14,13 @@
 WR-ID: WR-LE-001
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [A Great Leader Takes People]
 BOOKLET_AUTHOR: Rosalynn Carter
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Rosalynn Carter (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely circulated leadership maxim attributed to Rosalynn Carter
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -29,7 +29,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Leadership
 - Vision
-NOTES: None
+NOTES: Later print and institutional witnesses consistently attribute the maxim to Rosalynn Carter, usually with "don't necessarily want to go." No speech, interview, book, date, or contemporaneous record was located.
 -->
 
 ## [A Great Leader Takes People]
@@ -42,22 +42,22 @@ A leader takes people where they want to go. A great leader takes people where t
 WR-ID: WR-LE-002
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In What Direction We Are Moving]
 BOOKLET_AUTHOR: Oliver Wendell Holmes
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Oliver Wendell Holmes Sr.
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Altered excerpt from The Autocrat of the Breakfast-Table, chapter 4
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Atlantic Monthly (February 1858); collected in The Autocrat of the Breakfast-Table (1858)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Direction
 - Progress
-NOTES: None
+NOTES: The source begins "I find" and reads "not so much where we stand, as in what direction we are moving," then continues with a sailing metaphor. The booklet changes "stand" to "are" and corrupts "not so much" to "not shown much."
 -->
 
 ## [In What Direction We Are Moving]
@@ -70,22 +70,22 @@ The great thing in this world is not shown much where we are, but in what direct
 WR-ID: WR-LE-003
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [What Lies Within Us]
 BOOKLET_AUTHOR: Ralph Waldo Emmerson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry Stanley Haskins
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Maxim from Meditations in Wall Street, misattributed to Emerson
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Meditations in Wall Street (1940, published anonymously)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Character
 - Potential
-NOTES: None
+NOTES: The booklet misspells Emerson as "Emmerson," but the larger issue is misattribution: the saying first appeared in Haskins's anonymously published Meditations in Wall Street. No occurrence exists in Emerson's works or letters.
 -->
 
 ## [What Lies Within Us]
@@ -98,13 +98,13 @@ What lies behind us and what lies before us are tiny matters compared to what li
 WR-ID: WR-LE-004
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Four C's]
 BOOKLET_AUTHOR: Walt Disney
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown; core "four C's" passage is not a verbatim Walt Disney statement
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Composite adaptation of a third-person account of Disney's success and later Disney-attributed advice
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -113,7 +113,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Confidence
 - Perseverance
-NOTES: None
+NOTES: The earliest located account describes the four C's in the narrator's voice and reports Disney answering that dreams are achieved "by working." The booklet changes "Constancy" to "consistency," rewrites the opening, and combines the four-C passage with additional Disney-attributed sentences.
 -->
 
 ## [Four C's]
