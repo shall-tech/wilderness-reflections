@@ -317,3 +317,63 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: Attribution unresolved and likely apocryphal. Scholarship reports that the saying began circulating under Crowfoot's name in 1938 and adapts the imagery and structure of a fictional African speaker's words in H. Rider Haggard's *King Solomon's Mines* (1885), changing "glow-worm" to "firefly" and "oxen" to "buffalo."
 - Evidence: [Kate Flint, "The Beauty of Fireflies: Transience, Myth, Entomological Intimacy"](https://19.bbk.ac.uk/article/8867/galley/22832/download/) and [later scholarly attribution witness](https://www.hrpub.org/download/20170130/AZB2-11408502.pdf).
 - Confidence: High that the Crowfoot attribution lacks historical support; medium for the precise transmission history pending direct inspection of Robert S. Carlisle's 1990 article.
+
+## 2026-07-20 - Life page 17, entries 4-11
+
+### WR-L-040 - [A Human Being Should Be Able To]
+
+- Booklet attribution: Lew Hitcher.
+- Finding: Substantial adaptation of Robert A. Heinlein's Lazarus Long maxim in *Time Enough for Love* (1973). The booklet preserves the opening formula, several later capabilities, and "Specialization is for insects," but replaces most of Heinlein's list. No evidence establishing Lew Hitcher's role was located.
+- Evidence: [Published-work quotation record](https://libquotes.com/robert-a-heinlein/works/time-enough-for-love) and [scholarly article quoting the passage with book and page citation](https://pubsonline.informs.org/doi/pdf/10.1287/opre.46.1.9).
+- Confidence: High for the Heinlein source; low for the Hitcher attribution.
+
+### WR-L-041 - [As for Small Difficulties and Worryings]
+
+- Booklet attribution: Herman Melville.
+- Finding: The first sentence is from Chapter 49, "The Hyena," of *Moby-Dick* (1851), with minor punctuation and wording changes. The appended sentence beginning "There is nothing like the perils of the wilderness" was not found in the checked novel or another identified Melville source.
+- Evidence: [Project Gutenberg Chapter 49 text](https://m.gutenberg.org/files/2489/2489-h/2489-h.htm) and [1980 *Earth First!* witness reproducing the same composite](https://www.environmentandsociety.org/sites/default/files/key_docs/ef_1_2_1.pdf).
+- Confidence: High for the first sentence; low for the second sentence's attribution.
+
+### WR-L-042 - [When You Lose Your Name]
+
+- Booklet attribution: Navajo saying.
+- Finding: Attribution unresolved. No Navajo-language form, named speaker, ethnographic collection, or reliable early source was located.
+- Confidence: Low.
+
+### WR-L-043 - [Play for More Than You Can Afford to Lose]
+
+- Booklet attribution: Winston Churchill.
+- Finding: Attribution unresolved. Later publications repeat the attribution, but no Churchill speech, book, letter, or archival citation was located.
+- Evidence: [Later published attribution witness](https://api.pageplace.de/preview/DT0400.9780429958823_A36247906/preview-9780429958823_A36247906.pdf).
+- Confidence: Low.
+
+### WR-L-044 - [If More of Us Valued Good Food and Drink]
+
+- Verified author: J.R.R. Tolkien, correcting the booklet's "J.R.R. Tolken."
+- Source identity: Thorin's farewell in *The Hobbit* (1937), Chapter 18, "The Return Journey."
+- Relationship: Paraphrase changing "food and cheer and song above hoarded gold" to "good food and drink over hoarded gold," and "merrier" to "happier ... indeed."
+- Evidence: [Edition-specific quotation record](https://www.magicalquote.com/bookquotes/if-more-of-us-valued-food/) and [chapter-level textual discussion](https://themathomhouse.org/2019/03/06/on-food-and-cheer-and-song/).
+- Confidence: High.
+
+### WR-L-045 - [Life Is a Daring Adventure]
+
+- Verified author: Helen Keller.
+- Source identity: *Let Us Have Faith* (1940).
+- Relationship: Shortened quotation omitting "either" and the following sentence.
+- Evidence: [American Foundation for the Blind quotation page](https://afb.org/fun-facts-and-quotes) and [work-level citation](https://libquotes.com/helen-keller/quote/lbm8j6j).
+- Confidence: High.
+
+### WR-L-046 - [The Best Way Out Is Always Through]
+
+- Verified author: Robert Frost.
+- Source identity: "A Servant to Servants" in *North of Boston* (1914).
+- Relationship: The booklet presents a clause as a standalone maxim, omitting the poem's "He says."
+- Evidence: [Project Gutenberg collection](https://www.gutenberg.org/ebooks/3026) and [full poem excerpt with context](https://www.hollandpublicschools.org/downloads/virtual_tech/a_servant_to_servants_-_poem_by_robert_frost.pdf).
+- Confidence: High.
+
+### WR-L-047 - [Once the Game Is Over]
+
+- Verified tradition: Tuscan/Italian proverb.
+- Relationship: Modern English variant of the older saying that at the end of the game the king and pawn both go into the bag.
+- Evidence: [Italian-language provenance discussion citing Francesco Bracciolini and an 1873-74 English witness](https://italian.stackexchange.com/questions/6855/the-chess-proverb).
+- Confidence: High for the Tuscan tradition; the precise age of the modern "same box" wording remains undetermined.

@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-039 on original page 17.
+- Source verification is complete through WR-L-047 on original page 17.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-040, "A Human Being Should Be Able To," on original page 17.
+- Next entry: WR-L-048, "If You Can Keep Your Head," on original page 18.
 
 ## Source
 

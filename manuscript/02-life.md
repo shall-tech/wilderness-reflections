@@ -1322,22 +1322,22 @@ What is life? It is the flash of a firefly in the night. It is the breath of a b
 WR-ID: WR-L-040
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [A Human Being Should Be Able To]
 BOOKLET_AUTHOR: Lew Hitcher
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert A. Heinlein (underlying text)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Substantial adaptation of a Lazarus Long maxim
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Time Enough for Love (1973)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Self-Reliance
 - Capability
-NOTES: None
+NOTES: The opening and closing structure derives from Heinlein, but the booklet replaces most of his capability list and attributes the adaptation to Lew Hitcher. No source establishing Hitcher's role was located.
 -->
 
 ## [A Human Being Should Be Able To]
@@ -1350,22 +1350,22 @@ A human being should be able to heal a wound, plan an expedition, order from a F
 WR-ID: WR-L-041
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [As for Small Difficulties and Worryings]
 BOOKLET_AUTHOR: Herman Melville
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Herman Melville (first sentence)
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Composite quotation; first sentence from Moby-Dick, second sentence not located
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Moby-Dick, Chapter 49, "The Hyena" (1851), for the first sentence
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Courage
-NOTES: None
+NOTES: The first sentence closely follows Chapter 49, changing "the unseen" to "an unseen" and removing hyphens. The sentence beginning "There is nothing like" was not found in the checked Moby-Dick text or another identified Melville work.
 -->
 
 ## [As for Small Difficulties and Worryings]
@@ -1378,13 +1378,13 @@ As for small difficulties and worryings, prospects of sudden disaster, peril of 
 WR-ID: WR-L-042
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [When You Lose Your Name]
 BOOKLET_AUTHOR: Navajo saying
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating saying with no identified Navajo-language or primary source
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1393,7 +1393,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Identity
 - Spirit
-NOTES: None
+NOTES: No reliable source was found for the claimed Navajo origin.
 -->
 
 ## [When You Lose Your Name]
@@ -1406,13 +1406,13 @@ When you lose your name, you become small. When you lose your spirit you become 
 WR-ID: WR-L-043
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Play for More Than You Can Afford to Lose]
 BOOKLET_AUTHOR: Winston Churchill
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating maxim attributed to Churchill without an identified primary source
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1421,7 +1421,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Risk
 - Learning
-NOTES: None
+NOTES: Later books repeat the Churchill attribution, but no speech, book, letter, or archival source was located.
 -->
 
 ## [Play for More Than You Can Afford to Lose]
@@ -1434,22 +1434,22 @@ Play for more than you can afford to lose, and you will learn the game.
 WR-ID: WR-L-044
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If More of Us Valued Good Food and Drink]
 BOOKLET_AUTHOR: J.R.R. Tolken
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: J.R.R. Tolkien
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Paraphrase of Thorin's words in The Hobbit
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Hobbit (1937), Chapter 18, "The Return Journey"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Simplicity
 - Happiness
-NOTES: None
+NOTES: The booklet misspells Tolkien as "Tolken" and changes "food and cheer and song above" to "good food and drink over," and "merrier" to "happier ... indeed."
 -->
 
 ## [If More of Us Valued Good Food and Drink]
@@ -1462,22 +1462,22 @@ If more of us valued good food and drink over hoarded gold, it would be a happie
 WR-ID: WR-L-045
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Life Is a Daring Adventure]
 BOOKLET_AUTHOR: Helen Keller
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Helen Keller
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Shortened quotation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Let Us Have Faith (1940)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Life
-NOTES: None
+NOTES: Keller's sentence begins "Life is either a daring adventure or nothing" and continues with a second sentence; the booklet omits "either" and stops after "nothing."
 -->
 
 ## [Life Is a Daring Adventure]
@@ -1489,22 +1489,22 @@ Life is a daring adventure, or it is nothing.
 WR-ID: WR-L-046
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Best Way Out Is Always Through]
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpted clause presented as a standalone maxim
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "A Servant to Servants" in North of Boston (1914)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Perseverance
 - Courage
-NOTES: None
+NOTES: Frost's poem reads "He says the best way out is always through"; the booklet omits "He says."
 -->
 
 ## [The Best Way Out Is Always Through]
@@ -1517,22 +1517,22 @@ The best way out is always through.
 WR-ID: WR-L-047
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Once the Game Is Over]
 BOOKLET_AUTHOR: Italian proverb
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Traditional Tuscan proverb
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Modern English rendering of a documented Tuscan chess proverb
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Attested in Italian by the early seventeenth century
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Equality
 - Mortality
-NOTES: None
+NOTES: An older form says that at the end of the game the king and pawn both go into the bag; the booklet's "same box" wording is a modern variant.
 -->
 
 ## [Once the Game Is Over]
