@@ -919,3 +919,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Corrupted variant. Lessing writes that human powers grow through the pursuit or search for truth rather than its possession; the booklet prints "inspiration to truth." The scan confirms that wording.
 - Evidence: [Cambridge translation of Lessing's philosophical and theological writings](https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Lessing-staibabussalamsula.ac_.id_.pdf) and [historical philosophy discussion identifying *Duplik*](https://en.wikisource.org/wiki/Page%3AA_Brief_History_of_Modern_Philosophy.djvu/139).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 33, entries 5-8
+
+### WR-KW-005 - [The End of All Our Exploring]
+
+- Verified author: T. S. Eliot.
+- Source identity: "Little Gidding," section V (1942), later collected in *Four Quartets* (1943).
+- Relationship: Three verse lines rendered as prose. The source immediately precedes them with "We shall not cease from exploration." The booklet misspells the author's surname as "Elliot."
+- Evidence: [Independent publication and passage witness](https://repository.derby.ac.uk/download/420787365ed9460604861a0a8c112fb8cfcdddcd4f632f87cc44515a5bb8b034/13002505/Reed_2017_Thesis_copyright_cleared_optimized_version.pdf) and [work overview](https://en.wikipedia.org/wiki/Little_Gidding_%28poem%29).
+- Confidence: High.
+
+### WR-KW-006 - [Once You Know Something]
+
+- Booklet attribution: Fr. Don Hummel.
+- Finding: Focused exact-phrase searches found no publication, speech, biographical identification, or independent witness.
+- Confidence: Low.
+
+### WR-KW-007 - [Learning Is Finding Out]
+
+- Verified author: Richard Bach.
+- Source identity: *Illusions: The Adventures of a Reluctant Messiah* (1977), Messiah's Handbook passage.
+- Relationship: Complete four-part passage. The booklet adds a comma after "know it" and omits "and" before "teachers" in the commonly printed source text.
+- Evidence: [Work-attributed quotation record](https://libquotes.com/richard-bach/quote/lbj2a3k) and [1981 print witness](https://files.eric.ed.gov/fulltext/ED197246.pdf).
+- Confidence: High.
+
+### WR-KW-008 - [An Awareness of the Totality of the Person]
+
+- Booklet attribution: Jean Berry.
+- Finding: Focused phrase and name searches found no identifiable original interview, publication, or reliable biographical match.
+- Confidence: Low.

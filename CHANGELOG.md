@@ -83,3 +83,4 @@
 - Completed Leadership page 28 verification, correcting the thousand-mile saying to Laozi, identifying the KJV excerpt, and documenting two unresolved maxims.
 - Completed Leadership verification with a scan-faithful comparison of the closing Thoreau excerpt against *Walden*.
 - Began Knowledge and Wisdom verification, locating the Emerson, Daumal, Næss, and Lessing sources and documenting booklet variants.
+- Continued Knowledge and Wisdom page 33 with Eliot and Bach source identifications and two unresolved personal attributions.

@@ -126,22 +126,22 @@ The inspiration to truth is more precious than its possession.
 WR-ID: WR-KW-005
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The End of All Our Exploring]
 BOOKLET_AUTHOR: T.S. Elliot
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: T. S. Eliot
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Three lines from Little Gidding, section V, rendered as prose
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Little Gidding (1942); collected in Four Quartets (1943)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Exploration
 - Knowledge
-NOTES: None
+NOTES: The source places the sentence across three verse lines and immediately follows "We shall not cease from exploration." The booklet misspells Eliot as "Elliot"; that printed attribution is preserved.
 -->
 
 ## [The End of All Our Exploring]
@@ -154,13 +154,13 @@ And the end of all our exploring will be to arrive where we started and know the
 WR-ID: WR-KW-006
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Once You Know Something]
 BOOKLET_AUTHOR: Fr. Don Hummel
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Don Hummel (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Hummel-attributed aphorism; original source not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -169,7 +169,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Knowledge
 - Belief
-NOTES: None
+NOTES: Focused exact-phrase searches found no publication, speech, biographical identification, or independent witness for the attribution.
 -->
 
 ## [Once You Know Something]
@@ -182,22 +182,22 @@ Once you know something, you can no longer believe it.
 WR-ID: WR-KW-007
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Learning Is Finding Out]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Richard Bach
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Messiah's Handbook passage from Illusions
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Learning
 - Teaching
-NOTES: None
+NOTES: The booklet preserves the four-line presentation but adds a comma after "know it" and omits "and" before "teachers" in the commonly printed source text.
 -->
 
 ## [Learning Is Finding Out]
@@ -213,13 +213,13 @@ You are all learners, doers, teachers.
 WR-ID: WR-KW-008
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [An Awareness of the Totality of the Person]
 BOOKLET_AUTHOR: Jean Berry
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Jean Berry (identity and attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Jean Berry-attributed statement; original interview or publication not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -228,7 +228,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Awareness
 - Wholeness
-NOTES: None
+NOTES: Focused phrase and name searches found no identifiable original source or reliable biographical match.
 -->
 
 ## [An Awareness of the Totality of the Person]
