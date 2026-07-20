@@ -726,3 +726,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Composite adaptation. The booklet changes "Constancy" to "consistency," rewrites the opening, and adds further Disney-attributed advice.
 - Evidence: [Source-history analysis reproducing the earlier account](https://mouseplanet.com/walt-never-said-it/5482/), [1986 advertising-hall biography preserving the standard form](https://www.oneclub.org/adc-hall-of-fame/-bio/walt-disney/), and [1984 newspaper witness](https://richesmi.cah.ucf.edu/sanford_herald/files/original/825b71dc55069c2e3ff4976cf0456cd6.pdf).
 - Confidence: High that the booklet is not verbatim Disney; underlying narrator and precise first publication remain unresolved.
+
+## 2026-07-20 - Leadership page 27, entries 5-8
+
+### WR-LE-005 - [Every Right Implies a Responsibility]
+
+- Verified source and compiler: Waite Phillips's *Epigrams*, first published as a pamphlet by Elliott W. Phillips in 1964.
+- Relationship: Composite entry. Its opening triad closely adapts John D. Rockefeller Jr.'s credo, changing "possession" to "position"; the appended sentence about sermons was not traced to an earlier source.
+- Evidence: [Philmont Scout Ranch edition description and publication history](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [matching Philmont quotation collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html), and [Rockefeller form](https://constitutingamerica.org/may-28-2010-%E2%80%93-federalist-paper-no-23-%E2%80%93-janine-turner/).
+- Confidence: High for inclusion in Phillips's collection and the Rockefeller precursor.
+
+### WR-LE-006 - [No Person Is Entirely Bad]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Philmont Scout Ranch edition description](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [Philbrook Museum edition history](https://shop.philbrook.org/products/epigrams), and [matching Philmont quotation collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion; original authorship is not independently established because Phillips also collected others' words.
+
+### WR-LE-007 - [Perseverance and Stubbornness]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Philmont Scout Ranch edition description](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [Philbrook Museum edition history](https://shop.philbrook.org/products/epigrams), and [matching Philmont quotation collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion; original authorship is not independently established.
+
+### WR-LE-008 - [A Man Can Fail Many Times]
+
+- Verified underlying author as circulated: John Burroughs; verified compiler and adapter: Waite Phillips.
+- Relationship: Adapted maxim. The established Burroughs form reads "he isn't a failure until he begins to blame somebody else." Phillips adds "total," changes "somebody" to "someone," and appends "for his own deficiencies."
+- Evidence: [Matching Phillips collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html), [Burroughs-attributed record](https://www.azquotes.com/quote/42319), and [2013 print witness](https://www.washingtoninformer.com/wp-content/uploads/back-issues/The-Washington-Informer-September-12-2013.pdf).
+- Confidence: High for the relationship; the original Burroughs work or occasion remains unidentified.

@@ -76,3 +76,4 @@
 - Completed Life page 22 verification, identifying Murray's and Kerouac's book excerpts and documenting the archival basis and earlier proverb behind the Helen Keller maxim.
 - Completed Life section verification through page 23, tracing the probable origin of "Lessons from Geese," flagging the unverified Gandhi maxim, and identifying Huxley's *Texts and Pretexts*.
 - Began Leadership verification with page 27, correcting two source attributions, identifying a Holmes wording corruption, and documenting the composite nature of the Disney "four C's" passage.
+- Continued Leadership page 27 through four Waite Phillips epigrams, identifying Rockefeller and Burroughs precursors while distinguishing collection provenance from original authorship.

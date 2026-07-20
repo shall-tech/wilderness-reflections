@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-LE-004 on original page 27.
+- Source verification is complete through WR-LE-008 on original page 27.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-LE-005, "Every Right Implies a Responsibility," on original page 27.
+- Next entry: WR-LE-009, "Being Good Is Commendable," on original page 27.
 
 ## Source
 

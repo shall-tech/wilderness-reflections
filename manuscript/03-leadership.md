@@ -126,22 +126,22 @@ Somehow, I can't believe there are many heights that can't be scaled by a man wh
 WR-ID: WR-LE-005
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Every Right Implies a Responsibility]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips (compiler); John D. Rockefeller Jr. (underlying first maxim)
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Composite entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Responsibility
 - Duty
-NOTES: None
+NOTES: Inclusion in Phillips's collection is verified. The opening triad closely adapts John D. Rockefeller Jr.'s credo, changing "possession" to "position"; the appended sentence about sermons was not traced to an earlier source.
 -->
 
 ## [Every Right Implies a Responsibility]
@@ -154,22 +154,22 @@ We should all realize that every right implies a responsibility, every opportuni
 WR-ID: WR-LE-006
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No Person Is Entirely Bad]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Forgiveness
 - Character
-NOTES: None
+NOTES: Phillips collected as well as composed epigrams; inclusion verifies the booklet's cited source but does not independently establish original authorship.
 -->
 
 ## [No Person Is Entirely Bad]
@@ -182,22 +182,22 @@ No person is entirely bad or entirely good. Therefore, learn to forgive yourself
 WR-ID: WR-LE-007
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Perseverance and Stubbornness]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Perseverance
 - Judgment
-NOTES: None
+NOTES: Phillips collected as well as composed epigrams; inclusion verifies the booklet's cited source but does not independently establish original authorship.
 -->
 
 ## [Perseverance and Stubbornness]
@@ -210,22 +210,22 @@ The words perseverance and stubbornness are not synonymous but it is distressing
 WR-ID: WR-LE-008
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Man Can Fail Many Times]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Burroughs (underlying maxim); Waite Phillips (compiler and adapter)
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Adapted John Burroughs maxim collected in Waite Phillips's Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Underlying maxim predates Phillips's Epigrams pamphlet (1964); original Burroughs source not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Accountability
 - Failure
-NOTES: None
+NOTES: The established Burroughs form reads "he isn't a failure until he begins to blame somebody else." Phillips's version adds "total," changes "somebody" to "someone," and appends "for his own deficiencies."
 -->
 
 ## [A Man Can Fail Many Times]
