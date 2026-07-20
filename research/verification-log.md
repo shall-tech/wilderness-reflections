@@ -292,3 +292,28 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete poem with a changed title, one omitted line, and numerous textual variants. The booklet omits "There where it is we do not need the wall" and changes, among other readings, "meet to walk" to "meet and walk," "make them balance" to "make the balance," "our fingers rough with handling" to "out fingers rough handling," "built" to "build," "to whom" to "who," "stone grasped" to "stone to grasped," and "go behind" to "go beyond."
 - Evidence: [Poetry Foundation poem text](https://www.poetryfoundation.org/poems/44266/mending-wall) and [Academy of American Poets collection record](https://poets.org/book/north-boston).
 - Confidence: High.
+
+## 2026-07-20 - Life page 17, entries 1-3
+
+### WR-L-037 - [The Man Who Sat on the Ground]
+
+- Verified author: Luther Standing Bear.
+- Source identity: *Land of the Spotted Eagle* (1933), in the discussion commonly identified as "What the Indian Means to America."
+- Relationship: Two-sentence excerpt. The booklet omits Standing Bear's opening "I am going to venture that" and changes "tipi" to "teepee."
+- Evidence: [Complete public-domain text with edition information](https://www.fadedpage.com/books/20180142/html.php).
+- Confidence: High.
+
+### WR-L-038 - [Then Here's a Hail to Each Flaming Dawn]
+
+- Verified author: Robert W. Service.
+- Source identity: Four lines from "A Rolling Stone" in *Rhymes of a Rolling Stone* (1912), also documented on a memorial tablet erected at Tom's Rock Camp in 1922.
+- Relationship: Excerpt with "flaring" changed to "flaming," "a-roaming" changed to "roaming," and lineation compressed.
+- Evidence: [Project Gutenberg collection record and text](https://www.gutenberg.org/ebooks/309), [New York State Archives memorial record](https://digitalcollections.archives.nysed.gov/index.php/Detail/objects/8933), and [source-tracing account](https://www.tagyerit.com/BreathlessView/index.html).
+- Confidence: High.
+
+### WR-L-039 - [What Is Life?]
+
+- Booklet attribution: Crowfoot.
+- Finding: Attribution unresolved and likely apocryphal. Scholarship reports that the saying began circulating under Crowfoot's name in 1938 and adapts the imagery and structure of a fictional African speaker's words in H. Rider Haggard's *King Solomon's Mines* (1885), changing "glow-worm" to "firefly" and "oxen" to "buffalo."
+- Evidence: [Kate Flint, "The Beauty of Fireflies: Transience, Myth, Entomological Intimacy"](https://19.bbk.ac.uk/article/8867/galley/22832/download/) and [later scholarly attribution witness](https://www.hrpub.org/download/20170130/AZB2-11408502.pdf).
+- Confidence: High that the Crowfoot attribution lacks historical support; medium for the precise transmission history pending direct inspection of Robert S. Carlisle's 1990 article.

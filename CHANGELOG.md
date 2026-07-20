@@ -61,3 +61,4 @@
 - Completed Life page 14 verification through WR-L-028, correcting Castaneda's name and flagging a likely Porcino misattribution.
 - Verified Life page 15 through WR-L-035, documenting extensive variants in Frost's poem and three unresolved aphorisms.
 - Verified Life page 16, documenting the changed title, omitted line, and textual variants in Frost's "Mending Wall."
+- Verified the first three Life page 17 entries, identifying Robert W. Service's poem and documenting the likely apocryphal Crowfoot attribution.

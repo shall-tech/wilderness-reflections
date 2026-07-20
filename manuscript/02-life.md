@@ -1236,22 +1236,22 @@ He says again, "Good fences make good neighbors."
 WR-ID: WR-L-037
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Man Who Sat on the Ground]
 BOOKLET_AUTHOR: Chief Luther Standing Bear
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Luther Standing Bear
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Two-sentence excerpt with minor wording and spelling variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Land of the Spotted Eagle (1933)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Unity
 - Reflection
-NOTES: None
+NOTES: The source begins "I am going to venture that" and spells the dwelling "tipi"; the booklet omits the introductory phrase and uses "teepee."
 -->
 
 ## [The Man Who Sat on the Ground]
@@ -1264,22 +1264,22 @@ The man who sat on the ground in his teepee meditating on life and its meaning, 
 WR-ID: WR-L-038
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Then Here's a Hail to Each Flaming Dawn]
 BOOKLET_AUTHOR: A grave marker in the Adirondacks
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert W. Service
 WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Four-line excerpt from "A Rolling Stone" with wording variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Rhymes of a Rolling Stone (1912)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Life
-NOTES: None
+NOTES: The memorial wording is documented on a 1922 tablet at Tom's Rock Camp. Service's poem reads "flaring dawn," "a-roaming," and sets the final phrase on a separate line; the booklet has "flaming dawn" and "roaming."
 -->
 
 ## [Then Here's a Hail to Each Flaming Dawn]
@@ -1294,22 +1294,22 @@ And may I go roaming on until the day I die.
 WR-ID: WR-L-039
 PAGE: 17
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [What Is Life?]
 BOOKLET_AUTHOR: Crowfoot
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Apocryphal adaptation of a passage from H. Rider Haggard's King Solomon's Mines
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Crowfoot attribution documented from 1938; underlying passage in King Solomon's Mines (1885)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Nature
-NOTES: None
+NOTES: The saying has long circulated as Crowfoot's last words, but scholarship traces its imagery and structure to a fictional African speaker in Haggard's novel; no reliable evidence establishes that Crowfoot said it.
 -->
 
 ## [What Is Life?]
