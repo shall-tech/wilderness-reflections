@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-066 on original page 19.
+- Source verification is complete through WR-L-069 on original page 20.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-067, "Look to This Day," on original page 20.
+- Next entry: WR-L-070, "Love Your Life," on original page 20.
 
 ## Source
 

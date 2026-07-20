@@ -2089,22 +2089,22 @@ At the gates of the forest, the surprised man of the world is forced to leave hi
 WR-ID: WR-L-067
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Have Came to Terms with the Future]
 BOOKLET_AUTHOR: M.J. Slim Hooey
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: M.J. "Slim" Hooey
+WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem rendered as prose with wording and punctuation variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Unknown; circulated as "A Sabbath Poem"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Stewardship
 - Harmony
-NOTES: None
+NOTES: A checked poem witness begins "I have come" rather than the booklet's "I have came," uses "From this day onward," and prints "And listen. / Listen" rather than "And listen, listen."
 -->
 
 ## [I Have Came to Terms with the Future]
@@ -2117,22 +2117,22 @@ I have came to terms with the future. From this day onward I will walk easy on t
 WR-ID: WR-L-068
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Think I Could Turn and Live with the Animals]
 BOOKLET_AUTHOR: Walt Whitman
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Walt Whitman
+WORK_TYPE: Poem Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Opening line of Section 32 of "Song of Myself"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Song of Myself" in Leaves of Grass (1855; later revised)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Nature
 - Simplicity
-NOTES: None
+NOTES: The later Whitman text spells the final word "self-contain'd"; the booklet modernizes it to "self-contained."
 -->
 
 ## [I Think I Could Turn and Live with the Animals]
@@ -2145,22 +2145,22 @@ I think I could turn and live with the animals, they are so placid and self-cont
 WR-ID: WR-L-069
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [A Coward Dies a Thousand Deaths]
 BOOKLET_AUTHOR: William Shakespeare
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William Shakespeare (underlying passage)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Later proverbial paraphrase of a line from Julius Caesar
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Julius Caesar (first performed circa 1599; published 1623), for the underlying passage
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Mortality
-NOTES: None
+NOTES: Shakespeare wrote "Cowards die many times before their deaths; / The valiant never taste of death but once." The booklet's exact wording is a later proverb and should not be presented as a verbatim Shakespeare quotation.
 -->
 
 ## [A Coward Dies a Thousand Deaths]

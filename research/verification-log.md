@@ -530,3 +530,28 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two-sentence excerpt ending mid-sentence after "back"; the source continues "with the first step he makes into these precincts."
 - Evidence: [Scanned 1844 edition](https://web.english.upenn.edu/~cavitch/pdf-library/Emerson_Essays_Second_Series_1844.pdf) and [Library of America edition citation](https://www.azquotes.com/quote/1036186).
 - Confidence: High.
+
+## 2026-07-20 - Life page 20, entries 1-3
+
+### WR-L-067 - [I Have Came to Terms with the Future]
+
+- Verified author as circulated: M.J. "Slim" Hooey.
+- Source identity: "A Sabbath Poem"; original publication was not located.
+- Relationship: Complete poem rendered as prose. A checked witness begins "I have come" rather than "I have came," places a comma after "From this day onward," and prints "And listen. / Listen" rather than the booklet's "And listen, listen."
+- Evidence: [Later complete-poem witness](https://centeringspace.org/wp-content/uploads/2021/10/Click-here-for-a-PDF-of-the-Prayer-for-November-2.pdf).
+- Confidence: Medium because the original publication and author identity remain undocumented.
+
+### WR-L-068 - [I Think I Could Turn and Live with the Animals]
+
+- Verified author: Walt Whitman.
+- Source identity: Opening line of Section 32 of "Song of Myself" in *Leaves of Grass*.
+- Relationship: One-line excerpt; the booklet modernizes Whitman's "self-contain'd" to "self-contained."
+- Evidence: [Complete poem text with section numbering](https://www.waltwhitman.com/song-of-myself.pdf) and [published excerpt identifying Section 32](https://live-production.wcms.abc-cdn.net.au/ea63dada9316d9c1b04431d05f872e10).
+- Confidence: High.
+
+### WR-L-069 - [A Coward Dies a Thousand Deaths]
+
+- Booklet attribution: William Shakespeare.
+- Finding: The exact wording is a later proverb, not a verbatim Shakespeare line. It paraphrases *Julius Caesar*: "Cowards die many times before their deaths; / The valiant never taste of death but once."
+- Evidence: [Proverb record](https://goodliving.com/quotation/proverb-a-coward-dies-a-thousand-deaths-a-brave-man-only-one/) and [1959 *Maverick* witness for the exact modern wording](https://www.imdb.com/title/tt0644537/quotes/).
+- Confidence: High for the Shakespearean precursor; the originator of the exact modern form remains unresolved.
