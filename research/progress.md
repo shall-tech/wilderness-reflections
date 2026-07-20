@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-008 on original page 33; Life and Leadership are complete.
+- Source verification is complete through WR-KW-011 on original page 33; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-009, "A Little Learning Is Not a Dangerous Thing," on original page 33.
+- Next entry: WR-KW-012, "Must We Always Teach Our Children with Books?," on original page 34.
 
 ## Source
 

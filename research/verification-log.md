@@ -949,3 +949,27 @@ This log records the external evidence used during the post-transcription verifi
 - Booklet attribution: Jean Berry.
 - Finding: Focused phrase and name searches found no identifiable original interview, publication, or reliable biographical match.
 - Confidence: Low.
+
+## 2026-07-20 - Knowledge and Wisdom page 33, entries 9-11
+
+### WR-KW-009 - [A Little Learning]
+
+- Booklet attribution: William Allen White.
+- Finding: Later print witnesses consistently credit White, but no original editorial, speech, letter, or contemporaneous source was located. The usual form says "to one" where the booklet has "for one."
+- Evidence: [1978 newspaper attribution](https://newspapers.swco.ttu.edu/server/api/core/bitstreams/476f5ec2-d0a0-4620-bebd-4071c614c3e2/content) and [later book witness](https://books.google.com/books/about/The_ABCs_of_Collaborative_Change.html?id=MR0xFx6i5mIC).
+- Confidence: Medium.
+
+### WR-KW-010 - [The Best Informed People]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Philmont Scout Ranch institutional reprint](https://filestore.scouting.org/filestore/philmont/pdf/Philnews_2013/PhilNews201302.pdf) and [matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion; original authorship is not independently established.
+
+### WR-KW-011 - [Patience Is the Companion of Wisdom]
+
+- Verified author: Augustine of Hippo.
+- Source identity: *De patientia* (*On Patience*), chapter 5, commonly dated c. 418.
+- Relationship: Opening clause of a longer sentence: "Patience is the companion of wisdom, not the handmaid of concupiscence; patience is the friend of a good conscience, not the enemy of innocence."
+- Evidence: [Latin primary text](https://www.augustinus.it/LATINO/pazienza/pazienza_libro.htm) and [English translation](https://episcopalnet.org/READINGS/Hippo/Patience.html).
+- Confidence: High.

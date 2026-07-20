@@ -241,22 +241,22 @@ The thing that I think is most important at this moment is an awareness of the t
 WR-ID: WR-KW-009
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [A Little Learning]
 BOOKLET_AUTHOR: William Allen White
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William Allen White (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely transmitted White attribution; original source not located
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In print by 1978; original occasion unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Learning
 - Humility
-NOTES: None
+NOTES: Later print sources consistently credit White, but no original editorial, speech, letter, or contemporaneous witness was located. The booklet uses "for one" where the common form has "to one."
 -->
 
 ## [A Little Learning]
@@ -269,22 +269,22 @@ A little learning is not a dangerous thing for one who does not mistake it for a
 WR-ID: WR-KW-010
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Best Informed People]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Observation
 - Inquiry
-NOTES: None
+NOTES: Inclusion in Phillips's collection is verified; original authorship was not independently established. The unusual terminal punctuation after the closing quotation mark is confirmed by the scan.
 -->
 
 ## [The Best Informed People]
@@ -297,22 +297,22 @@ The best informed people are those with acute observation and who are inquisitiv
 WR-ID: WR-KW-011
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Patience Is the Companion of Wisdom]
 BOOKLET_AUTHOR: St. Augustine
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Augustine of Hippo
+WORK_TYPE: Treatise Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Shortened translation of a sentence in De patientia, chapter 5
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: De patientia (early fifth century, commonly dated c. 418)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Patience
 - Wisdom
-NOTES: None
+NOTES: Augustine's full sentence continues "not the handmaid of concupiscence; patience is the friend of a good conscience, not the enemy of innocence." The booklet retains only its opening clause.
 -->
 
 ## [Patience Is the Companion of Wisdom]
