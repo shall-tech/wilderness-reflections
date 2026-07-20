@@ -9,6 +9,14 @@
 - Untitled works receive a descriptive title in square brackets for repository navigation; the metadata records that the title is editorial.
 - Intake records use STATUS: NEEDS RESEARCH, RELATIONSHIP: Unknown, and SOURCE_CONFIDENCE: Low until a separate verification pass is completed.
 
+## Source verification
+
+- Verification changes metadata, not the transcribed booklet text. Differences from an authoritative or well-supported source are described as variants, adaptations, excerpts, or paraphrases.
+- `STATUS: VERIFIED` means that the work and attribution have been identified with high confidence; it does not mean the booklet reproduces the source verbatim.
+- `SOURCE_VERIFIED: Yes` records a source comparison. `SOURCE_CONFIDENCE` describes the strength of the available evidence.
+- Booklet titles and attributions remain exactly as printed in `TITLE` and `BOOKLET_AUTHOR`; corrected identities belong in `VERIFIED_AUTHOR`, `RELATIONSHIP`, and `NOTES`.
+- Verification sources and comparison findings are recorded in `research/verification-log.md` so the manuscript metadata remains compact.
+
 ## Scan mapping
 
 The current source PDF contains 84 scanned leaves. The first content sequence is:

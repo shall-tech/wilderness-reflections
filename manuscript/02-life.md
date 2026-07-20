@@ -11,24 +11,25 @@
 WR-ID: WR-L-001
 PAGE: 9
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Bridge Builder
 BOOKLET_AUTHOR: William Allen Droomgule
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Will Allen Dromgoole
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Variant of "Building the Bridge"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Earliest verified appearance: Rare Old Chums (1898)
 OCR_CORRECTIONS: None
 EDITORIAL_DECISIONS:
-- Preserved the booklet spelling Droomgule pending attribution verification.
+- Preserved the booklet spelling Droomgule during intake.
+- Confirmed the correct author spelling in the source record; retained the booklet's printed attribution above.
 THEMES:
 - Service
 - Legacy
 - Mentoring
-NOTES: None
+NOTES: The booklet uses the later title "The Bridge Builder" and contains wording and punctuation variants from the 1898 text.
 -->
 
 ## The Bridge Builder
@@ -63,22 +64,22 @@ The builder lifted his old gray head,\
 WR-ID: WR-L-002
 PAGE: 9
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Man in the Glass
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Dale Wimbrow
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Adapted variant of "The Guy in the Glass"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The American Magazine (1934)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Integrity
 - Character
-NOTES: None
+NOTES: The booklet's retitled version alters wording and stanza order and omits the original Jack Horner reference.
 -->
 
 ## The Man in the Glass
@@ -105,22 +106,22 @@ But your final reward will be heartaches and tears if you cheated the man in the
 WR-ID: WR-L-003
 PAGE: 9
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You Cannot Learn to Fly by Flying]
 BOOKLET_AUTHOR: Nietzsche
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Friedrich Nietzsche
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Paraphrase of Thus Spoke Zarathustra, Part III, "The Spirit of Gravity," section 2
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Also sprach Zarathustra, Part III (1884)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Growth
 - Learning
-NOTES: None
+NOTES: The booklet condenses and modernizes Nietzsche's sentence; it is not a verbatim quotation from the checked English translation.
 -->
 
 ## [You Cannot Learn to Fly by Flying]

@@ -7,3 +7,8 @@
 - The first batch stops after "The Bridge Builder" on original page 9 so each commit remains small and reviewable.
 - The booklet attribution "William Allen Droomgule" is preserved in the manuscript. The spelling appears questionable but is a source-text issue, not an OCR error, and will be handled in the verification pass.
 
+## 2026-07-20 - Verification pass begins
+
+- Source verification updates metadata and research notes without silently rewriting the booklet transcription.
+- The page-9 spelling "William Allen Droomgule" is confirmed as a booklet error for Will Allen Dromgoole. It remains preserved in `BOOKLET_AUTHOR` and the displayed attribution, with the correction recorded in `VERIFIED_AUTHOR`.
+- Retitled, rearranged, or modernized selections are labeled by relationship rather than normalized to an external edition.

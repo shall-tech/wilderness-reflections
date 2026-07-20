@@ -26,6 +26,12 @@
 - The complete indexes and Sources page have been transcribed through original page 91.
 - Blank reverse leaves omitted from the scan remain documented as inferred blanks.
 
+## Verification pass
+
+- Source verification is complete through WR-L-003 on original page 9.
+- Verified metadata and comparison evidence are recorded without altering the booklet transcription.
+- Next entry: WR-L-004, "The Men That Don't Fit In," on original page 10.
+
 ## Source
 
 - Scan: Wilderness Reflections.pdf
