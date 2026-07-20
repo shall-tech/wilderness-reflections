@@ -1253,3 +1253,39 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Extended excerpt. The source reads "this frontier continent" and "fastnesses" where the booklet prints "his frontier continent" and "vastness"; it also has the plural possessive "forefathers' bones."
 - Evidence: [Encyclopedia excerpt identifying the work](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/excerpt-land-spotted-eagle-1933-luther-standing-bear) and [fuller comparison witness](https://core.ac.uk/download/pdf/235885364.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 37, entries 5-9
+
+### WR-KW-049 - [We Have Loved the Stars Too Fondly]
+
+- Verified underlying author and epitaph: The inscription for John and Phoebe Brashear adapts Sarah Williams's "I have loved the stars too fondly to be fearful of the night" from "The Old Astronomer to His Pupil" to the plural "We."
+- Relationship: Accurate epitaph transcription and a one-word adaptation of Williams's poem.
+- Evidence: [Allegheny City Society history of the crypt and inscription](https://alleghenycity.org/downloads/055%202011%2004%20Fall%20Reporter%20Dispatch.pdf) and [Williams poem witness](https://slas.us/SLASBOOKS/docs/records/NewsLettersSlas/2025/SLAS%20Nova%20September%202025%20%281%29-compressed%20%281%29.pdf).
+- Confidence: High.
+
+### WR-KW-050 - [The World Is Round]
+
+- Verified transmitted author: Ivy Baker Priest, cited to *Parade* in 1958.
+- Relationship: The cited wording says "may also be only the beginning"; the booklet omits "also" and misprints Baker as "Barker."
+- Evidence: [Quotation record with publication locator](https://www.quotationspage.com/quote/1861.html) and [1967 newspaper witness](https://newspapers.swco.ttu.edu/bitstream/handle/20.500.12255/97028/Earth_News-Sun_1967_07_27.pdf?isAllowed=y&sequence=1).
+- Confidence: Medium because the original *Parade* issue was not located.
+
+### WR-KW-051 - [He That Riseth Late]
+
+- Verified author and source: Benjamin Franklin, *Poor Richard's Almanack*, August 1742.
+- Relationship: First clause of "He that riseth late, must trot all day, and shall scarce overtake his business at night." The booklet omits the rest and one comma.
+- Evidence: [Dated source record](https://libquotes.com/benjamin-franklin/quote/lbu6k6z).
+- Confidence: High.
+
+### WR-KW-052 - [Pilgrimage to the Place of the Wise]
+
+- Booklet attribution: Old Sufi saying.
+- Finding: No named Sufi, original-language form, classical text, translator, early collection, or independent pre-booklet witness was located for the exact English sentence.
+- Confidence: Low.
+
+### WR-KW-053 - [You Are Never Given a Wish]
+
+- Verified author and source: Richard Bach, *Illusions: The Adventures of a Reluctant Messiah* (1977), in the Messiah's Handbook passages.
+- Relationship: Complete passage; the source has a comma before "however."
+- Evidence: [Extended *Illusions* quotation collection](https://www.barefootsworld.org/illusions.html) and [independent quotation witness](https://www.goodreads.com/quotes/879693-perspective---use-it-or-lose-it-if-you-turned).
+- Confidence: High.

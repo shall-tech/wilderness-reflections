@@ -1376,22 +1376,22 @@ The white man does not understand the Indian for the reason that he does not und
 WR-ID: WR-KW-049
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Have Loved the Stars Too Fondly]
 BOOKLET_AUTHOR: Epitaph of two amateur astronomers
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Sarah Williams; adapted as the epitaph of John and Phoebe Brashear
+WORK_TYPE: Poem Adaptation / Epitaph
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Plural adaptation of a line from "The Old Astronomer to His Pupil," used as an epitaph
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Twilight Hours: A Legacy of Verse (1868); later inscribed for John and Phoebe Brashear
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Stars
 - Courage
-NOTES: None
+NOTES: Sarah Williams's poem reads "I have loved the stars too fondly to be fearful of the night." The plural adaptation is inscribed at the Allegheny Observatory crypt containing the ashes of amateur astronomer and instrument maker John Brashear and his wife Phoebe.
 -->
 
 ## [We Have Loved the Stars Too Fondly]
@@ -1404,22 +1404,22 @@ We have loved the stars too fondly to be fearful of the night.
 WR-ID: WR-KW-050
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The World Is Round]
 BOOKLET_AUTHOR: Ivy Barker Priest
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ivy Baker Priest
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Quotation published under Priest's name in Parade
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In print in Parade (1958)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beginnings
 - Perspective
-NOTES: None
+NOTES: The booklet misprints Priest's middle name as "Barker." The 1958 citation reads "may also be only the beginning," while the booklet omits "also."
 -->
 
 ## [The World Is Round]
@@ -1432,22 +1432,22 @@ The world is round and the place which may seem like the end may only be the beg
 WR-ID: WR-KW-051
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [He That Riseth Late]
 BOOKLET_AUTHOR: Ben Franklin, Poor Richard's Almanac
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Benjamin Franklin
+WORK_TYPE: Almanac Maxim Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: First clause of a maxim in Poor Richard's Almanack for August 1742
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Poor Richard's Almanack (August 1742)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Time
 - Diligence
-NOTES: None
+NOTES: The complete maxim reads "He that riseth late, must trot all day, and shall scarce overtake his business at night." The booklet omits the comma after "late" and the second half.
 -->
 
 ## [He That Riseth Late]
@@ -1460,13 +1460,13 @@ He that riseth late must trot all day.
 WR-ID: WR-KW-052
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Pilgrimage to the Place of the Wise]
 BOOKLET_AUTHOR: Old Sufi saying
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Anonymous; Sufi provenance unverified
+WORK_TYPE: Proverb
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Saying circulated as an old Sufi proverb
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1475,7 +1475,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wisdom
 - Nature
-NOTES: None
+NOTES: No Sufi author, Persian or Arabic original, classical text, translator, early collection, or independent pre-booklet source was located for the exact English wording.
 -->
 
 ## [Pilgrimage to the Place of the Wise]
@@ -1488,22 +1488,22 @@ Pilgrimage to the place of the wise is to escape the flame of separation from na
 WR-ID: WR-KW-053
 PAGE: 37
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You Are Never Given a Wish]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Richard Bach
+WORK_TYPE: Novel Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Messiah's Handbook passage from Illusions: The Adventures of a Reluctant Messiah
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wishes
 - Effort
-NOTES: None
+NOTES: The source includes a comma before "however." The booklet otherwise reproduces the complete passage.
 -->
 
 ## [You Are Never Given a Wish]
