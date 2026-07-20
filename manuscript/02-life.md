@@ -1631,13 +1631,13 @@ Where we begin and where we finish are little more than reference points. What t
 WR-ID: WR-L-051
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Reeds Know What the Wind Does Not]
 BOOKLET_AUTHOR: Faung Tse
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating maxim with no identified source or author
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1646,7 +1646,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Endurance
 - Resilience
-NOTES: None
+NOTES: No reliable evidence identifies "Faung Tse" or connects the wording to a classical Chinese text. The booklet appears to omit punctuation after "does not."
 -->
 
 ## [The Reeds Know What the Wind Does Not]
@@ -1659,13 +1659,13 @@ The reeds know what the wind does not the power to endure harm outlives the powe
 WR-ID: WR-L-052
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Unknown Is Not to Be Avoided]
 BOOKLET_AUTHOR: Dave Marinaccio
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Philmont-circulated quotation with no located publication source
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1674,7 +1674,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Understanding
-NOTES: None
+NOTES: A Ranger Fieldbook witness attributes a nearly identical version to Dave Marinaccio but reads "Fear should not be handled the same way," reversing the booklet's sense. No primary publication was located.
 -->
 
 ## [The Unknown Is Not to Be Avoided]
@@ -1687,22 +1687,22 @@ The unknown is not to be avoided, it is to be examined, understood, and accepted
 WR-ID: WR-L-053
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Must Learn to Reawaken]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt from a longer paragraph with light punctuation changes
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Walden (1854), "Where I Lived, and What I Lived For"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Awareness
 - Purpose
-NOTES: None
+NOTES: The booklet omits the source comma after "dawn" and substitutes a spaced hyphen for the source comma before "that is the highest of arts."
 -->
 
 ## [We Must Learn to Reawaken]
@@ -1715,13 +1715,13 @@ We must learn to reawaken and keep ourselves awake, not by mechanical aids, but 
 WR-ID: WR-L-054
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [When You Were Born]
 BOOKLET_AUTHOR: Navajo saying
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating proverb with conflicting Indigenous attributions
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1730,7 +1730,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Legacy
-NOTES: None
+NOTES: The saying is also widely labeled Cherokee or generically Native American, but no primary Navajo or Cherokee source was located. The booklet prints "live you life," evidently for "live your life," and that wording is preserved.
 -->
 
 ## [When You Were Born]
@@ -1743,13 +1743,13 @@ When you were born, you cried and the world rejoiced, live you life so that when
 WR-ID: WR-L-055
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Most People Are About as Happy]
 BOOKLET_AUTHOR: Abraham Lincoln
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Later maxim attributed to Lincoln without a contemporary source
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1758,7 +1758,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Happiness
 - Mindset
-NOTES: None
+NOTES: No Lincoln speech, letter, or contemporary report securely documents the sentence; common variants use "folks" rather than "people."
 -->
 
 ## [Most People Are About as Happy]
@@ -1771,22 +1771,22 @@ Most people are about as happy as they make up their minds to be.
 WR-ID: WR-L-056
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Hard Rain Cannot Fall All Day]
 BOOKLET_AUTHOR: Lao Tse
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Modern paraphrase of Tao Te Ching, Chapter 23
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Tao Te Ching, Chapter 23 (ancient text; date uncertain)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Endurance
 - Nature
-NOTES: None
+NOTES: The classical passage is commonly translated as a violent wind not lasting a whole morning and sudden rain not lasting a whole day; the booklet modernizes and expands the thought.
 -->
 
 ## [Hard Rain Cannot Fall All Day]
@@ -1799,22 +1799,22 @@ Hard rain cannot fall all day, harsh winds cannot blow forever. If nature cannot
 WR-ID: WR-L-057
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In a Field I Am the Absence of Field]
 BOOKLET_AUTHOR: Mark Strand
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Mark Strand
 WORK_TYPE: Poem
-EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: No
+RELATIONSHIP: Complete poem rendered as prose, without its title, and with wording variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: As "A Reason for Moving" in Sleeping with One Eye Open (1964); later titled "Keeping Things Whole"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Identity
 - Wholeness
-NOTES: None
+NOTES: The booklet removes all line and stanza breaks, changes "This is" to "That is," "spaces" to "space," and "where my body's been" to "where my body has been."
 -->
 
 ## [In a Field I Am the Absence of Field]

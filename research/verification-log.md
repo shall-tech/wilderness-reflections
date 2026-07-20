@@ -400,3 +400,56 @@ This log records the external evidence used during the post-transcription verifi
 - Booklet attribution: Hung Tsu.
 - Finding: Attribution unresolved. No reliable evidence identifies the named author or connects the wording to a classical Chinese text.
 - Confidence: Low.
+
+## 2026-07-20 - Life page 18, entries 4-10
+
+### WR-L-051 - [The Reeds Know What the Wind Does Not]
+
+- Booklet attribution: Faung Tse.
+- Finding: Attribution unresolved. No reliable evidence identifies the named author or connects the wording to a classical Chinese text. The booklet appears to omit punctuation after "does not."
+- Confidence: Low.
+
+### WR-L-052 - [The Unknown Is Not to Be Avoided]
+
+- Booklet attribution: Dave Marinaccio.
+- Finding: Attribution unresolved. A Philmont Ranger Fieldbook witness attributes nearly identical wording to Marinaccio but says "Fear should not be handled the same way," whereas the booklet omits "not" and reverses the sense. No primary publication was located.
+- Evidence: [Ranger Fieldbook transcription](https://doczz.net/doc/908188/philmont-ranger-song-i-want-to-go-back-to-philmont-where-...).
+- Confidence: Medium for circulation under Marinaccio's name; low for the original wording and source.
+
+### WR-L-053 - [We Must Learn to Reawaken]
+
+- Verified author: Henry David Thoreau.
+- Source identity: *Walden* (1854), "Where I Lived, and What I Lived For."
+- Relationship: Excerpt from a longer paragraph with light punctuation changes.
+- Evidence: [Walden Woods Project curriculum excerpt with book pages](https://www.walden.org/wp-content/uploads/2016/06/CU-Andrea-Kalember.pdf) and [Walden Woods Project quotation record](https://www.walden.org/?quotation=16626).
+- Confidence: High.
+
+### WR-L-054 - [When You Were Born]
+
+- Booklet attribution: Navajo saying.
+- Finding: Cultural attribution unresolved. The same saying circulates as Cherokee or generically Native American, but no primary Navajo or Cherokee source was located. The booklet's "live you life" is an apparent source error for the common "live your life."
+- Evidence: [Cherokee-attributed secondary witness](https://www.listofproverbs.com/source/n/native_american_cherokee_proverb/78884.htm) and [later scholarly work relying on a popular website for the Cherokee claim](https://opus.uleth.ca/server/api/core/bitstreams/00c773d2-a194-4c9a-add5-3ed20dc95788/content).
+- Confidence: Low.
+
+### WR-L-055 - [Most People Are About as Happy]
+
+- Booklet attribution: Abraham Lincoln.
+- Finding: Attribution unresolved. The sentence is widely attributed to Lincoln, usually with "folks" rather than "people," but is not securely traceable to a contemporary speech, letter, or report.
+- Evidence: [Source-critical quotation record](https://www.quotery.com/quotes/people-happy-make-mind).
+- Confidence: Low.
+
+### WR-L-056 - [Hard Rain Cannot Fall All Day]
+
+- Verified traditional attribution: Laozi.
+- Source identity: Modern paraphrase of *Tao Te Ching*, Chapter 23.
+- Relationship: The classical thought is commonly translated as a violent wind not lasting a whole morning and sudden rain not lasting a whole day; the booklet modernizes and expands it.
+- Evidence: [Chapter 23 Chinese-text and translation concordance](https://www.egreenway.com/taoism/ttclz23.htm).
+- Confidence: High for the chapter identity; authorship and dating of the ancient text are conventionally stated rather than historically certain.
+
+### WR-L-057 - [In a Field I Am the Absence of Field]
+
+- Verified author: Mark Strand.
+- Source identity: "Keeping Things Whole," first published as "A Reason for Moving" in *Sleeping with One Eye Open* (1964).
+- Relationship: Complete poem rendered as prose without its title. The booklet changes "This is" to "That is," "spaces" to "space," and "where my body's been" to "where my body has been."
+- Evidence: [Samuel Maio's textual and publication-history discussion](https://www.enotes.com/topics/mark-strand/criticism/strand-mark/samuel-maio-essay-date-1995) and [poem text and collection record](https://poemanalysis.com/mark-strand/keeping-things-whole/).
+- Confidence: High.

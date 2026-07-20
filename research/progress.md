@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-050 on original page 18.
+- Source verification is complete through WR-L-057 on original page 18.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-051, "The Reeds Know What the Wind Does Not," on original page 18.
+- Next entry: WR-L-058, "What Is the Meaning of Life?" on original page 19.
 
 ## Source
 
