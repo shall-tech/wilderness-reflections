@@ -2575,22 +2575,22 @@ Keep your face to the sunshine, and you cannot see the shadow.
 WR-ID: WR-L-083
 PAGE: 23
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: Lessons for Life from Geese
 BOOKLET_AUTHOR: Chicken Soup for the Soul
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert McNeish (probable underlying author)
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
+RELATIONSHIP: Adapted version of the widely circulated "Lessons from Geese"
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Probable origin in a 1972 sermon by Robert McNeish; exact publication unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Community
 - Leadership
-NOTES: None
+NOTES: "Chicken Soup for the Soul" identifies an intermediate publication rather than an individual author. Source histories variously credit Robert McNeish, Milton Olson, Ryugen Fisher, and Angeles Arrien. A reference-librarian account reports that McNeish wrote the earliest known version for a 1972 sermon; exact provenance and the scientific accuracy of several claims remain unresolved.
 -->
 
 ## Lessons for Life from Geese
@@ -2617,13 +2617,13 @@ When a goose gets sick, wounded, or shot down, two geese drop out of formation a
 WR-ID: WR-L-084
 PAGE: 23
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [There Is More to Life Than Increasing Its Speed]
 BOOKLET_AUTHOR: Ghandi
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Mohandas K. Gandhi (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely circulated maxim attributed to Gandhi
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2632,7 +2632,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Simplicity
-NOTES: None
+NOTES: The booklet misspells Gandhi as "Ghandi." Focused research found repeated later attributions but no writing, speech, interview, or contemporaneous witness by Gandhi; quotation references explicitly list the source as unknown.
 -->
 
 ## [There Is More to Life Than Increasing Its Speed]
@@ -2645,22 +2645,22 @@ There is more to life than increasing its speed.
 WR-ID: WR-L-085
 PAGE: 23
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Experience Is Not What Happens to a Man]
 BOOKLET_AUTHOR: Aldous Huxley
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldous Huxley
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two-sentence excerpt from the introduction to Texts and Pretexts
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Texts and Pretexts: An Anthology with Commentaries (1932)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Experience
 - Responsibility
-NOTES: None
+NOTES: The source uses a semicolon between the two clauses and continues by defining experience as a gift for dealing with the accidents of existence.
 -->
 
 ## [Experience Is Not What Happens to a Man]

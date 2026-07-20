@@ -668,3 +668,28 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete maxim. The archival record has plural "shadows," while the booklet has singular "the shadow." A similar anonymous proverb was documented in 1912.
 - Evidence: [American Foundation for the Blind Helen Keller archive](https://afb.org/about-afb/history/helen-keller/helen-keller-quotes/helen-keller-quotes-optimism) and [proverb/source-history note](https://en.wikiquote.org/wiki/Sunny).
 - Confidence: Medium because the interview date and original occasion are unavailable.
+
+## 2026-07-20 - Life page 23
+
+### WR-L-083 - Lessons for Life from Geese
+
+- Booklet attribution: *Chicken Soup for the Soul*, an intermediate publication rather than an individual author.
+- Probable underlying author: Robert McNeish, reportedly for a 1972 church sermon; other circulating attributions name Milton Olson, Ryugen Fisher, or Angeles Arrien.
+- Relationship: Adapted version of the widely circulated "Lessons from Geese." The booklet's "travel on the trust of one another" differs from versions reading "travel on the thrust of one another."
+- Evidence: [Reference-librarian source investigation](https://jillybooks.wordpress.com/2014/03/31/ch-3-madness-in-march/), [later Milton Olson-attributed print witness](https://www.gospelgazette.com/library/voice%20of%20truth/vot_038.pdf), and [summary of competing attributions](https://eyfs.info/forums/topic/2391-lessons-from-geese/).
+- Confidence: Medium for McNeish as the probable underlying author; low for exact original wording and publication.
+
+### WR-L-084 - [There Is More to Life Than Increasing Its Speed]
+
+- Booklet attribution: "Ghandi," a misspelling of Gandhi.
+- Finding: Widely attributed to Mohandas K. Gandhi, but no primary writing, speech, interview, or contemporaneous witness was located.
+- Evidence: [Quotation record explicitly listing the source as unknown](https://fixquotes.com/quotes/there-is-more-to-life-than-increasing-its-speed-26113/), [2006 educational-use witness](https://jsis.washington.edu/nie/wp-content/uploads/sites/16/2016/05/NIE-2006_Teachers-Guide.pdf), and [later attributed compilation](https://www.cbse.gov.in/cbsenew/ebooks/9_Life%20Skills_class_VIII.pdf).
+- Confidence: Low.
+
+### WR-L-085 - [Experience Is Not What Happens to a Man]
+
+- Verified author: Aldous Huxley.
+- Source identity: Introduction to *Texts and Pretexts: An Anthology with Commentaries* (1932), page 5.
+- Relationship: Two-sentence excerpt. The source joins the clauses with a semicolon and continues, "It is a gift for dealing with the accidents of existence, not the accidents themselves."
+- Evidence: [Complete searchable book text](https://www.fadedpage.com/books/20230843/html.php), [contextualized passage and page citation](https://quotepark.com/quotes/1428140-aldous-huxley-experience-is-not-what-happens-to-a-man-it-is-wha/), and [scholarly quotation witness](https://mytext.cnm.edu/wp-content/uploads/2019/06/Excerpts-from-Lauren-Camp-Ekphrastic-esssay-.pdf).
+- Confidence: High.
