@@ -1317,3 +1317,26 @@ This log records the external evidence used during the post-transcription verifi
 - Booklet attribution: Richard E. Dodge.
 - Finding: No book, article, speech, page reference, biographical source, or independent early witness was located through exact-phrase and author searches.
 - Confidence: Low.
+
+## 2026-07-20 - Knowledge and Wisdom page 38, entries 5-7
+
+### WR-KW-058 - [Oh God of Dust and Rainbows]
+
+- Verified author and source: Langston Hughes, "Two Somewhat Different Epigrams" (1957), later collected in *The Poems: 1951-1967*.
+- Relationship: The first two-line epigram rendered as one prose sentence. The source ends the first line with a period and capitalizes "That" on the second.
+- Evidence: [Poem, title, and collection record](https://friendsofsilence.net/quote/2023-03/two-somewhat-different-epigrams) and [dated full-poem witness](https://www.frontart.org/images/FRONT-2022-Artist-List-Press-Release.pdf).
+- Confidence: High.
+
+### WR-KW-059 - [Discovery Consists of Looking]
+
+- Circulated attribution: Albert Szent-Györgyi.
+- Finding: The familiar form says "seeing what everybody has seen and thinking what nobody has thought"; the booklet changes this to "looking at the same thing as everyone else and thinking something different" and misspells the surname "Szent-Goygyi."
+- Evidence: [Independent modern attribution](https://ris.utwente.nl/ws/portalfiles/portal/6070817/thesis_van_Delden.pdf).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+### WR-KW-060 - [It Is the Love of Country]
+
+- Verified author and source: J. Horace McFarland, remarks to the White House Conference on Conservation and Natural Resources, May 14, 1908.
+- Relationship: Two sentences with major scan-confirmed wording errors. The source reads "has lighted" rather than "has lighten" and "this love is excited" rather than "this life is excited."
+- Evidence: [Library of Congress historical account with occasion and source wording](https://blogs.loc.gov/inside_adams/2016/08/john-horace-mcfarland-unsung-hero-of-the-national-park-service/) and [independent occasion witness](https://www.bamanews.com/archives/2008_07_01_archive.html).
+- Confidence: High.

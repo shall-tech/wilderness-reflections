@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-057 on original page 38; Life and Leadership are complete.
+- Source verification is complete through WR-KW-060 on original page 38; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-058, "Oh God of Dust and Rainbows," on original page 38.
+- Next entry: WR-KW-061, "Rain and the Rhinoceros," on original page 39.
 
 ## Source
 

@@ -1646,22 +1646,22 @@ To know one's landscape, to feel in sympathy with it, is often to be at peace wi
 WR-ID: WR-KW-058
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Oh God of Dust and Rainbows]
 BOOKLET_AUTHOR: Langston Hughes
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Langston Hughes
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: First of "Two Somewhat Different Epigrams," rendered as prose
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Two Somewhat Different Epigrams" (1957); collected in The Poems: 1951-1967 (1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Prayer
 - Beauty
-NOTES: None
+NOTES: The source presents the sentence as two rhymed lines, with a period after "see" and "That" capitalized on the second line. The booklet combines the lines as prose.
 -->
 
 ## [Oh God of Dust and Rainbows]
@@ -1674,13 +1674,13 @@ Oh God of dust and rainbows, help us see that without dust the rainbow would not
 WR-ID: WR-KW-059
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Discovery Consists of Looking]
 BOOKLET_AUTHOR: Albert Szent-Goygyi
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Albert Szent-Györgyi (transmitted attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely circulated paraphrase attributed to Szent-Györgyi
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1689,7 +1689,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Discovery
 - Thought
-NOTES: None
+NOTES: The booklet misspells Szent-Györgyi's surname. The saying commonly appears as "Discovery consists of seeing what everybody has seen and thinking what nobody has thought," but no speech, book, article, interview, contemporaneous witness, or original-language source was located.
 -->
 
 ## [Discovery Consists of Looking]
@@ -1702,22 +1702,22 @@ Discovery consists of looking at the same thing as everyone else and thinking so
 WR-ID: WR-KW-060
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [It Is the Love of Country]
 BOOKLET_AUTHOR: J. Horace McFarland
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: J. Horace McFarland
+WORK_TYPE: Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two sentences from remarks to the White House Conference on Conservation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Address to the White House Conference on Conservation and Natural Resources (May 14, 1908)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Country
 - Beauty
-NOTES: None
+NOTES: The source reads "has lighted" and "this love is excited." The booklet's scan-confirmed "has lighten" and "this life is excited" are preserved as printed.
 -->
 
 ## [It Is the Love of Country]
