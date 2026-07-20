@@ -258,22 +258,22 @@ The man, the woman, who risks nothing, does nothing, has nothing, is nothing.
 WR-ID: WR-L-006
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Believe in Yourself!
 BOOKLET_AUTHOR: Edgar A. Guest
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Edgar A. Guest
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Complete poem presented as prose paragraphs
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Confidence
 - Perseverance
-NOTES: None
+NOTES: A 1957 printed witness matches the booklet text and attribution closely; the original publication venue and date remain unknown.
 -->
 
 ## Believe in Yourself!
@@ -290,22 +290,23 @@ Believe in yourself and step out unafraid. By misgivings and doubt be not easily
 WR-ID: WR-L-007
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Are You Strong Enough to Handle Critics?
 BOOKLET_AUTHOR: Theodore Roosevelt
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Theodore Roosevelt
 WORK_TYPE: Speech Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Adapted excerpt from "Citizenship in a Republic"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Speech delivered at the Sorbonne, Paris, April 23, 1910
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Retained the booklet's editorial title; it is not the title of Roosevelt's speech.
 THEMES:
 - Courage
 - Perseverance
-NOTES: None
+NOTES: Commonly called "The Man in the Arena" passage. The booklet modernizes punctuation and changes several words and phrases.
 -->
 
 ## Are You Strong Enough to Handle Critics?
@@ -318,22 +319,23 @@ It is not the critic who counts, not the man who points out how the strong man s
 WR-ID: WR-L-008
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Come into the Mountains, Dear Friend]
 BOOKLET_AUTHOR: Susan Poliz Schuetz
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Susan Polis Schutz
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete short poem from the collection of the same title
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Come Into the Mountains, Dear Friend (Blue Mountain Arts, 1972)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Preserved the booklet spelling "Susan Poliz Schuetz" while recording the verified name in metadata.
 THEMES:
 - Wilderness
 - Reflection
-NOTES: None
+NOTES: The wording matches published quotations from the collection; punctuation and lineation vary by presentation.
 -->
 
 ## [Come into the Mountains, Dear Friend]

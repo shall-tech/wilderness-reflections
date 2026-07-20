@@ -45,3 +45,28 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The booklet carries a shortened version of the circulating text.
 - Evidence: [Rajasthan secondary-education text attributing it to Janet Rand](https://rajshaladarpan.rajasthan.gov.in/SD4/Home/Public2/CitizenCorner/Prayas%202020/Prayas%202018%20notes/26.0118_Prayas%2718_English.pdf), [1985 publication crediting "Author Unknown"](https://mn.gov/mnddc/parallels2/pdf/80s/85/85-WIS-WIN2.pdf), and [2006 discussion reporting the author as unknown](https://citeseerx.ist.psu.edu/document?doi=b0f28cb836ab04ce9ebdf10d3881ea31b19998e2&repid=rep1&type=pdf).
 - Confidence: High that the booklet attribution is unsupported by the evidence found; low confidence in any alternative author attribution.
+
+## 2026-07-20 - Life page 11, batch 1
+
+### WR-L-006 - Believe in Yourself!
+
+- Verified author: Edgar A. Guest.
+- Relationship: The booklet presents the poem's three six-line stanzas as three prose paragraphs, with minor punctuation differences.
+- Evidence: [1957 Mansfield High School yearbook printing](https://s3.amazonaws.com/scschoolfiles/225/1957.pdf).
+- Confidence: Medium. The printed witness establishes that the text and Guest attribution predate the booklet, but a primary collection or original newspaper appearance has not yet been located.
+
+### WR-L-007 - Are You Strong Enough to Handle Critics?
+
+- Verified author: Theodore Roosevelt.
+- Source identity: A passage from "Citizenship in a Republic," delivered at the Sorbonne in Paris on April 23, 1910; commonly known as "The Man in the Arena."
+- Relationship: Adapted excerpt. The booklet supplies an editorial title, compresses the passage, and changes wording such as "comes short" for "comes up short."
+- Evidence: [Theodore Roosevelt Center speech text and context](https://www.theodorerooseveltcenter.org/encyclopedia/culture-and-society/man-in-the-arena/).
+- Confidence: High.
+
+### WR-L-008 - [Come into the Mountains, Dear Friend]
+
+- Verified author: Susan Polis Schutz, correcting the booklet's "Susan Poliz Schuetz."
+- Source identity: *Come Into the Mountains, Dear Friend* (Blue Mountain Arts, 1972).
+- Relationship: Complete short poem as quoted from the collection.
+- Evidence: [Google Books bibliographic record](https://books.google.com/books/about/Come_Into_the_Mountains_Dear_Friend.html?id=ojdbAAAAMAAJ), [Blue Mountain Arts history](https://www.sps.com/susan-and-stephen-schutz), and [text with collection citation](https://libquotes.com/susan-polis-schutz/quote/lbg2d3w).
+- Confidence: High.

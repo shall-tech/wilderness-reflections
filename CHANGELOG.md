@@ -54,3 +54,4 @@
 - Updated the scan map and completion notes after visually verifying all 84 supplied leaves through original page 91.
 - Began the source-verification pass with Life entries WR-L-001 through WR-L-003 and added a verification evidence log.
 - Verified WR-L-004 and documented the unresolved attribution of WR-L-005.
+- Verified Life entries WR-L-006 through WR-L-008 and recorded one corrected author identity.

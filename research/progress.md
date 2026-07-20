@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-005 on original page 10.
+- Source verification is complete through WR-L-008 on original page 11.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-006, "Believe in Yourself!," on original page 11.
+- Next entry: WR-L-009, "I Expect to Pass This Way but Once," on original page 11.
 
 ## Source
 
