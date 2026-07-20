@@ -1975,22 +1975,22 @@ All men die, not all men ever truly live.
 WR-ID: WR-L-063
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [They Danced the Dance of Life]
 BOOKLET_AUTHOR: Gilgamesh
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Herbert Mason (modern verse narrative)
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed paraphrase of two lines in Gilgamesh: A Verse Narrative
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Gilgamesh: A Verse Narrative (1970)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Mortality
-NOTES: None
+NOTES: Mason's version reads "their feet / that danced the dance of life / Which hovers close to death." The booklet changes this to "They danced" and "lingers." This is modern adaptation language, not a literal quotation from the ancient epic.
 -->
 
 ## [They Danced the Dance of Life]
@@ -2003,22 +2003,22 @@ They danced the dance of life, which lingers close to death.
 WR-ID: WR-L-064
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Those Who Have the Humility of a Child]
 BOOKLET_AUTHOR: J. Allen Boone
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: J. Allen Boone
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete sentence
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Kinship with All Life (1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Humility
 - Reverence
-NOTES: None
+NOTES: A source witness includes "all of life" where the booklet prints "all life."
 -->
 
 ## [Those Who Have the Humility of a Child]
@@ -2031,22 +2031,22 @@ Those who have the humility of a child may find again the key to reverence for, 
 WR-ID: WR-L-065
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Never a Day Passes]
 BOOKLET_AUTHOR: George Washing Carver
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: George Washington Carver
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete quotation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Original occasion unknown; collected in George Washington Carver in His Own Words (1987)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Nature
 - Reverence
-NOTES: None
+NOTES: The booklet misspells the author's middle name as "Washing."
 -->
 
 ## [Never a Day Passes]
@@ -2059,22 +2059,22 @@ Never a day passes but that I do myself the honor to commune with some of nature
 WR-ID: WR-L-066
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [At the Gates of the Forest]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Two-sentence excerpt ending mid-sentence
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Nature" in Essays: Second Series (1844)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Perspective
-NOTES: None
+NOTES: The booklet stops after "back," omitting the remainder of Emerson's sentence: "with the first step he makes into these precincts."
 -->
 
 ## [At the Gates of the Forest]

@@ -497,3 +497,36 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Paraphrase of "Every man dies, not every man really lives," changing "Every" to "All" and "really" to "ever truly."
 - Evidence: [Film dialogue record](https://www.imdb.com/title/tt0112573/quotes/?item=qt0440100) and [interview with screenwriter Randall Wallace discussing the line's origin](https://thatshelf.com/interview-braveheart-screenwriter-randall-wallace-on-his-films-his-faith-and-common-themes-running-through-his-work/).
 - Confidence: High. The line is not evidence of a statement by the historical William Wallace.
+
+## 2026-07-20 - Life page 19, entries 6-9
+
+### WR-L-063 - [They Danced the Dance of Life]
+
+- Verified writer: Herbert Mason.
+- Source identity: *Gilgamesh: A Verse Narrative* (1970), Mason's modern adaptation of the epic.
+- Relationship: Condensed paraphrase of "their feet / that danced the dance of life / Which hovers close to death," changing the subject to "They" and "hovers" to "lingers."
+- Evidence: [World History for Us All excerpt with book and page citation](https://whfua.history.ucla.edu/downloads/download.php?file=E3LS4) and [published critical essay quoting the Mason lines](https://smillswriter.com/essays-talks/going-back-to-nature/).
+- Confidence: High. The booklet's wording is not a literal translation from an ancient tablet.
+
+### WR-L-064 - [Those Who Have the Humility of a Child]
+
+- Verified author: J. Allen Boone.
+- Source identity: *Kinship with All Life* (1954).
+- Relationship: Complete sentence; a checked witness includes "all of life" where the booklet has "all life."
+- Evidence: [Author-attributed quotation record](https://friendsofsilence.net/quote/author/j-allen-boone) and [book publication record](https://www.goodreads.com/book/show/798828).
+- Confidence: High.
+
+### WR-L-065 - [Never a Day Passes]
+
+- Verified author: George Washington Carver, correcting the booklet's "George Washing Carver."
+- Relationship: Complete quotation; original occasion not located.
+- Evidence: [Citation to *George Washington Carver in His Own Words*](https://www.azquotes.com/author/2580-George_Washington_Carver/tag/nature) and [published institutional-use witness](https://convenor.com/wp-content/uploads/2024/06/cusahandbook-150ppi.pdf).
+- Confidence: Medium because the original document or occasion remains unidentified.
+
+### WR-L-066 - [At the Gates of the Forest]
+
+- Verified author: Ralph Waldo Emerson.
+- Source identity: "Nature" in *Essays: Second Series* (1844).
+- Relationship: Two-sentence excerpt ending mid-sentence after "back"; the source continues "with the first step he makes into these precincts."
+- Evidence: [Scanned 1844 edition](https://web.english.upenn.edu/~cavitch/pdf-library/Emerson_Essays_Second_Series_1844.pdf) and [Library of America edition citation](https://www.azquotes.com/quote/1036186).
+- Confidence: High.
