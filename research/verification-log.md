@@ -1118,3 +1118,19 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: The full passage circulates under France's name in environmental-education materials and in a corresponding French form, but no title, speech, letter, or primary French publication was located. Copies alternate between "inflammable" and "flammable."
 - Evidence: [1983 quotation-collection citation](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/NBFU/TC-UNB-320.pdf), [later National Park Service witness](https://www.anpr.org/assets/ranger_magazine/Volume-10-Number-3.pdf), and [circulating French text](https://scienceforallnew.blogspot.com/2013/04/t68-favorite-quotes-from-great-french.html).
 - Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+## 2026-07-20 - Knowledge and Wisdom page 35, entries 9-10
+
+### WR-KW-031 - [If We Are to Have Broad-Thinking Men and Women]
+
+- Verified author: Arthur H. Carhart, the U.S. Forest Service's first landscape architect and an early wilderness-recreation planner.
+- Relationship: Altered statement. The established text says "a communion with nature" and usually "wilderness conditions"; the booklet prints "a communication with nature" and singular "condition."
+- Evidence: [Forest History Society institutional account](https://foresthistory.org/research-explore/us-forest-service-history/places/superior-national-forest/) and [National Park Service reproduction](https://parkplanning.nps.gov/showFile.cfm?projectID=33225&sfid=187959).
+- Confidence: High for authorship and wording; the original document and precise date were not located.
+
+### WR-KW-032 - [Speak to the Earth]
+
+- Verified source: Job 12:8, King James Version.
+- Relationship: Shortened clause. The KJV begins "Or speak" and continues "and the fishes of the sea shall declare unto thee"; the booklet drops both portions.
+- Evidence: [KJV verse and translation comparison](https://biblehub.com/kjv/job/12-8.htm) and [public-domain KJV page](https://ebible.org/pdf/eng-kjv/eng-kjv_JOB.pdf).
+- Confidence: High.

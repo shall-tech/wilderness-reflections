@@ -865,22 +865,22 @@ Do not try to satisfy your vanity by teaching a great many things. Awaken people
 WR-ID: WR-KW-031
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If We Are to Have Broad-Thinking Men and Women]
 BOOKLET_AUTHOR: Arthur Carhart
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Arthur H. Carhart
+WORK_TYPE: Professional Statement
+EXCERPT: Yes
+RELATIONSHIP: Altered statement associated with Carhart's early U.S. Forest Service recreation planning
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Original document date uncertain; associated with Carhart's Forest Service work beginning in 1919
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Perspective
-NOTES: None
+NOTES: The established text says "a communion with nature" and usually "wilderness conditions." The booklet prints "a communication with nature" and singular "condition"; both are preserved as scan-confirmed variants.
 -->
 
 ## [If We Are to Have Broad-Thinking Men and Women]
@@ -893,22 +893,22 @@ If we are to have broad-thinking men and women of high mentality, of good physiq
 WR-ID: WR-KW-032
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Speak to the Earth]
 BOOKLET_AUTHOR: Job 12:8
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Biblical Book of Job
+WORK_TYPE: Scripture Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Shortened clause from Job 12:8 in the King James Version
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: King James Bible (1611; ancient Hebrew source)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Teaching
-NOTES: None
+NOTES: The KJV verse begins "Or speak" and continues "and the fishes of the sea shall declare unto thee." The booklet removes the opening conjunction and omits the second clause.
 -->
 
 ## [Speak to the Earth]

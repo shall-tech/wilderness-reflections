@@ -90,3 +90,4 @@
 - Completed Knowledge and Wisdom page 34 with Wordsworth, an unsupported Muir attribution, and a loose Tao Te Ching paraphrase.
 - Began Knowledge and Wisdom page 35 with Muir, Lopez, Whitman, and the probable expansion of the booklet's KKC initials.
 - Continued Knowledge and Wisdom page 35, restoring the unattributed Tao Te Ching source, correcting Olson's name in metadata, and flagging two unresolved attributions.
+- Completed Knowledge and Wisdom page 35 by documenting the Carhart communion/communication corruption and the shortened Job 12:8 excerpt.
