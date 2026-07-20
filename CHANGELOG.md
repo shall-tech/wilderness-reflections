@@ -93,3 +93,4 @@
 - Completed Knowledge and Wisdom page 35 by documenting the Carhart communion/communication corruption and the shortened Job 12:8 excerpt.
 - Began Knowledge and Wisdom page 36 with the Guanzi precursor, Paiakan, an unresolved Ibn Gabirol attribution, and Walking Buffalo's longer source context.
 - Continued Knowledge and Wisdom page 36 with Bernard's letter, Spinoza's scan-confirmed wording error, and two provenance-unresolved sayings.
+- Completed Knowledge and Wisdom page 36, recovering Brother Patrick Duffy's omitted identity and identifying Thackeray and Camus sources while leaving Schaller provenance unresolved.

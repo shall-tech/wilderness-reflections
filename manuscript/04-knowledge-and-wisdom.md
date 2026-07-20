@@ -1150,22 +1150,22 @@ Things excellent are as difficult are they are rare.
 WR-ID: WR-KW-041
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [When I Go Quiet]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Brother Patrick Duffy, as recorded by William Least Heat-Moon
+WORK_TYPE: Reported Conversation
+EXCERPT: Yes
+RELATIONSHIP: Statement recorded in Blue Highways
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Blue Highways (1982)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Silence
 - Awareness
-NOTES: None
+NOTES: William Least Heat-Moon attributes the statement to Brother Patrick Duffy, whom he met in Georgia. The booklet omits the attribution entirely.
 -->
 
 ## [When I Go Quiet]
@@ -1178,22 +1178,22 @@ When I go quiet I stop hearing myself and start hearing the world outside me. Th
 WR-ID: WR-KW-042
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The World Is a Looking Glass]
 BOOKLET_AUTHOR: William Makepeace Thackery
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Makepeace Thackeray
+WORK_TYPE: Novel Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Altered excerpt from Vanity Fair, chapter 2
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Vanity Fair (serialized 1847-1848; book 1848)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Reflection
 - Attitude
-NOTES: None
+NOTES: The source says "it will in turn look sourly upon you," "a jolly kind companion," and continues "and so let all young persons take their choice." The booklet omits "in turn," drops "you" after "upon," adds "and" before kind, truncates the ending, and misspells Thackeray as "Thackery."
 -->
 
 ## [The World Is a Looking Glass]
@@ -1206,22 +1206,22 @@ The world is a looking glass, and gives back to every man the reflection of his 
 WR-ID: WR-KW-043
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In the Midst of Winter]
 BOOKLET_AUTHOR: Albert Camus
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Albert Camus
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Translation variant of the final sentence of "Return to Tipasa"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Retour à Tipasa" (written 1952; collected in L'Été, 1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Resilience
 - Hope
-NOTES: None
+NOTES: Camus's French is "Au milieu de l'hiver, j'apprenais enfin qu'il y avait en moi un été invincible." Published translations vary among midst, middle, or depths; learned or discovered; and "there was in me" or "within me there lay." The booklet uses a recognized compact variant.
 -->
 
 ## [In the Midst of Winter]
@@ -1234,22 +1234,22 @@ In the midst of winter I finally learned that there was in me an invincible summ
 WR-ID: WR-KW-044
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [A Ruin Is Not Just Something]
 BOOKLET_AUTHOR: George Schaller
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: George B. Schaller (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Schaller-attributed statement; original work not located
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - History
 - Transience
-NOTES: None
+NOTES: The exact sentence circulates under Schaller's name, but no book, article, field journal, interview, page reference, or contemporaneous witness was located.
 -->
 
 ## [A Ruin Is Not Just Something]

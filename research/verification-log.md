@@ -1193,3 +1193,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Corrupted excerpt. Spinoza writes "But all things excellent are as difficult as they are rare." The booklet omits "But" and misprints the second "as" as "are."
 - Evidence: [Context and R. H. M. Elwes translation](https://kwize.com/quote/8047) and [scholarly proposition locator](https://www.mdpi.com/bookfiles/book/7497/Philosophy_of_Law_and_Legal_Theory_Historical_and_Contemporary_Perspectives__Theme_Justice_Based_on_Truth.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 36, entries 9-12
+
+### WR-KW-041 - [When I Go Quiet]
+
+- Verified speaker and source: Brother Patrick Duffy, as recorded by William Least Heat-Moon in *Blue Highways* (1982).
+- Relationship: Complete reported statement. The booklet labels it unknown.
+- Evidence: [Literary discussion identifying speaker and work](https://reconstructionarytales.blog/category/literature/page/6/).
+- Confidence: High.
+
+### WR-KW-042 - [The World Is a Looking Glass]
+
+- Verified author and source: William Makepeace Thackeray, *Vanity Fair* (1847-48), chapter 2.
+- Relationship: Altered excerpt. The source says "it will in turn look sourly upon you," "a jolly kind companion," and continues with advice to young persons. The booklet omits words, adds "and" before kind, truncates the passage, and misspells Thackeray as "Thackery."
+- Evidence: [Work and chapter quotation record](https://quotepark.com/authors/william-makepeace-thackeray/) and [Project Gutenberg text](https://www.gutenberg.org/files/599/old/vfair12h.htm).
+- Confidence: High.
+
+### WR-KW-043 - [In the Midst of Winter]
+
+- Verified author and source: Albert Camus, "Retour à Tipasa" (written 1952; collected in *L'Été*, 1954).
+- Relationship: Translation variant of the essay's final sentence. The French reads "Au milieu de l'hiver, j'apprenais enfin qu'il y avait en moi un été invincible"; English versions vary in each principal phrase.
+- Evidence: [French text and close English translation](https://www.5jt.com/) and [source and translation history](https://invincible-summer.com/learn/invincible-summer-meaning).
+- Confidence: High.
+
+### WR-KW-044 - [A Ruin Is Not Just Something]
+
+- Booklet attribution: George B. Schaller.
+- Finding: The exact sentence circulates under Schaller's name, but no book, article, field journal, interview, page reference, or contemporaneous witness was located.
+- Evidence: [Later exact-wording attribution](https://www.azquotes.com/quote/594044).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.
