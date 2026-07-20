@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-LE-025 on original page 29; the Leadership section is complete.
+- Source verification is complete through WR-KW-004 on original page 33; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-001, "The Most Important Thing," on original page 33.
+- Next entry: WR-KW-005, "The End of All Our Exploring," on original page 33.
 
 ## Source
 

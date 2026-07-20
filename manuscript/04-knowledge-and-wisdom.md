@@ -14,22 +14,22 @@
 WR-ID: WR-KW-001
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Greatest Wonder]
 BOOKLET_AUTHOR: Ralph Waldo Emerson, from a conversation with John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Remark recorded by James Bradley Thayer during Emerson's 1871 Yosemite journey
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Western Journey with Mr. Emerson (1884)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wonder
 - Nature
-NOTES: None
+NOTES: Thayer records Emerson saying this in the Mariposa Grove while John Muir was present. The booklet's description as a conversation with Muir is broadly contextual rather than a direct dialogue citation.
 -->
 
 ## [The Greatest Wonder]
@@ -42,22 +42,22 @@ The greatest wonder is that we can see these trees and not wonder more.
 WR-ID: WR-KW-002
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You Cannot Stay on the Summit Forever]
 BOOKLET_AUTHOR: Rene Daumal, Mount Analog
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: René Daumal
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed excerpt from "A Treatise of Analogical Mountaineering" in Mount Analogue
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Le Mont Analogue (posthumous, 1952; English translation 1959)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Knowledge
 - Perspective
-NOTES: None
+NOTES: The source includes several intervening sentences about observing difficulties while climbing and says "conducting oneself" in the lower regions; the booklet omits that material and uses "finding one's direction." The booklet title "Mount Analog" is preserved.
 -->
 
 ## [You Cannot Stay on the Summit Forever]
@@ -70,22 +70,22 @@ You cannot stay on the summit forever; you have to come down again... So why bot
 WR-ID: WR-KW-003
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Smaller We Come to Feel Ourselves]
 BOOKLET_AUTHOR: Arne Naess
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Arne Næss
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from "The Significance of Place: At Home in the Mountains"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Original essay date uncertain; later collected in The Ecology of Wisdom (2008)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Humility
 - Mountains
-NOTES: None
+NOTES: The collected text uses "compared with the mountain" where the booklet has "compared to the mountain." The anglicized spelling "Arne Naess" is preserved in the booklet attribution.
 -->
 
 ## [The Smaller We Come to Feel Ourselves]
@@ -98,22 +98,22 @@ The smaller we come to feel ourselves compared to the mountain, the nearer we co
 WR-ID: WR-KW-004
 PAGE: 33
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Inspiration to Truth]
 BOOKLET_AUTHOR: G.E. Lessing
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Gotthold Ephraim Lessing
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Corrupted variant of Lessing's statement that the search or pursuit of truth is preferable to its possession
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Eine Duplik (1778)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Truth
 - Inspiration
-NOTES: None
+NOTES: The established formulation concerns the search or pursuit of truth, not "the inspiration to truth." The booklet's printed wording is confirmed by the scan and preserved.
 -->
 
 ## [The Inspiration to Truth]

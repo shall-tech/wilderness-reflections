@@ -886,3 +886,36 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Altered excerpt. The booklet changes "will pass an invisible boundary" to "he will pass on invisible boundary," removes the repeated nouns from "nor poverty poverty, nor weakness weakness," and begins "if you have built" with a lowercase letter. All are confirmed in the scan and preserved.
 - Evidence: [Project Gutenberg text of Walden](https://www.gutenberg.org/files/205/205-h/205-h.htm) and [Digital Thoreau fluid-text edition](https://digitalthoreau.org/walden/fluid/text/18.html).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 33, entries 1-4
+
+### WR-KW-001 - [The Greatest Wonder]
+
+- Verified speaker: Ralph Waldo Emerson.
+- Source identity: James Bradley Thayer, *A Western Journey with Mr. Emerson* (1884), recounting the 1871 Yosemite journey.
+- Relationship: Exact remark recorded in the Mariposa Grove while John Muir was present. The booklet's description as a conversation with Muir is contextual rather than a direct dialogue citation.
+- Evidence: [1884 volume record](https://books.google.com/books?id=D-qdVsQzX6sC) and [Walden Woods Project account of the Muir-Emerson meeting](https://www.walden.org/what-we-do/library/the-transcendentalists-their-lives-writings/john-muir-1838-1914/muir-and-emerson/).
+- Confidence: High.
+
+### WR-KW-002 - [You Cannot Stay on the Summit Forever]
+
+- Verified author: René Daumal.
+- Source identity: "A Treatise of Analogical Mountaineering," included with the posthumous unfinished novel *Mount Analogue* (French 1952; English 1959).
+- Relationship: Condensed excerpt. The source includes intervening climbing instructions and says "conducting oneself" where the booklet has "finding one's direction." The booklet also shortens the English title to *Mount Analog*.
+- Evidence: [Extended passage with source context](https://www.theculturium.com/rene-daumal-mount-analogue/) and [scholarly secondary witness](https://creativeguide.com/wp-content/uploads/2015/01/Ch9.AS_.pdf).
+- Confidence: High.
+
+### WR-KW-003 - [The Smaller We Come to Feel Ourselves]
+
+- Verified author: Arne Næss.
+- Source identity: "The Significance of Place: At Home in the Mountains," later collected in *The Ecology of Wisdom* (2008).
+- Relationship: Near-exact excerpt; the collected text uses "compared with" where the booklet has "compared to."
+- Evidence: [Collected-works text](https://libraryofagartha.com/Berserker/Politics/Arne%20Naess_Collected%20Works%20%28volume%206%2C%20Berserker%20Books%29________.pdf) and [environmental-periodical reproduction](https://www.environmentandsociety.org/sites/default/files/key_docs/rcc00098005-11-1_2.pdf).
+- Confidence: High.
+
+### WR-KW-004 - [The Inspiration to Truth]
+
+- Verified author and underlying source: Gotthold Ephraim Lessing, *Eine Duplik* (1778).
+- Relationship: Corrupted variant. Lessing writes that human powers grow through the pursuit or search for truth rather than its possession; the booklet prints "inspiration to truth." The scan confirms that wording.
+- Evidence: [Cambridge translation of Lessing's philosophical and theological writings](https://staibabussalamsula.ac.id/wp-content/uploads/2024/03/Lessing-staibabussalamsula.ac_.id_.pdf) and [historical philosophy discussion identifying *Duplik*](https://en.wikisource.org/wiki/Page%3AA_Brief_History_of_Modern_Philosophy.djvu/139).
+- Confidence: High.

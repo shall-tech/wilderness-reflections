@@ -82,3 +82,4 @@
 - Continued Leadership page 28 through Lutzenberger, Stoddart, and Lombardi, while documenting the unresolved Don Hummel attribution.
 - Completed Leadership page 28 verification, correcting the thousand-mile saying to Laozi, identifying the KJV excerpt, and documenting two unresolved maxims.
 - Completed Leadership verification with a scan-faithful comparison of the closing Thoreau excerpt against *Walden*.
+- Began Knowledge and Wisdom verification, locating the Emerson, Daumal, Næss, and Lessing sources and documenting booklet variants.
