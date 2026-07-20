@@ -1035,3 +1035,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete sentence; the source uses em dashes around the list where the booklet uses commas.
 - Evidence: [Digitized U.S. government report](https://upload.wikimedia.org/wikipedia/commons/6/6a/FEDLINK_-_United_States_Federal_Collection_%28IA_CAT31418412%29.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 34, entries 9-11
+
+### WR-KW-020 - [Come Forth into the Light of Things]
+
+- Verified author and source: William Wordsworth, "The Tables Turned," stanza 4, in *Lyrical Ballads* (1798).
+- Relationship: Two verse lines rendered as prose. The poem separates them with a comma and capitalizes "Nature"; the booklet uses a period and lowercase.
+- Evidence: [Complete poem reproduction](https://cdn.ymaws.com/portal.naccap.org/resource/collection/ACC70297-2862-48ED-812E-2C2C99652F26/Formed_Affections%2C_Forged_Convictions.pdf) and [work and stanza locator](https://quotepark.com/quotes/1433331-william-wordsworth-come-forth-into-the-light-of-things-let-nature-b/).
+- Confidence: High.
+
+### WR-KW-021 - [Society Speaks and All Men Listen]
+
+- Booklet attribution: John Muir.
+- Finding: An extensive search of Muir's published and unpublished writings and biographies found no occurrence. The saying circulates in modern Scouting and environmental sources under Muir's name, but its original author remains unknown.
+- Evidence: [Muir attribution audit](https://en.wikiquote.org/wiki/John_Muir) and [later Philmont institutional use](https://www.philmontscoutranch.org/wp-content/uploads/2023/04/PTC_Final-Revised-QR.pdf).
+- Confidence: High that the Muir attribution is unsupported; original authorship unknown.
+
+### WR-KW-022 - [Observe All of the Light]
+
+- Probable source: *Tao Te Ching*, chapter 28, traditionally attributed to Laozi.
+- Relationship: Loose modern paraphrase of the instruction to know the white or light while keeping to the black or dark. No translation matching the booklet's exact wording was located. "Tao T.E. Ching" is the work title, not an author.
+- Evidence: [Translation comparison for chapter 28](https://ttc.tasuki.org/display%3ACode%3Agff%2Cdl%2Cjhmd%2Crh%2Cas/section%3A28) and [scholarly discussion of the white/black passage](https://www.scribd.com/document/892158956/Kristofer-Schipper-on-The-Taoist-Body-and-perceptions).
+- Confidence: Medium; source identity is inferred from the distinctive paired-light-and-dark idea.

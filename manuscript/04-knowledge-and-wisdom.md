@@ -554,22 +554,22 @@ Many of our greatest American thinkers, men of the caliber of Thomas Jefferson, 
 WR-ID: WR-KW-020
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Come Forth into the Light of Things]
 BOOKLET_AUTHOR: William Wordsworth
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Wordsworth
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two lines from "The Tables Turned," rendered as prose
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Lyrical Ballads (1798)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Teaching
-NOTES: None
+NOTES: The source presents the words as two verse lines separated by a comma; the booklet renders them as two sentences and lowercases "nature."
 -->
 
 ## [Come Forth into the Light of Things]
@@ -582,13 +582,13 @@ Come forth into the light of things. Let nature be your teacher.
 WR-ID: WR-KW-021
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Society Speaks and All Men Listen]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous; John Muir attribution unsupported
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Modern maxim frequently misattributed to John Muir
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -597,7 +597,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Mountains
 - Wisdom
-NOTES: None
+NOTES: No occurrence was found in Muir's published books, journals, letters, or biographies. The saying circulates in modern Scouting and environmental sources under his name, but its original author remains unknown.
 -->
 
 ## [Society Speaks and All Men Listen]
@@ -610,22 +610,22 @@ Society speaks and all men listen; mountains speak and wise men listen.
 WR-ID: WR-KW-022
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Observe All of the Light]
 BOOKLET_AUTHOR: Tao T.E. Ching
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_TYPE: Philosophical Text Paraphrase
+EXCERPT: Yes
+RELATIONSHIP: Loose modern paraphrase of Tao Te Ching, chapter 28
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Ancient Chinese text; date uncertain (traditionally c. fourth century BCE)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Light
 - Awareness
-NOTES: None
+NOTES: Chapter 28 instructs the reader to know the white or light while keeping to the black or dark. No translation matching the booklet's exact wording was located. The attribution "Tao T.E. Ching" treats the work title as an author and is preserved as printed.
 -->
 
 ## [Observe All of the Light]
