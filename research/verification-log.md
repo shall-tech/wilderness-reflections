@@ -787,3 +787,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete entry rendered as prose rather than the source's stacked short lines.
 - Evidence: [Chapter summary locating the entry and page](https://www.supersummary.com/illusions/chapters-6-10-summary/), [work-attributed quotation record](https://libquotes.com/richard-bach/quote/lba2o1z), and [matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
 - Confidence: High.
+
+## 2026-07-20 - Leadership page 28, entries 1-4
+
+### WR-LE-013 - [Nothing Worthwhile Was Ever Accomplished]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Philmont Scout Ranch edition description](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [Philbrook Museum edition history](https://shop.philbrook.org/products/epigrams), and [matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion; original authorship is not independently established.
+
+### WR-LE-014 - [Let Me Tell You About the People, Jack]
+
+- Verified writer: Joseph Dougherty.
+- Source identity: *Witch Hunt*, HBO television film (1994); dialogue spoken by Senator Larson Crockett.
+- Relationship: Altered film dialogue. The film says "Let me tell you something about the people, Phil," "You lock any ten of 'em," "they may not," and "they'll pick someone to hate." The booklet changes Phil to Jack and alters each phrase.
+- Evidence: [Timestamped subtitle transcript](https://www.subtitlecat.com/subs/368/Witch%20Hunt%20-%201994.eng.html), [UCLA Film & Television Archive credit](https://cinema.ucla.edu/events/witch-hunt-1994-touch-1997-2013-07-29/), and [Spanish film-registry screenplay credit](https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?Pelicula=5160940).
+- Confidence: High.
+
+### WR-LE-015 - [Luck Is Where Preparation Meets Opportunity]
+
+- Booklet attribution: George S. Patton Jr.
+- Finding: Attribution unresolved. Variants have also been credited to Seneca, Darrell Royal, Elmer Letterman, Vince Lombardi, and others; an anonymous 1912 version predates those modern claims.
+- Evidence: [Source-history analysis with the 1912 witness and actual Seneca parallel](https://quotepark.com/quotes/1766639-seneca-the-younger-luck-is-what-happens-when-preparation-meets-opport/) and [later unattributed institutional use](https://www.swic.edu/wp-content/uploads/2017/03/2014-2015-College-Catalog-Complete.pdf).
+- Confidence: High that the Patton attribution is unsupported; original coiner unknown.
+
+### WR-LE-016 - [Guts Is That Determination]
+
+- Booklet attribution: George S. Patton Jr.
+- Finding: Focused exact-phrase searches found no Patton speech, letter, diary, book, or contemporaneous witness.
+- Confidence: Low; retained as an unresolved transmitted attribution.

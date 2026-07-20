@@ -78,3 +78,4 @@
 - Began Leadership verification with page 27, correcting two source attributions, identifying a Holmes wording corruption, and documenting the composite nature of the Disney "four C's" passage.
 - Continued Leadership page 27 through four Waite Phillips epigrams, identifying Rockefeller and Burroughs precursors while distinguishing collection provenance from original authorship.
 - Completed Leadership page 27 verification through the remaining Phillips epigrams and Richard Bach's *Illusions* maxim.
+- Began Leadership page 28 verification, identifying altered *Witch Hunt* dialogue and separating an anonymous luck proverb from unsupported Patton attribution.

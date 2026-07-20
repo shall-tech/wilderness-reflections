@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-LE-012 on original page 27.
+- Source verification is complete through WR-LE-016 on original page 28.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-LE-013, "Nothing Worthwhile Was Ever Accomplished," on original page 28.
+- Next entry: WR-LE-017, "Freedom Without Discipline," on original page 28.
 
 ## Source
 

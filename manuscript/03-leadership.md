@@ -351,22 +351,22 @@ Argue for your limitations, and sure enough, they're yours.
 WR-ID: WR-LE-013
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nothing Worthwhile Was Ever Accomplished]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Perseverance
 - Initiative
-NOTES: None
+NOTES: Phillips collected as well as composed epigrams; inclusion verifies the booklet's cited source but does not independently establish original authorship.
 -->
 
 ## [Nothing Worthwhile Was Ever Accomplished]
@@ -379,22 +379,22 @@ Nothing worthwhile was ever accomplished without the will to start, the enthusia
 WR-ID: WR-LE-014
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Let Me Tell You About the People, Jack]
 BOOKLET_AUTHOR: Witch hunt
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Joseph Dougherty (screenwriter)
+WORK_TYPE: Film Dialogue
+EXCERPT: Yes
+RELATIONSHIP: Altered dialogue spoken by Senator Larson Crockett in Witch Hunt
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Witch Hunt, HBO television film (1994)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Leadership
 - Conflict
-NOTES: None
+NOTES: The film says "Let me tell you something about the people, Phil," "You lock any ten of 'em," "they may not," and "they'll pick someone to hate." The booklet changes Phil to Jack and alters each of those phrases.
 -->
 
 ## [Let Me Tell You About the People, Jack]
@@ -407,13 +407,13 @@ Let me tell you about the people, Jack. Lock any ten of them in a room and they 
 WR-ID: WR-LE-015
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Luck Is Where Preparation Meets Opportunity]
 BOOKLET_AUTHOR: General George S. Patton, Jr.
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous proverb; Patton attribution unverified
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Variant of an anonymous maxim in print by 1912
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -422,7 +422,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Preparation
 - Opportunity
-NOTES: None
+NOTES: The saying has been attributed to Patton, Seneca, Darrell Royal, Elmer Letterman, Vince Lombardi, and others. A 1912 anonymous version predates the named modern attributions; Seneca's actual related passage does not mention luck.
 -->
 
 ## [Luck Is Where Preparation Meets Opportunity]
@@ -435,13 +435,13 @@ Luck is where preparation meets opportunity.
 WR-ID: WR-LE-016
 PAGE: 28
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Guts Is That Determination]
 BOOKLET_AUTHOR: General George S. Patton, Jr.
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: George S. Patton Jr. (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Later maxim attributed to Patton
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -450,7 +450,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Determination
 - Courage
-NOTES: None
+NOTES: Focused exact-phrase searches found no speech, letter, diary, book, or contemporaneous witness by Patton. The attribution is therefore retained as the booklet's claim but not verified.
 -->
 
 ## [Guts Is That Determination]
