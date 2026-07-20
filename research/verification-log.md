@@ -70,3 +70,34 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete short poem as quoted from the collection.
 - Evidence: [Google Books bibliographic record](https://books.google.com/books/about/Come_Into_the_Mountains_Dear_Friend.html?id=ojdbAAAAMAAJ), [Blue Mountain Arts history](https://www.sps.com/susan-and-stephen-schutz), and [text with collection citation](https://libquotes.com/susan-polis-schutz/quote/lbg2d3w).
 - Confidence: High.
+
+## 2026-07-20 - Life page 11, batch 2
+
+### WR-L-009 - [I Expect to Pass This Way but Once]
+
+- Booklet attribution: "Etienne Griellet," evidently intended as the Quaker minister Stephen Grellet (born Étienne de Grellet du Mabillier).
+- Finding: Attribution unresolved and historically doubtful. The saying appeared anonymously by 1859, circulated as a Quaker saying, and was attributed to Grellet only later; an early quotation reference reported that it does not appear in his printed works.
+- Evidence: [Stephen Grellet attribution history and early witnesses](https://en.wikiquote.org/wiki/Stephen_Grellet).
+- Confidence: High that the saying predates its documented attribution to Grellet; original authorship unknown.
+
+### WR-L-010 - [I Will Act as if What I Do Makes a Difference]
+
+- Booklet attribution: William James.
+- Finding: Attribution unresolved. The sentence is widely attributed to James, often with the addition "It does," but no primary location was found. A scholarly discussion describes the slogan as being of uncertain origin while relating it to James's "acting as if" principle.
+- Evidence: [Open University discussion of the slogan's uncertain origin](https://oro.open.ac.uk/107375/9/107375.pdf) and [William James quotation record](https://en.wikiquote.org/wiki/William_James).
+- Confidence: Low for direct authorship; medium for a conceptual relationship to James's writings.
+
+### WR-L-011 - [If You Don't Take Chances]
+
+- Verified author: Michael Spinks.
+- Relationship: A checked printed witness reads "If you don't take chances, you can't do anything in life"; the booklet substitutes "cannot" for "can't."
+- Evidence: [*Touchstones: A Book of Daily Meditations for Men*, January 10 entry](https://dickyricky.com/books/recovery/Touchstones%20-%20Daily%20Meditations%20For%20Men%20-%20Hazelden.pdf).
+- Confidence: Medium. The quotation is well attested in print, but its original interview or occasion remains unidentified.
+
+### WR-L-012 - [At the End of the Open Road]
+
+- Verified author: Louis Simpson.
+- Source identity: Final line of "Lines Written Near San Francisco" in *At the End of the Open Road* (1963).
+- Relationship: One-line excerpt, reproduced accurately.
+- Evidence: [Washington Post review identifying the poem and collection](https://www.washingtonpost.com/archive/entertainment/books/2003/10/26/i-first-fell-for-louis-simpso/5a71a9a3-35fd-40a4-8152-4da20f7bbcda/) and [Walt Whitman Quarterly Review textual discussion](https://whitmanarchive.org/criticism/wwqr/pdf/anc.00371.pdf).
+- Confidence: High.

@@ -354,13 +354,13 @@ And try to do that with your life.
 WR-ID: WR-L-009
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Expect to Pass This Way but Once]
 BOOKLET_AUTHOR: Etienne Griellet
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Variant of an anonymous saying later attributed to Stephen Grellet
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -369,7 +369,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Service
 - Kindness
-NOTES: None
+NOTES: The saying appeared anonymously by 1859 and was not attributed to Grellet until decades later; it has not been found in his printed works. The booklet also misspells his names as "Etienne Griellet."
 -->
 
 ## [I Expect to Pass This Way but Once]
@@ -382,13 +382,13 @@ I expect to pass this way but once; any good therefore that I can do, or any kin
 WR-ID: WR-L-010
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Will Act as if What I Do Makes a Difference]
 BOOKLET_AUTHOR: William James
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Popular aphorism attributed to William James; primary source not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -397,7 +397,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Service
 - Purpose
-NOTES: None
+NOTES: The familiar circulating version usually adds "It does." A scholarly discussion calls the slogan's origin uncertain; no text by James was located for the booklet wording.
 -->
 
 ## [I Will Act as if What I Do Makes a Difference]
@@ -410,22 +410,22 @@ I will act as if what I do makes a difference.
 WR-ID: WR-L-011
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If You Don't Take Chances]
 BOOKLET_AUTHOR: Michael Spinks
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Michael Spinks
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Quotation with one-word booklet variant
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Attested in Touchstones: A Book of Daily Meditations for Men (1986)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Risk
-NOTES: None
+NOTES: The checked printed version reads "can't do anything" where the booklet reads "cannot do anything."
 -->
 
 ## [If You Don't Take Chances]
@@ -438,22 +438,22 @@ If you don't take chances, you cannot do anything in life.
 WR-ID: WR-L-012
 PAGE: 11
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [At the End of the Open Road]
 BOOKLET_AUTHOR: Louis Simpson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Louis Simpson
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Final line of "Lines Written Near San Francisco"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: At the End of the Open Road (1963)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Self-Knowledge
-NOTES: None
+NOTES: The booklet reproduces the final line without its preceding context.
 -->
 
 ## [At the End of the Open Road]

@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-008 on original page 11.
+- Source verification is complete through WR-L-012 on original page 11.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-009, "I Expect to Pass This Way but Once," on original page 11.
+- Next entry: WR-L-013, "The More You Put In," on original page 13.
 
 ## Source
 

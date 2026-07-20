@@ -55,3 +55,4 @@
 - Began the source-verification pass with Life entries WR-L-001 through WR-L-003 and added a verification evidence log.
 - Verified WR-L-004 and documented the unresolved attribution of WR-L-005.
 - Verified Life entries WR-L-006 through WR-L-008 and recorded one corrected author identity.
+- Reviewed Life entries WR-L-009 through WR-L-012, documenting two unresolved attributions and two verified sources.
