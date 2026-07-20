@@ -2405,22 +2405,22 @@ One final paragraph of advice: Do not burn yourselves out. Be as I am - a reluct
 WR-ID: WR-L-077
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You May Not Ever Travel to Maine]
 BOOKLET_AUTHOR: Eric Ashby
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Eric Ashby
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt from "What Price the Furbish Lousewort?"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Environmental Science & Technology 14 (1980), 1176-1181
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Plants
 - Adaptation
-NOTES: None
+NOTES: The complete passage is reproduced under Ashby's name in a later public record, while bibliographic sources identify the likely article; the original article text was not available for direct comparison.
 -->
 
 ## [You May Not Ever Travel to Maine]
@@ -2433,22 +2433,22 @@ You may not ever travel to Maine to see the Furbish lousewort. But the weeds in 
 WR-ID: WR-L-078
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Up to a Point in a Man's Life]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Louis L'Amour
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed and altered excerpt from The Walking Drum
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Walking Drum (1984)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Responsibility
 - Growth
-NOTES: None
+NOTES: The booklet omits "a" after "point," omits "their race" from the list of things blamed, changes "shall" to "will," and drops the concluding sentence about implementing the wish by deed.
 -->
 
 ## [Up to a Point in a Man's Life]
@@ -2461,13 +2461,13 @@ Up to a point in a man's life is shaped by environment, heredity, and movements 
 WR-ID: WR-L-079
 PAGE: 22
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [There Are No Idealists in the Plant World]
 BOOKLET_AUTHOR: Hal Borland
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Hal Borland
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete passage consistently circulated under Borland's name
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2476,7 +2476,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Plants
 - Competition
-NOTES: None
+NOTES: Later witnesses consistently attribute the complete passage to Borland, with "fencerow" and "roothold" as closed compounds, but no original column, book, or publication date was located.
 -->
 
 ## [There Are No Idealists in the Plant World]

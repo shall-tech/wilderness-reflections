@@ -616,3 +616,29 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The booklet's variant adds "encounter the grizz," changes "While you can" to "while you still can," and has several other substantive and punctuation differences from the commonly reproduced version.
 - Evidence: [Source-history discussion citing the 1983 and 2014 print witnesses](https://en.wikiquote.org/wiki/Talk:Edward_Abbey) and [comparison text with 1994 print citation](https://en.wikiquote.org/wiki/Edward_Abbey).
 - Confidence: High for the transmitted Abbey attribution; low for the original occasion and exact wording.
+
+## 2026-07-20 - Life page 22, entries 1-3
+
+### WR-L-077 - [You May Not Ever Travel to Maine]
+
+- Verified author: Eric Ashby.
+- Probable source identity: "What Price the Furbish Lousewort?" in *Environmental Science & Technology* 14 (1980), 1176-1181.
+- Relationship: Essay excerpt; a later public-record witness reproduces the complete passage under Ashby's name.
+- Evidence: [Bibliographic citation to Ashby's article](https://api.pageplace.de/preview/DT0400.9780190269968_A26214795/preview-9780190269968_A26214795.pdf) and [later complete-passage witness](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf).
+- Confidence: Medium because the original article text was not available for direct comparison.
+
+### WR-L-078 - [Up to a Point in a Man's Life]
+
+- Verified author: Louis L'Amour.
+- Source identity: *The Walking Drum* (1984).
+- Relationship: Condensed and altered book excerpt. The booklet omits "a" after "point," omits "their race," changes "shall" to "will," and drops the final sentence, "The wish, however, must be implemented by deed."
+- Evidence: [Work-attributed quotation record with the fuller passage](https://quotation.io/quote/point-mans-life-shaped-environment-heredity) and [later attributed print witness](https://hsrc.ac.za/uploads/pageContent/1699/September%202007.pdf).
+- Confidence: High.
+
+### WR-L-079 - [There Are No Idealists in the Plant World]
+
+- Verified author as circulated: Hal Borland.
+- Source identity: Unresolved.
+- Relationship: Complete passage. Checked witnesses use the closed compounds "fencerow" and "roothold," where the booklet separates both words.
+- Evidence: [Complete attributed quotation record](https://citatis.com/a2011/31dda9/) and [Borland sourced-quotation index](https://libquotes.com/hal-borland).
+- Confidence: Medium for the transmitted attribution; low for original provenance.
