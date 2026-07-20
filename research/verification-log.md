@@ -182,3 +182,48 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Modernized wording using "pour" and "getting" in place of the earlier "shed over" and "falling on oneself."
 - Evidence: [Historical source investigation and witness chronology](https://www.firstnerve.com/2008/10/happiness-is-perfume.html?showComment=1308313505955).
 - Confidence: High that the early saying was anonymous; no evidence supports later Emerson or Og Mandino claims.
+
+## 2026-07-20 - Life page 14, batch 2
+
+### WR-L-023 - [Some Think That Happiness Comes from Getting]
+
+- Verified author: Robert Baden-Powell.
+- Relationship: The exact sentence is established in later Scout literature and condenses Baden-Powell's documented teaching that "the real way to get happiness is by giving out happiness to other people."
+- Evidence: [World Scouting account of Baden-Powell's final message](https://www.scout.org/node/2697), [1918-1919 *Chief Scout Yarns* collection](https://www.mbcenter.org/downloads/bp_book/chiefscoutsyarns.pdf), and [2012 Scout-program printed witness](https://www.ncpack318.org/uploads/8/6/8/0/8680116/baloos_bugle_nov_2012.pdf).
+- Confidence: High for the underlying teaching; medium for the exact wording as Baden-Powell's own.
+
+### WR-L-024 - [No One Should Boast of Being Honest]
+
+- Verified source and compiler: Waite Phillips's *Epigrams*.
+- Relationship: Complete epigram as reproduced in Philmont collections.
+- Evidence: [Philmont Scout Ranch edition description and Elliott W. Phillips foreword](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [Philbrook Museum edition history](https://shop.philbrook.org/products/epigrams), and [matching Philmont quotation collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion in Phillips's collection; because Phillips collected others' words as well as his own, original authorship is not independently established.
+
+### WR-L-025 - [Live Each Day as You Would Climb a Mountain]
+
+- Booklet attribution: Joe Porcino.
+- Finding: Attribution unresolved. The identical booklet version circulated under Porcino's name by 2000, but a fuller and apparently earlier version is attributed to Harold V. Melchert and reported as published in *The Toastmaster* in October 1965.
+- Evidence: [2000 Porcino-attributed trail journal](https://nimblewillnomad.com/odyssey-00-01-journal-entries-1/), [Melchert-attributed version](https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR69471.PDF), and [publication-detail report](https://www.parktudor.org/news/posts/~board/school-news/post/fall-wellness-tips-pause-reflect-and-move-with-intention).
+- Confidence: Medium that Harold V. Melchert is the earlier attribution; direct inspection of the 1965 issue is still needed.
+
+### WR-L-026 - [We Who Are Gathered Here]
+
+- Verified author: Ansel Adams.
+- Relationship: Complete quotation; original occasion not located.
+- Evidence: [CUSP annual report](https://cusp.ws/wp-content/uploads/2017/08/2016_AnnualReport_WEB.pdf) and [Conemaugh Valley Conservancy annual report](https://conemaughvalleyconservancy.com/wp-content/uploads/2020/06/2019_CVC_AnnualReport.pdf).
+- Confidence: Medium; multiple institutional witnesses agree, but none supplies a primary citation.
+
+### WR-L-027 - [There Are Beginnings and There Are Endings]
+
+- Verified author as printed: John Hurst.
+- Relationship: Complete farewell statement; original setting and author identity not located.
+- Evidence: [1998 Princeton Day School yearbook](https://www.digifind-it.com/princetonday/data/pds-links/yearbooks/1998.pdf) and [matching Philmont quotation collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
+- Confidence: Medium for the transmitted attribution; low for biographical identity and original context.
+
+### WR-L-028 - [All Paths Lead Nowhere]
+
+- Verified author: Carlos Castaneda, correcting the booklet's "Carlos Castenda."
+- Source identity: A condensation of the path-with-heart dialogue in *The Teachings of Don Juan: A Yaqui Way of Knowledge* (1968).
+- Relationship: Paraphrase combining several sentences from the longer passage.
+- Evidence: [University of California Press edition-linked quotation record](https://www.azquotes.com/author/2613-Carlos_Castaneda/tag/heart) and [later published quotation witness](https://www.qbd.com.au/walking-contemplations/trigger-publishing/9781789561869/).
+- Confidence: High.

@@ -58,3 +58,4 @@
 - Reviewed Life entries WR-L-009 through WR-L-012, documenting two unresolved attributions and two verified sources.
 - Verified Life page 13, correcting one attribution to Thoreau and documenting one unresolved maxim.
 - Reviewed the first four Life page 14 entries, identifying an anonymous 1856 maxim and one unresolved poem source.
+- Completed Life page 14 verification through WR-L-028, correcting Castaneda's name and flagging a likely Porcino misattribution.

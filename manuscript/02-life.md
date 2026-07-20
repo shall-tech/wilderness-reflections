@@ -773,22 +773,22 @@ Happiness is a perfume you cannot pour on others without getting a few drops on 
 WR-ID: WR-L-023
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Some Think That Happiness Comes from Getting]
 BOOKLET_AUTHOR: Lord Baden Powell
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Baden-Powell
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensation of Baden-Powell's teaching on happiness through giving
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Exact wording not located; related wording in Baden-Powell's final message (1941)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Happiness
 - Generosity
-NOTES: None
+NOTES: The exact sentence is well established in Scout literature but appears to condense Baden-Powell's documented statement that the real way to get happiness is by giving happiness to others.
 -->
 
 ## [Some Think That Happiness Comes from Getting]
@@ -801,22 +801,22 @@ Some think that happiness comes from getting, others know it comes from giving.
 WR-ID: WR-L-024
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No One Should Boast of Being Honest]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Character
 - Integrity
-NOTES: None
+NOTES: Phillips collected as well as composed epigrams; inclusion verifies the booklet's cited source but does not necessarily establish original authorship.
 -->
 
 ## [No One Should Boast of Being Honest]
@@ -829,22 +829,22 @@ No one should boast of being honest, dependable, courteous, and considerate for 
 WR-ID: WR-L-025
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Live Each Day as You Would Climb a Mountain]
 BOOKLET_AUTHOR: Joe Porcino
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Harold V. Melchert
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Variant of a maxim attributed in earlier print to Harold V. Melchert
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: The Toastmaster, October 1965 (reported)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Perseverance
-NOTES: None
+NOTES: The booklet's "Joe Porcino" attribution also circulated by 2000, but earlier witnesses credit Harold V. Melchert. Direct inspection of the 1965 magazine remains outstanding.
 -->
 
 ## [Live Each Day as You Would Climb a Mountain]
@@ -857,22 +857,22 @@ Live each day as you would climb a mountain. An occasional glance towards the su
 WR-ID: WR-L-026
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Who Are Gathered Here]
 BOOKLET_AUTHOR: Ansel Adams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ansel Adams
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Quotation; original occasion not located
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Earth
 - Stewardship
-NOTES: None
+NOTES: Multiple institutional conservation publications reproduce the wording and attribution, but none identifies the original speech or publication.
 -->
 
 ## [We Who Are Gathered Here]
@@ -885,22 +885,22 @@ We who are gathered here may represent a particular elite, not of money and powe
 WR-ID: WR-L-027
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Are Beginnings and There Are Endings]
 BOOKLET_AUTHOR: John Hurst
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Hurst
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Farewell statement; original context not located
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Responsibility
 - Farewell
-NOTES: None
+NOTES: An independent 1998 printed witness matches the booklet text and attribution exactly; Hurst's identity and the original occasion remain unknown.
 -->
 
 ## [There Are Beginnings and There Are Endings]
@@ -913,22 +913,23 @@ There are beginnings and there are endings. What meaning and effect your experie
 WR-ID: WR-L-028
 PAGE: 14
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [All Paths Lead Nowhere]
 BOOKLET_AUTHOR: Carlos Castenda
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Carlos Castaneda
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensation of a dialogue in The Teachings of Don Juan
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Teachings of Don Juan: A Yaqui Way of Knowledge (1968)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
-EDITORIAL_DECISIONS: None
+EDITORIAL_DECISIONS:
+- Preserved the booklet spelling "Castenda" while recording the verified author name.
 THEMES:
 - Choice
 - Purpose
-NOTES: None
+NOTES: Castaneda's longer passage says all paths are the same because they lead nowhere, then contrasts paths with and without heart; the booklet condenses that reasoning into one sentence.
 -->
 
 ## [All Paths Lead Nowhere]
