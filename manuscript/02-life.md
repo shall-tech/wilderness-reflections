@@ -1547,22 +1547,22 @@ Once the game is over, the king and the pawn go back into the same box.
 WR-ID: WR-L-048
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is a Certain Delight in the Hardy Life]
 BOOKLET_AUTHOR: Theodore Roosevelt
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Theodore Roosevelt
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Composite of four Roosevelt quotations with booklet variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Separate Roosevelt writings and speeches; later assembled at the Theodore Roosevelt Memorial
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Conservation
-NOTES: None
+NOTES: This is not a continuous essay excerpt. The memorial reads "There is delight," "tell the hidden spirit," "its natural resources," and "increased and not impaired"; the booklet prints "a certain delight," "call," omits "its," and prints "increases."
 -->
 
 ## [There Is a Certain Delight in the Hardy Life]
@@ -1575,22 +1575,22 @@ There is a certain delight in the hardy life of the open. There are no words tha
 WR-ID: WR-L-049
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In This Age]
 BOOKLET_AUTHOR: Thomas Cole, from Essay on American Society
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Thomas Cole
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Sentence excerpt with two booklet errors
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Essay on American Scenery," American Monthly Magazine (January 1836)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Imagination
 - Culture
-NOTES: None
+NOTES: The booklet incorrectly names the work "Essay on American Society." It omits "all" before "be crushed" and changes "preserve" to "preserves."
 -->
 
 ## [In This Age]
@@ -1603,13 +1603,13 @@ In this age, when a meager utilitarianism seems ready to absorb every feeling an
 WR-ID: WR-L-050
 PAGE: 18
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Where We Begin and Where We Finish]
 BOOKLET_AUTHOR: Hung Tsu
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating maxim with no identified source or author
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1618,7 +1618,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Experience
-NOTES: None
+NOTES: No reliable evidence identifies "Hung Tsu" or connects the wording to a classical Chinese text.
 -->
 
 ## [Where We Begin and Where We Finish]

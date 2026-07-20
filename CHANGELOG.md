@@ -63,3 +63,4 @@
 - Verified Life page 16, documenting the changed title, omitted line, and textual variants in Frost's "Mending Wall."
 - Verified the first three Life page 17 entries, identifying Robert W. Service's poem and documenting the likely apocryphal Crowfoot attribution.
 - Completed Life page 17 verification, identifying the Heinlein adaptation, a composite Melville quotation, four verified sources, and two unresolved cultural or personal attributions.
+- Verified the first three Life page 18 entries, identifying a Roosevelt memorial composite, correcting Thomas Cole's essay title, and documenting one unresolved attribution.

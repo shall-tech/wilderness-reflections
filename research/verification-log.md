@@ -377,3 +377,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Modern English variant of the older saying that at the end of the game the king and pawn both go into the bag.
 - Evidence: [Italian-language provenance discussion citing Francesco Bracciolini and an 1873-74 English witness](https://italian.stackexchange.com/questions/6855/the-chess-proverb).
 - Confidence: High for the Tuscan tradition; the precise age of the modern "same box" wording remains undetermined.
+
+## 2026-07-20 - Life page 18, entries 1-3
+
+### WR-L-048 - [There Is a Certain Delight in the Hardy Life]
+
+- Verified author: Theodore Roosevelt.
+- Finding: Composite of four separate Roosevelt quotations later displayed together at the Theodore Roosevelt Memorial, not a continuous essay excerpt. The booklet changes "There is delight" to "There is a certain delight," "tell" to "call," omits "its" before "natural resources," and prints "increases" where the source has "increased."
+- Evidence: [National Park Service memorial transcription](https://www.nps.gov/places/000/theodore-roosevelt-memorial.htm), [Theodore Roosevelt Center speech citation](https://www.theodorerooseveltcenter.org/quote/the-nation-behaves-well-if-it-treats-its-natural-resources-as-assets-which-it-must-turn-over-to-the-next-generation-increased-and-not-impaired-in-value/), and [Smithsonian grouping of the conservation quotations](https://americanexperience.si.edu/themes/humans-and-the-environment/).
+- Confidence: High.
+
+### WR-L-049 - [In This Age]
+
+- Verified author: Thomas Cole.
+- Source identity: "Essay on American Scenery," published in *American Monthly Magazine* in January 1836, correcting the booklet's "Essay on American Society."
+- Relationship: Sentence excerpt. The booklet omits "all" before "be crushed" and changes "preserve" to "preserves."
+- Evidence: [Thomas Cole National Historic Site text](https://thomascole.org/wp-content/uploads/Essay-on-American-Scenery.pdf) and [California State University transcription with publication details](https://www.csun.edu/~ta3584/Cole.htm).
+- Confidence: High.
+
+### WR-L-050 - [Where We Begin and Where We Finish]
+
+- Booklet attribution: Hung Tsu.
+- Finding: Attribution unresolved. No reliable evidence identifies the named author or connects the wording to a classical Chinese text.
+- Confidence: Low.

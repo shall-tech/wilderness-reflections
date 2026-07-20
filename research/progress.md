@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-047 on original page 17.
+- Source verification is complete through WR-L-050 on original page 18.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-048, "If You Can Keep Your Head," on original page 18.
+- Next entry: WR-L-051, "The Reeds Know What the Wind Does Not," on original page 18.
 
 ## Source
 
