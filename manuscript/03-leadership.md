@@ -690,22 +690,22 @@ Hold yourself responsible for a higher standard than anybody else expects of you
 WR-ID: WR-LE-025
 PAGE: 29
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Learned This, at Least, by My Experiment]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Altered excerpt from the Conclusion of Walden
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Walden; or, Life in the Woods (1854)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Purpose
 - Perseverance
-NOTES: None
+NOTES: The booklet changes "will pass an invisible boundary" to "he will pass on invisible boundary," removes the repeated nouns from "nor poverty poverty, nor weakness weakness," and begins "if you have built" with a lowercase letter. These scan-faithful variants are preserved.
 -->
 
 ## [I Learned This, at Least, by My Experiment]

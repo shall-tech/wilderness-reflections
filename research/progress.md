@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-LE-024 on original page 28.
+- Source verification is complete through WR-LE-025 on original page 29; the Leadership section is complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-LE-025, "I Learned This, at Least, by My Experiment," on original page 29.
+- Next entry: WR-KW-001, "The Most Important Thing," on original page 33.
 
 ## Source
 

@@ -876,3 +876,13 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: Later quotation collections frequently assign the opening two sentences to Beecher, but no Beecher speech, sermon, book, or contemporaneous witness was located. The complete four-sentence form is less consistently reproduced.
 - Evidence: [Later Civil Air Patrol print witness](https://hc.pcr.cap.gov/downloads/P265_002V3_2010.pdf) and [quotation record identifying its own source as Wikiquote](https://fixquotes.com/quotes/hold-yourself-responsible-for-a-higher-standard-35079/).
 - Confidence: Medium that the attribution is widely transmitted; original provenance unresolved.
+
+## 2026-07-20 - Leadership page 29
+
+### WR-LE-025 - [I Learned This, at Least, by My Experiment]
+
+- Verified author: Henry David Thoreau.
+- Source identity: *Walden; or, Life in the Woods* (1854), Conclusion.
+- Relationship: Altered excerpt. The booklet changes "will pass an invisible boundary" to "he will pass on invisible boundary," removes the repeated nouns from "nor poverty poverty, nor weakness weakness," and begins "if you have built" with a lowercase letter. All are confirmed in the scan and preserved.
+- Evidence: [Project Gutenberg text of Walden](https://www.gutenberg.org/files/205/205-h/205-h.htm) and [Digital Thoreau fluid-text edition](https://digitalthoreau.org/walden/fluid/text/18.html).
+- Confidence: High.
