@@ -944,22 +944,22 @@ All paths lead nowhere, so it is important to choose a path that has heart
 WR-ID: WR-L-029
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Road not Taken
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with numerous booklet wording errors and omissions
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Atlantic Monthly, August 1915
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Choice
 - Journey
-NOTES: None
+NOTES: The booklet substantially alters at least nine lines, including omissions and substitutions that affect grammar and meaning; the transcription preserves those printed variants.
 -->
 
 ## The Road not Taken
@@ -990,13 +990,13 @@ And that has made all the difference.
 WR-ID: WR-L-030
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Expose Yourself to the Possibility]
 BOOKLET_AUTHOR: C. Cunningham
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Aphorism attributed only as "Cunningham"; identity and source not located
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1005,7 +1005,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Courage
 - Possibility
-NOTES: None
+NOTES: Later quotation compilations reproduce the sentence and surname but provide no first name, work, date, or primary source.
 -->
 
 ## [Expose Yourself to the Possibility]
@@ -1018,22 +1018,22 @@ Expose yourself to the possibility of doing something remarkable.
 WR-ID: WR-L-031
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [It's Kind of Fun to Do the Impossible]
 BOOKLET_AUTHOR: Walt Disney
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Walt Disney
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Interview quotation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Interview with Fletcher Markle, September 25, 1963
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Possibility
 - Imagination
-NOTES: None
+NOTES: The booklet wording matches the documented interview quotation.
 -->
 
 ## [It's Kind of Fun to Do the Impossible]
@@ -1046,13 +1046,13 @@ It's kind of fun to do the impossible.
 WR-ID: WR-L-032
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [To Achieve the Impossible]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Composite aphorism with uncertain origin
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1061,7 +1061,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Imagination
 - Vision
-NOTES: None
+NOTES: The full wording is printed elsewhere as anonymous and once as a "Chinese proverb." Its first clause resembles a maxim attributed to Miguel de Unamuno, but no evidence connects him to the complete sentence.
 -->
 
 ## [To Achieve the Impossible]
@@ -1074,22 +1074,22 @@ To achieve the impossible, one must think absurd; to look where everyone else ha
 WR-ID: WR-L-033
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [To See a World in a Grain of Sand]
 BOOKLET_AUTHOR: William Blake
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William Blake
 WORK_TYPE: Poem
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Opening quatrain of "Auguries of Innocence"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Poems, edited by Dante Gabriel Rossetti (1863)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Beauty
 - Wonder
-NOTES: None
+NOTES: The booklet omits the article "a" before "heaven" and normalizes capitalization.
 -->
 
 ## [To See a World in a Grain of Sand]
@@ -1105,13 +1105,13 @@ And eternity in an hour.
 WR-ID: WR-L-034
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [You Can Only Go Halfway into the Darkest Forest]
 BOOKLET_AUTHOR: Chinese Proverb
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Circulating proverb of unverified cultural origin
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1120,7 +1120,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Perseverance
-NOTES: None
+NOTES: The saying is widely repeated in English, but no Chinese source, original wording, author, or early publication was located.
 -->
 
 ## [You Can Only Go Halfway into the Darkest Forest]
@@ -1133,22 +1133,22 @@ You can only go halfway into the darkest forest, then you are coming out the oth
 WR-ID: WR-L-035
 PAGE: 15
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Worst Sin Toward Our Fellow Creatures]
 BOOKLET_AUTHOR: George Bernard Shaw
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: George Bernard Shaw
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Line from The Devil's Disciple, Act II
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Devil's Disciple (1897)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Compassion
 - Humanity
-NOTES: None
+NOTES: The booklet changes Shaw's "towards" to "toward" and replaces the source colon before the final clause with a comma.
 -->
 
 ## [The Worst Sin Toward Our Fellow Creatures]

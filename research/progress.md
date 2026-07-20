@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-028 on original page 14.
+- Source verification is complete through WR-L-035 on original page 15.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-029, "The Road not Taken," on original page 15.
+- Next entry: WR-L-036, "The Mending Wall," on original page 16.
 
 ## Source
 
