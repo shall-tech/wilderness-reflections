@@ -597,3 +597,22 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two-sentence excerpt. The booklet brackets the opening "Plants" and omits "an" before "astounding diversification and variety."
 - Evidence: [Academic thesis quoting the passage with title and date](https://scholar.uoc.ac.in/server/api/core/bitstreams/ec43ca64-8b56-46f3-8127-480fc2a4c641/content) and [institutional toolkit reproducing the quotation](https://lancasterwatersheds.org/wp-content/uploads/Toolkit-Final.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Life page 21
+
+### WR-L-075 - If
+
+- Verified author: Rudyard Kipling.
+- Source identity: "If—" in *Rewards and Fairies* (1910), following "Brother Square-Toes."
+- Relationship: Condensed and altered poem. The booklet omits six lines, including both lines about dreaming; changes numerous words and punctuation marks; and prints "Exact the will" where the source has "Except the Will."
+- Booklet wording check: Corrected the manuscript's "Except" back to the scanned booklet's "Exact" and restored "Waite Phillips's" in the attribution.
+- Evidence: [Scanned 1910 edition](https://commons.wikimedia.org/wiki/File:Rewards_and_fairies_(IA_rewardsfairie00kipl).pdf), [Project Gutenberg text](https://www.gutenberg.org/files/32772/32772-h/32772-h.htm), and [Kipling Society publication note](https://www.kiplingsociety.co.uk/readers-guide/rg_if1.htm).
+- Confidence: High.
+
+### WR-L-076 - [One Final Paragraph of Advice]
+
+- Verified author as circulated: Edward Abbey.
+- Source identity: Unresolved late-1970s speech or spoken statement; later scholarship reports conflicting claims for Vail in 1976 and Missoula in 1978. The passage was included in Steve Van Matre and Bill Weiler's *The Earth Speaks* (1983).
+- Relationship: The booklet's variant adds "encounter the grizz," changes "While you can" to "while you still can," and has several other substantive and punctuation differences from the commonly reproduced version.
+- Evidence: [Source-history discussion citing the 1983 and 2014 print witnesses](https://en.wikiquote.org/wiki/Talk:Edward_Abbey) and [comparison text with 1994 print citation](https://en.wikiquote.org/wiki/Edward_Abbey).
+- Confidence: High for the transmitted Abbey attribution; low for the original occasion and exact wording.

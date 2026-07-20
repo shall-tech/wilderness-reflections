@@ -71,3 +71,4 @@
 - Verified the first three Life page 20 entries, identifying Slim Hooey's poem and Whitman's source while separating a later proverb from Shakespeare's actual wording.
 - Reviewed the next three Life page 20 entries, documenting the unsupported Tecumseh tradition, a transmitted China Galland attribution, and Joseph Sax's verified book source.
 - Completed Life page 20 verification by identifying excerpts from Henry Beston's *Northern Farm* and Anthony Huxley's *Plant and Planet*.
+- Verified Life page 21, documenting the booklet's extensive changes to Kipling's "If—," correcting two scan-fidelity errors, and recording the unresolved occasion of Edward Abbey's speech.

@@ -2317,22 +2317,22 @@ NOTES: The booklet brackets the opening word "Plants" as an editorial insertion 
 WR-ID: WR-L-075
 PAGE: 21
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: If
-BOOKLET_AUTHOR: Rudyard Kipling, from Waite Phillip's Epigrams
-VERIFIED_AUTHOR: Unknown
+BOOKLET_AUTHOR: Rudyard Kipling, from Waite Phillips's Epigrams
+VERIFIED_AUTHOR: Rudyard Kipling
 WORK_TYPE: Poem
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
-OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
+RELATIONSHIP: Condensed and textually altered version of "If—" from Rewards and Fairies
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Rewards and Fairies (1910)
+OCR_CORRECTIONS: Corrected "Except the will" to the scan's "Exact the will" and restored the possessive in "Waite Phillips's."
 EDITORIAL_DECISIONS: None
 THEMES:
 - Character
 - Perseverance
-NOTES: None
+NOTES: The booklet omits six source lines, changes numerous words and punctuation marks, and prints "Exact the will" where the source has "Except the Will." The attribution's reference to Waite Phillips's epigrams appears to describe an intermediate compilation, not Kipling's source.
 -->
 
 ## If
@@ -2359,7 +2359,7 @@ And never breathe a word about your loss;\
 If you can force your heart and nerve and sinew\
 To serve your turn long after they are gone,\
 And hold on when there is nothing in you,\
-Except the will, which says to them, "hold on!"\
+Exact the will, which says to them, "hold on!"\
 If you talk with crowds and keep your virtue\
 Or walk with kings, nor lose the common touch,\
 If neither foes nor living friends can hurt you,\
@@ -2369,19 +2369,19 @@ With sixty seconds worth of distance run,\
 Yours is the Earth, and everything that's in it,\
 And, which is more, You'll be a man, my son!
 
-*Rudyard Kipling, from Waite Phillip's Epigrams*
+*Rudyard Kipling, from Waite Phillips's Epigrams*
 
 <!--
 WR-ID: WR-L-076
 PAGE: 21
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [One Final Paragraph of Advice]
 BOOKLET_AUTHOR: Edward Abbey
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Edward Abbey
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
+RELATIONSHIP: Variant of a speech or spoken statement circulated by 1983
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2390,7 +2390,7 @@ EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Adventure
-NOTES: None
+NOTES: Abbey's authorship is consistently transmitted, but focused research found conflicting claims for the original occasion (Vail in 1976 or Missoula in 1978) and no contemporaneous transcript. The booklet differs materially from the commonly reproduced version.
 -->
 
 ## [One Final Paragraph of Advice]

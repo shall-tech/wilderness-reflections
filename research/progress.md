@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-074 on original page 20.
+- Source verification is complete through WR-L-076 on original page 21.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-075, "If," on original page 21.
+- Next entry: WR-L-077, "A Promise to Myself," on original page 22.
 
 ## Source
 
