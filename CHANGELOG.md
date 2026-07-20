@@ -65,3 +65,4 @@
 - Completed Life page 17 verification, identifying the Heinlein adaptation, a composite Melville quotation, four verified sources, and two unresolved cultural or personal attributions.
 - Verified the first three Life page 18 entries, identifying a Roosevelt memorial composite, correcting Thomas Cole's essay title, and documenting one unresolved attribution.
 - Completed Life page 18 verification, confirming Thoreau, Laozi, and Mark Strand sources and documenting four unresolved personal or cultural attributions.
+- Verified the first two Life page 19 entries, documenting the publication history of Whitman's poem and the translation variants in Einstein's statement on mystery.

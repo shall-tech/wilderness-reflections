@@ -1829,22 +1829,22 @@ In a field I am the absence of field. That is always the case. Wherever I am, I 
 WR-ID: WR-L-058
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Song of the Open Road
 BOOKLET_AUTHOR: Walt Whitman, from Leaves of Grass
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Walt Whitman
 WORK_TYPE: Poem
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Opening seven lines of the poem's first section
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: As "Poem of the Road" in Leaves of Grass (1856); retitled "Song of the Open Road" in 1867
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Journey
 - Freedom
-NOTES: None
+NOTES: The excerpt matches the later text except that the booklet omits the source hyphen in the second "good-fortune."
 -->
 
 ## Song of the Open Road
@@ -1863,22 +1863,22 @@ Strong and content I travel the open road.
 WR-ID: WR-L-059
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Fairest Thing We Can Experience]
 BOOKLET_AUTHOR: Albert Einstein
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Albert Einstein
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Shortened English translation of a longer statement
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "What I Believe" (1930), later collected in The World as I See It
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Mystery
 - Wonder
-NOTES: None
+NOTES: The booklet omits "which stands" after "emotion" and substitutes a shortened ending, "He who knows it not is as good as dead, a snuffed out candle," for the longer published passage about one who can no longer wonder.
 -->
 
 ## [The Fairest Thing We Can Experience]

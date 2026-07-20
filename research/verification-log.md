@@ -453,3 +453,21 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete poem rendered as prose without its title. The booklet changes "This is" to "That is," "spaces" to "space," and "where my body's been" to "where my body has been."
 - Evidence: [Samuel Maio's textual and publication-history discussion](https://www.enotes.com/topics/mark-strand/criticism/strand-mark/samuel-maio-essay-date-1995) and [poem text and collection record](https://poemanalysis.com/mark-strand/keeping-things-whole/).
 - Confidence: High.
+
+## 2026-07-20 - Life page 19, entries 1-2
+
+### WR-L-058 - Song of the Open Road
+
+- Verified author: Walt Whitman.
+- Source identity: Originally "Poem of the Road" in the 1856 *Leaves of Grass*, retitled "Song of the Open Road" in 1867.
+- Relationship: Opening seven lines of the poem's first section. The booklet omits the source hyphen in the second "good-fortune."
+- Evidence: [Walt Whitman Archive publication history](https://whitmanarchive.org/item/encyclopedia_entry670), [Whitman Archive version index](https://whitmanarchive.org/item/xxx.00111), and [Poetry Foundation text](https://www.poetryfoundation.org/poems/48859/song-of-the-open-road).
+- Confidence: High.
+
+### WR-L-059 - [The Fairest Thing We Can Experience]
+
+- Verified author: Albert Einstein.
+- Source identity: English translation of Einstein's "What I Believe" (1930), later collected in *The World as I See It*.
+- Relationship: Shortened translation. The booklet omits "which stands" after "emotion" and uses a compressed ending about "a snuffed out candle" in place of the longer published passage about one who can no longer wonder.
+- Evidence: [Work-attributed quotation text](https://www.friendsofsilence.net/quote/1997-05/fairest-thing-we-can-experience-mysterious) and [scholarly discussion identifying the essay](https://research.aber.ac.uk/files/31728581/Dyer_Heather_Critical_Commmentary.pdf).
+- Confidence: High for author and work; exact English wording varies by translation.
