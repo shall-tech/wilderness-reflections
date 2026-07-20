@@ -88,3 +88,4 @@
 - Began Knowledge and Wisdom page 34, identifying four sources and documenting major scan-confirmed corruption in the Reynolds excerpt and attribution.
 - Continued Knowledge and Wisdom page 34 through Standing Bear, Fraser Darling, a provenance-unresolved Navajo verse, and Bob Marshall's 1933 report.
 - Completed Knowledge and Wisdom page 34 with Wordsworth, an unsupported Muir attribution, and a loose Tao Te Ching paraphrase.
+- Began Knowledge and Wisdom page 35 with Muir, Lopez, Whitman, and the probable expansion of the booklet's KKC initials.

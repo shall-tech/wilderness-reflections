@@ -640,22 +640,22 @@ Observe all of the light that surrounds you; but, you remember the dark that is 
 WR-ID: WR-KW-023
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Only Went Out for a Walk]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete journal sentence published posthumously in John of the Mountains
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: John of the Mountains: The Unpublished Journals of John Muir (1938)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Walking
 - Nature
-NOTES: None
+NOTES: The published journal text says "till sundown" where the booklet expands the word to "until sundown." The entry is commonly dated 1913.
 -->
 
 ## [I Only Went Out for a Walk]
@@ -668,22 +668,22 @@ I only went out for a walk, and finally concluded to stay out until sundown; for
 WR-ID: WR-KW-024
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [To Allow Mystery]
 BOOKLET_AUTHOR: Barry Lopez
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Barry Lopez
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed excerpt from Of Wolves and Men
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Of Wolves and Men (1978)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Mystery
 - Knowledge
-NOTES: None
+NOTES: The source continues "It is to take a wider view" and develops the idea through several more sentences. The booklet truncates the passage after "knowledge" and replaces source punctuation with a semicolon before "is not."
 -->
 
 ## [To Allow Mystery]
@@ -696,22 +696,22 @@ To allow mystery, which is to say to yourself: there could be more, there could 
 WR-ID: WR-KW-025
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Life Is Change]
 BOOKLET_AUTHOR: KKC
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Karen Kaiser Clark (probable expansion of KKC; attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely circulated modern maxim attributed to Karen Kaiser Clark
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Change
 - Choice
-NOTES: None
+NOTES: The initials KKC correspond to the commonly credited Karen Kaiser Clark. No original book, article, speech, or contemporaneous witness was located, and the saying is also misattributed to W. Somerset Maugham and others.
 -->
 
 ## [Life Is Change]
@@ -724,22 +724,22 @@ Life is change; growth is optional; choose wisely.
 WR-ID: WR-KW-026
 PAGE: 35
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Secret of Making the Best Person]
 BOOKLET_AUTHOR: Walt Whitman, from Leaves of Grass
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Walt Whitman
+WORK_TYPE: Poem Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Altered two-line excerpt from "Song of the Open Road," section 6
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Poem of the Road," Leaves of Grass (1856); later titled "Song of the Open Road"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Growth
 - Earth
-NOTES: None
+NOTES: The source reads "the secret of the making of the best persons" and presents the sentence as two verse lines. The booklet omits "the making of," changes plural "persons" to singular "person," and renders the lines as prose.
 -->
 
 ## [The Secret of Making the Best Person]

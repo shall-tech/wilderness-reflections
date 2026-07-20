@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-022 on original page 34; Life and Leadership are complete.
+- Source verification is complete through WR-KW-026 on original page 35; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-023, "I Only Went Out for a Walk," on original page 35.
+- Next entry: WR-KW-027, "Those Who Know Do Not Talk," on original page 35.
 
 ## Source
 

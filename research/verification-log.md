@@ -1058,3 +1058,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Loose modern paraphrase of the instruction to know the white or light while keeping to the black or dark. No translation matching the booklet's exact wording was located. "Tao T.E. Ching" is the work title, not an author.
 - Evidence: [Translation comparison for chapter 28](https://ttc.tasuki.org/display%3ACode%3Agff%2Cdl%2Cjhmd%2Crh%2Cas/section%3A28) and [scholarly discussion of the white/black passage](https://www.scribd.com/document/892158956/Kristofer-Schipper-on-The-Taoist-Body-and-perceptions).
 - Confidence: Medium; source identity is inferred from the distinctive paired-light-and-dark idea.
+
+## 2026-07-20 - Knowledge and Wisdom page 35, entries 1-4
+
+### WR-KW-023 - [I Only Went Out for a Walk]
+
+- Verified author and source: John Muir, journal entry published in *John of the Mountains: The Unpublished Journals of John Muir* (1938), p. 439; commonly dated 1913.
+- Relationship: Complete sentence. The published text has "till sundown" where the booklet expands it to "until sundown."
+- Evidence: [Source and page audit](https://en.wikiquote.org/wiki/John_Muir) and [edition discussion and page locators](https://sketchplanations.com/going-out-john-muir-quote).
+- Confidence: High.
+
+### WR-KW-024 - [To Allow Mystery]
+
+- Verified author and source: Barry Lopez, *Of Wolves and Men* (1978).
+- Relationship: Condensed excerpt. The source continues "It is to take a wider view" and develops the thought through several more sentences; the booklet stops after "knowledge" and introduces a semicolon not present in the source.
+- Evidence: [Work-specific quotation record](https://libquotes.com/barry-lopez/works/of-wolves-and-men) and [Paris Review source discussion](https://www.theparisreview.org/blog/2022/05/31/barry-lopezs-darkness-and-light/).
+- Confidence: High.
+
+### WR-KW-025 - [Life Is Change]
+
+- Booklet attribution: KKC.
+- Finding: The initials correspond to the widely circulated Karen Kaiser Clark attribution. No original book, article, speech, or contemporaneous witness was located; the saying has also been credited to W. Somerset Maugham and others.
+- Evidence: [Karen Kaiser Clark attribution](https://learningomnivores.com/rules/words-are-rumors-watch-their-feet/) and [later Maugham misattribution](https://www.industryweek.com/leadership/change-management/article/22009598/communities-of-practice-and-change-management-part-2).
+- Confidence: Medium for the expansion of the initials; original provenance unresolved.
+
+### WR-KW-026 - [The Secret of Making the Best Person]
+
+- Verified author and source: Walt Whitman, "Song of the Open Road," section 6, first published as "Poem of the Road" in the 1856 *Leaves of Grass*.
+- Relationship: Altered two-line excerpt. Whitman writes "the secret of the making of the best persons"; the booklet omits "the making of," changes plural to singular, and renders the verse as prose.
+- Evidence: [Whitman Archive 1856 edition](https://whitmanarchive.org/about/archive/wwa-2000-to-2007/published/LG/1856/poems/12.html) and [Whitman Archive 1881-82 edition](https://whitmanarchive.org/item/ppp.01663_01749).
+- Confidence: High.
