@@ -1891,22 +1891,22 @@ The fairest thing we can experience is the mysterious. It is the fundamental emo
 WR-ID: WR-L-060
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [They Sleep Generally in the Open Air]
 BOOKLET_AUTHOR: J.A. Allen
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Joel Asaph Allen
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt with three wording errors or variants
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The American Bisons, Living and Extinct (1876)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Adventure
-NOTES: None
+NOTES: The source reads "hordes" rather than "hoards," "They are yet a rollicking set" rather than "They are a rollicking set," and "ordinary degree of refinement" rather than "ordinary amount."
 -->
 
 ## [They Sleep Generally in the Open Air]
@@ -1919,22 +1919,22 @@ They sleep generally in the open air, in winter as well as in summer, subjected 
 WR-ID: WR-L-061
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Always in a Big Woods]
 BOOKLET_AUTHOR: Wendell Berry
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Wendell Berry
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Condensed essay excerpt with wording changes and an omitted clause
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Unforeseen Wilderness: An Essay on Kentucky's Red River Gorge (1971)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Wilderness
 - Exploration
-NOTES: None
+NOTES: The source begins "Always in big woods," includes "step off alone," and says the first experience is "not of the place, but of yourself in that place." The booklet changes or omits these phrases and inserts "What you are doing is exploring."
 -->
 
 ## [Always in a Big Woods]
@@ -1947,22 +1947,22 @@ Always in a big woods when you leave familiar ground and step off into a new pla
 WR-ID: WR-L-062
 PAGE: 19
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [All Men Die]
 BOOKLET_AUTHOR: William Wallace, line from Braveheart
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Randall Wallace
+WORK_TYPE: Film Dialogue
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Paraphrase of dialogue spoken by the fictionalized William Wallace
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Braveheart (1995)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Life
 - Courage
-NOTES: None
+NOTES: The film line is "Every man dies, not every man really lives." The booklet changes "Every" to "All" and "really" to "ever truly." It is a line written by screenwriter Randall Wallace, not a documented statement by the historical William Wallace.
 -->
 
 ## [All Men Die]

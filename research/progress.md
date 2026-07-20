@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-059 on original page 19.
+- Source verification is complete through WR-L-062 on original page 19.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-060, "They Sleep Generally in the Open Air," on original page 19.
+- Next entry: WR-L-063, "They Danced the Dance of Life," on original page 19.
 
 ## Source
 

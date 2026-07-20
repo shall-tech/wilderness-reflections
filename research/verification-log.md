@@ -471,3 +471,29 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Shortened translation. The booklet omits "which stands" after "emotion" and uses a compressed ending about "a snuffed out candle" in place of the longer published passage about one who can no longer wonder.
 - Evidence: [Work-attributed quotation text](https://www.friendsofsilence.net/quote/1997-05/fairest-thing-we-can-experience-mysterious) and [scholarly discussion identifying the essay](https://research.aber.ac.uk/files/31728581/Dyer_Heather_Critical_Commmentary.pdf).
 - Confidence: High for author and work; exact English wording varies by translation.
+
+## 2026-07-20 - Life page 19, entries 3-5
+
+### WR-L-060 - [They Sleep Generally in the Open Air]
+
+- Verified author: Joel Asaph Allen.
+- Source identity: *The American Bisons, Living and Extinct* (1876).
+- Relationship: Excerpt with three variants: "hoards" for "hordes," omission of "yet" from "They are yet a rollicking set," and "ordinary amount" for "ordinary degree of refinement."
+- Evidence: [Biodiversity Heritage Library title and edition record](https://www.biodiversitylibrary.org/bibliography/40096), [Online Books Page author and 1877 government-edition record](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha002012300), and [1928 reprint preserving the source passage](https://www.frontiertimesmagazine.com/ecomm/product/vol-06-no-02-november-1928).
+- Confidence: High.
+
+### WR-L-061 - [Always in a Big Woods]
+
+- Verified author: Wendell Berry.
+- Source identity: *The Unforeseen Wilderness: An Essay on Kentucky's Red River Gorge* (1971; later revised editions).
+- Relationship: Condensed excerpt. The source begins "Always in big woods," includes "step off alone," and identifies the first experience as "not of the place, but of yourself in that place." The booklet changes or omits those phrases and inserts "What you are doing is exploring."
+- Evidence: [Published excerpt with book and page citation](https://thomasberry.org/wp-content/uploads/2025/11/Only-The-Sacred.pdf).
+- Confidence: High.
+
+### WR-L-062 - [All Men Die]
+
+- Verified writer: Randall Wallace.
+- Source identity: Dialogue spoken by the fictionalized William Wallace in *Braveheart* (1995).
+- Relationship: Paraphrase of "Every man dies, not every man really lives," changing "Every" to "All" and "really" to "ever truly."
+- Evidence: [Film dialogue record](https://www.imdb.com/title/tt0112573/quotes/?item=qt0440100) and [interview with screenwriter Randall Wallace discussing the line's origin](https://thatshelf.com/interview-braveheart-screenwriter-randall-wallace-on-his-films-his-faith-and-common-themes-running-through-his-work/).
+- Confidence: High. The line is not evidence of a statement by the historical William Wallace.
