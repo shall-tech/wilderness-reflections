@@ -238,22 +238,22 @@ A man can fail many times but he isn't a total failure until he begins to blame 
 WR-ID: WR-LE-009
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Being Good Is Commendable]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Service
 - Character
-NOTES: None
+NOTES: Inclusion in Phillips's collection is verified. Later sources variously call the saying anonymous or attribute it to Stephen King without a work citation; no earlier source was located.
 -->
 
 ## [Being Good Is Commendable]
@@ -266,22 +266,22 @@ Being good is commendable, but only when it is combined with doing good is it us
 WR-ID: WR-LE-010
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [To Become Competent in Governing Others]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Self-discipline
 - Leadership
-NOTES: None
+NOTES: Phillips collected as well as composed epigrams; inclusion verifies the booklet's cited source but does not independently establish original authorship.
 -->
 
 ## [To Become Competent in Governing Others]
@@ -294,22 +294,22 @@ To become competent in governing others we must first learn to govern ourselves.
 WR-ID: WR-LE-011
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Ruined by Flattery]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Entry in Waite Phillips's collected Epigrams
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Epigrams pamphlet first published by Elliott W. Phillips (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Humility
 - Criticism
-NOTES: None
+NOTES: Inclusion in Phillips's collection is verified; no earlier source for the exact wording was located.
 -->
 
 ## [Ruined by Flattery]
@@ -322,22 +322,22 @@ The trouble with many of us is that we would rather be ruined by flattery and pr
 WR-ID: WR-LE-012
 PAGE: 27
 SECTION: Leadership
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Argue for Your Limitations]
 BOOKLET_AUTHOR: Richard Bach, from Illusions
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard Bach
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete entry from the Messiah's Handbook passages in Illusions
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Illusions: The Adventures of a Reluctant Messiah (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Belief
 - Potential
-NOTES: None
+NOTES: The source formats the sentence across several short lines as an entry in the fictional Messiah's Handbook; the booklet renders it as prose.
 -->
 
 ## [Argue for Your Limitations]

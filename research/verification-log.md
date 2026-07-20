@@ -756,3 +756,34 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Adapted maxim. The established Burroughs form reads "he isn't a failure until he begins to blame somebody else." Phillips adds "total," changes "somebody" to "someone," and appends "for his own deficiencies."
 - Evidence: [Matching Phillips collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html), [Burroughs-attributed record](https://www.azquotes.com/quote/42319), and [2013 print witness](https://www.washingtoninformer.com/wp-content/uploads/back-issues/The-Washington-Informer-September-12-2013.pdf).
 - Confidence: High for the relationship; the original Burroughs work or occasion remains unidentified.
+
+## 2026-07-20 - Leadership page 27, entries 9-12
+
+### WR-LE-009 - [Being Good Is Commendable]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram. Later sources variously call it anonymous or attribute it to Stephen King without a work citation.
+- Evidence: [Matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html), [government speech treating it as anonymous](https://www.govhouse.qld.gov.au/the-governor-of-queensland/speeches/2016-september-order-of-australia-association-schools), and [later uncited Stephen King attribution](https://alkionides.org.cy/en/support-us/).
+- Confidence: High for inclusion in Phillips's collection; original authorship remains unproved.
+
+### WR-LE-010 - [To Become Competent in Governing Others]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Philmont Scout Ranch edition description](https://store.philmontscoutranch.org/waite-phillips-epigrams/), [Philbrook Museum edition history](https://shop.philbrook.org/products/epigrams), and [matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High for inclusion; original authorship is not independently established.
+
+### WR-LE-011 - [Ruined by Flattery]
+
+- Verified source and compiler: Waite Phillips's *Epigrams* (1964).
+- Relationship: Complete collected epigram.
+- Evidence: [Matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html) and [independent owner report quoting the printed epigrams volume](https://www.bigbangpoetry.com/2013/05/interesting-waite-phillips-quotes/).
+- Confidence: High for inclusion; original authorship is not independently established.
+
+### WR-LE-012 - [Argue for Your Limitations]
+
+- Verified author: Richard Bach.
+- Source identity: *Illusions: The Adventures of a Reluctant Messiah* (1977), in the fictional Messiah's Handbook.
+- Relationship: Complete entry rendered as prose rather than the source's stacked short lines.
+- Evidence: [Chapter summary locating the entry and page](https://www.supersummary.com/illusions/chapters-6-10-summary/), [work-attributed quotation record](https://libquotes.com/richard-bach/quote/lba2o1z), and [matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: High.
