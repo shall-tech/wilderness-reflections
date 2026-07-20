@@ -579,3 +579,21 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Essay excerpt articulating Sax's view of preservationists as moralists seeking conversion rather than exclusion.
 - Evidence: [Searchable book text and publication note](https://dokumen.pub/download/mountains-without-handrails-reflections-on-the-national-parks.html) and [contemporary academic review quoting the key sentence](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/55588/LQN.0026.003.pdf?isAllowed=y&sequence=1).
 - Confidence: High.
+
+## 2026-07-20 - Life page 20, entries 7-8
+
+### WR-L-073 - [One Aspect of the Machine World]
+
+- Verified author: Henry Beston.
+- Source identity: *Northern Farm: A Chronicle of Maine* (1948).
+- Relationship: Essay excerpt. A later full-passage witness has "frustrate human world" where the booklet has "frustrated human world" and prints two compounds with double hyphens.
+- Evidence: [Book record and matching concluding sentence](https://www.goodreads.com/book/show/347295.The_Northern_Farm), [scholarly study of *Northern Farm* and its critique of mechanization](https://paperzz.com/doc/8830418/agriculture-and-community-in-st.-john-de-cr%C3%A8vecoeur--susan), and [later full-passage witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
+- Confidence: Medium because a scan of the source passage was not located.
+
+### WR-L-074 - [Plants Are Superb Opportunists]
+
+- Verified author: Anthony Huxley.
+- Source identity: *Plant and Planet* (1975).
+- Relationship: Two-sentence excerpt. The booklet brackets the opening "Plants" and omits "an" before "astounding diversification and variety."
+- Evidence: [Academic thesis quoting the passage with title and date](https://scholar.uoc.ac.in/server/api/core/bitstreams/ec43ca64-8b56-46f3-8127-480fc2a4c641/content) and [institutional toolkit reproducing the quotation](https://lancasterwatersheds.org/wp-content/uploads/Toolkit-Final.pdf).
+- Confidence: High.

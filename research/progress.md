@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-L-072 on original page 20.
+- Source verification is complete through WR-L-074 on original page 20.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-L-073, "One Aspect of the Machine World," on original page 20.
+- Next entry: WR-L-075, "If," on original page 21.
 
 ## Source
 

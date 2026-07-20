@@ -2257,22 +2257,22 @@ The preservationist is not an elitist who wants to exclude others, notwithstandi
 WR-ID: WR-L-073
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [One Aspect of the Machine World]
 BOOKLET_AUTHOR: Henry Beston
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry Beston
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Excerpt from Northern Farm: A Chronicle of Maine
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Northern Farm: A Chronicle of Maine (1948)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Joy
 - Technology
-NOTES: None
+NOTES: A focused search identifies the source as Northern Farm, but the available full-passage witness is a later quotation collection rather than a scan of the book. That witness has "frustrate human world" where the booklet has "frustrated human world" and uses double hyphens in two compounds.
 -->
 
 ## [One Aspect of the Machine World]
@@ -2285,22 +2285,22 @@ One aspect of the machine world which has not had sufficient attention is the re
 WR-ID: WR-L-074
 PAGE: 20
 SECTION: Life
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Plants Are Superb Opportunists]
 BOOKLET_AUTHOR: Anthony Huxley
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anthony Huxley
 WORK_TYPE: Essay Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Two-sentence excerpt from Plant and Planet
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Plant and Planet (1975)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Plants
 - Adaptation
-NOTES: None
+NOTES: The booklet brackets the opening word "Plants" as an editorial insertion and omits "an" before "astounding diversification and variety."
 -->
 
 ## [Plants Are Superb Opportunists]
