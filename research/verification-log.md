@@ -1289,3 +1289,31 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete passage; the source has a comma before "however."
 - Evidence: [Extended *Illusions* quotation collection](https://www.barefootsworld.org/illusions.html) and [independent quotation witness](https://www.goodreads.com/quotes/879693-perspective---use-it-or-lose-it-if-you-turned).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 38, entries 1-4
+
+### WR-KW-054 - The Indian & the Cricket
+
+- Booklet attribution: Dave Moriah.
+- Finding: A matching Philmont collection identifies Moriah's telling as adapted from a "Summit Expedition" staff manual. The manual edition and the anecdote's original author were not located.
+- Evidence: [Matching collection and adaptation note](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
+- Confidence: Medium for Moriah as adapter; original provenance unresolved.
+
+### WR-KW-055 - [In the Point of Rest]
+
+- Verified author and source: Dag Hammarskjöld, *Markings* (Swedish 1963; English translation by W. H. Auden and Leif Sjöberg, 1964).
+- Relationship: Complete journal entry, rendered as one prose paragraph.
+- Evidence: [Work attribution](https://www.goodreads.com/quotes/1332477-in-the-point-of-rest-at-the-center-of-our) and [complete passage witness](https://www.unityunitarian.org/uploads/6/1/0/3/6103699/cc_packet_transcendence2021.05.pdf).
+- Confidence: High.
+
+### WR-KW-056 - [The Mental Domain of Fantasy]
+
+- Verified author and source: Sigmund Freud, *Introductory Lectures on Psycho-Analysis*, lecture 23, "The Paths to the Formation of Symptoms" (1916-17; English 1920).
+- Relationship: Altered excerpt from Freud's analogy between phantasy and a nature reserve. The booklet contains multiple wording and grammatical corruptions, including "encroaches" for "encroachments."
+- Confidence: High.
+
+### WR-KW-057 - [To Know One's Landscape]
+
+- Booklet attribution: Richard E. Dodge.
+- Finding: No book, article, speech, page reference, biographical source, or independent early witness was located through exact-phrase and author searches.
+- Confidence: Low.

@@ -1518,22 +1518,22 @@ You are never given a wish without also being given the power to make it true. Y
 WR-ID: WR-KW-054
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: The Indian & the Cricket
 BOOKLET_AUTHOR: Dave Moriah
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Dave Moriah (adapter; original author unknown)
 WORK_TYPE: Anecdote
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Adaptation of an anecdote in a Summit Expedition staff manual
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Unknown; circulated in a Summit Expedition staff manual
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Awareness
 - Attention
-NOTES: None
+NOTES: A matching Philmont collection explicitly calls Moriah's version an adaptation from a "Summit Expedition" staff manual. No original manual edition, earlier author, or source for the widely circulated cricket-and-coins story was located.
 -->
 
 ## The Indian & the Cricket
@@ -1562,22 +1562,22 @@ Instantly heads turned, eyes darted, and hands reached for pockets to see if the
 WR-ID: WR-KW-055
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In the Point of Rest]
 BOOKLET_AUTHOR: Dag Hammarskjold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Dag Hammarskjöld; English translation by W. H. Auden and Leif Sjöberg
+WORK_TYPE: Spiritual Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete entry from Markings
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Vägmärken (1963); English translation Markings (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Simplicity
 - Mystery
-NOTES: None
+NOTES: The booklet closely follows the published English translation, with punctuation normalized into a single paragraph.
 -->
 
 ## [In the Point of Rest]
@@ -1590,22 +1590,22 @@ In the point of rest at the center of our being, we encounter a world where all 
 WR-ID: WR-KW-056
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Mental Domain of Fantasy]
 BOOKLET_AUTHOR: Sigmund Freud
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Sigmund Freud; English translation by James Strachey
+WORK_TYPE: Lecture Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Altered excerpt from Introductory Lectures on Psycho-Analysis, lecture 23
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Vorlesungen zur Einführung in die Psychoanalyse (1916-17); English translation 1920
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Fantasy
 - Wilderness
-NOTES: None
+NOTES: The standard English translation compares phantasy with a "reservation" or nature reserve. The booklet has several corruptions, including "every where," "encroaches" for "encroachments," and changes in wording and punctuation around the analogy.
 -->
 
 ## [The Mental Domain of Fantasy]
@@ -1618,10 +1618,10 @@ The creation of the mental domain of fantasy has a complete counterpart in the e
 WR-ID: WR-KW-057
 PAGE: 38
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [To Know One's Landscape]
 BOOKLET_AUTHOR: Richard E. Dodge
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard E. Dodge (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -1633,7 +1633,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Landscape
 - Peace
-NOTES: None
+NOTES: Exact-phrase and author searches did not locate a book, article, speech, page reference, biographical source, or independent early witness for the passage.
 -->
 
 ## [To Know One's Landscape]

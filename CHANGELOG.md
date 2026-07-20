@@ -96,3 +96,4 @@
 - Completed Knowledge and Wisdom page 36, recovering Brother Patrick Duffy's omitted identity and identifying Thackeray and Camus sources while leaving Schaller provenance unresolved.
 - Began Knowledge and Wisdom page 37, verifying two Richard Bach passages and two Luther Standing Bear excerpts while documenting scan-confirmed wording variants.
 - Completed Knowledge and Wisdom page 37 by identifying the Brashear epitaph's poetic source, correcting Ivy Baker Priest in metadata, locating Franklin's full maxim, and flagging an untraceable Sufi saying.
+- Began Knowledge and Wisdom page 38 with sources for Hammarskjöld and Freud, while distinguishing Moriah's adaptation from the unresolved origin of its anecdote.
