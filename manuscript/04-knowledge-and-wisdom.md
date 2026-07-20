@@ -923,22 +923,22 @@ Speak to the earth, and it shall teach thee.
 WR-ID: WR-KW-033
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If You Plan for a Year]
 BOOKLET_AUTHOR: Chinese proverb
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Chinese proverb adapted from the Guanzi
+WORK_TYPE: Proverb
+EXCERPT: Yes
+RELATIONSHIP: Modern adaptation of a passage in Guanzi, "Quan Xiu"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ancient Chinese text; Guanzi compiled over several centuries
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Education
 - Foresight
-NOTES: None
+NOTES: The older Chinese passage contrasts planting grain for one year, trees for ten years, and cultivating people for a lifetime. The booklet's rice, 100-year, and "educate your children" wording is a modern proverbial adaptation often misattributed to Confucius.
 -->
 
 ## [If You Plan for a Year]
@@ -951,22 +951,22 @@ If you plan for a year, plant rice. If you plan for ten years, plant trees. If y
 WR-ID: WR-KW-034
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Forests and This Planet Are Alive]
 BOOKLET_AUTHOR: Paulinho Paiakan
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Paulinho Paiakan
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete statement consistently attributed to Kayapó leader Paulinho Paiakan
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In environmental-education materials by 1993; original occasion unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Forest
 - Knowledge
-NOTES: None
+NOTES: Later sources reproduce the exact statement and identify Paiakan as a Kayapó leader, but the original speech, interview, or publication was not located.
 -->
 
 ## [The Forests and This Planet Are Alive]
@@ -979,22 +979,22 @@ I am trying to save the knowledge that the forests and this planet are alive, to
 WR-ID: WR-KW-035
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Of What Avail Is an Open Eye]
 BOOKLET_AUTHOR: Solomon Ibn Gabirol
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Solomon ibn Gabirol (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Ibn Gabirol-attributed aphorism; original Hebrew or Arabic source not located
 SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Vision
 - Heart
-NOTES: None
+NOTES: The aphorism is widely credited to Ibn Gabirol, but no poem, philosophical work, manuscript reference, original-language text, or early translation was located.
 -->
 
 ## [Of What Avail Is an Open Eye]
@@ -1007,22 +1007,22 @@ Of what avail is an open eye, if the heart is blind?
 WR-ID: WR-KW-036
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Have Learned a Lot from Trees]
 BOOKLET_AUTHOR: Walking Buffalo
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Tatanga Mani (Walking Buffalo)
+WORK_TYPE: Oral Statement
+EXCERPT: Yes
+RELATIONSHIP: Closing portion of a longer statement published in Touch the Earth
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Touch the Earth, compiled by T. C. McLuhan (1971)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Trees
 - Learning
-NOTES: None
+NOTES: The source identifies Walking Buffalo as Tatanga Mani of the Bearspaw First Nation and precedes these lines with "Did you know that trees talk?" and an appeal to listen. The booklet converts the prose list to verse lines and omits "the" before animals.
 -->
 
 ## [I Have Learned a Lot from Trees]

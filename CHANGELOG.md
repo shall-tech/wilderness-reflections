@@ -91,3 +91,4 @@
 - Began Knowledge and Wisdom page 35 with Muir, Lopez, Whitman, and the probable expansion of the booklet's KKC initials.
 - Continued Knowledge and Wisdom page 35, restoring the unattributed Tao Te Ching source, correcting Olson's name in metadata, and flagging two unresolved attributions.
 - Completed Knowledge and Wisdom page 35 by documenting the Carhart communion/communication corruption and the shortened Job 12:8 excerpt.
+- Began Knowledge and Wisdom page 36 with the Guanzi precursor, Paiakan, an unresolved Ibn Gabirol attribution, and Walking Buffalo's longer source context.

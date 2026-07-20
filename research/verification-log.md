@@ -1134,3 +1134,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Shortened clause. The KJV begins "Or speak" and continues "and the fishes of the sea shall declare unto thee"; the booklet drops both portions.
 - Evidence: [KJV verse and translation comparison](https://biblehub.com/kjv/job/12-8.htm) and [public-domain KJV page](https://ebible.org/pdf/eng-kjv/eng-kjv_JOB.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 36, entries 1-4
+
+### WR-KW-033 - [If You Plan for a Year]
+
+- Source history: Modern adaptation of a passage in the *Guanzi*, "Quan Xiu," which contrasts planting grain for one year, trees for ten years, and cultivating people for a lifetime.
+- Relationship: The booklet substitutes rice, changes a lifetime to 100 years, and narrows cultivating people to educating one's children. The proverb is also often misattributed to Confucius.
+- Evidence: [Chinese-proverb source discussion](https://slife.org/chinese-proverbs/) and [modern attribution comparison](https://www.monitor.co.ug/uganda/oped/commentary/how-far-into-the-future-can-you-plan--4975892).
+- Confidence: High for the older textual precursor; the modern English adapter is unknown.
+
+### WR-KW-034 - [The Forests and This Planet Are Alive]
+
+- Verified speaker as circulated: Paulinho Paiakan, Kayapó leader.
+- Relationship: Complete statement consistently reproduced in environmental-education sources.
+- Evidence: [1993 ERIC curriculum witness](https://files.eric.ed.gov/fulltext/ED363520.pdf).
+- Confidence: Medium because the original speech, interview, or publication was not located.
+
+### WR-KW-035 - [Of What Avail Is an Open Eye]
+
+- Booklet attribution: Solomon ibn Gabirol.
+- Finding: The aphorism is widely credited to Ibn Gabirol, but no poem, philosophical work, manuscript reference, original-language text, or early translation was located.
+- Evidence: [Later attributed use](https://www.postpopuli.it/the-healing-power-of-tolkiens-narrative/) and [independent modern attribution](https://robbiepruitt.blogspot.com/2008/10/).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+### WR-KW-036 - [I Have Learned a Lot from Trees]
+
+- Verified speaker and source: Tatanga Mani (Walking Buffalo), published in *Touch the Earth*, compiled by T. C. McLuhan (1971), p. 23.
+- Relationship: Closing portion of a longer statement beginning "Did you know that trees talk?" The booklet converts the prose list to verse lines and omits "the" before animals.
+- Evidence: [Scholarly quotation with book and page locator](https://escholarship.org/content/qt5m46q898/qt5m46q898.pdf) and [1976 print witness](https://www.friendsjournal.org/wp-content/uploads/emember/downloads/1976/HC12-50596.pdf).
+- Confidence: High.

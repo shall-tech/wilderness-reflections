@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-032 on original page 35; Life and Leadership are complete.
+- Source verification is complete through WR-KW-036 on original page 36; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-033, "If You Plan for a Year," on original page 36.
+- Next entry: WR-KW-037, "If You Understand," on original page 36.
 
 ## Source
 
