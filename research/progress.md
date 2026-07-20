@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-011 on original page 33; Life and Leadership are complete.
+- Source verification is complete through WR-KW-015 on original page 34; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-012, "Must We Always Teach Our Children with Books?," on original page 34.
+- Next entry: WR-KW-016, "The Old Lakota Was Wise," on original page 34.
 
 ## Source
 

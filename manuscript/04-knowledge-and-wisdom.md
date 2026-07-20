@@ -327,22 +327,22 @@ Patience is the companion of wisdom.
 WR-ID: WR-KW-012
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Must We Always Teach Our Children with Books?]
 BOOKLET_AUTHOR: David Polis
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: B. David Polis
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete statement consistently attributed to naturalist and outdoor educator B. David Polis
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In print by 1991; original occasion unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Education
 - Nature
-NOTES: None
+NOTES: Institutional witnesses identify the author as B. David Polis. Alternate forms say "the mountains and the stars up above," add "the beauty of," and use "They will then begin"; the booklet's form is independently reproduced by 2000.
 -->
 
 ## [Must We Always Teach Our Children with Books?]
@@ -355,22 +355,22 @@ Must we always teach our children with books? Let them look at the stars and the
 WR-ID: WR-KW-013
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Have a Low Opinion of Books]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Letter and Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Composite and altered passage from Muir's 1872 letter to Ralph Waldo Emerson and journal version
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Written March 18, 1872; journal text published posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Books
 - Mountains
-NOTES: None
+NOTES: The letter begins "I have a low opinion of mountain books" and later says "One days exposure will do more than Cartloads of books." The fuller journal form includes "coming travelers," "signal smokes," and intervening sentences that the booklet omits; the booklet also changes "cartloads" to "a cart load."
 -->
 
 ## [I Have a Low Opinion of Books]
@@ -383,22 +383,22 @@ I have a low opinion of books; they are but piles of stones set up to show where
 WR-ID: WR-KW-014
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Far Afterwards a Man Finds Pleasure]
 BOOKLET_AUTHOR: Homer, from The Odessy
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Homer; translated by George Herbert Palmer
+WORK_TYPE: Epic Poem Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Altered excerpt from The Odyssey, book 15, lines 397-400, in Palmer's translation
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Odyssey of Homer, translated by George Herbert Palmer (1891; ancient Greek source)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Suffering
 - Knowledge
-NOTES: None
+NOTES: Palmer's translation begins "For afterwards," not "Far afterwards." The booklet misspells the title as "The Odessy"; both scan-faithful forms are preserved.
 -->
 
 ## [Far Afterwards a Man Finds Pleasure]
@@ -411,22 +411,22 @@ Far afterwards a man finds pleasure in his pains, when he has suffered long and 
 WR-ID: WR-KW-015
 PAGE: 34
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [He Who Resolves Never to Ransack Any Mind]
 BOOKLET_AUTHOR: Sir Joshua Reynolds, to studends of the Royal Academy, Dec. 10, 1974
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Sir Joshua Reynolds
+WORK_TYPE: Lecture Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Corrupted excerpt from the sixth Discourse to the Royal Academy
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Sixth Discourse delivered December 10, 1774
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Learning
 - Imitation
-NOTES: None
+NOTES: The source reads "will be soon reduced, from mere barrenness, to the poorest of all imitations" and "obliged," where the booklet has "will soon be reduced," "bareness," "limitations," and "obligated." Its attribution also prints "studends" and the impossible year 1974 instead of 1774; all are confirmed in the scan and preserved.
 -->
 
 ## [He Who Resolves Never to Ransack Any Mind]

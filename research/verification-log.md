@@ -973,3 +973,34 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Opening clause of a longer sentence: "Patience is the companion of wisdom, not the handmaid of concupiscence; patience is the friend of a good conscience, not the enemy of innocence."
 - Evidence: [Latin primary text](https://www.augustinus.it/LATINO/pazienza/pazienza_libro.htm) and [English translation](https://episcopalnet.org/READINGS/Hippo/Patience.html).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 34, entries 1-4
+
+### WR-KW-012 - [Must We Always Teach Our Children with Books?]
+
+- Verified author as circulated: B. David Polis, identified as a naturalist and outdoor educator.
+- Relationship: Complete statement with several circulating variants. Alternate forms say "the mountains and the stars up above," add "the beauty of," and use "They will then begin"; the booklet's exact form is independently reproduced by 2000.
+- Evidence: [1991 outdoor-education guide](https://files.eric.ed.gov/fulltext/ED345887.pdf), [2000 International Journal of Wilderness witness](https://ijw.org/wp-content/uploads/2000/08/Vol-06.No-2.Aug-00small.pdf), and [biographical identification](https://exploringnewhorizons.org/wp-content/uploads/ENH-2015AR-Final2.pdf).
+- Confidence: Medium because the original occasion was not located.
+
+### WR-KW-013 - [I Have a Low Opinion of Books]
+
+- Verified author: John Muir.
+- Source identity: Muir's March 18, 1872 letter to Ralph Waldo Emerson, with an expanded version in his journal.
+- Relationship: Composite and altered excerpt. The letter begins "I have a low opinion of mountain books" and says "One days exposure will do more than Cartloads of books." The journal includes "coming travelers," "signal smokes," and several intervening sentences omitted by the booklet.
+- Evidence: [Digitized 1872 letter and archive record](https://scholarlycommons.pacific.edu/muir-correspondence/1435/) and [scholarly discussion of the journal text](https://www.alpinejournal.org.uk/Contents/Contents_2002_files/AJ%202002%20161-168%20Gifford%20Muir.pdf).
+- Confidence: High.
+
+### WR-KW-014 - [Far Afterwards a Man Finds Pleasure]
+
+- Verified author and source: Homer, *The Odyssey*, book 15, lines 397-400, translated by George Herbert Palmer (1891).
+- Relationship: Near-exact Palmer translation, but the source begins "For afterwards" where the booklet prints "Far afterwards." The booklet also misspells *Odyssey* as "Odessy."
+- Evidence: [Translation comparison and book-line locator](https://wist.info/homer/48328/) and [Palmer-edition quotation record](https://www.azquotes.com/quote/1403960).
+- Confidence: High.
+
+### WR-KW-015 - [He Who Resolves Never to Ransack Any Mind]
+
+- Verified author and source: Sir Joshua Reynolds, sixth Discourse to the Royal Academy, delivered December 10, 1774.
+- Relationship: Corrupted excerpt. The source reads "will be soon reduced, from mere barrenness, to the poorest of all imitations" and "obliged"; the booklet substitutes "will soon," "bareness," "limitations," and "obligated." Its attribution prints "studends" and 1974 rather than 1774.
+- Evidence: [Scanned edition of Reynolds's life and discourses](https://upload.wikimedia.org/wikipedia/commons/c/cf/The_life_and_discourses_of_Sir_Joshua_Reynolds%2C_first_president_of_the_Royal_Academy_%28IA_lifediscoursesof00reyn%29.pdf) and [Project Gutenberg text](https://www.gutenberg.org/files/52436/52436-h/52436-h.htm).
+- Confidence: High.

@@ -85,3 +85,4 @@
 - Began Knowledge and Wisdom verification, locating the Emerson, Daumal, Næss, and Lessing sources and documenting booklet variants.
 - Continued Knowledge and Wisdom page 33 with Eliot and Bach source identifications and two unresolved personal attributions.
 - Completed Knowledge and Wisdom page 33, tracing Augustine's maxim to *De patientia* and distinguishing collected or transmitted attributions.
+- Began Knowledge and Wisdom page 34, identifying four sources and documenting major scan-confirmed corruption in the Reynolds excerpt and attribution.
