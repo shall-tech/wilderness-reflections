@@ -1164,3 +1164,32 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Closing portion of a longer statement beginning "Did you know that trees talk?" The booklet converts the prose list to verse lines and omits "the" before animals.
 - Evidence: [Scholarly quotation with book and page locator](https://escholarship.org/content/qt5m46q898/qt5m46q898.pdf) and [1976 print witness](https://www.friendsjournal.org/wp-content/uploads/emember/downloads/1976/HC12-50596.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 36, entries 5-8
+
+### WR-KW-037 - [If You Understand]
+
+- Circulated attribution: Zen proverb or verse.
+- Finding: The exact English sentence is widespread in modern sources, but no named teacher, classical Chinese or Japanese text, original-language form, or early publication was located.
+- Evidence: [Modern Zen-proverb record](https://www.goodreads.com/quotes/1282484-if-you-understand-things-are-just-as-they-are-if) and [later Zen teaching use](https://monkey-zen-book-bonuses.s3.eu-west-2.amazonaws.com/02-the-monkeys-zen-companion.pdf).
+- Confidence: Low for traditional provenance.
+
+### WR-KW-038 - [Believe One Who Knows]
+
+- Verified author and source: Bernard of Clairvaux, Letter 106 to Henry Murdach.
+- Relationship: Translated excerpt. English versions alternate between "more" and "something greater" and between woods and forests; the trees-and-stones sentence is stable.
+- Evidence: [Translated letter with recipient context](https://australiancatholichistoricalsociety.com.au/wp-content/uploads/2021/09/2012-April-May-articles.pdf) and [independent wording witness](https://adruidway.com/2011/10/11/you-will-find-more-in-woods-than-in-books/).
+- Confidence: High.
+
+### WR-KW-039 - [I Wonder If the Mountains Still Stand]
+
+- Finding: Focused exact-phrase searches found only a Philmont quotation collection matching the booklet; no author, earlier publication, or independent source was located.
+- Evidence: [Matching Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Low.
+
+### WR-KW-040 - [Things Excellent Are as Difficult]
+
+- Verified author and source: Baruch Spinoza, *Ethics* (1677), part V, proposition 42, scholium; final sentence of the work.
+- Relationship: Corrupted excerpt. Spinoza writes "But all things excellent are as difficult as they are rare." The booklet omits "But" and misprints the second "as" as "are."
+- Evidence: [Context and R. H. M. Elwes translation](https://kwize.com/quote/8047) and [scholarly proposition locator](https://www.mdpi.com/bookfiles/book/7497/Philosophy_of_Law_and_Legal_Theory_Historical_and_Contemporary_Perspectives__Theme_Justice_Based_on_Truth.pdf).
+- Confidence: High.

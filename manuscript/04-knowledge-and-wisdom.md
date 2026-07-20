@@ -1038,13 +1038,13 @@ Sometimes about the great spirit
 WR-ID: WR-KW-037
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [If You Understand]
 BOOKLET_AUTHOR: Zen Verse
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Anonymous modern Zen saying
+WORK_TYPE: Aphorism
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Modern saying circulated as a Zen proverb or verse
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1053,7 +1053,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Understanding
 - Reality
-NOTES: None
+NOTES: The exact English sentence is widely labeled a Zen proverb, but no named teacher, classical Chinese or Japanese text, original-language form, or publication predating modern quotation collections was located.
 -->
 
 ## [If You Understand]
@@ -1066,22 +1066,22 @@ If you understand, things are just as they are; if you do not understand, things
 WR-ID: WR-KW-038
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Believe One Who Knows]
 BOOKLET_AUTHOR: St. Bernard de Clairvaux
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Bernard of Clairvaux
+WORK_TYPE: Letter Excerpt
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Translated excerpt from Letter 106 to Henry Murdach
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Twelfth-century letter, commonly dated c. 1128-1145
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Woods
 - Learning
-NOTES: None
+NOTES: Translation wording varies between "more" and "something greater" in woods or forests than in books. The underlying letter and its recipient are securely identified.
 -->
 
 ## [Believe One Who Knows]
@@ -1094,13 +1094,13 @@ Believe one who knows; you will find something greater in woods than in books. T
 WR-ID: WR-KW-039
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Wonder If the Mountains Still Stand]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Anonymous mountain epigram found in Philmont circulation
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1109,7 +1109,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Mountains
 - Wonder
-NOTES: None
+NOTES: Focused exact-phrase searches found only a Philmont quotation collection matching the booklet; no author, earlier publication, or independent source was located.
 -->
 
 ## [I Wonder If the Mountains Still Stand]
@@ -1122,22 +1122,22 @@ I wonder if the mountains still stand when I turn my head, or do they dip their 
 WR-ID: WR-KW-040
 PAGE: 36
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Things Excellent Are as Difficult]
 BOOKLET_AUTHOR: Spinoza
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Baruch Spinoza
+WORK_TYPE: Philosophical Treatise Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Corrupted final sentence of Ethics, part V, proposition 42, scholium
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ethics (posthumous, 1677)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Excellence
 - Difficulty
-NOTES: None
+NOTES: Spinoza writes "But all things excellent are as difficult as they are rare." The booklet omits "But" and misprints the second "as" as "are"; the scan-confirmed wording is preserved.
 -->
 
 ## [Things Excellent Are as Difficult]
