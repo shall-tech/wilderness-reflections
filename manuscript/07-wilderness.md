@@ -647,22 +647,22 @@ We must not only protect the country side and save it from destruction, we must 
 WR-ID: WR-W-022
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: A new "Pledge of Allegiance"
 BOOKLET_AUTHOR: Bruce Hagen, Petaluma, CA 1983
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Bruce Hagen (attribution supported by later witnesses)
 WORK_TYPE: Poem
 EXCERPT: No
 RELATIONSHIP: Unknown
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Circulating by 1983
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later witnesses reproduce the same text, title, author, and 1983 date, but no original Petaluma publication or biographical identification for Bruce Hagen was located.
 -->
 
 ## A new "Pledge of Allegiance"
@@ -678,10 +678,10 @@ with freedom and fulfillment for all."
 WR-ID: WR-W-023
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Nature Includes All of the Universe]
 BOOKLET_AUTHOR: N.J. Berrill
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Norman John Berrill (attribution supported only by later quotation witnesses)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -693,7 +693,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The wording is consistently credited to marine biologist and science writer N. J. Berrill, but no original book, essay, or interview was located.
 -->
 
 ## [Nature Includes All of the Universe]
@@ -706,22 +706,22 @@ Nature includes all of the universe and man is not only a part of nature, he is 
 WR-ID: WR-W-024
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Landscapes Were Like a Violin Bow]
 BOOKLET_AUTHOR: Stendhal
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Stendhal (Marie-Henri Beyle); English translator unidentified
+WORK_TYPE: Memoir Excerpt
+EXCERPT: Yes
+RELATIONSHIP: English rendering of a sentence in Vie de Henry Brulard.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Vie de Henry Brulard, composed 1835-1836 and published posthumously in 1890
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The French reads "Les paysages étaient comme un archet qui jouait sur mon âme." The booklet's "violin bow" makes explicit what the French calls simply a bow.
 -->
 
 ## [The Landscapes Were Like a Violin Bow]
@@ -734,10 +734,10 @@ The landscapes were like a violin bow that played upon my soul.
 WR-ID: WR-W-025
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [There Is Not as Much Wilderness Out There]
 BOOKLET_AUTHOR: David Brower
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: David Ross Brower (attribution supported by later witnesses)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -749,7 +749,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The exact statement is repeatedly credited to Brower, including in scholarly writing, but no original speech, interview, letter, or publication was located.
 -->
 
 ## [There Is Not as Much Wilderness Out There]
@@ -762,22 +762,22 @@ There is not as much wilderness out there as I wish there were. There is more in
 WR-ID: WR-W-026
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [All Living Creatures and All Plants]
 BOOKLET_AUTHOR: Okute, Sioux Indian
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Shooter (also recorded as Okute), Teton Sioux; recorder and translator unidentified
+WORK_TYPE: Oral Statement Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence from a longer statement about plants, animals, adaptation, and purpose.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Published record not yet identified; later scholarly quotation located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: A scholarly comparison text places the sentence in a longer passage and a later Native quotation collection identifies the speaker as Shooter, Teton Sioux. The relationship between the names Shooter and Okute requires further historical confirmation.
 -->
 
 ## [All Living Creatures and All Plants]
@@ -790,22 +790,22 @@ All living creatures and all plants are a benefit to something.
 WR-ID: WR-W-027
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Earth, Like the Sun, Like the Air]
 BOOKLET_AUTHOR: Edward Abbey
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Edward Paul Abbey
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing sentence of "Come On In."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Come On In," collected in The Journey Home: Some Words in Defense of the American West (1977), page 88
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source uses a dash rather than the booklet's comma before "and to no one."
 -->
 
 ## [The Earth, Like the Sun, Like the Air]
@@ -818,10 +818,10 @@ The earth, like the sun, like the air, belongs to everyone, and to no one.
 WR-ID: WR-W-028
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Wilderness Is Nature's Bank]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Aldo Leopold (booklet attribution not independently confirmed)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -833,7 +833,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Leopold argued that wilderness preserves biological and genetic diversity, but this exact aphorism was not located in his published writings or archival quotations.
 -->
 
 ## [Wilderness Is Nature's Bank]
@@ -846,22 +846,22 @@ Wilderness is nature's bank of genetic variability.
 WR-ID: WR-W-029
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Wilderness Needs No Defense]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Edward Paul Abbey
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Altered sentence from "Shadows from the Big Woods."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Shadows from the Big Woods," collected in The Journey Home (1977), page 223
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet misattributes the sentence to Aldo Leopold. Abbey's source reads "The idea of wilderness needs no defense. It only needs more defenders," not "The wilderness needs no defense, only more defenders."
 -->
 
 ## [The Wilderness Needs No Defense]
@@ -874,22 +874,22 @@ The wilderness needs no defense, only more defenders.
 WR-ID: WR-W-030
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Thing Is Right When It Tends to Preserve]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two consecutive sentences near the conclusion of "The Land Ethic."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Land Ethic," A Sand County Almanac (1949), pages 224-225
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet text matches the established source wording.
 -->
 
 ## [A Thing Is Right When It Tends to Preserve]
@@ -902,10 +902,10 @@ A thing is right when it tends to preserve the integrity, stability, and beauty 
 WR-ID: WR-W-031
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [In the Soft Evening of June]
 BOOKLET_AUTHOR: Philip Kloss
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Phillips Kloss (attribution supported by an independent Philmont witness)
 WORK_TYPE: Poem
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -917,7 +917,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet gives "Philip Kloss"; the independent Philmont text credits Phillips Kloss and labels the passage "Sangre de Cristo Mountains." No original poetry publication was located. "Pinion" may be a booklet error for "piñon," but the scan reading is preserved.
 -->
 
 ## [In the Soft Evening of June]
@@ -935,22 +935,22 @@ A crucifix for the stretched out soul.
 WR-ID: WR-W-032
 PAGE: 70
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Money Is the Wealth of the Materialists]
 BOOKLET_AUTHOR: Ed Burgen, Vagabonding in the U.S.A.
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ed Buryn
+WORK_TYPE: Guidebook Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Aphorism attributed to Vagabonding in America / its revised Vagabonding in the U.S.A. edition.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Vagabonding in America: A Guidebook about Energy (1973); revised as Vagabonding in the U.S.A.
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet misspells Buryn as "Burgen." The exact wording is confirmed by an independent Philmont transcription, while bibliographic records establish the correct author and changing book title.
 -->
 
 ## [Money Is the Wealth of the Materialists]

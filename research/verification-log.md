@@ -2389,3 +2389,78 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The first sentence comes from the 1965 message; the remainder comes from the 1964 address. The booklet changes "countryside" to "country side," omits "For once the battle is lost," and corrupts "man" to "once."
 - Evidence: [LBJ Library complete 1965 message](https://www.lbjlibrary.org/object/text/special-message-congress-conservation-restoration-natural-beauty-02-08-1965), [complete 1964 Great Society address comparison](https://www.presidentialrhetoric.com/historicspeeches/johnson_lyndon/greatsociety.html), and [National Park Service historical context](https://www.nps.gov/articles/npshistory-wilderness.htm).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 70
+
+### WR-W-022 - A new "Pledge of Allegiance"
+
+- Attribution unresolved: later witnesses reproduce the same text, title, Bruce Hagen credit, and 1983 date, but no original Petaluma publication or biographical identification was located.
+- Evidence: [Independent complete comparison witness](https://queenslandbegonia.wordpress.com/tag/earth-day/) and [Philmont transmission witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Low.
+
+### WR-W-023 - [Nature Includes All of the Universe]
+
+- Attribution unresolved: consistently credited to marine biologist Norman John Berrill, but no original book, essay, or interview was located.
+- Evidence: [Independent complete comparison witness](https://citatis.com/a23445/321add/) and [science-quotation index discussing Berrill's identity](https://todayinsci.com/QuotationsCategories/N_Cat/Nature-Quotations.htm).
+- Confidence: Low.
+
+### WR-W-024 - [The Landscapes Were Like a Violin Bow]
+
+- Verified author and source: Stendhal (Marie-Henri Beyle), *Vie de Henry Brulard*, composed 1835-1836 and published posthumously in 1890.
+- Relationship: English rendering of "Les paysages étaient comme un archet qui jouait sur mon âme." The booklet's "violin bow" makes the French noun more explicit.
+- Evidence: [University-press study quoting and analyzing the French source](https://books.openedition.org/ugaeditions/10861), [scholarly source identification](https://www.researchgate.net/publication/361907677_Romantisme_et_ecopoetique), and [independent English contextual identification](https://www.finestresullarte.info/en/works-and-artists/the-landscape-state-of-mind-when-nature-becomes-feeling).
+- Confidence: High.
+
+### WR-W-025 - [There Is Not as Much Wilderness Out There]
+
+- Attribution unresolved: later and scholarly witnesses credit David Brower, but no original speech, interview, letter, or publication was located.
+- Evidence: [Scholarly attributed comparison](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01ALLIANCE_WSU/storage/alma/A4/EF/01/F2/8B/B4/BF/13/88/B5/FD/BE/E9/48/96/66/b_bunting_10822614.pdf) and [independent book excerpt](https://www.bkconnection.com/static/Bringing_Your_Soul_to_Work_EXCERPT.pdf).
+- Confidence: Low.
+
+### WR-W-026 - [All Living Creatures and All Plants]
+
+- Verified speaker and context provisionally: a scholarly comparison embeds the sentence in a longer statement about adaptation and purpose; a later Native quotation collection identifies the speaker as Shooter, Teton Sioux, while the booklet uses Okute.
+- Relationship: One sentence from the longer statement. The equivalence or relationship of the names Shooter and Okute remains to be historically confirmed.
+- Evidence: [Scholarly comparison with surrounding statement](https://journals.ku.edu/amsj/article/download/2286/2245) and [later quotation-collection witness naming Shooter](https://nicotinequitbuddies.groups.io/g/HomePage/topics?after=1070909892000000000&page=2961).
+- Confidence: Medium.
+
+### WR-W-027 - [The Earth, Like the Sun, Like the Air]
+
+- Verified author and source: Edward Abbey, closing sentence of "Come On In," collected in *The Journey Home* (1977), page 88.
+- Relationship: Complete sentence; the source uses a dash before "and to no one."
+- Evidence: [Book, essay, and page locator](https://www.azquotes.com/quote/766216) and [scholarly contextual quotation](https://munin.uit.no/bitstream/10037/1227/1/thesis.pdf).
+- Confidence: High.
+
+### WR-W-028 - [Wilderness Is Nature's Bank]
+
+- Attribution unresolved: Leopold's work supports the general claim that wilderness preserves biological diversity, but the exact aphorism was not located in his published writings or archival quotation resources.
+- Evidence: [Aldo Leopold Foundation text archive entry point](https://www.aldoleopold.org/blogs/the-wilderness-and-its-place-in-forest-recreational-policy) and [later discussion of Leopold and wilderness gene banks](https://objects.lib.uidaho.edu/forester/forester3629.pdf).
+- Confidence: Low.
+
+### WR-W-029 - [The Wilderness Needs No Defense]
+
+- Corrected author and source: Edward Abbey, "Shadows from the Big Woods," collected in *The Journey Home* (1977), page 223—not Aldo Leopold.
+- Relationship: The source reads "The idea of wilderness needs no defense. It only needs more defenders"; the booklet removes "idea of" and joins the two sentences.
+- Evidence: [Source, essay, and page documentation](https://en.wikiquote.org/wiki/Wilderness) and [National Wilderness Conference comparison crediting Abbey](https://wilderness.net/toolboxes/documents/50th/National_Wilderness_Conference_Proceedings_2014.pdf).
+- Confidence: High.
+
+### WR-W-030 - [A Thing Is Right When It Tends to Preserve]
+
+- Verified author and source: Aldo Leopold, "The Land Ethic," *A Sand County Almanac* (1949), pages 224-225.
+- Relationship: Two consecutive sentences matching the source wording.
+- Evidence: [Complete "Land Ethic" comparison text](https://www.leopoldwritingprogram.org/uploads/6/7/7/6/6776981/leopold-aldo_land-ethic-1949.pdf) and [book-page locator](https://libquotes.com/aldo-leopold/quote/lbh5t5d).
+- Confidence: High.
+
+### WR-W-031 - [In the Soft Evening of June]
+
+- Attribution unresolved: an independent Philmont witness credits Phillips Kloss and labels the passage "Sangre de Cristo Mountains," while the booklet gives "Philip Kloss." No original poetry publication was located.
+- Relationship: Complete six-line passage. "Pinion" may be a printed error for "piñon," but the booklet is preserved.
+- Evidence: [Independent Philmont comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Low.
+
+### WR-W-032 - [Money Is the Wealth of the Materialists]
+
+- Verified author and work: Ed Buryn, *Vagabonding in America: A Guidebook about Energy* (1973), later revised as *Vagabonding in the U.S.A.*
+- Relationship: Complete aphorism. The booklet misspells Buryn as "Burgen."
+- Evidence: [Google Books bibliographic record for the 1973 edition](https://books.google.com/books/about/Vagabonding_in_America.html?id=Q8tovCcki5EC), [Open Library revised-edition record](https://openlibrary.org/books/OL3515732M/Vagabonding_in_the_U.S.A.), and [independent exact Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars2.html).
+- Confidence: Medium.
