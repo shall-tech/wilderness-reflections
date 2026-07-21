@@ -2861,3 +2861,44 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The booklet shortens a longer statement first documented long after Lincoln's death. A 1934 land-reform journal printed it while also publishing a reader's challenge to prove its authenticity.
 - Evidence: [1934 scan explicitly questioning authenticity](https://upload.wikimedia.org/wikipedia/commons/f/fb/Abraham_Lincoln_quotations_%26_sayings._Spurious_%28IA_abrahamlincolnqulinc_32%29.pdf) and [modern complete attributed comparison](https://www.prosper.org.au/geoists-in-history/abraham-lincoln/).
 - Confidence: Low.
+
+## 2026-07-20 - Wilderness page 78
+
+### WR-W-089 - Sleeping in the Forest
+
+- Verified author and publication: Mary Oliver, first issued in the *Sleeping in the Forest* Ohio Review chapbook (1978) and collected in *Twelve Moons* (1979).
+- Relationship: Complete poem. Oliver reads "they floated light as moths"; the booklet prints "they flowed light as moths."
+- Evidence: [Google Books record for the 1978 chapbook](https://books.google.com/books/about/Sleeping_in_the_Forest.html?id=bEWatgAACAAJ), [first-edition description for *Twelve Moons*](https://www.abebooks.com/first-edition/Twelve-Moons-OLIVER-Mary-Boston-Little/32218244305/bd), and [complete textual comparison](https://www.goodreads.com/quotes/644071-sleeping-in-the-forest-i-thought-the-earth-remembered-me).
+- Confidence: High.
+
+### WR-W-090 - [There Is No Plant That Is Unimportant]
+
+- Verified speaker and context: Edward S. Ayensu, interviewed while director of the Smithsonian's Endangered Species Program.
+- Relationship: Contemporary interview explicitly records "there is no plant that is unimportant" and explains plants' unique ecological roles; the exact second sentence was not visible in the extracted passage.
+- Evidence: [Smithsonian educational magazine interview, April-May 1978](https://www.smithsonianeducation.org/educators/lesson_plans/flight/atz_principlesofflight_aprmay1978.pdf).
+- Confidence: High for attribution; medium for complete wording.
+
+### WR-W-091 - [We Are No Longer Nature's Children]
+
+- Author and provenance unresolved: no book, essay, interview, lecture, or reliable biographical context was located for the credited Richard Garfield.
+- Confidence: Low.
+
+### WR-W-092 - [Land Is Immortal]
+
+- Attribution unresolved: later collections credit Anwar el-Sadat, but no speech, memoir, interview, or other primary occurrence was located.
+- Evidence: [Complete later attributed comparison](https://libquotes.com/anwar-sadat).
+- Confidence: Low.
+
+### WR-W-093 - General Prologue to The Canterbury Tales
+
+- Verified author and work: Geoffrey Chaucer, lines 11-14 of the General Prologue, in an unidentified modern translation.
+- Relationship: The modern text reads "palmers to be seeking" and "shrines renowned"; the booklet prints "seeding" and "renounced" and misspells Geoffrey as "Geoffery."
+- Evidence: [Complete modern comparison](https://biblicalstudies.org.uk/pdf/bmj/348.pdf), [independent attributed text](https://thepastorsworkshop.com/authors/geoffrey-chaucer), and [Middle English comparison](https://en.wikipedia.org/wiki/General_Prologue).
+- Confidence: High.
+
+### WR-W-094 - [Parks Are at the Center of a Community's Character]
+
+- Verified organizational credit, original source unresolved: The Conservation Foundation.
+- Relationship: Independent civic-document transmission confirms the complete wording but not the original report or date.
+- Evidence: [Complete attributed civic-document comparison](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf).
+- Confidence: Medium.

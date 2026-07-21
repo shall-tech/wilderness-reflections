@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed Wilderness page 78 verification, documenting the Oliver and Chaucer wording errors, locating Ayensu's 1978 interview, and preserving two unresolved personal attributions.
 - Completed Wilderness page 77 verification, distinguishing Smith's and Perry's Chief Seattle texts, questioning a spurious Lincoln attribution, and tracing the Nigerian land-tenure saying.
 - Completed Wilderness page 76 verification, correcting the Marshall and Emerson source relationships, restoring Milton's context, and identifying Axton's adapted song excerpt.
 - Completed Wilderness page 75 verification, locating Frost, Keller, Muir, Shakespeare, and Whitman contexts while preserving two provisional personal attributions.

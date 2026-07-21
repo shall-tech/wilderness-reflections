@@ -2642,22 +2642,22 @@ The land, the earth God gave to man for his home... should never be the possessi
 WR-ID: WR-W-089
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Sleeping in the Forest
 BOOKLET_AUTHOR: Mary Oliver
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Mary Oliver
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with one corrupted verb.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Sleeping in the Forest (Ohio Review chapbook, 1978); collected in Twelve Moons (1979)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Oliver reads "they floated light as moths"; the booklet prints "they flowed light as moths."
 -->
 
 ## Sleeping in the Forest
@@ -2684,22 +2684,22 @@ into something better.
 WR-ID: WR-W-090
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is No Plant That Is Unimportant]
 BOOKLET_AUTHOR: Edward S. Ayensu
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Edward S. Ayensu
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Conservation statement from an interview while Ayensu directed the Smithsonian's Endangered Species Program.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Smithsonian educational magazine interview (April-May 1978)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The contemporary interview explicitly records "there is no plant that is unimportant" and explains plants' unique roles; the exact second sentence was not visible in the extracted passage.
 -->
 
 ## [There Is No Plant That Is Unimportant]
@@ -2712,13 +2712,13 @@ There is no plant that is unimportant. The genetic information contained in the 
 WR-ID: WR-W-091
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [We Are No Longer Nature's Children]
 BOOKLET_AUTHOR: Richard Garfield
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard Garfield (provisional)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Epigram with no located book, essay, interview, lecture, or biographical context.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2727,7 +2727,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The identity of the credited Richard Garfield is also unresolved.
 -->
 
 ## [We Are No Longer Nature's Children]
@@ -2740,13 +2740,13 @@ We are no longer nature's children; we are her masters.
 WR-ID: WR-W-092
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Land Is Immortal]
 BOOKLET_AUTHOR: Anwar el-Sadat
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anwar el-Sadat (provisional)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely repeated attribution; no speech, memoir, interview, or other primary occurrence located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2755,7 +2755,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later quotation collections reproduce the sentence but supply no date or source.
 -->
 
 ## [Land Is Immortal]
@@ -2768,22 +2768,22 @@ Land is immortal, for it harbors the mysteries of creation.
 WR-ID: WR-W-093
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: [For in Their Hearts Doth Nature Stir Them So]
+STATUS: VERIFIED
+TITLE: General Prologue to The Canterbury Tales
 BOOKLET_AUTHOR: Geoffery Chaucer
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Geoffrey Chaucer; modern translator unidentified
+WORK_TYPE: Poem excerpt in modern translation
+EXCERPT: Yes
+RELATIONSHIP: Modernized translation of lines 11-14 of the General Prologue with two booklet errors.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Canterbury Tales, General Prologue (late 14th century); modern translation date unresolved
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The modern text reads "palmers to be seeking" and "shrines renowned"; the booklet prints "seeding" and "renounced." The booklet also misspells "Geoffrey" as "Geoffery."
 -->
 
 ## [For in Their Hearts Doth Nature Stir Them So]
@@ -2796,22 +2796,22 @@ For in their hearts doth Nature stir them so, then people long on pilgrimage to 
 WR-ID: WR-W-094
 PAGE: 78
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Parks Are at the Center of a Community's Character]
 BOOKLET_AUTHOR: Conservation Foundation
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: The Conservation Foundation
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Complete organizational statement; original report or publication not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Independent civic-document transmission confirms the wording and organizational credit but not its first publication.
 -->
 
 ## [Parks Are at the Center of a Community's Character]
