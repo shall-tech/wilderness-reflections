@@ -676,6 +676,96 @@ And that has made all the difference.
 
 *Robert Frost*
 
+<!-- Original Booklet Page 17 -->
+
+<!--
+WR-ID: WR-L-037
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [The Man Who Sat on the Ground]
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Land of the Spotted Eagle (1933)
+SOURCE: https://www.fadedpage.com/books/20180142/html.php
+EDITION_NOTE: The source begins with an additional introductory phrase and spells "tipi" differently. Because the 1933 United States publication may remain protected, the externally sourced replacement text is not reproduced.
+-->
+
+## [The Man Who Sat on the Ground]
+
+*Two-sentence excerpt from Land of the Spotted Eagle; source text not reproduced.*
+
+See the scan-faithful booklet version and the cited source witness.
+
+*Luther Standing Bear*
+
+<!--
+WR-ID: WR-L-038
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [Then Here's a Hail to Each Flaring Dawn]
+VERIFIED_AUTHOR: Robert W. Service
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "A Rolling Stone," in Rhymes of a Rolling Stone (1912)
+SOURCE: https://www.gutenberg.org/ebooks/309
+EDITION_NOTE: Restores "flaring," "a-roaming," four-line form, and source punctuation.
+-->
+
+## [Then Here's a Hail to Each Flaring Dawn]
+
+*Four-line excerpt from “A Rolling Stone.”*
+
+Then here's a hail to each flaring dawn!<br>
+And here's a cheer to the night that's gone!<br>
+And may I go a-roaming on<br>
+Until the day I die!
+
+*Robert W. Service*
+
+<!--
+WR-ID: WR-L-039
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [What Is Life?]
+VERIFIED_AUTHOR: H. Rider Haggard
+WORK_SCOPE: Abridged; Excerpt
+BOOKLET_RELATIONSHIP: Apocryphal adaptation attributed to Crowfoot
+EDITION_STATUS: Source restored
+TEXT_WITNESS: King Solomon's Mines (1885), speech by the fictional character Infadoos
+SOURCE: https://www.gutenberg.org/ebooks/2166
+EDITION_NOTE: Restores the source's image sequence within the booklet's boundary and identifies its fictional speaker; no historical evidence supports the Crowfoot attribution.
+-->
+
+## [What Is Life?]
+
+*Abridged excerpt from a speech by the fictional Infadoos in King Solomon's Mines.*
+
+What is life? It is the glow-worm that shines in the night-time and is black in the morning; it is the white breath of the oxen in winter; it is the little shadow that runs across the grass and loses itself at sunset.
+
+*H. Rider Haggard*
+
+<!--
+WR-ID: WR-L-040
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [A Human Being Should Be Able To]
+VERIFIED_AUTHOR: Adaptation author unresolved; underlying text by Robert A. Heinlein
+WORK_SCOPE: Adapted
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 17; compared with Time Enough for Love (1973)
+SOURCE: https://libquotes.com/robert-a-heinlein/works/time-enough-for-love
+EDITION_NOTE: The booklet retains Heinlein's framing but replaces most of his list and credits Lew Hitcher, whose role could not be established. Restoring Heinlein's list would replace, rather than correct, this adaptation.
+-->
+
+## [A Human Being Should Be Able To]
+
+*Substantial adaptation of a Lazarus Long maxim; adaptation authorship unresolved.*
+
+A human being should be able to heal a wound, plan an expedition, order from a French menu, climb a mountain face, enjoy a ballet, balance accounts, roll a kayak, embolden a friend, tell a joke, laugh at himself, cooperate, act alone, sing a children's song, solve equations, throw a dog a stick, pitch manure, program a computer, cook a tasty meal, love heartily, fight efficiently, die gallantly. Specialization is for insects.
+
+*Attributed in the booklet to Lew Hitcher; underlying form by Robert A. Heinlein*
+
 <!--
 WR-ID: WR-L-030
 PAGE: 15

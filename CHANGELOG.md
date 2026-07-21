@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-040, restoring Service and Haggard while distinguishing a protected source and a substantial Heinlein-derived adaptation.
 - Restored Frost's complete "Mending Wall" as WR-L-036, including its original title, omitted line, and source wording.
 - Completed source-corrected Life page 15 through WR-L-035, leaving the forest proverb unresolved and restoring Shaw's source punctuation and wording.
 - Extended the source-corrected Life edition through WR-L-033, retaining two unresolved aphorisms and restoring the Disney and Blake quotations.
