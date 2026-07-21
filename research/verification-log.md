@@ -1821,3 +1821,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Substantial excerpt from an Olson passage. Comparison witnesses read "great primeval silences" and "knowledge of all things of earth"; one longer witness includes an omitted sentence about hopes, dreams, and the spirit world. The exact originating Olson work was not located.
 - Evidence: [Full comparison transcription](https://friendsofsilence.net/quote/author/sigurd-olson), [1990 periodical witness](https://torreypine.org/wp-content/uploads/nl/1990/9001.pdf), and [longer comparison witness](https://wclra.org/wp-content/uploads/2018-Vol-24-02-Summer-TLPA-Newsletter-scanned.pdf).
 - Confidence: Medium.
+
+## 2026-07-20 - Beauty page 56, entries 1-3
+
+### WR-B-005 - Silent Moon
+
+- Corrected title and author: Dante Gabriel Rossetti, "Silent Noon," sonnet 19 of *The House of Life*. The booklet changes "Noon" to "Moon" and misspells Gabriel as "Grabriel."
+- Relationship: Complete sonnet. The booklet prints "skies" for "clouds," "All around" for "All round," and "the visible silence" for "visible silence," while modernizing or removing several compounds and altering punctuation.
+- Evidence: [Rossetti Archive textual and publication history](https://rossettiarchive.iath.virginia.edu/docs/7-1871.raw.html), [University of Toronto first-edition text](https://rpo.library.utoronto.ca/content/house-life-19-silent-noon), and [Rossetti Archive record for the 1881 first edition](https://rossettiarchive.iath.virginia.edu/docs/2-1881.1stedn.rad.html).
+- Confidence: High.
+
+### WR-B-006 - [The Sunshine on My Path]
+
+- Verified author and source: William Cullen Bryant, "A Winter Piece," first published as "Winter Scenes" in *The Idle Man* (1821).
+- Relationship: Single sentence excerpt. The source reads "The sunshine on my path / Was to me as a friend"; the booklet removes "as" and presents the verse lines as prose.
+- Evidence: [Poetry Foundation complete poem](https://www.poetryfoundation.org/poems/55338/a-winter-piece), [scanned collected works with chronology](https://upload.wikimedia.org/wikipedia/commons/6/61/The_poetical_works_of_William_Cullen_Bryant_-_with_chronologies_of_Bryant%27s_life_and_poems_%28IA_cu31924022053478%29.pdf), and [Project Gutenberg collected text](https://www.gutenberg.org/files/29700/29700-h/29700-h.htm).
+- Confidence: High.
+
+### WR-B-007 - [The Great Sea]
+
+- Verified creator and transmission: Uvavnuk, an Iglulik Inuit angakkuq and oral poet. Aua related her song to Knud Rasmussen, who published the account in *Intellectual Culture of the Iglulik Eskimos* (1929).
+- Relationship: One of many English translations or adaptations of the orally transmitted song, commonly titled "The Great Sea," "The Song of Uvavnuk," or "Earth and the Great Weather." The booklet's wording is independently attested, while other translations vary substantially.
+- Evidence: [Poetry Foundation author and transmission summary](https://www.poetryfoundation.org/poets/uvavnuk), [comparison text linked to Rasmussen's 1929 volume](https://sica-usa.org/news/uvavnuks-song-reynold-weissinger/), and [independent witness matching the booklet version](https://studylib.net/doc/8026858/inuit-poetry.doc---adult-basic-education-integration-wiki).
+- Confidence: High.

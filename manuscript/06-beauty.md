@@ -156,22 +156,22 @@ Beauty is composed of many things and never stands alone. It is part of horizons
 WR-ID: WR-B-005
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
-TITLE: Silent Moon
+STATUS: VERIFIED
+TITLE: Silent Noon
 BOOKLET_AUTHOR: Dante Grabriel Rossetti
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Dante Gabriel Rossetti
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete sonnet, "Silent Noon," number 19 in The House of Life.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ballads and Sonnets (1881)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Silence
 - Love
-NOTES: None
+NOTES: The booklet changes the title to "Silent Moon" and misspells "Gabriel" as "Grabriel." It also prints "skies" for "clouds," "All around" for "All round," and "the visible silence" for "visible silence," modernizes or removes several compounds, and alters punctuation.
 -->
 
 ## Silent Moon
@@ -197,22 +197,22 @@ When twofold silence was the song of love.
 WR-ID: WR-B-006
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Sunshine on My Path]
 BOOKLET_AUTHOR: William Cullen Bryant
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Cullen Bryant
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Single sentence excerpt from "A Winter Piece."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Idle Man (1821), under the title "Winter Scenes"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sunshine
 - Friendship
-NOTES: None
+NOTES: The source reads "The sunshine on my path / Was to me as a friend"; the booklet removes "as" and presents the two verse lines as prose.
 -->
 
 ## [The Sunshine on My Path]
@@ -225,22 +225,22 @@ The sunshine on my path was to me a friend.
 WR-ID: WR-B-007
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Great Sea]
 BOOKLET_AUTHOR: Uvavnuk, Eskimo woman shaman
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Uvavnuk
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: English translation or adaptation of Uvavnuk's orally transmitted song, commonly titled "The Great Sea," "The Song of Uvavnuk," or "Earth and the Great Weather."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Recorded through Aua by Knud Rasmussen; published in Intellectual Culture of the Iglulik Eskimos (1929)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sea
 - Movement
-NOTES: None
+NOTES: English translations vary substantially. The booklet's version is independently attested; other translations read "reed" or "weed," "winds" or "weather," and "filled my inner parts" or comparable wording.
 -->
 
 ## [The Great Sea]
