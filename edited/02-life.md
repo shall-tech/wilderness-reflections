@@ -430,3 +430,70 @@ EDITION_NOTE: The work and author are verified, but a directly inspectable autho
 The world is your exercise book, the pages on which you do your sums. It is not reality although you can express reality there if you wish. You are also free to write nonsense, or lies, or to tear the pages.
 
 *Richard Bach*
+
+<!--
+WR-ID: WR-L-016
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [Live as to Die Tomorrow]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+BOOKLET_RELATIONSHIP: Variant of a long-circulating maxim attributed to several writers
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 13
+SOURCE: research/verification-log.md#wr-l-016---live-as-to-die-tomorrow
+EDITION_NOTE: No primary source by Isidore of Seville was located, and related forms have several competing attributions. The booklet wording is retained under an unknown author.
+-->
+
+## [Live as to Die Tomorrow]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Live as to die tomorrow. Learn as to live forever.
+
+*Author unknown; attributed in the booklet to “Isadore of Seville”*
+
+<!--
+WR-ID: WR-L-017
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [Try Not to Become a Man of Success]
+VERIFIED_AUTHOR: Albert Einstein
+WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Condensed quotation
+EDITION_STATUS: Source restored
+TEXT_WITNESS: William Miller, "Death of a Genius," Life, May 2, 1955
+SOURCE: https://www.sundheimgroup.com/a-brief-visit-with-einstein/
+EDITION_NOTE: Restores the connective wording omitted by the booklet while preserving its single-sentence boundary.
+-->
+
+## [Try Not to Become a Man of Success]
+
+*One-sentence excerpt from a 1955 interview.*
+
+Try not to become a man of success, but rather try to become a man of value.
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-L-018
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [I Left the Woods]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden; or, Life in the Woods (1854), "Conclusion"
+SOURCE: https://www.gutenberg.org/files/205/205-h/205-h.htm
+EDITION_NOTE: Restores the source's punctuation and compound form "pond-side" within the booklet's consecutive excerpt boundary.
+-->
+
+## [I Left the Woods]
+
+*Excerpt from Walden, “Conclusion.”*
+
+I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one. It is remarkable how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond-side; and though it is five or six years since I trod it, it is still quite distinct.
+
+It is true, I fear that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world, how deep the ruts of tradition and conformity! I did not wish to take a cabin passage, but rather to go before the mast and on the deck of the world, for there I could best see the moonlight amid the mountains. I do not wish to go below now.
+
+*Henry David Thoreau*

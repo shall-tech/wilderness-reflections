@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-018, restoring the Einstein and Thoreau excerpts while retaining one unresolved maxim.
 - Extended the source-corrected Life edition through WR-L-015, restoring the Thoreau passage and documenting abridged or witness-limited texts.
 - Extended the source-corrected Life edition through WR-L-012, retaining two sayings under unresolved authorship and restoring two verified short quotations.
 - Extended the source-corrected Life edition through WR-L-008, preserving an unresolved text, restoring Roosevelt's speech wording, and documenting two rights- or witness-limited entries.
