@@ -2559,22 +2559,22 @@ Simplicity in all things is the secret of the wilderness and one of its most val
 WR-ID: WR-KW-089
 PAGE: 43
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [How Often We Speak of the Great Silences]
 BOOKLET_AUTHOR: Sigurd F. Olsen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from "The Great Silences" in Reflections from the North Country
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Reflections from the North Country (1976)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Silence
 - Wilderness
-NOTES: None
+NOTES: The booklet misspells Olson as "Olsen" and prints "the wonder of peace" where the source reads "the wonder and peace." Source capitalization commonly treats North, West, Southwest, and South as proper regional names; the booklet lowercases them.
 -->
 
 ## [How Often We Speak of the Great Silences]
@@ -2587,22 +2587,22 @@ How often we speak of the great silences of the wilderness and of the importance
 WR-ID: WR-KW-090
 PAGE: 43
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Speak to Us of Friendship]
 BOOKLET_AUTHOR: Kahlil Gibran, from The Prophet
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Kahlil Gibran
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Nearly complete "On Friendship" chapter from The Prophet, with omissions and errors
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Prophet (1923)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Friendship
 - Spirit
-NOTES: None
+NOTES: The booklet omits "with love" after "sow," splits "save the deepening" into two sentences, changes "aught" to "ought" and possessive "its" to "it's," and drops "hours to kill? Seek him always with" from two adjacent sentences, among punctuation and paragraph changes.
 -->
 
 ## [Speak to Us of Friendship]
@@ -2619,22 +2619,22 @@ For you come to him with your hunger, and you seek him for peace. When your frie
 WR-ID: WR-KW-091
 PAGE: 43
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Keep Your Mouth Closed]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Verse
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution); Gia-Fu Feng and Jane English translation
+WORK_TYPE: Philosophical Text Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Middle seven lines of Tao Te Ching, chapter 56
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Tao Te Ching ancient text; Feng-English translation (1972)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Simplicity
 - Union
-NOTES: None
+NOTES: These lines immediately precede WR-KW-082 on page 41 and come from the same chapter and translation. The booklet separates the passage across pages and labels this portion unknown while crediting the later portion to Lao Tzu; neither entry names the translators.
 -->
 
 ## [Keep Your Mouth Closed]

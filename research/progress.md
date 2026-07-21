@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-088 on original page 42; Life and Leadership are complete.
+- Source verification is complete through WR-KW-091 on original page 43; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-089, "How Often We Speak of the Great Silences," on original page 43.
+- Next entry: WR-KW-092, "Since Water Still Flows," on original page 43.
 
 ## Source
 

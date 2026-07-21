@@ -106,3 +106,4 @@
 - Completed Knowledge and Wisdom page 41 with Thoreau's *Walking*, the Feng-English *Tao Te Ching*, and identification of a composite entry containing corrupted Emerson wording.
 - Began Knowledge and Wisdom page 42 with sources for Leopold, Burroughs, and Storm, while documenting the unresolved work and surname behind the Nancy Wood attribution.
 - Completed Knowledge and Wisdom page 42 by locating both Olson passages in *Reflections from the North Country* and documenting the booklet's "Olsen" and "matte" errors.
+- Began Knowledge and Wisdom page 43 with Olson's "Great Silences," Gibran's heavily altered friendship chapter, and the restored source of an unattributed Tao Te Ching passage.

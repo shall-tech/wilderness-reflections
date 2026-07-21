@@ -1550,3 +1550,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Substantial excerpt. The booklet misspells Olson as "Olsen" and prints "matte of simplicity" for "matter of simplicity"; the source continues with further advice.
 - Evidence: [Edition-linked full passage](https://libquotes.com/sigurd-olson/quote/lbj6u6l) and [extended contextual witness](https://mrbdc.mnsu.edu/sites/mrbdc.mnsu.edu/files/public/reports/rivertalk/summer_07.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 43, entries 1-3
+
+### WR-KW-089 - [How Often We Speak of the Great Silences]
+
+- Verified author and source: Sigurd F. Olson, "The Great Silences," in *Reflections from the North Country* (1976).
+- Relationship: Complete passage. The booklet misspells Olson as "Olsen," changes "the wonder and peace" to "the wonder of peace," and lowercases regional names.
+- Evidence: [Book table of contents and metadata](https://books.google.com/books/about/Reflections_from_the_North_Country.html?id=PFF2NwpXPUEC), [National Park Service full-passage witness](https://npshistory.com/publications/wilderness/wilderness-stewardship-bp-2011.pdf), and [additional NPS comparison witness](https://www.nps.gov/subjects/sound/upload/Powerful-World-of-Sound-Curriculum-508.pdf).
+- Confidence: High.
+
+### WR-KW-090 - [Speak to Us of Friendship]
+
+- Verified author and source: Kahlil Gibran, "On Friendship," in *The Prophet* (1923).
+- Relationship: Nearly complete chapter with several errors and omissions. The booklet drops "with love," changes "aught" to "ought" and "its" to "it's," and removes the transition "hours to kill? Seek him always with" between two sentences.
+- Evidence: [Official Gibran-site edition](https://www.kahlilgibran.com/images/The%20Prophet%20Ebook%20by%20Kahlil%20Gibran.pdf), [Project Gutenberg edition record](https://www.gutenberg.org/files/58585/58585-h/58585-h.htm), and [full chapter text](https://americanliterature.com/author/kahlil-gibran/book/the-prophet/on-friendship).
+- Confidence: High.
+
+### WR-KW-091 - [Keep Your Mouth Closed]
+
+- Restored source and translation: *Tao Te Ching*, chapter 56, translated by Gia-Fu Feng and Jane English (1972).
+- Relationship: Middle seven lines of the same chapter whose closing four lines appear as WR-KW-082. The booklet splits the passage across pages, labels this portion unknown, and omits the translators from both entries.
+- Evidence: [Chapter text with translator credit](https://www.wussu.com/laotzu/laotzu56.html) and [independent edition citation](https://realization.org/down/mountain-path/59-3.2022-jul.pdf).
+- Confidence: High.
