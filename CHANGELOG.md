@@ -102,3 +102,4 @@
 - Completed Knowledge and Wisdom page 39 by tracing the Inuit song's edited transmission, Einstein's 1950 letter, and Smohalla's statement to its nineteenth-century ethnographic record.
 - Began Knowledge and Wisdom page 40 by verifying three Thoreau sources, including the scan-confirmed substitution of "enthusiasm" for "indusium," and documenting an unresolved Żeromski attribution.
 - Completed Knowledge and Wisdom page 40 by separating a composite Shakespeare/Tolkien entry and locating the Thoreau, Olson, and Santayana sources with their booklet variants.
+- Began Knowledge and Wisdom page 41 by verifying Emerson's *Nature* excerpt and documenting the limited surviving evidence for three personal attributions.

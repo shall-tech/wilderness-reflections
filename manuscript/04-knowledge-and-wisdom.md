@@ -2175,10 +2175,10 @@ A Californian whom I had recently the pleasure of meeting observed that if the p
 WR-ID: WR-KW-076
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: King of the Mountain
 BOOKLET_AUTHOR: Edward Cunningham
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Edward Cunningham (attribution unverified)
 WORK_TYPE: Poem
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -2190,7 +2190,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Growth
 - Possibility
-NOTES: None
+NOTES: A matching Philmont quotation collection credits Edward Cunningham and preserves the title, but no periodical, book, anthology, biographical record, date, or independent publication was located.
 -->
 
 ## King of the Mountain
@@ -2214,22 +2214,22 @@ For the very first time... She knows.
 WR-ID: WR-KW-077
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [In the Woods, Too]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence from Nature, chapter 1
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Nature (1836)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Woods
 - Renewal
-NOTES: None
+NOTES: The source writes "soever" as one word, does not place a comma after "woods" or "life," and immediately continues "In the woods, is perpetual youth." The booklet extracts the first sentence and alters punctuation.
 -->
 
 ## [In the Woods, Too]
@@ -2242,10 +2242,10 @@ In the woods, too, a man casts off his years, as the snake his slough, and at wh
 WR-ID: WR-KW-078
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Mountains and Deserts]
 BOOKLET_AUTHOR: George Schaller
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: George B. Schaller (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -2257,7 +2257,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Mountains
 - Exploration
-NOTES: None
+NOTES: The exact sentence circulates under Schaller's name, but no book, essay, journal article, interview, speech, page number, or contemporaneous witness was located.
 -->
 
 ## [Mountains and Deserts]
@@ -2270,10 +2270,10 @@ Mountains and deserts, with their sparse life at the limit of existence, make on
 WR-ID: WR-KW-079
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [He Who Reads the Landscape]
 BOOKLET_AUTHOR: Barry Lopez
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Barry Lopez (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -2285,7 +2285,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Landscape
 - Observation
-NOTES: None
+NOTES: A matching Philmont collection credits Lopez, but focused exact-phrase searches did not locate the sentence in a named book, essay, interview, or independent early source.
 -->
 
 ## [He Who Reads the Landscape]

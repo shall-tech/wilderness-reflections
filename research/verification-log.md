@@ -1451,3 +1451,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Altered excerpt. The booklet omits "I should say," misprints "that man" as "the man," drops "the" before woods, and modernizes "centre."
 - Evidence: [Project Gutenberg full text](https://www.gutenberg.org/cache/epub/17771/pg17771-images.html) and [lecture context](https://kirkcenter.org/essays/the-voice-of-michael-oakeshott-in-the-conversation-of-conservatism/).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 41, entries 1-4
+
+### WR-KW-076 - King of the Mountain
+
+- Booklet attribution: Edward Cunningham.
+- Finding: A matching Philmont quotation collection preserves both the title and attribution, but no periodical, book, anthology, biographical record, date, or independent publication was located.
+- Evidence: [Matching Philmont collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Low for original provenance.
+
+### WR-KW-077 - [In the Woods, Too]
+
+- Verified author and source: Ralph Waldo Emerson, *Nature* (1836), chapter 1.
+- Relationship: One sentence extracted from a longer paragraph. The source writes "soever" as one word and immediately continues "In the woods, is perpetual youth"; the booklet also changes commas.
+- Evidence: [1836 work text](https://open.maricopa.edu/earlyamericanliteratureanthology/chapter/nature-1836/) and [comparison excerpt](https://moodle2.units.it/pluginfile.php/427349/mod_resource/content/1/R.W.%20Emerson%20Nature-a%20selection.pdf).
+- Confidence: High.
+
+### WR-KW-078 - [Mountains and Deserts]
+
+- Booklet attribution: George Schaller.
+- Finding: The exact sentence circulates under Schaller's name, but no book, essay, article, interview, speech, page number, or contemporaneous witness was located.
+- Evidence: [Modern exact-wording attribution](https://quotefancy.com/quote/1655238/George-Schaller-Mountains-and-deserts-with-their-sparse-life-at-the-limit-of-existence).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+### WR-KW-079 - [He Who Reads the Landscape]
+
+- Booklet attribution: Barry Lopez.
+- Finding: A matching Philmont collection credits Lopez, but exact-phrase searches did not locate the sentence in a named book, essay, interview, or independent early source.
+- Evidence: [Matching Philmont collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Low for original provenance.

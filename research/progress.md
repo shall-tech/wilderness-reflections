@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-075 on original page 40; Life and Leadership are complete.
+- Source verification is complete through WR-KW-079 on original page 41; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-076, "King of the Mountain," on original page 41.
+- Next entry: WR-KW-080, "When I Would Recreate Myself," on original page 41.
 
 ## Source
 
