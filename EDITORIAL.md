@@ -18,6 +18,20 @@
 - Booklet titles and attributions remain exactly as printed in `TITLE` and `BOOKLET_AUTHOR`; corrected identities belong in `VERIFIED_AUTHOR`, `RELATIONSHIP`, and `NOTES`.
 - Verification sources and comparison findings are recorded in `research/verification-log.md` so the manuscript metadata remains compact.
 
+## Source-corrected edition
+
+- Files in `edited/` form a separate reading edition. They never replace or silently modify the scan-faithful files in `manuscript/`.
+- The edited edition preserves the booklet's selection boundaries. A booklet excerpt remains an excerpt; it is not expanded into the complete work.
+- `WORK_SCOPE` uses one or more controlled values: `Complete`, `Excerpt`, `Abridged`, `Adapted`, `Composite`, or `Fragment`.
+- A reader-facing scope line identifies excerpts and other non-complete forms beneath each title.
+- `EDITION_STATUS: Source restored` means the displayed wording follows the cited source witness within the booklet's selection boundaries.
+- `EDITION_STATUS: Booklet text retained` means reliable source wording could not be reproduced or established. The reason is stated in `EDITION_NOTE`.
+- `EDITION_STATUS: Source identified; text not reproduced` means the original work is identified, but its text is omitted because a reliable reproducible witness or publication right is unavailable.
+- Titles, author names, and work identities follow the verified source when confidence is sufficient. Unresolved attributions remain explicitly unresolved.
+- For translated works, `TEXT_WITNESS` names the selected translation. The edition does not blend translations.
+- Public-domain source text may be reproduced. A copyrighted source is identified and linked, but an unlicensed complete work or substantial replacement text is not copied into the repository.
+- Every edited entry retains its original `WR-ID` so it can be reconciled with the manuscript and verification log.
+
 ## Scan mapping
 
 The current source PDF contains 84 scanned leaves. The first content sequence is:

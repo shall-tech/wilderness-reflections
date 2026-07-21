@@ -34,6 +34,12 @@
 - Final result: 382 selections reviewed; 290 verified and 92 explicitly documented as attribution unresolved.
 - No transcription or first-pass verification work remains. Further work would be an optional archival research pass on unresolved provenance questions.
 
+## Source-corrected edition
+
+- Editorial policy and controlled `WORK_SCOPE` values are established.
+- Life entries WR-L-001 through WR-L-004 form the initial edited-edition batch.
+- Excerpt boundaries are preserved; translation witnesses and rights-related source-text limitations are stated explicitly.
+
 ## Source
 
 - Scan: Wilderness Reflections.pdf
