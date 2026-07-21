@@ -2389,22 +2389,22 @@ This therefore is the highest state of man.
 WR-ID: WR-KW-083
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Ability to See the Cultural Value of Wilderness]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two sentences from "Wilderness"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Sand County Almanac (1949), posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Humility
-NOTES: None
+NOTES: The source hyphenates "shallow-minded" and continues the second sentence after "important" with a semicolon and further argument. The booklet drops the hyphen and truncates the passage.
 -->
 
 ## [Ability to See the Cultural Value of Wilderness]
@@ -2417,22 +2417,22 @@ Ability to see the cultural value of wilderness boils down, in the last analysis
 WR-ID: WR-KW-084
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Am in Love with This World]
 BOOKLET_AUTHOR: John Burroughs
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Burroughs
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed passage from The Summit of the Years
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Summit of the Years (1913)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - World
 - Beauty
-NOTES: None
+NOTES: The source begins "I am in love with this world; by my constitution I have nestled lovingly in it" and includes several sentences before "I have climbed its mountains." The booklet omits "by my constitution," the intervening passage, and punctuation after "in it."
 -->
 
 ## [I Am in Love with This World]
@@ -2445,22 +2445,22 @@ I am in love with this world. I have nestled lovingly in it I have climbed its m
 WR-ID: WR-KW-085
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [To Touch and Feel Is to Experience]
 BOOKLET_AUTHOR: Hyemeyohsts Storm Seven Arrows
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Hyemeyohsts Storm
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Seven Arrows
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Seven Arrows (1972)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Experience
 - Life
-NOTES: None
+NOTES: The booklet runs the author's name and book title together as if both were the byline. The source capitalizes key teaching words such as Touching; the booklet normalizes capitalization and punctuation.
 -->
 
 ## [To Touch and Feel Is to Experience]
@@ -2473,13 +2473,13 @@ To touch and feel is to experience. Many people live out their entire lives with
 WR-ID: WR-KW-086
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Touched the Nothingness of Air]
 BOOKLET_AUTHOR: Nancy Wood
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Nancy Wood (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
+RELATIONSHIP: Prose passage reproduced in a Philmont quotation collection
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2488,7 +2488,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Awareness
 - Perception
-NOTES: None
+NOTES: A matching Philmont collection credits "Nancy Woods," while the booklet prints Nancy Wood. No book, poem or essay title, periodical, page reference, date, or independent publication was located; even the surname form remains uncertain.
 -->
 
 ## [I Touched the Nothingness of Air]

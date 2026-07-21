@@ -1504,3 +1504,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Closing four lines of the chapter, following its description of "primal union." The booklet credits Lao Tzu but omits the translators.
 - Evidence: [Edition record](https://libquotes.com/lao-tzu/quote/lbf6x7j) and [translation-context witness](https://repository.up.ac.za/server/api/core/bitstreams/584931ea-0e2a-41f4-9bf5-62f6d65c4af6/content).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 42, entries 1-4
+
+### WR-KW-083 - [Ability to See the Cultural Value of Wilderness]
+
+- Verified author and source: Aldo Leopold, "Wilderness," in *A Sand County Almanac* (1949), published posthumously.
+- Relationship: Two sentences, with the second truncated. The source hyphenates "shallow-minded" and continues after "important."
+- Evidence: [Wilderness.net source excerpt](https://wilderness.net/toolboxes/documents/awareness/Aldo%20Leopold%20writing%20on%20wilderness.pdf) and [edition page locator](https://www.azquotes.com/quote/601975).
+- Confidence: High.
+
+### WR-KW-084 - [I Am in Love with This World]
+
+- Verified author and source: John Burroughs, *The Summit of the Years* (1913).
+- Relationship: Condensed passage. The source includes "by my constitution" after the first clause and several sentences between "nestled lovingly in it" and "I have climbed its mountains." The booklet also loses sentence punctuation after "in it."
+- Evidence: [Scanned Burroughs volume](https://upload.wikimedia.org/wikipedia/commons/e/e8/The_writings_of_John_Burroughs_%28IA_cu31924022545028%29.pdf) and [1915 biographical quotation](https://mirrors.pglaf.org/4/7/9/8/47988/47988-h/47988-h.htm).
+- Confidence: High.
+
+### WR-KW-085 - [To Touch and Feel Is to Experience]
+
+- Verified author and source: Hyemeyohsts Storm, *Seven Arrows* (1972).
+- Relationship: Continuous passage with the source's teaching-word capitalization normalized. The booklet mistakenly appends the book title to the author's name in the byline.
+- Evidence: [Scanned work witness](https://www.scribd.com/doc/26543909/Seven-Arrows-by-Hyemeyohsts-Storm-Part-1-teachings-of-the-Sundance-Way-of-Plains-Indian-people) and [independent excerpt with context](https://brainmass.com/file/316056/Myth_and_Knowing_Ch06%5B1%5D.pdf).
+- Confidence: High.
+
+### WR-KW-086 - [I Touched the Nothingness of Air]
+
+- Booklet attribution: Nancy Wood.
+- Finding: A matching Philmont collection credits "Nancy Woods," but no work title, periodical, page reference, date, or independent publication was located; the surname itself differs between the two witnesses.
+- Evidence: [Matching Philmont collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Low.

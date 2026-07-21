@@ -104,3 +104,4 @@
 - Completed Knowledge and Wisdom page 40 by separating a composite Shakespeare/Tolkien entry and locating the Thoreau, Olson, and Santayana sources with their booklet variants.
 - Began Knowledge and Wisdom page 41 by verifying Emerson's *Nature* excerpt and documenting the limited surviving evidence for three personal attributions.
 - Completed Knowledge and Wisdom page 41 with Thoreau's *Walking*, the Feng-English *Tao Te Ching*, and identification of a composite entry containing corrupted Emerson wording.
+- Began Knowledge and Wisdom page 42 with sources for Leopold, Burroughs, and Storm, while documenting the unresolved work and surname behind the Nancy Wood attribution.
