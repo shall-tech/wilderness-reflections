@@ -2640,3 +2640,60 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Journal sentence; the source reads singular "the first morning of creation," whereas the booklet prints "creations."
 - Evidence: [Collection locator and complete comparison](https://www.azquotes.com/author/14637-Henry_David_Thoreau/tag/bird).
 - Confidence: Medium.
+
+## 2026-07-20 - Wilderness page 74
+
+### WR-W-058 - Stopping by Woods on a Snowy Evening
+
+- Verified author and publication: Robert Frost, *New Hampshire: A Poem with Notes and Grace Notes* (1923), p. 87.
+- Relationship: Complete poem. The booklet adds "the" to the title, prints "through" for "though," omits "the" before "frozen lake," and changes the final stanza's punctuation and capitalization.
+- Evidence: [Representative Poetry Online transcription tied to the 1923 edition](https://rpo.library.utoronto.ca/content/stopping-woods-snowy-evening-3) and [complete 1923 volume](https://www.gutenberg.org/files/58611/58611-h/58611-h.htm).
+- Confidence: High.
+
+### WR-W-059 - [This Grand Show Is Eternal]
+
+- Verified author and work: John Muir, posthumously published in *John of the Mountains: The Unpublished Journals of John Muir* (1938).
+- Relationship: Journal passage. The booklet corrupts "vapor ever rising," "dawn and gloaming," and "on seas and continents and islands."
+- Evidence: [Sierra College natural-history journal source locator and full comparison](https://ejournals.sierracollege.edu/jscnhm/v1n2/muirquotes.html) and [John Muir Trust comparison](https://www.johnmuirtrust.org/assets/000/000/908/JMA_Info_HB_2019_with_links_original_original.pdf).
+- Confidence: High.
+
+### WR-W-060 - [This Is the Forest Primeval]
+
+- Verified author and work: Henry Wadsworth Longfellow, Prelude to *Evangeline: A Tale of Acadie* (1847).
+- Relationship: Fragments from the opening lines with two lines omitted; Longfellow reads "Druids of eld," not "druids of old."
+- Evidence: [Complete attributed comparison with work and date](https://libquotes.com/henry-wadsworth-longfellow/quote/lba8h9x) and [MIT instructional reproduction](https://dspace.mit.edu/bitstream/handle/1721.1/36392/1-011Spring-2003/NR/rdonlyres/Civil-and-Environmental-Engineering/1-011Project-EvaluationSpring2003/15F3217C-0AFA-41F8-B919-3C307EA90EE6/0/1011longfellow.pdf).
+- Confidence: High.
+
+### WR-W-061 - [The Essence of What We Call America]
+
+- Verified author, original source unresolved: later witnesses credit photographer Paul Strand, but no original interview, essay, or lecture was located.
+- Relationship: Later text reads "This something we call America lives," where the booklet supplies the parenthetical "(The essence of what)" and substitutes "lies."
+- Evidence: [Complete later attributed comparison](https://www.openingthesky.com/2016/08/).
+- Confidence: Medium.
+
+### WR-W-062 - [We Love the Quiet]
+
+- Speaker and documentary provenance unresolved: later transmission describes an unnamed Indigenous chief speaking to Pennsylvania's governor, but no 1796 document or identity was located.
+- Relationship: Later text reads "We love quiet," without the booklet's "the."
+- Evidence: [Complete later comparison and contextual claim](https://www.spiritualityandpractice.com/books/reviews/excerpts/view/14362?id=14362).
+- Confidence: Low.
+
+### WR-W-063 - [Conservation Is the Foresighted Utilization]
+
+- Verified author and work: Gifford Pinchot, *Breaking New Ground* (1947), p. 505.
+- Relationship: Definition reproduced with minor singular/plural and punctuation changes; Pinchot reads "forests, waters, lands and minerals."
+- Evidence: [Sourced page locator and comparison](https://todayinsci.com/P/Pinchot_Gifford/PinchotGifford-Quotations.htm) and [Congressional Record reproduction](https://www.govinfo.gov/content/pkg/GPO-CRECB-1967-pt23/pdf/GPO-CRECB-1967-pt23-5-2.pdf).
+- Confidence: High.
+
+### WR-W-064 - [Holy Mother Earth]
+
+- Cultural attribution unresolved: no Ho-Chunk-language source, named speaker, or early ethnographic record was located.
+- Relationship: Late-twentieth-century witnesses call it a Winnebago saying, while other collections use a generic North American Indian attribution or credit Geronimo.
+- Evidence: [1988 Winnebago-attributed witness](https://www.narayanagurukula.org/Media/MagArchive/fulltext/1988-1.pdf), [1990 newspaper witness](https://www.deseret.com/1990/4/2/18854376/awareness-of-environment-blossoms-with-earth-day-90/), and [conflicting attribution note](https://libquotes.com/anonymous/quote/lby0r9e).
+- Confidence: Low.
+
+### WR-W-065 - Isaiah 5:8
+
+- Verified source and translation: Isaiah 5:8, King James Version.
+- Relationship: Complete verse. The booklet misspells "Isaiah" as "Isiah" and prints "placed also" where the King James Version reads "placed alone."
+- Confidence: High.

@@ -1706,22 +1706,22 @@ The birds I heard today, which, fortunately, did not come within the scope of my
 WR-ID: WR-W-058
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: Stopping by the Woods on a Snowy Evening
+STATUS: VERIFIED
+TITLE: Stopping by Woods on a Snowy Evening
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with several wording, punctuation, capitalization, and title changes.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: New Hampshire: A Poem with Notes and Grace Notes (1923)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet adds "the" to the title; prints "through" for "though"; omits "the" before "frozen lake"; replaces punctuation in the final stanza with an ellipsis; and lowercases the first "And."
 -->
 
 ## Stopping by the Woods on a Snowy Evening
@@ -1749,22 +1749,22 @@ And miles to go before I sleep.
 WR-ID: WR-W-059
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [This Grand Show Is Eternal]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Muir
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Posthumously published journal passage with multiple booklet corruptions.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: John of the Mountains: The Unpublished Journals of John Muir (1938)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source reads "vapor ever rising," "dawn and gloaming," and "on seas and continents and islands"; the booklet prints "vapor is ever rising," "dawn and glowing," and "on sea and continues and islands."
 -->
 
 ## [This Grand Show Is Eternal]
@@ -1777,22 +1777,22 @@ This grand show is eternal. It is always sunrise somewhere; the dew is never all
 WR-ID: WR-W-060
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [This Is the Forest Primeval]
 BOOKLET_AUTHOR: Henry Wadsworth Longfellow
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry Wadsworth Longfellow
+WORK_TYPE: Poem excerpt
+EXCERPT: Yes
+RELATIONSHIP: Fragments from the opening lines of the Prelude to Evangeline.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Evangeline: A Tale of Acadie (1847)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Longfellow's complete passage includes two intervening lines and reads "Druids of eld," not the booklet's "druids of old."
 -->
 
 ## [This Is the Forest Primeval]
@@ -1805,22 +1805,22 @@ This is the forest primeval. The murmuring pines and the hemlocks... Stand like 
 WR-ID: WR-W-061
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Essence of What We Call America]
 BOOKLET_AUTHOR: Paul Strand
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Paul Strand
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Altered form of a widely attributed statement; original interview, essay, or lecture not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later witnesses read "This something we call America lives," whereas the booklet's parenthetical opening reads "(The essence of what) we call America lies."
 -->
 
 ## [The Essence of What We Call America]
@@ -1833,13 +1833,13 @@ NOTES: None
 WR-ID: WR-W-062
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [We Love the Quiet]
 BOOKLET_AUTHOR: Indian Chief to the governor of Pennsylvania, 1796
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unidentified Indigenous speaker
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Statement later described as spoken by an unnamed Indigenous chief to Pennsylvania's governor; no 1796 document or speaker identity located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1848,7 +1848,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later transmission reads "We love quiet" without "the." The booklet's date and governmental context remain unverified.
 -->
 
 ## [We Love the Quiet]
@@ -1861,22 +1861,22 @@ We love the quiet, we suffer the mouse to play; when the woods are rustled by th
 WR-ID: WR-W-063
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Conservation Is the Foresighted Utilization]
 BOOKLET_AUTHOR: Gifford Pinchot
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Gifford Pinchot
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Definition reproduced with minor singular/plural and punctuation changes.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Breaking New Ground (1947), p. 505
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Pinchot reads "forests, waters, lands and minerals"; the booklet has singular "forest," inserts a comma before "for," and prints "and/or."
 -->
 
 ## [Conservation Is the Foresighted Utilization]
@@ -1889,13 +1889,13 @@ Conservation is the foresighted utilization, preservation, and/or renewal of the
 WR-ID: WR-W-064
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Holy Mother Earth]
 BOOKLET_AUTHOR: A Winnebago wise saying
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous (attribution to Ho-Chunk/Winnebago tradition unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete modern saying; no Ho-Chunk-language source, named speaker, or early ethnographic record located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1904,7 +1904,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The Winnebago attribution appears in late-twentieth-century witnesses, while other collections label it only a North American Indian saying or attribute it to Geronimo.
 -->
 
 ## [Holy Mother Earth]
@@ -1917,22 +1917,22 @@ Holy Mother Earth, the trees and all nature, are witnesses of your thoughts and 
 WR-ID: WR-W-065
 PAGE: 74
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: [Woe unto Them That Join House to House]
+STATUS: VERIFIED
+TITLE: Isaiah 5:8
 BOOKLET_AUTHOR: Isiah 5:8
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Book of Isaiah
+WORK_TYPE: Biblical verse
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: King James Version verse with one corrupted word.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: King James Version (1611)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet misspells "Isaiah" as "Isiah" and prints "placed also" where the King James Version reads "placed alone."
 -->
 
 ## [Woe unto Them That Join House to House]
