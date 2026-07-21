@@ -100,22 +100,22 @@ So rests the sky against the earth. The dark sill torn in the lap of the forest.
 WR-ID: WR-W-004
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is a Limit to the Number of Lands of Shoreline]
 BOOKLET_AUTHOR: Arthur Carhart
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Arthur Hawthorne Carhart
+WORK_TYPE: Memorandum Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Carhart's memorandum to Aldo Leopold following their December 1919 meeting.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Memorandum for Mr. Leopold, District 3 (December 1919)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The Arthur Carhart National Wilderness Training Center reproduces "lands of shoreline on the lakes," confirming that the odd phrase is not an OCR error in this booklet. The booklet changes plural "areas" to singular "area" and prints "on their lakes" where the comparison witness reads "on the lakes."
 -->
 
 ## [There Is a Limit to the Number of Lands of Shoreline]
@@ -128,22 +128,22 @@ There is a limit to the number of lands of shoreline on their lakes; there is a 
 WR-ID: WR-W-005
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Land Belongs to the Future]
 BOOKLET_AUTHOR: Willa Cather
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Willa Cather
+WORK_TYPE: Novel Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Alexandra Bergson's speech to Carl Linstrum near the end of O Pioneers!
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: O Pioneers! (1913), Part V, chapter 3
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet omits the speech's opening sentence, modernizes or alters punctuation, and misspells "and understand" as "an understand."
 -->
 
 ## [The Land Belongs to the Future]
@@ -156,22 +156,22 @@ The land belongs to the future... that's the way it seems to me. How many names 
 WR-ID: WR-W-006
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Beatus Vir
 BOOKLET_AUTHOR: Richard le Galliene, Beatus Vir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Richard Le Gallienne
 WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: First and fourth stanzas of the four-stanza poem "Beatus Vir."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Publication before or by inclusion in Our Holidays in Poetry (1929)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet omits the poem's middle two stanzas. The comparison text reads "well-beloved," uses a dash after "daughters," and has "moon-rise" rather than "moon." It also identifies the poet as Richard Le Gallienne; the booklet misspells his surname "Galliene."
 -->
 
 ## Beatus Vir
@@ -191,22 +191,22 @@ And O his sweet pillow in the ferny cavern!\
 WR-ID: WR-W-007
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Touch the Earth, Love the Earth]
 BOOKLET_AUTHOR: Henry Beston
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry Beston
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two clauses from a longer passage near the close of The Outermost House.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Outermost House: A Year of Life on the Great Beach of Cape Cod (1928), chapter 10
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source uses a comma, not the booklet's colon, after the repeated phrase "honor the earth." The quotation omits the surrounding sentences beginning "Hold your hands out over the earth" and "For the gifts of life are the earth's."
 -->
 
 ## [Touch the Earth, Love the Earth]

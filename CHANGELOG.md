@@ -1,5 +1,7 @@
 # Changelog
 
+- Completed Wilderness page 67 verification by tracing the final four entries to Carhart's 1919 memorandum, Cather's *O Pioneers!*, Le Gallienne's "Beatus Vir," and Beston's *The Outermost House*.
+
 ## Unreleased
 
 - Established the canonical manuscript and research directory structure.

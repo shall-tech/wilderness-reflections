@@ -2260,3 +2260,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete entry. The booklet corrupts "The dark still tarn" to "The dark sill torn," inserts "idle" before "ache," adds "and" before "sky," and alters closing punctuation.
 - Evidence: [Dag Hammarskjöld Foundation reader's guide with complete entry and context](https://www.daghammarskjold.se/wp-content/uploads/2014/08/rg_to_waymarks.pdf), [translation and date locator](https://www.quotegarden.com/sky.html), and [independent comparison text](https://www.azquotes.com/author/6178-Dag_Hammarskjold/tag/waiting).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 67, entries 4-7
+
+### WR-W-004 - [There Is a Limit to the Number of Lands of Shoreline]
+
+- Verified author and source: Arthur Hawthorne Carhart, memorandum for Aldo Leopold following their December 1919 meeting.
+- Relationship: Excerpt from Carhart's early argument for preserving finite scenic resources. The official Carhart Center transcription confirms the surprising phrase "lands of shoreline"; the booklet changes "on the lakes" to "on their lakes" and plural "mountainous areas" to singular.
+- Evidence: [Arthur Carhart National Wilderness Training Center historical profile and memorandum excerpt](https://carhart.wilderness.net/information/about-us/who-is-arthur-carhart.php), [National Park Service historical brochure](https://npshistory.com/publications/wilderness/arthur-carhart-nwtc-v2.pdf), and [Colorado State Library historical overview](https://www.coloradovirtuallibrary.org/resource-sharing/state-pubs-blog/arthur-carhart-and-the-wilderness-movement/).
+- Confidence: High.
+
+### WR-W-005 - [The Land Belongs to the Future]
+
+- Verified author and source: Willa Cather, *O Pioneers!* (1913), Part V, chapter 3.
+- Relationship: Most of Alexandra Bergson's speech to Carl Linstrum near the novel's end. The booklet omits the opening sentence, alters punctuation, and misspells "and understand" as "an understand."
+- Evidence: [Project Gutenberg complete novel](https://www.gutenberg.org/files/24/24-h/24-h.htm), [National Willa Cather Center source confirmation](https://www.willacather.org/news/willa-cather-fine-books-collections), and [independent quotation and narrative-context witness](https://eastfoundation.net/media/bfzkrwgv/newsletter-may-2023_web.pdf).
+- Confidence: High.
+
+### WR-W-006 - Beatus Vir
+
+- Verified author and work: Richard Le Gallienne, "Beatus Vir."
+- Relationship: The booklet combines the first and fourth stanzas of a four-stanza poem, omitting the middle two. The comparison text has "well-beloved," a dash after "daughters," and "moon-rise" rather than "moon"; the booklet also misspells Le Gallienne's surname.
+- Evidence: [1929 anthology scan with poem on page 149](https://upload.wikimedia.org/wikipedia/commons/3/3d/Mildred_P._Harrington_and_Josephine_H._Thomas_-_Our_Holidays_in_Poetry.pdf), [complete comparison text](https://www.poetryexplorer.net/poem26.php?pid=10080287), and [WorldCat record for the 1929 anthology](https://search.worldcat.org/title/1050268726).
+- Confidence: High.
+
+### WR-W-007 - [Touch the Earth, Love the Earth]
+
+- Verified author and source: Henry Beston, chapter 10 of *The Outermost House: A Year of Life on the Great Beach of Cape Cod* (1928).
+- Relationship: Two clauses selected from a longer closing passage. The source uses a comma rather than the booklet's colon after "honor the earth" and surrounds the selection with sentences beginning "Hold your hands out over the earth" and "For the gifts of life are the earth's."
+- Evidence: [Project Gutenberg complete first-edition text](https://www.gutenberg.org/cache/epub/73328/pg73328-images.html), [1949 review quoting the longer passage and naming the source](https://www.manasjournal.org/pdf_library/VolumeII_1949/II-26.pdf), and [later book-page locator for the complete passage](https://www.azquotes.com/quote/938050).
+- Confidence: High.
