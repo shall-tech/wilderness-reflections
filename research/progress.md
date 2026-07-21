@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Wilderness source verification is complete through WR-W-094 on original page 78. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-095 on original page 79; original page 80 is an intentionally omitted blank. All six thematic sections are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-095, "The Call of the Wild," on original page 79.
+- Next step: manuscript-wide metadata, evidence-link, wording-note, and unresolved-question audit.
 
 ## Source
 

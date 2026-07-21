@@ -2902,3 +2902,16 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Independent civic-document transmission confirms the complete wording but not the original report or date.
 - Evidence: [Complete attributed civic-document comparison](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf).
 - Confidence: Medium.
+
+## 2026-07-20 - Wilderness pages 79-80
+
+### WR-W-095 - The Call of the Wild
+
+- Verified author and work: Robert W. Service, *Songs of a Sourdough* (1907), later issued as *The Spell of the Yukon and Other Verses*.
+- Relationship: Complete poem with extensive printed corruption. Examples include "grazed" for "gazed," "noting" for "nothing," "binding" for "blinding," "something" for "a something," "bit of ragtime" for "bits of rag-time," plural "mesas" for "mesa," "shame out" for "shame our," "harken" for "hearken," "just for doing" for "just for the doing," and "The listen" for "Then listen."
+- Evidence: [Complete textual comparison](https://www.poetryexplorer.net/poem26.php?pid=10030829), [collection context and contents](https://www.theotherpages.org/poems/yukon.html), and [Google Books collection record](https://books.google.com.fj/books?id=kNMOJRZdygYC).
+- Confidence: High.
+
+### Original page 80
+
+- Verified as an intentionally blank reverse leaf inferred from booklet pagination; no separate scan was supplied because blank pages were omitted during scanning.

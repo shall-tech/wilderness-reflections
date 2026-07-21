@@ -2828,22 +2828,22 @@ Parks are at the center of a community's character; they reflect and strengthen 
 WR-ID: WR-W-095
 PAGE: 79
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Call of the Wild
 BOOKLET_AUTHOR: Robert Service
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert W. Service
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with numerous corrupted words, omitted articles, and punctuation and capitalization changes.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Songs of a Sourdough (1907; later titled The Spell of the Yukon and Other Verses)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Calling
-NOTES: None
+NOTES: Booklet corruptions include "grazed" for "gazed," "noting" for "nothing," "binding" for "blinding," "something" for "a something," "bit of ragtime" for "bits of rag-time," plural "mesas" for "mesa," "shame out" for "shame our," "harken" for "hearken," "just for doing" for "just for the doing," and "The listen" for "Then listen."
 -->
 
 ## The Call of the Wild
