@@ -2653,22 +2653,22 @@ This is primal union.
 WR-ID: WR-KW-092
 PAGE: 43
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Since Water Still Flows]
 BOOKLET_AUTHOR: Li Po
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Li Bai (Li Po); translated by Witter Bynner and Kiang Kang-hu
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing four lines of "A Farewell to Secretary Shu-yun at the Hsieh T'iao Villa in Hsuan-Chou."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: English translation in The Jade Mountain (1929); original poem from the Tang dynasty.
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sorrow
 - Freedom
-NOTES: None
+NOTES: The booklet omits the poem title and translators, changes the source's plural "sorrows" to "sorrow," and prints "fishing boat" without the source's hyphen.
 -->
 
 ## [Since Water Still Flows]
@@ -2684,13 +2684,13 @@ I will loosen my hair tomorrow and take to a fishing boat.
 WR-ID: WR-KW-093
 PAGE: 43
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Men Go Back to the Mountains]
 BOOKLET_AUTHOR: Abram T. Collier
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Abram T. Collier (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: A matching later collection attributes the complete passage to Collier, but no original work or publication record was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2699,7 +2699,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Mountains
 - Character
-NOTES: None
+NOTES: The wording and attribution recur together in a Philmont-related quotation collection, but that witness supplies no title, date, or bibliographic source.
 -->
 
 ## [Men Go Back to the Mountains]

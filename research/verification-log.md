@@ -1573,3 +1573,19 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Middle seven lines of the same chapter whose closing four lines appear as WR-KW-082. The booklet splits the passage across pages, labels this portion unknown, and omits the translators from both entries.
 - Evidence: [Chapter text with translator credit](https://www.wussu.com/laotzu/laotzu56.html) and [independent edition citation](https://realization.org/down/mountain-path/59-3.2022-jul.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 43, entries 4-5
+
+### WR-KW-092 - [Since Water Still Flows]
+
+- Verified author, translators, and source: Li Bai (Li Po), "A Farewell to Secretary Shu-yun at the Hsieh T'iao Villa in Hsuan-Chou," translated by Witter Bynner and Kiang Kang-hu in *The Jade Mountain* (1929).
+- Relationship: Closing four lines. The booklet omits the title and translators, changes the source's plural "sorrows" to "sorrow," and removes the hyphen from "fishing-boat."
+- Evidence: [Full poem comparison](https://americanliterature.com/author/li-bai/poem/farewell-to-secretary-shu-yun-at-the-hsieh-tiao-villa-in-hsuan-chou), [translation credit and exact stanza](https://leonarddurso.com/tag/li-po/), and [edition contents and translator record](https://www.lehmanns.ch/shop/literatur/87229189-9781965684467-selected-poems-of-li-po-warbler-classics-annotated-edition).
+- Confidence: High.
+
+### WR-KW-093 - [Men Go Back to the Mountains]
+
+- Booklet attribution: Abram T. Collier.
+- Finding: A matching later collection repeats the complete passage with the same attribution, but no original essay, book, periodical, date, or page reference was located.
+- Evidence: [Matching quotation collection](https://naturally244.rssing.com/chan-16127603/all_p1.html).
+- Confidence: Low.
