@@ -1589,3 +1589,33 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: A matching later collection repeats the complete passage with the same attribution, but no original essay, book, periodical, date, or page reference was located.
 - Evidence: [Matching quotation collection](https://naturally244.rssing.com/chan-16127603/all_p1.html).
 - Confidence: Low.
+
+## 2026-07-20 - Knowledge and Wisdom page 44, entries 1-4
+
+### WR-KW-094 - [A Land Ethic for Tomorrow]
+
+- Verified author and source: Stewart L. Udall, chapter 14, "Notes on a Land Ethic for Tomorrow," in *The Quiet Crisis* (1963).
+- Relationship: Continuous passage. The booklet prints "policy makes" for "policy makers" and omits quotation marks around "progress."
+- Evidence: [Book contents and edition description](https://www.perlego.com/book/5392011/the-quiet-crisis-pdf), [edition-linked quotation record](https://www.azquotes.com/quote/604172), and [biographical quotation with book citation](https://scudder.org/wp-content/uploads/2024/05/Stewart-Lee-Udalls-Life-Sketch-Part-I.pdf).
+- Confidence: High.
+
+### WR-KW-095 - [Difficulties and Obstructions]
+
+- Verified source and translation: Commentary on the Image of hexagram 39, Chien / Obstruction, in the Wilhelm-Baynes *I Ching*; Richard Wilhelm translated the work into German and Cary F. Baynes rendered it into English.
+- Relationship: Complete explanatory paragraph. The booklet credits only the ancient work and does not identify the passage as modern commentary or name its translators.
+- Evidence: [Scanned Wilhelm-Baynes translation](https://clovemedia.github.io/i_ching/I_Ching_Wilhelm_Baynes_Translation_Chrome.pdf) and [full translation witness](https://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
+- Confidence: High.
+
+### WR-KW-096 - [The Mountains Can Be Reached in All Seasons]
+
+- Corrected author and source: William O. Douglas, *Of Men and Mountains* (1950), page 326.
+- Relationship: Extended passage. The booklet misspells Douglas as "Douglass" and omits "help" before "keep alive."
+- Evidence: [Scholarly quotation with page citation](https://journals.librarypublishing.arizona.edu/arizlrev/article/9349/galley/8548/download/), [U.S. Forest Service attribution to the book](https://www.fs.usda.gov/media/39912), and [extended comparison witness](https://williamodouglastrail.org/WTA_Article.pdf).
+- Confidence: High.
+
+### WR-KW-097 - [The Concept of Public Welfare]
+
+- Corrected author and source: Justice William O. Douglas for a unanimous U.S. Supreme Court, *Berman v. Parker*, 348 U.S. 26, 33 (1954).
+- Relationship: Excerpt from the Court's opinion. The booklet misspells Douglas as "Douglass," omits "well-balanced as well as carefully patrolled" after "clean," and uses an ellipsis for intervening context.
+- Evidence: [Official U.S. Reports opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep348/usrep348026/usrep348026.pdf) and [legal-context confirmation](https://www.floridalawreview.com/article/79122-new-attitudes-about-legal-protection-for-the-remains-of-florida-s-natural-environment.pdf).
+- Confidence: High.

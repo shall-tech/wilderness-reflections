@@ -2714,22 +2714,22 @@ Men go back to the mountains, as they go back to sailing ships at sea, because i
 WR-ID: WR-KW-094
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Land Ethic for Tomorrow]
 BOOKLET_AUTHOR: Stewart L. Udall
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Stewart L. Udall
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from chapter 14, "Notes on a Land Ethic for Tomorrow," of The Quiet Crisis.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Quiet Crisis (1963)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Land ethic
 - Ecology
-NOTES: None
+NOTES: The booklet prints "policy makes" for the source's "policy makers" and omits quotation marks around "progress."
 -->
 
 ## [A Land Ethic for Tomorrow]
@@ -2742,22 +2742,22 @@ A land ethic for tomorrow should be as honest as Thoreau's Walden, and as compre
 WR-ID: WR-KW-095
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Difficulties and Obstructions]
 BOOKLET_AUTHOR: from I Ching
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: I Ching; translated into German by Richard Wilhelm and into English by Cary F. Baynes
+WORK_TYPE: Commentary Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Commentary on the Image of hexagram 39, Chien / Obstruction, in the Wilhelm-Baynes translation.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: English translation published as The I Ching or Book of Changes (1950)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Difficulty
 - Introspection
-NOTES: None
+NOTES: The booklet identifies the ancient work but omits the translators and does not distinguish the passage as modern explanatory commentary.
 -->
 
 ## [Difficulties and Obstructions]
@@ -2770,22 +2770,22 @@ Difficulties and obstructions throw a man back upon himself. While the inferior 
 WR-ID: WR-KW-096
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Mountains Can Be Reached in All Seasons]
 BOOKLET_AUTHOR: William O. Douglass
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William O. Douglas
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Of Men and Mountains, page 326.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Of Men and Mountains (1950)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Mountains
 - Adventure
-NOTES: None
+NOTES: The booklet misspells Douglas as "Douglass" and omits "help" before "keep alive"; later reprints corroborate the remaining passage.
 -->
 
 ## [The Mountains Can Be Reached in All Seasons]
@@ -2798,22 +2798,22 @@ The mountains can be reached in all seasons. They offer a fighting challenge to 
 WR-ID: WR-KW-097
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Concept of Public Welfare]
 BOOKLET_AUTHOR: William O. Douglass
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William O. Douglas, writing for a unanimous U.S. Supreme Court
+WORK_TYPE: Judicial Opinion Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Berman v. Parker, 348 U.S. 26, 33 (1954).
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: U.S. Reports, volume 348 (1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Public welfare
 - Beauty
-NOTES: None
+NOTES: The booklet misspells Douglas as "Douglass," omits "well-balanced as well as carefully patrolled" after "clean," and substitutes an ellipsis for intervening source context.
 -->
 
 ## [The Concept of Public Welfare]

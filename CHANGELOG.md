@@ -108,3 +108,4 @@
 - Completed Knowledge and Wisdom page 42 by locating both Olson passages in *Reflections from the North Country* and documenting the booklet's "Olsen" and "matte" errors.
 - Began Knowledge and Wisdom page 43 with Olson's "Great Silences," Gibran's heavily altered friendship chapter, and the restored source of an unattributed Tao Te Ching passage.
 - Completed Knowledge and Wisdom page 43 by identifying Li Bai's poem and translators while documenting the absence of an original publication source for the Abram T. Collier passage.
+- Began Knowledge and Wisdom page 44 with sources for Udall, the Wilhelm-Baynes I Ching, Douglas's mountain memoir, and the Supreme Court's Berman opinion.
