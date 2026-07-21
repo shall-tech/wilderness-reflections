@@ -124,3 +124,4 @@
 - Began Beauty page 57 with Gannett's altered hymn, Emerson's journal passage, and an unresolved Tosco attribution.
 - Completed Beauty page 57 by locating Morton's sonnet and Longfellow's *Evangeline* excerpt and correcting a Longfellow misattribution to Wordsworth.
 - Began Beauty page 58 with Frost's complete poem, the Night Chant origin of a shortened Diné prayer, and Carson's joined *Sense of Wonder* passages.
+- Completed Beauty page 58 by tracing the anonymous Watkins-Pitchford epigraph tradition to a 1927 memorial and locating Alcott's shortened *Work* passage.

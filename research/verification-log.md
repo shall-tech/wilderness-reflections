@@ -1936,3 +1936,19 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Joined selections. The booklet prints "the ebb and the flow" for "the ebb and flow," omits "the" before "winter," and changes plural "scientists" to singular "scientist."
 - Evidence: [Sourced *Sense of Wonder* passage collection](https://libquotes.com/rachel-carson/works/the-sense-of-wonder), [National Park Service witness for the closing paragraph](https://www.nps.gov/features/wilderness/interactivewebfeature/files/), and [EPA attribution of the first and healing passages to the book](https://archive.epa.gov/publicinvolvement/web/html/rachelcarsonsenseofwonder_article.html).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 58, entries 4-5
+
+### WR-B-020 - [The Wonder of the World]
+
+- Restored provenance: an anonymous memorial inscription later popularized as a book epigraph by naturalist Denys Watkins-Pitchford ("BB"). Watkins-Pitchford reportedly said his father copied it from a northern tombstone; the exact wording appears on the Alexander Morton Memorial erected in Darvel, Scotland, in 1927.
+- Relationship: The inscription closely adapts Robert Browning's "Fra Lippo Lippi" lines about "the beauty and the wonder and the power" and "shapes of things, their colours, lights and shades." The booklet Americanizes "colours" and prints singular "shade."
+- Evidence: [Detailed inscription and Browning comparison](https://off-at-a-tangent.blogspot.com/2007/08/look-ye-also-at-wonder-of-world.html), [Nature in Art provenance summary](https://natureinart.org.uk/event/linda-heaton-harris-sculpture-2/), and [National Park Service comparison witness](https://www.nps.gov/yell/learn/upload/YS_10_4_sm.pdf).
+- Confidence: Medium because the inscription's individual author remains unknown.
+
+### WR-B-021 - [Far Away There]
+
+- Verified author and source: Louisa May Alcott, Christie's speech in chapter 12 of *Work: A Story of Experience* (1873).
+- Relationship: Shortened prose excerpt arranged as verse. The source reads "I cannot reach them" rather than "I may not reach them" and continues with an image of frost and white flowers omitted by the booklet.
+- Evidence: [Project Gutenberg complete novel and surrounding passage](https://www.gutenberg.org/files/4770/4770-h/4770-h.htm), [chapter-level comparison text](https://www.online-literature.com/alcott/work/12/), and [sourced work locator](https://libquotes.com/louisa-may-alcott/quote/lbb0f1p).
+- Confidence: High.

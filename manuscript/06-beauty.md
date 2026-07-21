@@ -647,22 +647,22 @@ The lasting pleasures of contact with the natural world are not reserved for sci
 WR-ID: WR-B-020
 PAGE: 58
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Wonder of the World]
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Anonymous memorial inscription later popularized as an epigraph by Denys Watkins-Pitchford ("BB"); its wording closely adapts lines from Browning's "Fra Lippo Lippi."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Inscribed on the Alexander Morton Memorial, Darvel, Scotland (erected 1927); later used by Watkins-Pitchford
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wonder
 - Life
-NOTES: None
+NOTES: The booklet leaves the text anonymous. It is often attributed to Denys Watkins-Pitchford, who said the words were copied from a northern tombstone. A 1927 Scottish memorial bears the exact wording, which closely resembles lines in Robert Browning's "Fra Lippo Lippi." The booklet Americanizes "colours" and prints singular "shade" for "shades."
 -->
 
 ## [The Wonder of the World]
@@ -675,22 +675,22 @@ The wonder of the world, the beauty and the power, the shapes of things, their c
 WR-ID: WR-B-021
 PAGE: 58
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Far Away There]
 BOOKLET_AUTHOR: Louisa May Alcott
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Louisa May Alcott
+WORK_TYPE: Novel Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Shortened speech by Christie in chapter 12 of Work: A Story of Experience.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Work: A Story of Experience (1873)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Aspiration
 - Beauty
-NOTES: None
+NOTES: The source reads "I cannot reach them" rather than "I may not reach them," uses different punctuation, and continues with an image of frost and white flowers that the booklet omits.
 -->
 
 ## [Far Away There]
