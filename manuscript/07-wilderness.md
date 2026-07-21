@@ -2431,22 +2431,22 @@ in the mountains
 WR-ID: WR-W-082
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Into My Own
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Boy's Will (1913)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet substitutes a spaced hyphen for the em dash before the final line; wording otherwise matches the collected poem.
 -->
 
 ## Into My Own
@@ -2472,22 +2472,22 @@ Only more sure of all I thought was true.
 WR-ID: WR-W-083
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [It Was Kind of Solemn]
 BOOKLET_AUTHOR: Mark Twain, from Adventures of Huckleberry Finn
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Mark Twain (Samuel L. Clemens)
+WORK_TYPE: Novel excerpt
+EXCERPT: Yes
+RELATIONSHIP: Shortened and normalized sentence from chapter 12.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Adventures of Huckleberry Finn (1884), chapter 12
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Twain reads "we didn't ever feel like talking loud" and continues with their infrequent low laughter and uneventful good weather. The booklet substitutes "we didn't even feel like talking aloud" and stops early.
 -->
 
 ## [It Was Kind of Solemn]
@@ -2500,22 +2500,22 @@ It was kind of solemn, drifting down the big, still river, laying on our backs, 
 WR-ID: WR-W-084
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Conceive That the Land Belongs]
 BOOKLET_AUTHOR: Nigerian Chieftan
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unidentified Yoruba chief (reported testimony)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Traditional land-tenure principle reported from testimony before the West African Lands Committee; speaker identity unresolved.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Reported by the 1930s; exact hearing and date unresolved
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Modern scholarship variously calls the speaker a Yoruba chief, Nigerian chief, Nigerian herdsman, or Nigerian farmer. The booklet misspells "chieftain" as "Chieftan."
 -->
 
 ## [I Conceive That the Land Belongs]
@@ -2528,22 +2528,22 @@ I conceive that the land belongs to a vast family of which many are dead, few ar
 WR-ID: WR-W-085
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [This Is About a Stretch of Mountain Country]
 BOOKLET_AUTHOR: Dave Caffey, from Head for the High Country
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: David L. Caffey
+WORK_TYPE: Memoir excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed passages from Caffey's Philmont memoir.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Head for the High Country: Living the Philmont Adventure (1973)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: An independent Philmont compilation reproduces the central wording and uses "self--dependence." A complete paginated copy was unavailable for direct comparison.
 -->
 
 ## [This Is About a Stretch of Mountain Country]
@@ -2556,22 +2556,22 @@ This is about a stretch of mountain country that started out as just a place. It
 WR-ID: WR-W-086
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [To Us the Ashes of Our Ancestors Are Sacred]
 BOOKLET_AUTHOR: Chief Seattle, upon surrendering his land
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry A. Smith (1887 reconstruction attributed to Chief Seattle)
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
+EXCERPT: Yes
+RELATIONSHIP: Sentence in Smith's disputed reconstruction of an 1854 speech; not documented as Seattle's verbatim words.
+SOURCE_VERIFIED: Yes
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Seattle Sunday Star (October 29, 1887)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Smith published his reconstruction thirty-three years after the alleged speech, did not speak Lushootseed, and no contemporary transcript or treaty record corroborates it. The booklet's "upon surrendering his land" oversimplifies the setting.
 -->
 
 ## [To Us the Ashes of Our Ancestors Are Sacred]
@@ -2584,22 +2584,22 @@ To us the ashes of our ancestors are sacred and their resting place is hallowed 
 WR-ID: WR-W-087
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is No Quiet Place in White Man's Cities]
 BOOKLET_AUTHOR: Chief Seattle
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ted Perry
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Lines from Perry's modern screenplay, subsequently misrepresented as Chief Seattle's words.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Home (television film, 1972; script written 1971)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Perry reads "the white man's cities," "in spring," and singular possessive "an insect's wings." The booklet omits "the," adds "the" before spring, and prints ungrammatical "an insects wings."
 -->
 
 ## [There Is No Quiet Place in White Man's Cities]
@@ -2612,13 +2612,13 @@ There is no quiet place in white man's cities. No place to hear the unfurling of
 WR-ID: WR-W-088
 PAGE: 77
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Land, the Earth God Gave to Man]
 BOOKLET_AUTHOR: Abraham Lincoln
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Abraham Lincoln (disputed attribution)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Shortened form of a statement first documented long after Lincoln's death; no contemporary Lincoln manuscript, speech, or newspaper record located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2627,7 +2627,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: A 1934 land-reform journal printed a longer version while publishing a reader's challenge to produce proof of authenticity. The fuller text includes "sustenance and support," "or unfriendly government," and "if as much."
 -->
 
 ## [The Land, the Earth God Gave to Man]

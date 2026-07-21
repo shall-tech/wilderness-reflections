@@ -2810,3 +2810,54 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Adapted fragments. Axton sings "I feel that Colorado is a place we could be happy / In the mountains" and "Everybody talk about the place of their dreams," while the booklet removes Colorado and "Rocky" and changes several words.
 - Evidence: [Complete song comparison and album identification](https://ralstoncreekreview.com/2016/12/20/on-the-natural-hoyt-axton/) and [independent Philmont version](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
 - Confidence: Medium.
+
+## 2026-07-20 - Wilderness page 77
+
+### WR-W-082 - Into My Own
+
+- Verified author and work: Robert Frost, opening poem of *A Boy's Will* (1913).
+- Relationship: Complete poem; the booklet substitutes a spaced hyphen for the em dash before the final line.
+- Evidence: [Complete collected text](https://en.wikisource.org/wiki/Collected_Poems_of_Robert_Frost_%281930%29/Into_my_Own), [1915 Google Books edition](https://books.google.com/books/about/A_Boy_s_Will.html?id=wNg-AAAAIAAJ), and [complete early volume scan](https://web.english.upenn.edu/~cavitch/pdf-library/Frost_Boys_Will.pdf).
+- Confidence: High.
+
+### WR-W-083 - [It Was Kind of Solemn]
+
+- Verified author and work: Mark Twain, *Adventures of Huckleberry Finn* (1884), chapter 12.
+- Relationship: Shortened and normalized sentence. Twain reads "we didn't ever feel like talking loud" and continues with low laughter and uneventful weather; the booklet substitutes "didn't even" and "aloud."
+- Evidence: [Chapter and complete contextual comparison](https://www.bonmots.com/quote-687234224) and [independent chapter study text](https://ng002.k12.sd.us/english12/Syllabus/Huck%20Finn%20Vocabulary.pdf).
+- Confidence: High.
+
+### WR-W-084 - [I Conceive That the Land Belongs]
+
+- Verified tradition, speaker unresolved: reported testimony of an unidentified Yoruba chief before the West African Lands Committee, expressing a customary land-tenure principle.
+- Relationship: Later sources variously call the speaker a Yoruba chief, Nigerian chief, herdsman, or farmer; the exact hearing and date remain unresolved.
+- Evidence: [Scholarly discussion identifying the Yoruba testimony](https://scispace.com/pdf/re-defining-stewardship-a-nigerian-perspective-on-2wv9djk3vg.pdf), [1960 parliamentary quotation](https://parliament.gov.gy/new2/documents/hansards/parliamentary_debates_19th_may_1960_1.pdf), and [Nigerian legal discussion](https://repository.lcu.edu.ng/server/api/core/bitstreams/592122b6-3cb9-44ba-9c7b-6e3385535a36/content).
+- Confidence: Medium.
+
+### WR-W-085 - [This Is About a Stretch of Mountain Country]
+
+- Verified author and work: David L. Caffey, *Head for the High Country: Living the Philmont Adventure* (1973).
+- Relationship: Condensed memoir passages; an independent Philmont compilation reproduces the central wording and uses "self--dependence."
+- Evidence: [Independent Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html), [publication-year and author record](https://www.melrosetroop68.org/blog/?p=2364), and [publisher/ISBN record](https://www.allbookstores.com/Head-High-Country-David-Caffey/9780687167302).
+- Confidence: Medium.
+
+### WR-W-086 - [To Us the Ashes of Our Ancestors Are Sacred]
+
+- Attribution unresolved: sentence in Henry A. Smith's 1887 reconstruction of a speech allegedly delivered by Chief Seattle in 1854.
+- Relationship: Smith published thirty-three years later, did not speak Lushootseed, and no contemporary transcript or treaty record corroborates the speech.
+- Evidence: [HistoryLink reconstruction and textual history](https://www.historylink.org/File/1427), [tribally hosted discussion of the authenticity problem](https://www.chiefseattle.com/history/chiefseattle/speech/speech.htm), and [National Archives investigation](https://www.archives.gov/publications/prologue/1985/spring/chief-seattle.html).
+- Confidence: Low.
+
+### WR-W-087 - [There Is No Quiet Place in White Man's Cities]
+
+- Verified writer and source: Ted Perry's screenplay for the television film *Home* (written 1971, broadcast 1972), later misrepresented as Chief Seattle's words.
+- Relationship: Perry reads "the white man's cities," "in spring," and "an insect's wings"; the booklet changes each phrase.
+- Evidence: [Ted Perry script text](https://www-formal.stanford.edu/jmc/progress/fake2.html), [source identification with complete comparison](https://www.allgreatquotes.com/no-quiet-place-in-the-white-mans-cities/), and [scholarly transmission analysis](https://www.humanecologyreview.org/pastissues/her71/71abruzzi.pdf).
+- Confidence: High.
+
+### WR-W-088 - [The Land, the Earth God Gave to Man]
+
+- Attribution unresolved: no contemporary Lincoln manuscript, speech, or newspaper record was located.
+- Relationship: The booklet shortens a longer statement first documented long after Lincoln's death. A 1934 land-reform journal printed it while also publishing a reader's challenge to prove its authenticity.
+- Evidence: [1934 scan explicitly questioning authenticity](https://upload.wikimedia.org/wikipedia/commons/f/fb/Abraham_Lincoln_quotations_%26_sayings._Spurious_%28IA_abrahamlincolnqulinc_32%29.pdf) and [modern complete attributed comparison](https://www.prosper.org.au/geoists-in-history/abraham-lincoln/).
+- Confidence: Low.
