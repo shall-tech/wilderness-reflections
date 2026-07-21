@@ -1975,3 +1975,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete journal sentence. The source reads plural "movements of water," capitalizes "Beauty," and ends with an exclamation point; the booklet alters each feature.
 - Evidence: [Dated book and page locator with comparison text](https://libquotes.com/john-muir/quote/lbs7d8s) and [independent full-text witness](https://quotes.schollz.com/subject/movements).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 59, entries 4-6
+
+### WR-B-025 - [Thank God, They Cannot Cut Down the Clouds]
+
+- Verified author and source: Henry David Thoreau, a journal sentence written amid remarks on local woodcutting and quoted by Ralph Waldo Emerson in his eulogy "Thoreau" in *The Atlantic Monthly* (August 1862).
+- Relationship: Complete sentence. The early printed source has no comma after "God" and ends with an exclamation point; the booklet inserts a comma and substitutes a period.
+- Evidence: [The Atlantic's 1862 Emerson eulogy and quotation](https://www.theatlantic.com/magazine/archive/1862/08/thoreau/306418/), [early collected Emerson text](https://upload.wikimedia.org/wikipedia/commons/8/86/The_conduct_of_life%2C_Nature%2C_%26_other_essays_%28IA_conductoflifenat00emeriala%29.pdf), and [scholarly discussion locating the remark in Thoreau's journal](https://ejournals.eu/pliki_artykulu_czasopisma/pelny_tekst/cac78de0-7f0b-42f1-b12e-faac16682b09/pobierz).
+- Confidence: High.
+
+### WR-B-026 - [The Sun Does Not Shine for a Few Trees and Flowers]
+
+- Verified author and source: Henry Ward Beecher, *Life Thoughts: Gathered from the Extemporaneous Discourses of Henry Ward Beecher* (1858).
+- Relationship: Opening sentence of a longer sermon passage comparing the sun's availability to God's universal fatherhood. The booklet wording matches the collected sentence.
+- Evidence: [Work and edition locator](https://libquotes.com/henry-ward-beecher/quote/lbq0t0a), [nineteenth-century anthology scan with surrounding passage](https://upload.wikimedia.org/wikipedia/commons/5/5f/The_American_pulpit.._%28IA_americanpulpit00fowl%29.pdf), and [contemporary 1858 review of *Life Thoughts*](https://www.bookrags.com/ebooks/12374/84.html?mode=print).
+- Confidence: High.
+
+### WR-B-027 - [Nature Is Painting for Us]
+
+- Corrected author: John Ruskin; the booklet attributes the aphorism to James Russell Lowell.
+- Relationship: Complete common form of the aphorism. Some Ruskin witnesses append "if only we have the eyes to see them." An exact originating work was not located.
+- Evidence: [National Park Service attribution to Ruskin](https://www.nps.gov/subjects/nnlandmarks/upload/FY2019-LH-report_Final.pdf), [Hampshire Cultural Trust's longer form and Ruskin attribution](https://www.hampshireculture.org.uk/event/infinite-beauty), and [independent quotation witness](https://www.azquotes.com/quote/520410).
+- Confidence: Medium.

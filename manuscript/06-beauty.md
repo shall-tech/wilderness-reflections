@@ -802,22 +802,22 @@ No synonym for God is so perfect as beauty. Whether as seen carving the lines of
 WR-ID: WR-B-025
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Thank God, They Cannot Cut Down the Clouds]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Sentence from Thoreau's journal, written amid remarks on local woodcutting; quoted by Emerson in his 1862 eulogy "Thoreau."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ralph Waldo Emerson, "Thoreau," The Atlantic Monthly (August 1862)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Clouds
 - Conservation
-NOTES: None
+NOTES: The early printed source has no comma after "God" and ends with an exclamation point; the booklet inserts the comma and substitutes a period.
 -->
 
 ## [Thank God, They Cannot Cut Down the Clouds]
@@ -830,22 +830,22 @@ Thank God, they cannot cut down the clouds.
 WR-ID: WR-B-026
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Sun Does Not Shine for a Few Trees and Flowers]
 BOOKLET_AUTHOR: Henry Ward Beecher
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry Ward Beecher
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Opening sentence of a longer sermon passage collected in Life Thoughts.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Life Thoughts: Gathered from the Extemporaneous Discourses of Henry Ward Beecher (1858)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sunlight
 - Joy
-NOTES: None
+NOTES: The booklet wording matches the collected opening sentence; the source continues with a pine, violet, grain fields, and God's light for all life.
 -->
 
 ## [The Sun Does Not Shine for a Few Trees and Flowers]
@@ -858,22 +858,22 @@ The sun does not shine for a few trees and flowers, but for the wide world's joy
 WR-ID: WR-B-027
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nature Is Painting for Us]
 BOOKLET_AUTHOR: James Russell Lowell
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Ruskin
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Aphorism consistently attributed to John Ruskin; exact originating work not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Exact originating work not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet misattributes the quotation to James Russell Lowell. Some Ruskin witnesses append "if only we have the eyes to see them."
 -->
 
 ## [Nature Is Painting for Us]

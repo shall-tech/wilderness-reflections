@@ -126,3 +126,4 @@
 - Began Beauty page 58 with Frost's complete poem, the Night Chant origin of a shortened Diné prayer, and Carson's joined *Sense of Wonder* passages.
 - Completed Beauty page 58 by tracing the anonymous Watkins-Pitchford epigraph tradition to a 1927 memorial and locating Alcott's shortened *Work* passage.
 - Began Beauty page 59 with Snyder's publication history, Eiseley's *The Mind as Nature* passage, and Muir's dated journal entry.
+- Continued Beauty page 59 with Thoreau's journal sentence, Beecher's sermon context, and correction of the Lowell attribution to John Ruskin.

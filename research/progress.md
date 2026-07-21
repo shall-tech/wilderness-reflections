@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-024 on original page 59; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-027 on original page 59; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-025, "Thank God, They Cannot Cut Down the Clouds," on original page 59.
+- Next entry: WR-B-028, "Riverbanks Lined with Green Trees," on original page 59.
 
 ## Source
 
