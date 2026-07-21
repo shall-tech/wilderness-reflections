@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-016 on original page 57; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-019 on original page 58; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-017, "Nothing Gold Can Stay," on original page 58.
+- Next entry: WR-B-020, "The Wonder of the World," on original page 58.
 
 ## Source
 

@@ -542,22 +542,22 @@ Now the sun is rising calm and bright. The birds are singing... The sky rejoices
 WR-ID: WR-B-017
 PAGE: 58
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Nothing Gold Can Stay
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem, "Nothing Gold Can Stay."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: New Hampshire: A Poem with Notes and Grace Notes (1923)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Transience
-NOTES: None
+NOTES: The booklet wording matches the published poem; it omits the period after the first line.
 -->
 
 ## Nothing Gold Can Stay
@@ -577,22 +577,22 @@ Nothing gold can stay.
 WR-ID: WR-B-018
 PAGE: 58
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
-TITLE: [May I Walk]
+STATUS: VERIFIED
+TITLE: [With Beauty Before Me, May I Walk]
 BOOKLET_AUTHOR: Navajo Indians
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Traditional Diné prayer; English version adapted from Washington Matthews's translation
+WORK_TYPE: Prayer Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Modern shortened arrangement of lines from a prayer in the second day of the Navajo Night Chant.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Matthews translation published in The Night Chant (1902)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Walking
-NOTES: None
+NOTES: The booklet's short arrangement is independently attested by 1987. Matthews's fuller translation includes "In old age wandering on a trail of beauty" and a second "living again" line; modern versions vary in line order and wording. "Diné" is preferred to the booklet's broad "Navajo Indians."
 -->
 
 ## [May I Walk]
@@ -617,22 +617,22 @@ Lively, I walk.
 WR-ID: WR-B-019
 PAGE: 58
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Those Who Contemplate the Beauty of the Earth]
 BOOKLET_AUTHOR: Rachel Carson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Rachel Carson
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Selected passages from The Sense of Wonder, first published as the magazine essay "Help Your Child to Wonder."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Help Your Child to Wonder," Woman's Home Companion (July 1956); posthumously as The Sense of Wonder (1965)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Strength
-NOTES: None
+NOTES: The booklet joins selected passages. Comparison text reads "the ebb and flow," "spring after the winter," and plural "scientists"; the booklet prints "the ebb and the flow," omits "the," and uses singular "scientist."
 -->
 
 ## [Those Who Contemplate the Beauty of the Earth]

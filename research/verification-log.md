@@ -1913,3 +1913,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Composite of four clauses extracted from the first two stanzas, reordered and presented as prose with ellipses.
 - Evidence: [Complete comparison text](https://www.poetryexplorer.net/poem26.php?pid=10032939), [publication-history locator](https://www.poetryloverspage.com/poets/wordsworth/collections/poems_in_two_volumes.html), and [Philmont collection witness matching the booklet form](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars2.html).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 58, entries 1-3
+
+### WR-B-017 - Nothing Gold Can Stay
+
+- Verified author and source: Robert Frost, "Nothing Gold Can Stay," from *New Hampshire: A Poem with Notes and Grace Notes* (1923).
+- Relationship: Complete eight-line poem. The booklet wording matches the published text but omits the period after the first line.
+- Evidence: [Poetry Foundation text and first-edition credit](https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679) and [Poetry Foundation textual discussion](https://www.poetryfoundation.org/articles/162097/robert-frosts-nothing-gold-can-stay).
+- Confidence: High.
+
+### WR-B-018 - [May I Walk]
+
+- Restored tradition and transmission: a traditional Diné prayer from the second day of the Navajo Night Chant, represented here in a modern shortened arrangement of Washington Matthews's English translation.
+- Relationship: Selected and rearranged lines. Matthews's fuller text includes "In old age wandering on a trail of beauty" and a second "living again" line; modern versions vary in order and wording. The booklet's compact form is independently documented by 1987.
+- Evidence: [Scholarly text identifying the Night Chant location and Matthews translation](https://bpb-us-e2.wpmucdn.com/sites.up.edu/dist/d/10/files/2016/04/The-Sacredness-of-the-Ordinary-by-Fr-Tom-Hosinski-transcript.pdf), [1987 Cornell citation for the compact form](https://api.drum.lib.umd.edu/server/api/core/bitstreams/d038662d-6dae-493b-b5d1-ac70367c6e50/content), and [educational comparison witness](https://files.eric.ed.gov/fulltext/ED374992.pdf).
+- Confidence: High.
+
+### WR-B-019 - [Those Who Contemplate the Beauty of the Earth]
+
+- Verified author and source: Rachel Carson, selected passages from *The Sense of Wonder*, first published as "Help Your Child to Wonder" in *Woman's Home Companion* (July 1956) and issued posthumously as a book in 1965.
+- Relationship: Joined selections. The booklet prints "the ebb and the flow" for "the ebb and flow," omits "the" before "winter," and changes plural "scientists" to singular "scientist."
+- Evidence: [Sourced *Sense of Wonder* passage collection](https://libquotes.com/rachel-carson/works/the-sense-of-wonder), [National Park Service witness for the closing paragraph](https://www.nps.gov/features/wilderness/interactivewebfeature/files/), and [EPA attribution of the first and healing passages to the book](https://archive.epa.gov/publicinvolvement/web/html/rachelcarsonsenseofwonder_article.html).
+- Confidence: High.
