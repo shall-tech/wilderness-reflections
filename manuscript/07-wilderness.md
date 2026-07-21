@@ -2238,22 +2238,22 @@ Without enough wilderness America will change. Democracy, with its myriad person
 WR-ID: WR-W-076
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Sand Dunes
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The New Republic (December 15, 1926); collected in West-Running Brook (1928)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet wording matches the collected poem; punctuation and lineation are preserved from the scan.
 -->
 
 ## Sand Dunes
@@ -2281,22 +2281,22 @@ For the one more cast off shell.
 WR-ID: WR-W-077
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is Just One Hope of Repulsing]
 BOOKLET_AUTHOR: Bob Marshall
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Marshall
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Closing call to action with two substantive booklet rewrites.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Problem of the Wilderness," The Scientific Monthly 30, no. 2 (February 1930)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Marshall reads "conquer every niche" rather than "every inch" and "fight for the freedom of the wilderness" rather than "freedom and preservation of wilderness."
 -->
 
 ## [There Is Just One Hope of Repulsing]
@@ -2309,22 +2309,22 @@ There is just one hope of repulsing the tyrannical ambition of civilization to c
 WR-ID: WR-W-078
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Thousand Fantasies Begin to Throng]
 BOOKLET_AUTHOR: John Milton
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Milton
+WORK_TYPE: Dramatic poem excerpt
+EXCERPT: Yes
+RELATIONSHIP: Noncontiguous fragments of lines 205-209 from Comus.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Maske Presented at Ludlow Castle (1637), commonly titled Comus
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet's ellipsis omits "Of calling shapes, and beck'ning shadows dire, / And airy tongues, that syllable men's names" between its two fragments.
 -->
 
 ## [A Thousand Fantasies Begin to Throng]
@@ -2337,22 +2337,22 @@ A thousand fantasies begin to throng into my memory... On sands and shores and d
 WR-ID: WR-W-079
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Miller Owns the Field]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Most of the opening chapter's landscape paragraph, with its first sentence omitted and several wording and punctuation changes.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Nature (1836), chapter 1
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Emerson reads "Miller owns this field," "these men's farms," and "warranty-deeds." The booklet substitutes "the field," "these men’s farms," and spaces the compound as "warranty - deeds."
 -->
 
 ## [Miller Owns the Field]
@@ -2365,22 +2365,22 @@ Miller owns the field, Locke that, and Manning the woodland beyond. But none of 
 WR-ID: WR-W-080
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [One Touch of Nature]
 BOOKLET_AUTHOR: William Shakespeare
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William Shakespeare
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: One line from Ulysses's speech in act 3, scene 3; commonly detached from its dramatic meaning.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Troilus and Cressida, First Folio (1623)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: In context, "nature" means a shared human tendency to praise novelty, not the natural environment.
 -->
 
 ## [One Touch of Nature]
@@ -2393,22 +2393,22 @@ One touch of nature makes the whole world kin.
 WR-ID: WR-W-081
 PAGE: 76
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: [I Feel]
+STATUS: VERIFIED
+TITLE: On the Natural
 BOOKLET_AUTHOR: Hoyt Axton
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Hoyt Axton
+WORK_TYPE: Song excerpt
+EXCERPT: Yes
+RELATIONSHIP: Adapted fragments of the song's Colorado and Rocky Mountains verses.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: On the Natural (1969)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Axton sings "I feel that Colorado is a place we could be happy / In the mountains" and later "Everybody talk about the place of their dreams." The booklet removes Colorado and "Rocky" and changes multiple words.
 -->
 
 ## [I Feel]

@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Wilderness source verification is complete through WR-W-075 on original page 75. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-081 on original page 76. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-076, "Sand Dunes," on original page 76.
+- Next entry: WR-W-082, "Into My Own," on original page 77.
 
 ## Source
 

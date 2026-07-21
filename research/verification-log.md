@@ -2766,3 +2766,47 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Heavy rewrite. The opening sentence is not Whitman's; the source begins "American Democracy," includes urban and natural lists, reads "must either be fibred, vitalized," and ends "certainly dwindle and pale."
 - Evidence: [Walt Whitman Archive scholarly comparison](https://whitmanarchive.org/item/anc.00162), [complete prose works](https://www.gutenberg.org/files/8813/8813-h/8813-h.htm), and [National Park Service booklet witness](https://npshistory.com/publications/quotes.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 76
+
+### WR-W-076 - Sand Dunes
+
+- Verified author and publication: Robert Frost, first published in *The New Republic* on December 15, 1926, and collected in *West-Running Brook* (1928).
+- Relationship: Complete poem.
+- Evidence: [Jones Library archival publication record](https://joneslibrary.org/315/Frost-Robert), [Dartmouth archival issue record](https://archives-manuscripts.dartmouth.edu/repositories/2/archival_objects/261964), and [complete collected-poems scan](https://upload.wikimedia.org/wikipedia/commons/2/21/Robert_Frost_-_Collected_Poems_%281930%29.pdf).
+- Confidence: High.
+
+### WR-W-077 - [There Is Just One Hope of Repulsing]
+
+- Verified author and work: Robert Marshall, "The Problem of the Wilderness," *The Scientific Monthly* 30, no. 2 (February 1930).
+- Relationship: Closing call to action. Marshall reads "conquer every niche" rather than "every inch" and "freedom of the wilderness" rather than "freedom and preservation of wilderness."
+- Evidence: [Complete article scan](https://www.umt.edu/media/wilderness/toolboxes/documents/awareness/Bob%20Marshall%20writing%20-%20The%20Problem%20of%20the%20Wilderness.pdf).
+- Confidence: High.
+
+### WR-W-078 - [A Thousand Fantasies Begin to Throng]
+
+- Verified author and work: John Milton, lines 205-209 of *A Maske Presented at Ludlow Castle* (1637), commonly titled *Comus*.
+- Relationship: Noncontiguous fragments; the booklet's ellipsis omits three lines about calling shapes, shadows, and airy tongues.
+- Evidence: [Complete contextual scan](https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Milton_epoch_%28IA_miltonepoch00stobrich%29.pdf).
+- Confidence: High.
+
+### WR-W-079 - [Miller Owns the Field]
+
+- Verified author and work: Ralph Waldo Emerson, *Nature* (1836), chapter 1.
+- Relationship: Most of the landscape paragraph with its first sentence omitted. Emerson reads "Miller owns this field" and "warranty-deeds."
+- Evidence: [Scholarly quotation identifying the work and date](https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2005/html?lang=en) and [extended academic comparison](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/40fd7d40-2a37-4905-bfac-8b6cf29a6161/content).
+- Confidence: High.
+
+### WR-W-080 - [One Touch of Nature]
+
+- Verified author and work: William Shakespeare, *Troilus and Cressida*, act 3, scene 3, spoken by Ulysses.
+- Relationship: One line detached from its explanation. In context, "nature" means humanity's common tendency to praise novelty, not the natural environment.
+- Evidence: [Contextual five-line comparison](https://www.allgreatquotes.com/shakespeare-quotes-774/) and [early natural-history anthology scan with act and scene](https://upload.wikimedia.org/wikipedia/commons/7/75/Natural_history_of_Shakespeare_-_being_selections_of_flowers%2C_fruits%2C_and_animals_%28IA_naturalhistoryo00shak%29.pdf).
+- Confidence: High.
+
+### WR-W-081 - On the Natural
+
+- Verified author and song: Hoyt Axton, "On the Natural," from the 1969 album of the same name.
+- Relationship: Adapted fragments. Axton sings "I feel that Colorado is a place we could be happy / In the mountains" and "Everybody talk about the place of their dreams," while the booklet removes Colorado and "Rocky" and changes several words.
+- Evidence: [Complete song comparison and album identification](https://ralstoncreekreview.com/2016/12/20/on-the-natural-hoyt-axton/) and [independent Philmont version](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
+- Confidence: Medium.
