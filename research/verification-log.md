@@ -1391,3 +1391,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Nearly complete recorded statement. The early text has "bosom" rather than "breast," includes "her bones," and continues with a refusal and resurrection passage omitted by the booklet.
 - Evidence: [Smithsonian Bureau of Ethnology scan](https://upload.wikimedia.org/wikipedia/commons/b/b2/Annual_report_of_the_Bureau_of_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%28IA_annualreportofb1892smit_0%29.pdf) and [1974 educational excerpt](https://files.eric.ed.gov/fulltext/ED099187.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 40, entries 1-4
+
+### WR-KW-068 - [Hope and the Future]
+
+- Verified author and source: Henry David Thoreau, "Walking," published posthumously in *The Atlantic Monthly* (June 1862).
+- Relationship: Complete sentence. The source says "not in lawns" and "not in towns"; the booklet adds "the" in both places.
+- Evidence: [Full essay text](https://www.thoreau-online.org/walking-page11.html) and [dated scholarly excerpt](https://www.austintexas.gov/sites/default/files/files/Water/CER/American_Natural_History_Thoreau_May_2018_web.pdf).
+- Confidence: High.
+
+### WR-KW-069 - [If We Were Required to Know]
+
+- Verified author and source: Henry David Thoreau, journal entry from October 1859, later published in *Autumn* (1892).
+- Relationship: Scan-confirmed corrupted excerpt. The source says "If it were required" and "the character of the indusium"; the booklet prints "If we were required" and "the character of the enthusiasm."
+- Evidence: [Thoreau journal manuscript transcription](https://dld-thoreau-assets.s3.us-west-2.amazonaws.com/writings_journals_pdfs/J15f4-f6.pdf), [published journal scan](https://www.walden.org/wp-content/uploads/2016/02/Journal-12-Chapter-8.pdf), and [1892 text](https://en.wikisource.org/wiki/Page%3AAutumn._From_the_Journal_of_Henry_D._Thoreau.djvu/81).
+- Confidence: High.
+
+### WR-KW-070 - [We Are Affected Like the Earth]
+
+- Verified author and source: Henry David Thoreau, journal entry for March 21, 1853.
+- Relationship: Condensed passage. The booklet omits "The frost is coming out of me, and I am heaved like the road" and alters punctuation.
+- Evidence: [Published journal scan](https://upload.wikimedia.org/wikipedia/commons/a/a6/The_writings_of_Henry_David_Thoreau_%28IA_writingsofhenryd11thorrich%29.pdf) and [dated transcription](https://allandibiase.com/2020/03/).
+- Confidence: High.
+
+### WR-KW-071 - [He Who Has Known How to Love the Land]
+
+- Circulated attribution: Stefan Żeromski.
+- Finding: No Polish original, work title, translator, page reference, early English translation, or scholarly quotation was located.
+- Evidence: [Modern attributed use](https://inspiration.rightattitudes.com/authors/stefan-zeromski/).
+- Confidence: Medium for the transmitted attribution; original provenance unresolved.

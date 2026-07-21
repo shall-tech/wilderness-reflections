@@ -1949,22 +1949,22 @@ You ask me to plow the ground. Shall I take a knife and tear my mother's breast?
 WR-ID: WR-KW-068
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Hope and the Future]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete sentence from "Walking"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Atlantic Monthly (June 1862), posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Hope
 - Wilderness
-NOTES: None
+NOTES: The source reads "not in lawns" and "not in towns" without the booklet's added "the" in both phrases; wording is otherwise exact.
 -->
 
 ## [Hope and the Future]
@@ -1977,22 +1977,22 @@ Hope and the future for me are not in the lawns and cultivated fields, not in th
 WR-ID: WR-KW-069
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If We Were Required to Know]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Journal passage from October 1859, later published in Autumn
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Journal entry (October 1859); posthumously in Autumn (1892)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Ferns
 - Revelation
-NOTES: None
+NOTES: The source reads "If it were required" and the botanical term "indusium." The booklet's scan-confirmed "If we were required" and "enthusiasm" are preserved. Published versions also use "helping to redeem" where the booklet has "help to redeem."
 -->
 
 ## [If We Were Required to Know]
@@ -2005,22 +2005,22 @@ If we were required to know the position of the fruit dots or the character of t
 WR-ID: WR-KW-070
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Are Affected Like the Earth]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed passage from the journal entry for March 21, 1853
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Journal entry, March 21, 1853; published posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Renewal
-NOTES: None
+NOTES: The booklet omits the intervening sentence "The frost is coming out of me, and I am heaved like the road" and changes punctuation; the retained wording is otherwise exact.
 -->
 
 ## [We Are Affected Like the Earth]
@@ -2033,10 +2033,10 @@ We are affected like the earth, and yield to the elemental tenderness; winter br
 WR-ID: WR-KW-071
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [He Who Has Known How to Love the Land]
 BOOKLET_AUTHOR: Stefan Zeromski
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Stefan Żeromski (transmitted attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -2048,7 +2048,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Land
 - Eternity
-NOTES: None
+NOTES: The English sentence circulates under Żeromski's name, but no Polish original, work title, translator, page reference, early English translation, or scholarly quotation was located.
 -->
 
 ## [He Who Has Known How to Love the Land]

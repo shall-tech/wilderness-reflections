@@ -100,3 +100,4 @@
 - Completed Knowledge and Wisdom page 38 by identifying Hughes's epigram and McFarland's 1908 address, documenting two corrupted McFarland words and an unresolved Szent-Györgyi attribution.
 - Began Knowledge and Wisdom page 39 by restoring Merton's prose context and Steven Wright's omitted credit while tracing two anonymous sayings as far as available evidence allows.
 - Completed Knowledge and Wisdom page 39 by tracing the Inuit song's edited transmission, Einstein's 1950 letter, and Smohalla's statement to its nineteenth-century ethnographic record.
+- Began Knowledge and Wisdom page 40 by verifying three Thoreau sources, including the scan-confirmed substitution of "enthusiasm" for "indusium," and documenting an unresolved Żeromski attribution.

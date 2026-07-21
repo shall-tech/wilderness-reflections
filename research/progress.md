@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-067 on original page 39; Life and Leadership are complete.
+- Source verification is complete through WR-KW-071 on original page 40; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-068, "Hope and the Future," on original page 40.
+- Next entry: WR-KW-072, "All That Glitters Is Not Gold," on original page 40.
 
 ## Source
 
