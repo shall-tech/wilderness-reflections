@@ -99,3 +99,4 @@
 - Began Knowledge and Wisdom page 38 with sources for Hammarskjöld and Freud, while distinguishing Moriah's adaptation from the unresolved origin of its anecdote.
 - Completed Knowledge and Wisdom page 38 by identifying Hughes's epigram and McFarland's 1908 address, documenting two corrupted McFarland words and an unresolved Szent-Györgyi attribution.
 - Began Knowledge and Wisdom page 39 by restoring Merton's prose context and Steven Wright's omitted credit while tracing two anonymous sayings as far as available evidence allows.
+- Completed Knowledge and Wisdom page 39 by tracing the Inuit song's edited transmission, Einstein's 1950 letter, and Smohalla's statement to its nineteenth-century ethnographic record.

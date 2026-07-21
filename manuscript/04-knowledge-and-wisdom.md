@@ -1853,22 +1853,22 @@ There isn't enough darkness in all the world to snuff out the light of one littl
 WR-ID: WR-KW-065
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Think Over My Small Adventures]
 BOOKLET_AUTHOR: Old Inuit Song
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Anonymous Inuit singer; English transmission through Knud Rasmussen and Edmund Carpenter
+WORK_TYPE: Traditional Song Adaptation
+EXCERPT: Yes
+RELATIONSHIP: Edited and shortened version of an Inuit song collected during the Fifth Thule Expedition
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Collected in Report of the Fifth Thule Expedition, vol. 9 (1921-24 expedition); edited in Anerca (1959)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Adventure
 - Light
-NOTES: None
+NOTES: The longer transmitted version begins "I think over again" and includes kayaking lines omitted here. The edited form is associated with Edmund Carpenter's Anerca (1959), drawing on Knud Rasmussen's Fifth Thule Expedition reports; the individual singer and exact original-language text were not established.
 -->
 
 ## [I Think Over My Small Adventures]
@@ -1889,22 +1889,22 @@ And the light that fills the world.
 WR-ID: WR-KW-066
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Human Being Is Part of the Whole]
 BOOKLET_AUTHOR: Albert Einstein
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Albert Einstein
+WORK_TYPE: Letter Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Excerpt from a condolence letter written February 12, 1950
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Private letter dated February 12, 1950; later published in quotation collections
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Compassion
 - Nature
-NOTES: None
+NOTES: The authoritative transcription has "the whole of nature in its beauty." The booklet omits "of" before "nature" and uses a spaced hyphen instead of an em dash. Some circulating versions add an unauthenticated concluding sentence about peace of mind.
 -->
 
 ## [A Human Being Is Part of the Whole]
@@ -1917,22 +1917,22 @@ A human being is part of the whole, called by us universe, a part limited in tim
 WR-ID: WR-KW-067
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You Ask Me to Plow the Ground]
 BOOKLET_AUTHOR: Smohalla
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Smohalla, as recorded in James Mooney from an A. B. MacMurray manuscript
+WORK_TYPE: Recorded Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Nearly complete recorded statement on refusing agricultural labor
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Ghost-Dance Religion and the Sioux Outbreak of 1890 (Bureau of American Ethnology report, 1896)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Indigenous wisdom
-NOTES: None
+NOTES: The early record reads "tear my mother's bosom," "dig for stone," and "dig under her skin for her bones." The booklet substitutes "breast," omits both instances of "her" around bones, modernizes punctuation, and omits the concluding refusal and resurrection passage.
 -->
 
 ## [You Ask Me to Plow the Ground]

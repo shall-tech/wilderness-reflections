@@ -1368,3 +1368,26 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: A close form is often attributed to Robert L. Alden without a work citation. Related wording appears in a 1903 tract, while Philip Bennett Power used a longer precursor in 1861. The booklet's exact "snuff out" form remains unattributed.
 - Evidence: [Provenance investigation and precursor references](https://fakebuddhaquotes.com/there-isnt-enough-darkness-in-all-the-world-to-snuff-out-the-light-of-one-little-candle/).
 - Confidence: Low for original authorship.
+
+## 2026-07-20 - Knowledge and Wisdom page 39, entries 5-7
+
+### WR-KW-065 - [I Think Over My Small Adventures]
+
+- Verified tradition and transmission: An edited anonymous Inuit song published in Edmund Carpenter's *Anerca* (1959), drawing on material translated through Knud Rasmussen's Fifth Thule Expedition reports.
+- Relationship: Shortened version. A longer transmitted text begins "I think over again," includes kayaking lines, and differs in lineation and punctuation.
+- Evidence: [Provenance and longer-text record](https://www.worldprayers.org/archive/prayers/adorations/i_think_over_again_my_small.html) and [independent longer-form witness](https://saltspringconservancy.ca/wp-content/uploads/2016/04/26_SSIC_Acorn_Spring2004.pdf).
+- Confidence: Medium because the individual singer and exact original-language source were not established.
+
+### WR-KW-066 - [A Human Being Is Part of the Whole]
+
+- Verified author and source: Albert Einstein, condolence letter of February 12, 1950, reproduced in Alice Calaprice's *The New Quotable Einstein* (2005), p. 206.
+- Relationship: Substantial letter excerpt. The authoritative text says "the whole of nature in its beauty"; the booklet omits the second "of."
+- Evidence: [Source discussion and Calaprice page locator](https://quotepark.com/quotes/1939227-albert-einstein-a-human-being-is-a-part-of-the-whole-called-by-us/).
+- Confidence: High.
+
+### WR-KW-067 - [You Ask Me to Plow the Ground]
+
+- Verified speaker and early source: Smohalla, recorded from an A. B. MacMurray manuscript in James Mooney's *The Ghost-Dance Religion and the Sioux Outbreak of 1890*, Bureau of American Ethnology report (1896).
+- Relationship: Nearly complete recorded statement. The early text has "bosom" rather than "breast," includes "her bones," and continues with a refusal and resurrection passage omitted by the booklet.
+- Evidence: [Smithsonian Bureau of Ethnology scan](https://upload.wikimedia.org/wikipedia/commons/b/b2/Annual_report_of_the_Bureau_of_Ethnology_to_the_Secretary_of_the_Smithsonian_Institution_%28IA_annualreportofb1892smit_0%29.pdf) and [1974 educational excerpt](https://files.eric.ed.gov/fulltext/ED099187.pdf).
+- Confidence: High.
