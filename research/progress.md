@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-079 on original page 41; Life and Leadership are complete.
+- Source verification is complete through WR-KW-082 on original page 41; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-080, "When I Would Recreate Myself," on original page 41.
+- Next entry: WR-KW-083, "Ability to See the Cultural Value of Wilderness," on original page 42.
 
 ## Source
 

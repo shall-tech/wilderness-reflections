@@ -1481,3 +1481,26 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: A matching Philmont collection credits Lopez, but exact-phrase searches did not locate the sentence in a named book, essay, interview, or independent early source.
 - Evidence: [Matching Philmont collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
 - Confidence: Low for original provenance.
+
+## 2026-07-20 - Knowledge and Wisdom page 41, entries 5-7
+
+### WR-KW-080 - [When I Would Recreate Myself]
+
+- Verified author and source: Henry David Thoreau, "Walking," published posthumously in *The Atlantic Monthly* (June 1862).
+- Relationship: Three altered sentences. The source says "I enter a swamp," includes additional commas, and reads "There is the strength, the marrow, of Nature"; the booklet omits or changes each of these details.
+- Evidence: [Full essay text](https://www.agorafoundation.org/_files/ugd/9fcc61_73788a1907374d56b06f645e7fe062e5.pdf) and [independent comparison excerpt](https://www.asau.ru/files/pdf/1941211.pdf).
+- Confidence: High.
+
+### WR-KW-081 - [About Mountains It Is Useless to Argue]
+
+- Corrected authorship: The first paragraph remains anonymous; the second is Ralph Waldo Emerson, *Nature* (1836), chapter 3, "Beauty."
+- Relationship: Composite entry. No Emerson source or other provenance was located for the mountain paragraph. In the genuine Emerson sentence, the booklet changes "moment" to "movement," "its" to "it's," and alters commas.
+- Evidence: [Emerson's full chapter text](https://www.online-literature.com/emerson/nature/3/), [Emerson concordance](https://concordlibrary.org/special-collections/emerson-concordance/EYE-EYVIND), and [early printed quotation witness](https://upload.wikimedia.org/wikipedia/commons/5/5a/Emerson_year_book%3B_selections_for_every_day_in_the_year_from_the_essays_of_Ralph_Waldo_Emerson_%28IA_emersonyearbooks00emer%29.pdf).
+- Confidence: High for the second paragraph; low for the first paragraph's provenance.
+
+### WR-KW-082 - [He Who Has Achieved This State]
+
+- Verified source and translation: *Tao Te Ching*, chapter 56, translated by Gia-Fu Feng and Jane English (1972).
+- Relationship: Closing four lines of the chapter, following its description of "primal union." The booklet credits Lao Tzu but omits the translators.
+- Evidence: [Edition record](https://libquotes.com/lao-tzu/quote/lbf6x7j) and [translation-context witness](https://repository.up.ac.za/server/api/core/bitstreams/584931ea-0e2a-41f4-9bf5-62f6d65c4af6/content).
+- Confidence: High.

@@ -2298,22 +2298,22 @@ He who reads the landscape without the aid of maps as a matter of habit, becomes
 WR-ID: WR-KW-080
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [When I Would Recreate Myself]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Three sentences from "Walking"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Atlantic Monthly (June 1862), posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Swamps
 - Nature
-NOTES: None
+NOTES: The source says "and, to the citizen, most dismal, swamp," "I enter a swamp," and "There is the strength, the marrow, of Nature." The booklet omits words and commas, changes "a swamp" to "the swamp," and replaces the em dash with a spaced hyphen.
 -->
 
 ## [When I Would Recreate Myself]
@@ -2326,22 +2326,22 @@ When I would recreate myself, I seek the darkest wood, the thickest and most int
 WR-ID: WR-KW-081
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [About Mountains It Is Useless to Argue]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Anonymous (first paragraph); Ralph Waldo Emerson (second paragraph)
+WORK_TYPE: Composite Quotation
+EXCERPT: Yes
+RELATIONSHIP: Unidentified mountain prose joined to a sentence from Nature
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: First paragraph unknown; Nature (1836)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Mountains
 - Attention
-NOTES: None
+NOTES: No Emerson source or other provenance was located for the first paragraph. The second is from Nature, but the booklet corrupts "each moment" to "each movement," "its" to "it's," and changes punctuation. The single Emerson credit therefore cannot be supported for the whole entry.
 -->
 
 ## [About Mountains It Is Useless to Argue]
@@ -2356,22 +2356,22 @@ To the attentive eye, each movement of the year has it's own beauty, and in the 
 WR-ID: WR-KW-082
 PAGE: 41
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [He Who Has Achieved This State]
 BOOKLET_AUTHOR: Lao Tzu
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Verse
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Laozi (traditional attribution); Gia-Fu Feng and Jane English translation
+WORK_TYPE: Philosophical Text Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing four lines of Tao Te Ching, chapter 56
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Tao Te Ching ancient text; Feng-English translation (1972)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Equanimity
 - Wisdom
-NOTES: None
+NOTES: The wording is from the 1972 Gia-Fu Feng and Jane English translation. It closes chapter 56 after the description of "primal union"; the booklet does not identify the translators.
 -->
 
 ## [He Who Has Achieved This State]
