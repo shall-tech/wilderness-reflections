@@ -349,22 +349,22 @@ Natural beauty and wonder are priceless heirlooms which God has bestowed upon ou
 WR-ID: WR-B-011
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Morning Hangs a Signal
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
+VERIFIED_AUTHOR: William Channing Gannett
+WORK_TYPE: Hymn
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Variant of Gannett's hymn commonly titled "The Crowning Day" or by its first line, "The Morning Hangs a Signal."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Collected in The Thought of God in Hymns and Poems (1885)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Morning
 - Faith
-NOTES: None
+NOTES: The booklet leaves the hymn anonymous and substantially alters the received three-stanza text, including "sunshine" for "sunlight," "truth flings dawn and daystar" for "truth flares as the daystar," a rewritten close to stanza two, and "Night shall be lost in splendor" for "night shall release its splendor."
 -->
 
 ## The Morning Hangs a Signal
@@ -400,22 +400,22 @@ And morning shall appear.
 WR-ID: WR-B-012
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [God Has Infinite Time to Give Us]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Journal passage collected posthumously in The Heart of Emerson's Journals.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: The Heart of Emerson's Journals (edited by Bliss Perry, 1909)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Time
 - Morning
-NOTES: None
+NOTES: Comparison witnesses read "God had infinite time" and "how did He give it?"; a fuller collected version continues after "new mornings" with new ideas, inventions, and applications.
 -->
 
 ## [God Has Infinite Time to Give Us]
@@ -428,22 +428,22 @@ God has infinite time to give us; but how did He get it? In one immense tract of
 WR-ID: WR-B-013
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Plants Should Be Regarded as Jewels]
 BOOKLET_AUTHOR: Uberto Tosco
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Uberto Tosco (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Fragment as printed; no independent publication or comparison text was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Plants
 - Environment
-NOTES: None
+NOTES: Exact-phrase and author searches did not locate another witness; the bracketed opening indicates the booklet itself may have supplied or restored words.
 -->
 
 ## [Plants Should Be Regarded as Jewels]

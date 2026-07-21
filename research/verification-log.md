@@ -1867,3 +1867,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete quotation. Multiple independent witnesses agree on the wording and attribution, but an originating work was not located.
 - Evidence: [Biographical quotation collection](https://inspiration.rightattitudes.com/authors/henry_van_dyke_jr/), [independent quotation witness](https://quotefancy.com/henry-van-dyke-quotes), and [second independent collection](https://www.inspiringquotes.us/author/3124-henry-van-dyke).
 - Confidence: Medium.
+
+## 2026-07-20 - Beauty page 57, entries 1-3
+
+### WR-B-011 - The Morning Hangs a Signal
+
+- Restored author and source tradition: William Channing Gannett, hymn commonly titled "The Crowning Day" or by its first line, "The Morning Hangs a Signal," collected in *The Thought of God in Hymns and Poems* (1885).
+- Relationship: Substantially altered three-stanza variant. Changes include "sunshine" for "sunlight," "truth flings dawn and daystar" for "truth flares as the daystar," a rewritten close to stanza two, and "Night shall be lost in splendor" for "night shall release its splendor." The booklet leaves it anonymous.
+- Evidence: [Hymnary author, text, and collection record](https://hymnary.org/text/the_morning_hangs_its_signal), [modern received text](https://farfringe.com/2016/11/12/stlt40-the-morning-hangs-a-signal/), and [Vincent Silliman's account of the hymn's editorial history](https://uuma.org/berry-street-essay/1977-berry-street-essay-the-reverend-vincent-silliman/).
+- Confidence: High.
+
+### WR-B-012 - [God Has Infinite Time to Give Us]
+
+- Verified author and source: Ralph Waldo Emerson, journal passage collected posthumously in Bliss Perry's *The Heart of Emerson's Journals* (1909).
+- Relationship: Shortened and slightly altered passage. Comparison witnesses read "God had infinite time" and "how did He give it?"; a fuller collected version continues with new ideas, inventions, and applications.
+- Evidence: [Source identification and fuller comparison text](https://vincentvanpatten.com/genuine-progress-is-becoming-a-better-friend-to-ourselves/), [1975 newspaper witness](https://cdn.manchesterhistory.org/News/Manchester%20Evening%20Hearld_1975-06-14.pdf), and [Philmont collection witness matching the booklet](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Medium.
+
+### WR-B-013 - [Plants Should Be Regarded as Jewels]
+
+- Booklet attribution: Uberto Tosco.
+- Finding: No independent publication, author-linked quotation, or comparison text was located. The bracketed opening suggests that the booklet source itself may have supplied or restored words.
+- Evidence: The booklet transcription and scan are the only located witnesses.
+- Confidence: Low.
