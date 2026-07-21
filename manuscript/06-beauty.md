@@ -1484,22 +1484,22 @@ How deep our sleep last night in the mountains here, beneath the trees and stars
 WR-ID: WR-B-048
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Here Is Calm]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Notebook Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening portion of the second item in Muir's "Mountain Thoughts" notes on the Sierra.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Written in the 1870s; collected in John of the Mountains (1938)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet arranges prose as verse, introduces many line breaks and capitals, prints "ever fiber" for "every fiber," and stops before Muir's continuation about trees, flowers, and songs within the body.
 -->
 
 ## [Here Is Calm]
@@ -1523,22 +1523,22 @@ Bodies, making them glide and sing.
 WR-ID: WR-B-049
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Care to Live Only to Entice People]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Composite Letter Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Joins language from two letters to Jeanne C. Carr, dated October 7, 1874, and December 25, 1872.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Letters dated December 25, 1872, and October 7, 1874; later printed in The Life and Letters of John Muir (1924)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The first two sentences derive from the 1874 letter, which reads "Nature's" and continues "My feet have recovered their cunning. I feel myself again." The parenthetical "I want to be" and simplified flake-of-glass clause adapt a separate 1872 letter beginning "Somehow, up here in these fountain skies I feel like a flake of glass."
 -->
 
 ## [I Care to Live Only to Entice People]
@@ -1551,22 +1551,22 @@ I care to live only to entice people to look at nature's loveliness. My own spec
 WR-ID: WR-B-050
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [These Beautiful Days Must Enrich All My Life]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Shortened passage from Muir's journal, published posthumously.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: John of the Mountains: The Unpublished Journals of John Muir (1938), page 53
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source continues after "memory" with "to brighten at times when touched by association or will, only to shrink again like a landscape in the dark" before "but." The booklet replaces that omission with an ellipsis, prints a spaced hyphen after "pictures," and changes "the body" to "my body."
 -->
 
 ## [These Beautiful Days Must Enrich All My Life]

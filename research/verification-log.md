@@ -2150,3 +2150,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: The booklet changes "in the mountain's heart" to "in the mountains here," alters two hyphens and the source's em-dash punctuation, and drops a comma after "new flowers."
 - Evidence: [Complete chapter and dated entry](https://www.yosemite.ca.us/john_muir_writings/my_first_summer_in_the_sierra/chapter_2.html), [book PDF](https://www.yosemite.ca.us/john_muir_writings/my_first_summer_in_the_sierra/my_first_summer_in_the_sierra.pdf), and [University of the Pacific serialization record](https://scholarlycommons.pacific.edu/jmb/335/).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 62, entries 4-6
+
+### WR-B-048 - [Here Is Calm]
+
+- Verified author and source: John Muir, the second Sierra item in "Mountain Thoughts," written in the 1870s and collected in *John of the Mountains* (1938).
+- Relationship: Opening portion of a longer prose note arranged by the booklet as verse. The booklet introduces line breaks and capitals, prints "ever fiber" for "every fiber," and omits the continuation about trees, flowers, and songs within the body.
+- Evidence: [Complete "Mountain Thoughts" text and publication note](https://www.yosemite.ca.us/john_muir_writings/mountain_thoughts.html), [scholarly quotation with book-page citation](https://www.mdpi.com/2077-1444/3/2/266), and [educational comparison witness](https://files.eric.ed.gov/fulltext/ED345165.pdf).
+- Confidence: High.
+
+### WR-B-049 - [I Care to Live Only to Entice People]
+
+- Verified author and construction: composite of John Muir's letters to Jeanne C. Carr dated October 7, 1874, and December 25, 1872.
+- Relationship: The first two sentences shorten the 1874 letter; the parenthetical and flake-of-glass image adapt the 1872 letter. The booklet thereby presents nonconsecutive writing from two dates as one quotation.
+- Evidence: [University of the Pacific manuscript and transcription of the 1872 letter](https://scholarlycommons.pacific.edu/jmcl/10008/), [dated 1874 letter locator](https://libquotes.com/john-muir/quote/lbo7g0w), and [scholarly contextual quotation of the 1874 text](https://dokumen.pub/camping-grounds-public-nature-in-american-life-from-the-civil-war-to-the-occupy-movement-0195372417-9780195372410.html).
+- Confidence: High.
+
+### WR-B-050 - [These Beautiful Days Must Enrich All My Life]
+
+- Verified author and source: John Muir, journal passage collected in *John of the Mountains: The Unpublished Journals of John Muir* (1938), page 53.
+- Relationship: Shortened passage. The booklet's ellipsis omits a clause about pictures brightening and shrinking with memory, and it changes "the body" to "my body."
+- Evidence: [Scholarly complete comparison text with book-page citation](https://www.mdpi.com/2077-1444/3/2/266), [later quotation-book locator](https://www.azquotes.com/quote/1055528), and [independent Philmont comparison witness](https://www.philmontscoutranch.org/wp-content/uploads/filestore/pdf/Philnews_2010/2010PhilNewsIssue07.pdf).
+- Confidence: High.
