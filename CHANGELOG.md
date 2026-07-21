@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed Wilderness page 75 verification, locating Frost, Keller, Muir, Shakespeare, and Whitman contexts while preserving two provisional personal attributions.
 - Completed Wilderness page 74 verification, documenting heavily corrupted Frost and Muir texts, locating the Longfellow and Pinchot works, and flagging two unsupported Indigenous attributions.
 - Completed Wilderness page 73 verification, restoring the Nash and Cooper poem titles, documenting four booklet wording errors, and distinguishing Lincoln's paraphrase from his 1862 message.
 - Completed Wilderness page 72 verification, identifying the Russell biblical/Thoreau composite, restoring Dōgen and his translators, and locating the Kennedy, Johnson, Austin, Rodrigues, and Irving contexts.

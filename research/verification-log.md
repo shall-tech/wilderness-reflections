@@ -2697,3 +2697,72 @@ This log records the external evidence used during the post-transcription verifi
 - Verified source and translation: Isaiah 5:8, King James Version.
 - Relationship: Complete verse. The booklet misspells "Isaiah" as "Isiah" and prints "placed also" where the King James Version reads "placed alone."
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 75
+
+### WR-W-066 - The Pasture
+
+- Verified author and work: Robert Frost, introductory poem to *North of Boston* (1914).
+- Relationship: Complete poem with modernized punctuation; the source uses a colon after the parenthetical line and an em dash in "I sha'n't be gone long.—You come too."
+- Evidence: [Textual comparison and publication history](https://robert-frost-forum.de/grid_gedichte_pasture.htm) and [scholarly reproduction noting the 1914 publication](https://fra-respect-animal.org/IMG/pdf/the_poetics_of_christian_compassion.pdf).
+- Confidence: High.
+
+### WR-W-067 - [Science Has Never Drummed Up]
+
+- Attribution unresolved: later sources consistently credit W. Earl Hall, longtime editor-publisher of the *Mason City Globe-Gazette*, but no original column, broadcast, or speech was located.
+- Evidence: [Complete later comparison](https://m.wishafriend.com/quotes/amp/qid/9675/) and [Congressional Record obituary identifying Hall and his media work](https://www.govinfo.gov/content/pkg/GPO-CRECB-1969-pt8/pdf/GPO-CRECB-1969-pt8-4.pdf).
+- Confidence: Low.
+
+### WR-W-068 - [My Heart Is Tuned to the Quietness]
+
+- Verified author and collection: Hazrat Inayat Khan, collected in *Nature Meditations*; the original lecture or first publication remains unidentified.
+- Evidence: [Nature-meditation collection](https://abuddhistlibrary.com/Buddhism/H%20-%20World%20Religions%20and%20Poetry/World%20Religions/Islam/Teachers/Hazarat%20Inayat%20Kahn/Nature%20Meditations/naturemeditations.pdf) and [independent complete comparison](https://sweetbreathing.com/2016/02/).
+- Confidence: Medium.
+
+### WR-W-069 - [What a Joy It Is to Feel the Soft, Springy Earth]
+
+- Verified author and work: Helen Keller, *The Story of My Life* (1903).
+- Relationship: Autobiographical prose sentence; the booklet differs only in punctuation around "notes, or to clamber."
+- Evidence: [Work identification and complete comparison](https://english.stackexchange.com/questions/92844/what-is-the-exact-meaning-of-the-phrase-cataract-of-rippling-notes) and [early printed comparison](https://electricscotland.com/history/review/100bVol18No70Jan1921.pdf).
+- Confidence: High.
+
+### WR-W-070 - [The Care of Rivers]
+
+- Attribution unresolved: the English sentence is widely credited to Tanaka Shōzō, but no dated Japanese text or original translation was located.
+- Evidence: [National Park Service attributed comparison](https://www.nps.gov/idp/interp/berelevant.pdf) and [additional NPS training witness](https://brettoppegaard.com/files/fvmobile/fort_action_plan.pdf).
+- Confidence: Low.
+
+### WR-W-071 - [No Pain Here]
+
+- Verified author, exact source unresolved: John Muir journal language, with the first sentence quoted in a 1918 history of American literature.
+- Relationship: Joined sentiments; an independent Philmont witness supplies the champagne-water sentence but not an original location.
+- Evidence: [1918 literary-history witness](https://www.gutenberg.org/cache/epub/42593/pg42593-images.html) and [independent Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Medium.
+
+### WR-W-072 - [I Am Always Glad to Touch the Living Rock]
+
+- Verified author, exact source unresolved: John Muir.
+- Relationship: An independent witness reads "I . . . am always glad," showing an internal omission suppressed by the booklet.
+- Evidence: [Independent Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html) and [Muir-attributed comparison](https://inspiration.rightattitudes.com/authors/john-muir/).
+- Confidence: Medium.
+
+### WR-W-073 - [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
+
+- Verified author and work: John Muir, chapter 1 of *Our National Parks* (1901).
+- Relationship: Complete sentence; the source reads "wildness is a necessity," while the booklet substitutes "wilderness."
+- Evidence: [Complete source edition](https://www.yosemite.ca.us/john_muir_writings/our_national_parks/our_national_parks.pdf) and [Project Gutenberg edition](https://www.gutenberg.org/files/60929/60929-h/60929-h.htm).
+- Confidence: High.
+
+### WR-W-074 - [And This, Our Life Exempt from Public Haunt]
+
+- Verified author and work: William Shakespeare, *As You Like It*, act 2, scene 1, spoken by Duke Senior.
+- Relationship: Three verse lines presented as prose.
+- Evidence: [Folger Shakespeare Library complete play](https://folger-main-site-assets.s3.amazonaws.com/uploads/2022/11/as-you-like-it_PDF_FolgerShakespeare.pdf).
+- Confidence: High.
+
+### WR-W-075 - [Without Enough Wilderness America Will Change]
+
+- Verified author and work: Walt Whitman, "Nature and Democracy—Morality," in *Specimen Days & Collect* (1882).
+- Relationship: Heavy rewrite. The opening sentence is not Whitman's; the source begins "American Democracy," includes urban and natural lists, reads "must either be fibred, vitalized," and ends "certainly dwindle and pale."
+- Evidence: [Walt Whitman Archive scholarly comparison](https://whitmanarchive.org/item/anc.00162), [complete prose works](https://www.gutenberg.org/files/8813/8813-h/8813-h.htm), and [National Park Service booklet witness](https://npshistory.com/publications/quotes.pdf).
+- Confidence: High.

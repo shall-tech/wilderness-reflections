@@ -1949,22 +1949,22 @@ Woe unto them that join house to house, that lay field to field, till there be n
 WR-ID: WR-W-066
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: The Pasture
 BOOKLET_AUTHOR: Robert Frost
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Frost
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem with punctuation modernized by the booklet.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: North of Boston (1914)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Frost's text uses a colon after the parenthetical line and an em dash in "I sha'n't be gone long.—You come too." The booklet substitutes periods and uses "shan't."
 -->
 
 ## The Pasture
@@ -1984,13 +1984,13 @@ I shan't be gone long. You come too.
 WR-ID: WR-W-067
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Science Has Never Drummed Up]
 BOOKLET_AUTHOR: W. Earl Hall
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: W. Earl Hall (provisional)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Widely repeated epigram; no newspaper column, broadcast transcript, speech, or other original occurrence located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1999,7 +1999,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Hall was the longtime editor-publisher of Iowa's Mason City Globe-Gazette and produced the "One Man's Opinion" column and broadcast, but the quotation's original context remains unknown.
 -->
 
 ## [Science Has Never Drummed Up]
@@ -2012,22 +2012,22 @@ Science has never drummed up quite as effective a tranquilizing agent as a sunny
 WR-ID: WR-W-068
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [My Heart Is Tuned to the Quietness]
 BOOKLET_AUTHOR: Hazrat Inayat Khan
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Hazrat Inayat Khan
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete sentence in a later collection of nature meditations; original lecture or publication not identified.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Nature Meditations (collection date unresolved)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The accessible collection confirms the attribution and wording but does not identify the sentence's first publication.
 -->
 
 ## [My Heart Is Tuned to the Quietness]
@@ -2040,22 +2040,22 @@ My heart is tuned to the quietness that the stillness of nature inspires.
 WR-ID: WR-W-069
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [What a Joy It Is to Feel the Soft, Springy Earth]
 BOOKLET_AUTHOR: Helen Keller
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Helen Keller
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Autobiographical prose sentence.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Story of My Life (1903)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet text matches later editions apart from punctuation around "notes, or to clamber."
 -->
 
 ## [What a Joy It Is to Feel the Soft, Springy Earth]
@@ -2068,13 +2068,13 @@ What a joy it is to feel the soft, springy earth under my feet once more, to fol
 WR-ID: WR-W-070
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Care of Rivers]
 BOOKLET_AUTHOR: Tanaka Shozo
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Tanaka Shōzō (provisional)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: English translation widely credited to Tanaka; no dated Japanese text or original translation located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -2083,7 +2083,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later National Park Service materials reproduce the wording and identify Tanaka as a Japanese conservationist, but do not supply a primary source.
 -->
 
 ## [The Care of Rivers]
@@ -2096,22 +2096,22 @@ The care of rivers is not a question of rivers, but of the human heart.
 WR-ID: WR-W-071
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No Pain Here]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Muir
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Joined Muir journal sentiments; exact work and date unresolved.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Before 1918; exact source unresolved
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The first sentence appears in a 1918 literary history as an example from Muir's journal. The champagne-water sentence is independently transmitted with it, but its original location was not identified.
 -->
 
 ## [No Pain Here]
@@ -2124,22 +2124,22 @@ No pain here, no dull empty hours, no fear of the past, no fear of the Future...
 WR-ID: WR-W-072
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Am Always Glad to Touch the Living Rock]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Muir
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
+RELATIONSHIP: Muir sentence transmitted with an internal omission after "I"; original journal, letter, or book location unresolved.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
 FIRST_PUBLICATION: Unknown
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: An independent Philmont witness renders the opening "I . . . am always glad," indicating that the booklet suppresses omitted text after "I."
 -->
 
 ## [I Am Always Glad to Touch the Living Rock]
@@ -2152,22 +2152,22 @@ I am always glad to touch the living rock again and dip my hand in the high moun
 WR-ID: WR-W-073
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Muir
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Complete sentence from the opening chapter.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Our National Parks (1901), chapter 1
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source reads "wildness is a necessity"; the booklet substitutes "wilderness."
 -->
 
 ## [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
@@ -2180,22 +2180,22 @@ Thousands of tired, nerve-shaken, over-civilized people are beginning to find ou
 WR-ID: WR-W-074
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [And This, Our Life Exempt from Public Haunt]
 BOOKLET_AUTHOR: William Shakespeare
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: William Shakespeare
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Duke Senior's lines in act 2, scene 1.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: First Folio (1623)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet lowercases "finds" when arranging the verse as prose; wording otherwise follows a modernized text.
 -->
 
 ## [And This, Our Life Exempt from Public Haunt]
@@ -2208,22 +2208,22 @@ And this, our life exempt from public haunt, finds tongues in trees, books in th
 WR-ID: WR-W-075
 PAGE: 75
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Without Enough Wilderness America Will Change]
 BOOKLET_AUTHOR: Walt Whitman
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Walt Whitman
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Heavy condensation and rewrite of Whitman's prose on democracy's need for contact with nature.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Specimen Days & Collect (1882), "Nature and Democracy—Morality"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: "Without enough wilderness America will change" is not in Whitman's source. The source begins "American Democracy," includes urban life and many additional natural elements, reads "must either be fibred, vitalized," and ends "certainly dwindle and pale."
 -->
 
 ## [Without Enough Wilderness America Will Change]
