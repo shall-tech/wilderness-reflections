@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-102 on original page 45; Life and Leadership are complete.
+- Source verification is complete through WR-KW-104 on original page 45; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-103, "The Universe Has Been Quite Literally Writing upon Humans," on original page 45.
+- Next entry: WR-KW-105, "We of the Genus Homo Ride the Logs," on original page 46.
 
 ## Source
 

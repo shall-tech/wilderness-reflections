@@ -1658,3 +1658,19 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete paragraph; the booklet wording matches the comparison text.
 - Evidence: [Complete book text at "The Land Pyramid"](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac#toc89).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 45, entries 4-5
+
+### WR-KW-103 - [The Universe Has Been Quite Literally Writing upon Humans]
+
+- Corrected author name: Joseph W. Meeker; the booklet uses "Joe Meeker."
+- Relationship: Closing lines of a longer reflection on walking a forest trail. A 1992 Maine government report preserves the preceding sentences, exact passage, and attribution. The original essay title and publication were not located; Meeker's related essays were collected in *Minding the Earth* (1988).
+- Evidence: [1992 Maine report with passage and context](https://lldc.mainelegislature.org/Open/Rpts/f27_p5b323_1992.pdf), [bibliographic record for *Minding the Earth*](https://ci.nii.ac.jp/ncid/BB00697463), and [biographical confirmation of Meeker's radio series and books](https://trumpeter.athabascau.ca/index.php/trumpet/article/download/971/1373/).
+- Confidence: Medium.
+
+### WR-KW-104 - [While My Companion Contemplated]
+
+- Corrected author and source: Mary Wollstonecraft Shelley, chapter 2 of *Frankenstein; or, The Modern Prometheus* (1818). The booklet misspells both "Wollstonecraft" and "Shelley."
+- Relationship: Two sentences with an intervening sentence omitted. The booklet also drops "a" before "serious" and changes "earnest research" and "as they were unfolded" to "earnestness, research" and "as they unfolded."
+- Evidence: [Project Gutenberg full novel](https://www.gutenberg.org/files/84/84-h/84-h.htm), [chapter text and context](https://www.oratlas.com/library/book/frankenstein-1831-text/mary-shelley/chapter-ii), and [printed-edition comparison](https://www.doverpublications.com/retailers/pdfs/DoverThrifts2022.pdf).
+- Confidence: High.

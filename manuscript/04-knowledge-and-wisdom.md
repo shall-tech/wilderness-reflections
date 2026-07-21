@@ -2978,22 +2978,22 @@ Land, then, is not merely soil; it is a fountain of energy flowing through a cir
 WR-ID: WR-KW-103
 PAGE: 45
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Universe Has Been Quite Literally Writing upon Humans]
 BOOKLET_AUTHOR: Joe Meeker
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Joseph W. Meeker
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing lines of a longer reflection on walking a forest trail; a 1992 government report preserves the surrounding text and attribution.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Exact original publication not located; Meeker's related essays were collected in Minding the Earth (1988)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wild lands
 - Language
-NOTES: None
+NOTES: The booklet shortens Joseph to "Joe." A later web transcription corrupts "trails" and "cut," but the 1992 printed witness matches the booklet wording.
 -->
 
 ## [The Universe Has Been Quite Literally Writing upon Humans]
@@ -3006,22 +3006,22 @@ The universe has been quite literally writing upon humans for many thousands of 
 WR-ID: WR-KW-104
 PAGE: 45
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [While My Companion Contemplated]
 BOOKLET_AUTHOR: Mary Wollstoncraft Shelly
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Mary Wollstonecraft Shelley
+WORK_TYPE: Novel Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two sentences from Victor Frankenstein's account of his childhood in chapter 2 of Frankenstein, with an intervening sentence omitted.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Frankenstein; or, The Modern Prometheus (1818)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Curiosity
-NOTES: None
+NOTES: The booklet misspells both "Wollstonecraft" and "Shelley," drops "a" before "serious," omits "The world was to me a secret which I desired to divine," and changes "earnest research" and "as they were unfolded" to "earnestness, research" and "as they unfolded."
 -->
 
 ## [While My Companion Contemplated]

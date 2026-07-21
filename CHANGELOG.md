@@ -111,3 +111,4 @@
 - Began Knowledge and Wisdom page 44 with sources for Udall, the Wilhelm-Baynes I Ching, Douglas's mountain memoir, and the Supreme Court's Berman opinion.
 - Completed Knowledge and Wisdom page 44 by tracing Leopold's land-health sentence across its periodical and book versions and identifying Henderson's reprinted running column.
 - Began Knowledge and Wisdom page 45 with three Leopold excerpts, identifying a composite construction and several scan-confirmed wording errors and omissions.
+- Completed Knowledge and Wisdom page 45 by documenting Meeker's longer trail context and correcting Mary Shelley's name and Frankenstein source in metadata.
