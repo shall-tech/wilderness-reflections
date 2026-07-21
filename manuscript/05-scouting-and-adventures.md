@@ -14,22 +14,22 @@
 WR-ID: WR-SA-001
 PAGE: 49
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [These Properties Are Donated and Dedicated]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Waite Phillips
+WORK_TYPE: Dedication Statement
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Philmont dedication statement dated December 1941.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: December 1941
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Scouting
 - Ideals
-NOTES: None
+NOTES: The booklet removes the source's paragraph break, punctuation, "and" before "freedom," and commas around the concluding dependent clause; it labels the statement an epigram.
 -->
 
 ## [These Properties Are Donated and Dedicated]
@@ -42,22 +42,22 @@ These properties are donated and dedicated to the Boy Scouts of America for the 
 WR-ID: WR-SA-002
 PAGE: 49
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: An Eagle Poem
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: S. Kurtz Hingley
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Variant of Hingley's poem commonly titled "It's Only a Pin" or "A Fond Mother Watches," later revised in Boy Scouts of America ceremony publications.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Quaker City Scout (1930); reprinted in Scouting (May 1931)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Eagle Scout
 - Honor
-NOTES: None
+NOTES: The booklet calls the poem "An Eagle Poem" and leaves it anonymous. Against the BSA ceremony version it introduces several variants and errors, notably "Scout's Law," "about petty deeds," and "just and Eagle Scout badge."
 -->
 
 ## An Eagle Poem
@@ -97,22 +97,22 @@ A lesson for me, and for you.
 WR-ID: WR-SA-003
 PAGE: 49
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [One of the Best Paying Professions]
 BOOKLET_AUTHOR: Terry and Renny Russell
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from On the Loose.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: On the Loose (Sierra Club, 1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Country
 - Self-knowledge
-NOTES: None
+NOTES: The booklet prints "getting a hold" for "getting ahold," omits "the" before both "Sierra" references, and has smaller punctuation differences.
 -->
 
 ## [One of the Best Paying Professions]

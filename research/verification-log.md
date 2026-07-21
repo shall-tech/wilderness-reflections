@@ -1706,3 +1706,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Shortened Perry/Stevens-derived text. The booklet repeats the false Chief Seattle attribution and prints "tell you children" for "tell your children."
 - Evidence: [National Archives history of the undocumented speech](https://www.archives.gov/publications/prologue/1985/spring/chief-seattle.html), [HistoryLink account of the fabricated modern versions](https://www.historylink.org/File/1427), [University of Washington study with Perry's version](https://com.uw.edu/wp-content/uploads/2024/08/Madeleine-G.-Welchs-Thesis_-Interpretations-of-Chief-sia%CA%94%C9%ACs-speech-and-character.pdf), and [local historical explanation of the "web of life" passage](https://www.chiefseattle.com/history/chiefseattle/speech/speech.htm).
 - Confidence: High.
+
+## 2026-07-20 - Scouting and Adventures page 49
+
+### WR-SA-001 - [These Properties Are Donated and Dedicated]
+
+- Verified author and source: Waite Phillips, Philmont dedication statement, December 1941.
+- Relationship: Complete statement. The booklet removes the paragraph break, much of the punctuation, "and" before "freedom," and commas around the concluding dependent clause; it labels the dedication an epigram.
+- Evidence: [Official Philmont staff guide with statement and date](https://filestore.scouting.org/filestore/philmont/pdf/staffgb.pdf), [Philmont historical reprint](https://filestore.scouting.org/filestore/philmont/pdf/Philnews_2008/2008PhilNews_Banquets.pdf), and [council guide comparison](https://awbsa.org/wp-content/uploads/2024/01/where_to_go_camping_guide.pdf).
+- Confidence: High.
+
+### WR-SA-002 - An Eagle Poem
+
+- Restored authorship and source history: S. Kurtz Hingley wrote the first version, commonly called "It's Only a Pin" or "A Fond Mother Watches," for his son's court of honor. It appeared in the *Quaker City Scout* in 1930 and *Scouting* in May 1931; BSA ceremony publications later revised it.
+- Relationship: Variant of the revised ceremony text. The booklet leaves it anonymous, supplies a generic title, and introduces several wording errors, notably "Scout's Law," "about petty deeds," and "just and Eagle Scout badge."
+- Evidence: [BSA *Scout Ceremonies* text](https://dankohn.info/~scouts/resources/scout_ceremonies.pdf), [publication-history transcription](https://digitaldaya.com/imagenes/file/kitepop_golonar.pdf), and [1957 newspaper witness](https://archives.kdl.org/Suburban/1957/02-07-1957.pdf).
+- Confidence: Medium for the early publication history; high for comparison with the BSA version.
+
+### WR-SA-003 - [One of the Best Paying Professions]
+
+- Verified authors and source: Terry and Renny Russell, *On the Loose* (Sierra Club, 1967).
+- Relationship: Complete prose passage. The booklet prints "getting a hold" for "getting ahold," omits "the" before both "Sierra" references, and alters punctuation.
+- Evidence: [Scholarly discussion naming the book and quoting its close](https://etda.libraries.psu.edu/files/final_submissions/7643), [Open Library edition record](https://openlibrary.org/works/OL38067868W/On_the_Loose), and [full-passage comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: High.

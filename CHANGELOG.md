@@ -114,3 +114,4 @@
 - Completed Knowledge and Wisdom page 45 by documenting Meeker's longer trail context and correcting Mary Shelley's name and Frankenstein source in metadata.
 - Began Knowledge and Wisdom page 46 with Leopold's posthumous Round River parable, Teale's "Death of a Tree," and an unresolved 1962 Carhart statement.
 - Completed Knowledge and Wisdom verification by correcting the modern screenplay authorship of the ecological text falsely attributed to Chief Seattle.
+- Began Scouting and Adventures verification with Phillips's Philmont dedication, Hingley's Eagle poem, and the Russells' On the Loose passage.

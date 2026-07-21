@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-108 on original page 46; Life, Leadership, and Knowledge and Wisdom are complete.
+- Source verification is complete through WR-SA-003 on original page 49; Life, Leadership, and Knowledge and Wisdom are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-SA-001, "If You Want to Make a Difference," on original page 49.
+- Next entry: WR-SA-004, "I Am," on original page 50.
 
 ## Source
 
