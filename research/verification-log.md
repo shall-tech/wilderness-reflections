@@ -1534,3 +1534,19 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: A matching Philmont collection credits "Nancy Woods," but no work title, periodical, page reference, date, or independent publication was located; the surname itself differs between the two witnesses.
 - Evidence: [Matching Philmont collection](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
 - Confidence: Low.
+
+## 2026-07-20 - Knowledge and Wisdom page 42, entries 5-6
+
+### WR-KW-087 - [Awareness Is Becoming Acquainted with Environment]
+
+- Verified author and source: Sigurd F. Olson, *Reflections from the North Country* (1976).
+- Relationship: Complete passage with small editorial variants. The booklet misspells Olson as "Olsen," uses "teenage" for source "teen-age," and omits "that" before "we are born with" in some edition witnesses.
+- Evidence: [Work attribution](https://www.azquotes.com/author/24694-Sigurd_F_Olson) and [independent full-passage witness](https://files.eric.ed.gov/fulltext/ED462250.pdf).
+- Confidence: High.
+
+### WR-KW-088 - [Simplicity in All Things]
+
+- Verified author and source: Sigurd F. Olson, *Reflections from the North Country* (1976).
+- Relationship: Substantial excerpt. The booklet misspells Olson as "Olsen" and prints "matte of simplicity" for "matter of simplicity"; the source continues with further advice.
+- Evidence: [Edition-linked full passage](https://libquotes.com/sigurd-olson/quote/lbj6u6l) and [extended contextual witness](https://mrbdc.mnsu.edu/sites/mrbdc.mnsu.edu/files/public/reports/rivertalk/summer_07.pdf).
+- Confidence: High.

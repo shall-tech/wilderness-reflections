@@ -2501,22 +2501,22 @@ I touched the nothingness of air once and felt nothing. I touched it again and f
 WR-ID: WR-KW-087
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Awareness Is Becoming Acquainted with Environment]
 BOOKLET_AUTHOR: Sigurd F. Olsen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Reflections from the North Country
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Reflections from the North Country (1976)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Awareness
 - Wonder
-NOTES: None
+NOTES: The booklet misspells Olson's surname as "Olsen." Published witnesses use "teen-age" and sometimes include "that" before "we are born with"; the booklet uses "teenage" and omits "that."
 -->
 
 ## [Awareness Is Becoming Acquainted with Environment]
@@ -2529,22 +2529,22 @@ Awareness is becoming acquainted with environment, no matter where one happens t
 WR-ID: WR-KW-088
 PAGE: 42
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Simplicity in All Things]
 BOOKLET_AUTHOR: Sigurd F. Olsen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Reflections from the North Country
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Reflections from the North Country (1976)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Simplicity
 - Wilderness
-NOTES: None
+NOTES: The booklet misspells Olson's surname as "Olsen" and has the scan-confirmed typo "matte of simplicity" for source "matter of simplicity." The source continues with advice against arguments, criticism, and recrimination.
 -->
 
 ## [Simplicity in All Things]
