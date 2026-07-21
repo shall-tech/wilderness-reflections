@@ -1890,3 +1890,26 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: No independent publication, author-linked quotation, or comparison text was located. The bracketed opening suggests that the booklet source itself may have supplied or restored words.
 - Evidence: The booklet transcription and scan are the only located witnesses.
 - Confidence: Low.
+
+## 2026-07-20 - Beauty page 57, entries 4-6
+
+### WR-B-014 - [Who Walks with Beauty]
+
+- Verified author and source: David Morton, "Who Walks with Beauty," from *Ships in Harbour* (1921).
+- Relationship: First two lines of a fourteen-line sonnet. The source reads "Who walks with Beauty has no need of fear; / The sun and moon and stars keep pace with him"; the booklet prints "have" for "has" and "peace" for "pace."
+- Evidence: [Complete poem text](https://www.poetryexplorer.net/poem26.php?pid=10029329), [contemporary bibliographic locator to *Ships in Harbour*, page 56](https://upload.wikimedia.org/wikipedia/commons/3/39/The_new_poetry%3B_a_study_outline_%28IA_cu31924013269646%29.pdf), and [1947 newspaper witness](https://edenmartin.com/wp/newspapers/SullivanProgress/SullivanProgress-1945-1948/1947/19471128.pdf).
+- Confidence: High.
+
+### WR-B-015 - [That Beautiful Season the Summer]
+
+- Verified author and source: Henry Wadsworth Longfellow, part 1 of *Evangeline: A Tale of Acadie* (1847).
+- Relationship: Condensed verse excerpt presented as prose. The booklet omits "Then followed" and the intervening "Summer of All-Saints" line and changes "new-created" to "newly created."
+- Evidence: [Scanned complete poetical works with the surrounding *Evangeline* passage](https://upload.wikimedia.org/wikipedia/commons/3/32/The_complete_poetical_works_of_Henry_Wadsworth_Longfellow_%28IA_cu31924076024086%29.pdf) and [independent excerpt witness](https://images-eu.ssl-images-amazon.com/images/I/A1WLOnL4wWL.pdf).
+- Confidence: High.
+
+### WR-B-016 - [Now the Sun Is Rising]
+
+- Corrected author and source: William Wordsworth, "Resolution and Independence," published in *Poems, in Two Volumes* (1807). The booklet misattributes the passage to Longfellow.
+- Relationship: Composite of four clauses extracted from the first two stanzas, reordered and presented as prose with ellipses.
+- Evidence: [Complete comparison text](https://www.poetryexplorer.net/poem26.php?pid=10032939), [publication-history locator](https://www.poetryloverspage.com/poets/wordsworth/collections/poems_in_two_volumes.html), and [Philmont collection witness matching the booklet form](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars2.html).
+- Confidence: High.

@@ -122,3 +122,4 @@
 - Continued Beauty page 56 by correcting Rossetti's title and name, locating Bryant's excerpt, and documenting the transmission of Uvavnuk's song.
 - Completed Beauty page 56 by correcting Herrick's authorship, restoring a Russell passage from *On the Loose*, and documenting the unresolved publication source of a van Dyke quotation.
 - Began Beauty page 57 with Gannett's altered hymn, Emerson's journal passage, and an unresolved Tosco attribution.
+- Completed Beauty page 57 by locating Morton's sonnet and Longfellow's *Evangeline* excerpt and correcting a Longfellow misattribution to Wordsworth.

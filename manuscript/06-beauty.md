@@ -456,22 +456,22 @@ NOTES: Exact-phrase and author searches did not locate another witness; the brac
 WR-ID: WR-B-014
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
-TITLE: [Who Walks with Beauty]
+STATUS: VERIFIED
+TITLE: Who Walks with Beauty
 BOOKLET_AUTHOR: David Morton
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: David Morton
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: First two lines, altered, of the sonnet "Who Walks with Beauty" from Ships in Harbour.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ships in Harbour (1921)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Peace
-NOTES: None
+NOTES: The source reads "Who walks with Beauty has no need of fear; / The sun and moon and stars keep pace with him"; the booklet prints "have" for "has" and "peace" for "pace."
 -->
 
 ## [Who Walks with Beauty]
@@ -484,22 +484,22 @@ Who walks with beauty have no need of fear; the sun and moon and stars keep peac
 WR-ID: WR-B-015
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [That Beautiful Season the Summer]
 BOOKLET_AUTHOR: Henry Wadsworth Longfellow
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Henry Wadsworth Longfellow
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed excerpt from part 1 of Evangeline.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Evangeline: A Tale of Acadie (1847)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Summer
 - Childhood
-NOTES: None
+NOTES: The booklet omits "Then followed" and the intervening line "Called by the pious Acadian peasants the Summer of All-Saints," changes "new-created" to "newly created," and converts the verse passage to prose.
 -->
 
 ## [That Beautiful Season the Summer]
@@ -512,22 +512,22 @@ That beautiful season the Summer! Filled was the air with a dreamy and magical l
 WR-ID: WR-B-016
 PAGE: 57
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Now the Sun Is Rising]
 BOOKLET_AUTHOR: Henry Wadsworth Longfellow
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Wordsworth
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Composite of lines from the first two stanzas of "Resolution and Independence."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Poems, in Two Volumes (1807)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sun
 - Morning
-NOTES: None
+NOTES: The booklet misattributes the passage to Longfellow. It extracts four clauses from Wordsworth's first two stanzas, changes their order, omits substantial intervening text, and presents them as prose with ellipses.
 -->
 
 ## [Now the Sun Is Rising]
