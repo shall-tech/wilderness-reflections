@@ -146,3 +146,122 @@ He's a rolling stone, and it's bred in the bone;
     He's a man who won't fit in.
 
 *Robert W. Service*
+
+<!--
+WR-ID: WR-L-005
+PAGE: 10
+SECTION: Life
+VERIFIED_TITLE: [To Laugh Is to Risk Appearing the Fool]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Abridged
+BOOKLET_RELATIONSHIP: Circulating shortened version of "Risks"
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 10
+SOURCE: research/verification-log.md#wr-l-005---to-laugh-is-to-risk-appearing-the-fool
+EDITION_NOTE: No reliable evidence supports the booklet's attribution to Richard Bach or identifies an authoritative original text. The wording is retained without speculative restoration.
+-->
+
+## [To Laugh Is to Risk Appearing the Fool]
+
+*Abridged circulating text; attribution unresolved.*
+
+To laugh is to risk appearing the fool.
+
+To weep is to risk involvement
+
+To expose feelings is to risk exposing ones true self.
+
+To place your ideas, your dreams before the crowd is to risk loss.<br>
+To love is to risk not being loved in return.
+
+To live is to risk dying.
+
+To hope is to risk despair.
+
+To try at all is to risk failure.
+
+But to risk we must,
+
+Because the greatest hazard in life, is to risk nothing.
+
+The man, the woman, who risks nothing, does nothing, has nothing, is nothing.
+
+*Author unknown; attributed in the booklet to Richard Bach*
+
+<!-- Original Booklet Page 11 -->
+
+<!--
+WR-ID: WR-L-006
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: Believe in Yourself!
+VERIFIED_AUTHOR: Edgar A. Guest
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 11; compared with a 1957 printed witness
+SOURCE: https://s3.amazonaws.com/scschoolfiles/225/1957.pdf
+EDITION_NOTE: The author and complete-work scope are supported, but the original publication and an authoritative source edition remain unidentified. The booklet wording is retained.
+-->
+
+## Believe in Yourself!
+
+*Complete work; authoritative source wording not yet established.*
+
+Believe in yourself! Believe you were made to do any task without calling for aid. Believe, without growing too scornfully proud that you, as the greatest and least are endowed. A mind to do thinking, two hands and two eyes are all the equipment God gives to the wise.
+
+Believe in yourself! You're divinely designed and perfectly made for the work of mankind. This truth you must cling to through danger and pain; the heights man has reached you can also attain, believe to the very last hour, for it's true, that whatever you will you've been gifted to do.
+
+Believe in yourself and step out unafraid. By misgivings and doubt be not easily swayed. You've the right to succeed; the precision of skill which betokens the great you can earn if you will! The wisdom of ages is yours if you'll read. But you've got to believe in yourself to succeed.
+
+*Edgar A. Guest*
+
+<!--
+WR-ID: WR-L-007
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: [The Man in the Arena]
+VERIFIED_AUTHOR: Theodore Roosevelt
+WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Adapted excerpt published under an editorial title
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Citizenship in a Republic," speech delivered at the Sorbonne, April 23, 1910
+SOURCE: https://www.theodorerooseveltcenter.org/encyclopedia/culture-and-society/man-in-the-arena/
+EDITION_NOTE: Restores the consecutive source passage while preserving the booklet's excerpt boundary.
+-->
+
+## [The Man in the Arena]
+
+*Excerpt from “Citizenship in a Republic.”*
+
+It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better.
+
+The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows the great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+
+*Theodore Roosevelt*
+
+<!--
+WR-ID: WR-L-008
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: Come Into the Mountains, Dear Friend
+VERIFIED_AUTHOR: Susan Polis Schutz
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 11; work identity checked against Come Into the Mountains, Dear Friend (1972)
+SOURCE: https://books.google.com/books/about/Come_Into_the_Mountains_Dear_Friend.html?id=ojdbAAAAMAAJ
+EDITION_NOTE: Corrects the author's name. The modern work remains copyrighted, so the user-supplied booklet wording is retained rather than replaced from an external transcription.
+-->
+
+## Come Into the Mountains, Dear Friend
+
+*Complete work; booklet wording retained.*
+
+Come into the mountains, dear friend<br>
+Leave society and take no one with you<br>
+But your true self<br>
+Get close to nature<br>
+Your everyday games will be insignificant<br>
+Notice the clouds spontaneously forming patterns<br>
+And try to do that with your life.
+
+*Susan Polis Schutz*

@@ -37,7 +37,7 @@
 ## Source-corrected edition
 
 - Editorial policy and controlled `WORK_SCOPE` values are established.
-- Life entries WR-L-001 through WR-L-004 form the initial edited-edition batch.
+- Life entries WR-L-001 through WR-L-008 are complete in the edited edition.
 - Excerpt boundaries are preserved; translation witnesses and rights-related source-text limitations are stated explicitly.
 
 ## Source
