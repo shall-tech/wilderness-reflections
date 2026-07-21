@@ -265,3 +265,92 @@ Notice the clouds spontaneously forming patterns<br>
 And try to do that with your life.
 
 *Susan Polis Schutz*
+
+<!--
+WR-ID: WR-L-009
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: [I Expect to Pass This Way but Once]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+BOOKLET_RELATIONSHIP: Variant of an anonymous saying later attributed to Stephen Grellet
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 11
+SOURCE: research/verification-log.md#wr-l-009---i-expect-to-pass-this-way-but-once
+EDITION_NOTE: The saying appeared anonymously before its later attribution to Stephen Grellet and has not been found in his works. The booklet text is retained under an unknown author.
+-->
+
+## [I Expect to Pass This Way but Once]
+
+*Complete circulating saying; attribution unresolved.*
+
+I expect to pass this way but once; any good therefore that I can do, or any kindness that I can show to any fellow creature, let me do it now. Let me not defer or neglect it, for I shall not pass this way again.
+
+*Author unknown; attributed in the booklet to “Etienne Griellet”*
+
+<!--
+WR-ID: WR-L-010
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: [I Will Act as if What I Do Makes a Difference]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+BOOKLET_RELATIONSHIP: Popular aphorism attributed to William James
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 11
+SOURCE: research/verification-log.md#wr-l-010---i-will-act-as-if-what-i-do-makes-a-difference
+EDITION_NOTE: No primary William James source was located. The wording is retained without endorsing the attribution or adding the circulating second sentence, "It does."
+-->
+
+## [I Will Act as if What I Do Makes a Difference]
+
+*Complete circulating aphorism; attribution unresolved.*
+
+I will act as if what I do makes a difference.
+
+*Author unknown; attributed in the booklet to William James*
+
+<!--
+WR-ID: WR-L-011
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: [If You Don't Take Chances]
+VERIFIED_AUTHOR: Michael Spinks
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Touchstones: A Book of Daily Meditations for Men (1986), January 10
+SOURCE: https://dickyricky.com/books/recovery/Touchstones%20-%20Daily%20Meditations%20For%20Men%20-%20Hazelden.pdf
+EDITION_NOTE: Restores "can't" from the checked printed witness in place of the booklet's "cannot."
+-->
+
+## [If You Don't Take Chances]
+
+*Complete quotation.*
+
+If you don't take chances, you can't do anything in life.
+
+*Michael Spinks*
+
+<!--
+WR-ID: WR-L-012
+PAGE: 11
+SECTION: Life
+VERIFIED_TITLE: [At the End of the Open Road]
+VERIFIED_AUTHOR: Louis Simpson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Final line of "Lines Written Near San Francisco," in At the End of the Open Road (1963)
+SOURCE: https://whitmanarchive.org/criticism/wwqr/pdf/anc.00371.pdf
+EDITION_NOTE: The booklet accurately reproduces the selected final line. Its one-line boundary is preserved and labeled as an excerpt.
+-->
+
+## [At the End of the Open Road]
+
+*One-line excerpt from “Lines Written Near San Francisco.”*
+
+At the end of the open road we come to ourselves.
+
+*Louis Simpson*
+
+<!-- Original Booklet Page 12 -->
+<!-- Blank page -->
