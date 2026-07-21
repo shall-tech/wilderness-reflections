@@ -1400,22 +1400,22 @@ Thus it appears that everything here is marching to music, and the harmonies are
 WR-ID: WR-B-045
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Everybody Needs Beauty as Well as Bread]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete sentence from chapter 16, "Hetch Hetchy Valley," in The Yosemite.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Yosemite (1912)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet lowercases Muir's "Nature"; the wording otherwise matches. The sentence occurs in Muir's argument against damming Hetch Hetchy.
 -->
 
 ## [Everybody Needs Beauty as Well as Bread]
@@ -1428,22 +1428,22 @@ Everybody needs beauty as well as bread, places to play in and pray in, where na
 WR-ID: WR-B-046
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Mountains Are Fountains of Men]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two consecutive sentences from a July 1890 journal entry published posthumously.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: John of the Mountains: The Unpublished Journals of John Muir (1938), pages 315-316
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source uses an em dash before "mountain-dwellers" and reads possessive "Nature's workshops." The booklet substitutes a comma and prints "Natures work shops."
 -->
 
 ## [The Mountains Are Fountains of Men]
@@ -1456,22 +1456,22 @@ The mountains are fountains of men as well as of rivers, of glaciers, of fertile
 WR-ID: WR-B-047
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [How Deep Our Sleep Last Night in the Mountains Here]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete journal entry for June 9, 1869, as published in chapter 2 of My First Summer in the Sierra.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: My First Summer in the Sierra, serialized in The Atlantic Monthly and published as a book (1911)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source reads "in the mountain's heart," not the booklet's "in the mountains here"; hyphenates "solemn-sounding"; does not hyphenate "small soothing"; uses an em dash before "how immeasurable" and before "new birds"; and includes a comma after "new flowers."
 -->
 
 ## [How Deep Our Sleep Last Night in the Mountains Here]

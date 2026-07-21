@@ -2127,3 +2127,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Opening sentence of a longer reflection. Muir uses ampersands and continues beyond the booklet's stopping point with a qualification about harmonies extending beyond human powers.
 - Evidence: [University of the Pacific manuscript image, transcription, and date](https://scholarlycommons.pacific.edu/jmn-y2/41/) and [independent attributed excerpt](https://teachersinstitute.yale.edu/curriculum/units/files/90.03.05.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 62, entries 1-3
+
+### WR-B-045 - [Everybody Needs Beauty as Well as Bread]
+
+- Verified author and source: John Muir, chapter 16, "Hetch Hetchy Valley," in *The Yosemite* (1912).
+- Relationship: Complete sentence from Muir's argument against damming Hetch Hetchy. The booklet lowercases Muir's "Nature."
+- Evidence: [Complete chapter with surrounding argument](https://www.yosemite.ca.us/john_muir_writings/the_yosemite/chapter_16.html), [book PDF](https://www.yosemite.ca.us/john_muir_writings/the_yosemite/the_yosemite.pdf), and [National Park Service source attribution](https://home.nps.gov/jomu/learn/historyculture/john-muir-quotes.htm).
+- Confidence: High.
+
+### WR-B-046 - [The Mountains Are Fountains of Men]
+
+- Verified author and source: John Muir, July 1890 journal entry published in *John of the Mountains: The Unpublished Journals of John Muir* (1938), pages 315-316.
+- Relationship: Two consecutive sentences. The booklet substitutes a comma for an em dash and corrupts possessive "Nature's workshops" to "Natures work shops."
+- Evidence: [Quotation and dated page locator](https://en.wikiquote.org/wiki/John_Muir), [National Park Service comparison witness](https://npshistory.com/publications/jomu/brochures/1967.pdf), and [independent book-and-page locator](https://www.reddit.com/r/tipofmytongue/comments/e6iri5).
+- Confidence: High.
+
+### WR-B-047 - [How Deep Our Sleep Last Night in the Mountains Here]
+
+- Verified author and source: John Muir, complete journal entry for June 9, 1869, in chapter 2 of *My First Summer in the Sierra* (1911).
+- Relationship: The booklet changes "in the mountain's heart" to "in the mountains here," alters two hyphens and the source's em-dash punctuation, and drops a comma after "new flowers."
+- Evidence: [Complete chapter and dated entry](https://www.yosemite.ca.us/john_muir_writings/my_first_summer_in_the_sierra/chapter_2.html), [book PDF](https://www.yosemite.ca.us/john_muir_writings/my_first_summer_in_the_sierra/my_first_summer_in_the_sierra.pdf), and [University of the Pacific serialization record](https://scholarlycommons.pacific.edu/jmb/335/).
+- Confidence: High.
