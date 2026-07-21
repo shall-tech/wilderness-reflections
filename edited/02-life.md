@@ -505,6 +505,91 @@ Happiness is a perfume that one cannot shed over another without a few drops fal
 *Anonymous*
 
 <!--
+WR-ID: WR-L-023
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [The Real Way to Get Happiness]
+VERIFIED_AUTHOR: Robert Baden-Powell
+WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Condensation of Baden-Powell's teaching
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Baden-Powell's final message to Scouts (published 1941)
+SOURCE: https://www.scout.org/node/2697
+EDITION_NOTE: Replaces the booklet's later condensation with the corresponding sentence from Baden-Powell's final message while maintaining a one-sentence boundary.
+-->
+
+## [The Real Way to Get Happiness]
+
+*One-sentence excerpt from Baden-Powell's final message to Scouts.*
+
+The real way to get happiness is by giving out happiness to other people.
+
+*Robert Baden-Powell*
+
+<!--
+WR-ID: WR-L-024
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [No One Should Boast of Being Honest]
+VERIFIED_AUTHOR: Waite Phillips, compiler
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14; inclusion checked against Waite Phillips's Epigrams
+SOURCE: https://store.philmontscoutranch.org/waite-phillips-epigrams/
+EDITION_NOTE: Inclusion in Phillips's collection is verified, but original authorship is not. The booklet text is retained and Phillips is identified as compiler rather than conclusively as author.
+-->
+
+## [No One Should Boast of Being Honest]
+
+*Complete epigram from Waite Phillips's collection; original authorship undetermined.*
+
+No one should boast of being honest, dependable, courteous, and considerate for those are fundamental qualities essential to good character that everyone ought to develop and use.
+
+*Collected by Waite Phillips*
+
+<!--
+WR-ID: WR-L-025
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [Live Each Day as You Would Climb a Mountain]
+VERIFIED_AUTHOR: Attribution unresolved; earlier print credits Harold V. Melchert
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14
+SOURCE: https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/NR69471.PDF
+EDITION_NOTE: The booklet credits Joe Porcino, while an apparently earlier fuller version credits Harold V. Melchert. Direct inspection of the reported 1965 publication remains outstanding, so neither attribution is presented as conclusive.
+-->
+
+## [Live Each Day as You Would Climb a Mountain]
+
+*Complete booklet selection; attribution unresolved.*
+
+Live each day as you would climb a mountain. An occasional glance towards the summit puts the goal in mind. Many beautiful scenes can be observed from each new vantage point. Climb steadily, slowly, enjoy each passing moment, and the view from the summit will serve as a fitting climax to the journey.
+
+*Attributed in the booklet to Joe Porcino; earlier print credits Harold V. Melchert*
+
+<!--
+WR-ID: WR-L-026
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [We Who Are Gathered Here]
+VERIFIED_AUTHOR: Ansel Adams
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14; compared with institutional conservation publications
+SOURCE: https://cusp.ws/wp-content/uploads/2017/08/2016_AnnualReport_WEB.pdf
+EDITION_NOTE: Multiple institutional witnesses support the wording and attribution, but no original speech or publication has been located.
+-->
+
+## [We Who Are Gathered Here]
+
+*Complete quotation; original occasion not located.*
+
+We who are gathered here may represent a particular elite, not of money and power, but of concern for the earth for the earth's sake.
+
+*Ansel Adams*
+
+<!--
 WR-ID: WR-L-015
 PAGE: 13
 SECTION: Life
