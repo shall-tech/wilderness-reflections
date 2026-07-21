@@ -2290,3 +2290,40 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two clauses selected from a longer closing passage. The source uses a comma rather than the booklet's colon after "honor the earth" and surrounds the selection with sentences beginning "Hold your hands out over the earth" and "For the gifts of life are the earth's."
 - Evidence: [Project Gutenberg complete first-edition text](https://www.gutenberg.org/cache/epub/73328/pg73328-images.html), [1949 review quoting the longer passage and naming the source](https://www.manasjournal.org/pdf_library/VolumeII_1949/II-26.pdf), and [later book-page locator for the complete passage](https://www.azquotes.com/quote/938050).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 68
+
+### WR-W-008 - [Today the Open Road Is a Six Lane Highway]
+
+- Attribution unresolved: the booklet credits "Eve Merrian," evidently a misspelling of poet Eve Merriam, but no original work or publication containing the three paragraphs was located.
+- Relationship: The complete passage survives in an independent Philmont transcription with the same credit and nearly identical wording, suggesting shared transmission rather than independent confirmation.
+- Evidence: [Independent Philmont comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Low.
+
+### WR-W-009 - [I Have Been Told with Some Regularity]
+
+- Verified author and source: Colin Fletcher, *The Complete Walker* (1968 and revised editions).
+- Relationship: Paragraph from Fletcher's defense of walking against the charge of escaping reality. A publisher-hosted later version reads "statement," "Boeing 747," and "delicious unison," where the booklet has "question," "Boeing 707," and "graceful ... unison"; the differences may be edition revisions.
+- Evidence: [Knopf/Random House author excerpt with surrounding text](https://www.randomhouse.com/knopf/authors/fletcher/excerpt.html) and [1974 educational reprint reflecting the earlier wording](https://files.eric.ed.gov/fulltext/ED099352.pdf).
+- Confidence: High.
+
+### WR-W-010 - [There Is a Brook in the Mountains]
+
+- Verified poet, translator, and work: Ch'u Kuang-hsi (Chu Guangxi), translated by Kenneth Rexroth as "A Mountain Brook" in *One Hundred Poems from the Chinese* (1956).
+- Relationship: Complete translated poem, printed without title or translator credit. The booklet's "Ch'u Ch' Uang" is a malformed version of the poet's romanized name.
+- Evidence: [Complete comparison text identifying poem and poet](https://medium.com/@cindymarek/a-mountain-brook-ch-u-kuang-hsi-fl-742-f6dd80d3c2f3) and [independent Philmont comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Medium.
+
+### WR-W-011 - [The Control of Nature]
+
+- Verified author and source: Rachel Carson, chapter 17, "The Other Road," in *Silent Spring* (1962).
+- Relationship: Opening sentence of Carson's concluding argument; the booklet omits the following sentences about applied entomology and weapons turned against the earth.
+- Evidence: [University of Richmond course extract with complete surrounding passage](https://facultystaff.richmond.edu/~sabrash/ES%20201/Readings/Reading36.pdf) and [book-page comparison locator](https://www.azquotes.com/quote/1060567).
+- Confidence: High.
+
+### WR-W-012 - [That Wonderful World of High Mountains]
+
+- Verified author and source: Lucien Devies, preface to Maurice Herzog's *Annapurna*, translated by Nea Morin and Janet Adam Smith for the 1952 English edition.
+- Relationship: Three sentences from page x of the preface, within a longer argument about climbing, self-expression, and infinity.
+- Evidence: [Scholarly comparison with preface and page citation](https://www.assayjournal.com/lynn-z-bloom-the-slippery-slope-8203ideals-and-ethical-issues-in-high-altitude-climbing-narratives-61.html) and [journal PDF preserving the fuller context](https://www.assayjournal.com/uploads/2/8/2/4/28246027/_6.1_bloom.pdf).
+- Confidence: High.

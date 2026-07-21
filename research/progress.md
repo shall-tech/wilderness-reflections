@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Wilderness source verification is complete through WR-W-007 on original page 67. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-012 on original page 68. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-008, "Today the Open Road Is a Six Lane Highway," on original page 68.
+- Next entry: WR-W-013, "Having Seen the Infinite Compassion," on original page 69.
 
 ## Source
 

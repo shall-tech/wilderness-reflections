@@ -221,13 +221,13 @@ Touch the earth, love the earth, honor the earth: her plains, her valleys, her h
 WR-ID: WR-W-008
 PAGE: 68
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Today the Open Road Is a Six Lane Highway]
 BOOKLET_AUTHOR: Eve Merrian
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
+VERIFIED_AUTHOR: Eve Merriam (attribution not independently sourced)
+WORK_TYPE: Prose Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Three-paragraph outdoor reflection; original work and publication not located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -236,7 +236,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet and its independent Philmont transcription both misspell the credited writer's surname "Merrian" rather than Merriam. No publication in Merriam's bibliographies or searchable text was located for these paragraphs, so authorship remains provisional.
 -->
 
 ## [Today the Open Road Is a Six Lane Highway]
@@ -253,22 +253,22 @@ Climb often not just for the music, but for the in between. The lights and the d
 WR-ID: WR-W-009
 PAGE: 68
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Have Been Told with Some Regularity]
 BOOKLET_AUTHOR: Colin Fletcher, from The Complete Walker
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Colin Fletcher
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Paragraph from The Complete Walker's discussion of walking and alleged escapism.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Complete Walker (1968); subsequently revised
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Fletcher's publisher-hosted revised text reads "statement" rather than "question," "Boeing 747" rather than "Boeing 707," and "white pelicans soaring in delicious unison" rather than the booklet's "graceful white pelicans soaring in unison." These may reflect revision between editions rather than booklet corruption.
 -->
 
 ## [I Have Been Told with Some Regularity]
@@ -281,22 +281,22 @@ I have been told with some regularity that by walking out and away I am "escapin
 WR-ID: WR-W-010
 PAGE: 68
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Is a Brook in the Mountains]
 BOOKLET_AUTHOR: Ch'u Ch' Uang
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ch'u Kuang-hsi (Chu Guangxi); translated by Kenneth Rexroth
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete English translation titled "A Mountain Brook."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: English translation in One Hundred Poems from the Chinese (1956)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet's "Ch'u Ch' Uang" is a malformed rendering of Ch'u Kuang-hsi, the Wade-Giles form of Tang poet Chu Guangxi's name. The translation is reproduced completely but without its title or translator credit.
 -->
 
 ## [There Is a Brook in the Mountains]
@@ -319,22 +319,22 @@ Go by, its clear depths never change.
 WR-ID: WR-W-011
 PAGE: 68
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Control of Nature]
 BOOKLET_AUTHOR: Rachel Carson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Rachel Carson
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening sentence of the concluding argument in Silent Spring.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Silent Spring (1962), chapter 17, "The Other Road"
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet presents the first sentence but omits the following discussion of applied entomology and modern weapons turned against the earth.
 -->
 
 ## [The Control of Nature]
@@ -347,22 +347,22 @@ The control of nature is a phrase conceived in arrogance, born of the Neandertha
 WR-ID: WR-W-012
 PAGE: 68
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [That Wonderful World of High Mountains]
 BOOKLET_AUTHOR: Lucien Devies
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Lucien Devies; English translator Nea Morin and Janet Adam Smith
+WORK_TYPE: Preface Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Three sentences from Devies's preface to Maurice Herzog's Annapurna.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Preface to Annapurna by Maurice Herzog; English edition (1952)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The passage appears on page x of the English edition's preface and continues into a longer account of climbing, self-expression, and infinity.
 -->
 
 ## [That Wonderful World of High Mountains]
