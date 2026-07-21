@@ -2182,3 +2182,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Sentence ending spoken by the fictional narrator Abel. The source reads "then casting up my eyes, thanked the Author of my being"; the booklet replaces that opening with the ungrammatical "I thanked to the Author of my being."
 - Evidence: [Project Gutenberg complete novel](https://www.gutenberg.org/files/942/942-h/942-h.htm), [first-edition bibliographic record and text](https://www.ibiblio.org/eldritch/whh/gmans.htm), and [scanned comparison page](https://upload.wikimedia.org/wikipedia/commons/0/0d/Green_mansions-_a_romance_of_the_tropical_forest_%28IA_greenmansionsromhuds%29.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 63, entries 1-3
+
+### WR-B-052 - [Beauty Created by Nature Is Equal in Value To]
+
+- Attribution unresolved: the statement accords with environmental attorney David Sive's documented campaign to establish aesthetics as a legally cognizable environmental value, but the exact wording and occasion were not located.
+- Relationship: Potentially connected to Sive's Storm King work or later environmental-law teaching; current evidence does not distinguish those possibilities.
+- Evidence: [Environmental Law Institute career profile](https://www.eli.org/celebrating-pioneers-in-environmental-law/david-sive) and [Environmental Law Institute biography describing his aesthetics litigation](https://www.eli.org/bios/david-sive).
+- Confidence: Low.
+
+### WR-B-053 - [The Heavens Declare God's Glory]
+
+- Restored source range: free modern paraphrase of Psalm 19:1-6; the booklet cites only verses 1-4.
+- Relationship: The text's bridegroom, athlete, circuit, and heat images derive from verses 5-6. The exact English translator or paraphraser was not located.
+- Evidence: [Independent witness reproducing the bridegroom-and-athlete wording and correct 1-6 range](https://www.soulfood.com.au/programs/SoulFoodTas_Jun_20.pdf), [translation comparison for verse 5](https://biblehub.com/strongs/psalms/19-5.htm), and [textual notes on Psalm 19's sun imagery](https://bible.org/book/export/html/21483).
+- Confidence: Medium.
+
+### WR-B-054 - [Nothing Is Less Known; Nothing More Neglected]
+
+- Verified author and source: Georges-Louis Leclerc, Comte de Buffon, "Sur la culture et l'exploitation des forêts," *Histoire de l'Académie Royale des Sciences, Mémoires* (1742), pages 233-246.
+- Relationship: Two consecutive sentences in scholarly English translation. The booklet misspells "Louis" as "Lois."
+- Evidence: [Scholarly source, translation, and page documentation](https://dokumen.pub/traces-on-the-rhodian-shore-nature-and-culture-in-western-thought-from-ancient-times-to-the-end-of-the-eighteenth-century-reprint-2020nbsped-9780520343054.html) and [independent scholarly comparison witness](https://www.environmentandsociety.org/sites/default/files/key_docs/eh164_kwiatowska_holland.pdf).
+- Confidence: High.

@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-051 on original page 62; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-054 on original page 63; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-052, "Beauty Created by Nature Is Equal in Value To," on original page 63.
+- Next entry: WR-B-055, "The Thoughts of the Earth Are My Thoughts," on original page 63.
 
 ## Source
 

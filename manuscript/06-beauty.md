@@ -1609,22 +1609,22 @@ I thanked to the Author of my being for the gift of that wild forest, those gree
 WR-ID: WR-B-052
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Beauty Created by Nature Is Equal in Value To]
 BOOKLET_AUTHOR: David Sive
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: David Sive (exact source unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Consistent with Sive's documented legal advocacy for aesthetics as an environmental value, but the exact statement and occasion were not located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: Authoritative biographies confirm Sive's role in establishing legal recognition for natural beauty, especially in the Storm King proceedings, but do not reproduce this quotation.
 -->
 
 ## [Beauty Created by Nature Is Equal in Value To]
@@ -1637,22 +1637,22 @@ Beauty created by nature is equal in value to, and to be accorded reverence equa
 WR-ID: WR-B-053
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Heavens Declare God's Glory]
 BOOKLET_AUTHOR: Psalm 19:1-4
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Psalm 19:1-6 (paraphrase; translator unidentified)
+WORK_TYPE: Scripture Paraphrase
+EXCERPT: Yes
+RELATIONSHIP: Free modern paraphrase of Psalm 19:1-6, extending two verses beyond the booklet's 1-4 citation.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Biblical source ancient; exact English paraphrase not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet text includes the sun-as-bridegroom, athlete, circuit, and heat images of verses 5-6, so its Psalm 19:1-4 reference is incomplete. The exact translation or paraphrase source remains unidentified.
 -->
 
 ## [The Heavens Declare God's Glory]
@@ -1665,22 +1665,22 @@ The heavens declare God's glory and the magnificence of what made them. Each new
 WR-ID: WR-B-054
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nothing Is Less Known; Nothing More Neglected]
 BOOKLET_AUTHOR: Georges Lois Leclerc, comte de Buffon
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Georges-Louis Leclerc, Comte de Buffon
+WORK_TYPE: Scientific Memoir Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two consecutive translated sentences from "Sur la culture et l'exploitation des forêts."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Histoire de l'Académie Royale des Sciences, Mémoires (1742), pages 233-246
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet misspells Buffon's middle name as "Lois" instead of "Louis" and lowercases his title. The English wording matches a published scholarly translation.
 -->
 
 ## [Nothing Is Less Known; Nothing More Neglected]
