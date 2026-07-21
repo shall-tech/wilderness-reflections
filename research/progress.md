@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-097 on original page 44; Life and Leadership are complete.
+- Source verification is complete through WR-KW-099 on original page 44; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-098, "The Art of Land Doctoring," on original page 44.
+- Next entry: WR-KW-100, "Man Always Kills the Thing He Loves," on original page 45.
 
 ## Source
 

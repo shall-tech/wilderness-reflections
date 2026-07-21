@@ -2826,22 +2826,22 @@ The concept of public welfare is broad and inclusive... The values it represents
 WR-ID: WR-KW-098
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Art of Land Doctoring]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing sentence of "Wilderness as a Land Laboratory," as revised for A Sand County Almanac.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Original essay in The Living Wilderness (July 1941); revised wording in A Sand County Almanac (1949)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Land health
 - Science
-NOTES: None
+NOTES: The booklet follows the posthumous book's "yet to be born" wording; the 1941 periodical version reads "is a job for the future" and hyphenates "land-doctoring" and "land-health."
 -->
 
 ## [The Art of Land Doctoring]
@@ -2854,22 +2854,22 @@ The art of land doctoring is being practiced with vigor, but the science of land
 WR-ID: WR-KW-099
 PAGE: 44
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Winning Is Realizing You Already Have Won]
 BOOKLET_AUTHOR: Joe Henderson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Joe Henderson
+WORK_TYPE: Running Commentary Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Selected numbered contrasts from Henderson's "Running Commentary" on winning and losing; a 1986 newsletter reprints the source column.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Runner's World column, exact issue and date not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Winning
 - Persistence
-NOTES: None
+NOTES: The booklet prints "Your had" for "You had" and appears to select and reorder portions of a longer numbered column.
 -->
 
 ## [Winning Is Realizing You Already Have Won]

@@ -1619,3 +1619,19 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Excerpt from the Court's opinion. The booklet misspells Douglas as "Douglass," omits "well-balanced as well as carefully patrolled" after "clean," and uses an ellipsis for intervening context.
 - Evidence: [Official U.S. Reports opinion](https://tile.loc.gov/storage-services/service/ll/usrep/usrep348/usrep348026/usrep348026.pdf) and [legal-context confirmation](https://www.floridalawreview.com/article/79122-new-attitudes-about-legal-protection-for-the-remains-of-florida-s-natural-environment.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 44, entries 5-6
+
+### WR-KW-098 - [The Art of Land Doctoring]
+
+- Verified author and source: Aldo Leopold, "Wilderness as a Land Laboratory," first published in *The Living Wilderness* (July 1941) and revised for *A Sand County Almanac* (1949).
+- Relationship: Closing sentence. The booklet follows the book's "yet to be born" wording; the original article says "is a job for the future" and hyphenates "land-doctoring" and "land-health."
+- Evidence: [Scan of the 1941 article](https://objects.lib.uidaho.edu/taylorarchive/b9-275.pdf), [complete book text at the revised sentence](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac), and [U.S. Geological Survey comparison and 1941 citation](https://pubs.usgs.gov/tm/15/a01/pdf/tm15-a1.pdf).
+- Confidence: High.
+
+### WR-KW-099 - [Winning Is Realizing You Already Have Won]
+
+- Verified author and form: Joe Henderson, a "Running Commentary" column on winning and losing, later reprinted in a 1986 runners' newsletter.
+- Relationship: Selected contrasts from a longer numbered column. The booklet prints "Your had" for the source's "You had" and appears to select and reorder portions.
+- Evidence: [1986 newsletter reprint headed "Running Commentary by Joe Henderson"](https://peiroadrunners.ca/static/history/newsletters/1986/04.pdf) and [independent retrospective excerpts](https://livingthestotanlife.blogspot.com/2019/).
+- Confidence: Medium; the exact original *Runner's World* issue and date remain unlocated.
