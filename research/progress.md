@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-SA-009 on original page 50; Life, Leadership, and Knowledge and Wisdom are complete.
+- Source verification is complete through WR-SA-011 on original page 51; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-SA-010, "The Mountains Are Calling," on original page 51.
+- Next entry: WR-B-001, "I Looked Into The Face," on original page 55.
 
 ## Source
 

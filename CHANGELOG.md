@@ -117,3 +117,4 @@
 - Began Scouting and Adventures verification with Phillips's Philmont dedication, Hingley's Eagle poem, and the Russells' On the Loose passage.
 - Began Scouting and Adventures page 50 with an unresolved dated Scouting poem, Wilder's condensed Matchmaker speech, and McQueen's 1963 LIFE quotation.
 - Completed Scouting and Adventures page 50 with two further On the Loose passages and Muir's altered Yellowstone paragraph.
+- Completed Scouting and Adventures verification with Muir's fuller 1873 letter context and a composite of two Robert Louis Stevenson works.

@@ -320,22 +320,22 @@ Climb the mountains and get their good tidings. Nature's peace will flow into yo
 WR-ID: WR-SA-010
 PAGE: 51
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Mountains Are Calling]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Letter Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening clause of the closing sentence of Muir's September 3, 1873 letter to his sister Sarah Muir Galloway.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Letter written September 3, 1873; published in The Life and Letters of John Muir (1924)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: None
 THEMES:
 - Mountains
 - Calling
-NOTES: None
+NOTES: The booklet stops before "and I will work on while I can, studying incessantly," changing the fuller sentence's emphasis.
 -->
 
 ## [The Mountains Are Calling]
@@ -348,22 +348,22 @@ The mountains are calling and I must go.
 WR-ID: WR-SA-011
 PAGE: 51
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Sometimes It Is Better to Travel]
 BOOKLET_AUTHOR: Travels with a Donkey
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Robert Louis Stevenson
+WORK_TYPE: Composite Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Paraphrases a sentence from "El Dorado" and joins it to the opening of a passage in Travels with a Donkey in the Cévennes.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Travels with a Donkey in the Cévennes (1879); "El Dorado" collected in Virginibus Puerisque (1881)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: The booklet supplies a source title but no personal attribution.
 THEMES:
 - Travel
 - Journey
-NOTES: None
+NOTES: The booklet gives only the second work's shortened title and omits Stevenson's name. "Sometimes it is better to travel than arrive" loosely recasts "to travel hopefully is a better thing than to arrive" from "El Dorado"; the second sentence truncates the Travels passage before "I travel for travel's sake."
 -->
 
 ## [Sometimes It Is Better to Travel]

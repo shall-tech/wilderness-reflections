@@ -1775,3 +1775,19 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Selected passage from one paragraph. The booklet omits two sentences after "mountaineer," changes plural "winds" to singular "wind" while retaining "their," and stops before the paragraph's closing sentences.
 - Evidence: [Full scan of *Our National Parks*](https://www.yosemite.ca.us/john_muir_writings/our_national_parks/our_national_parks.pdf), [periodical and book locator](https://libquotes.com/john-muir/quote/lbs9r3i), and [independent comparison excerpt](https://files.eric.ed.gov/fulltext/ED374992.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Scouting and Adventures page 51
+
+### WR-SA-010 - [The Mountains Are Calling]
+
+- Verified author and source: John Muir, September 3, 1873 letter to his sister Sarah Muir Galloway, later published in *The Life and Letters of John Muir* (1924).
+- Relationship: Opening clause of the letter's closing sentence. The booklet omits "and I will work on while I can, studying incessantly," changing the emphasis of the familiar quotation.
+- Evidence: [University of the Pacific's John Muir Papers exhibit](https://scholarlycommons.pacific.edu/exhibit/john-muir/muir-archives/letter-from-john-muir-to-sarah-muir-galloway-1873-sep-3/) and [educational edition with letter, addressee, date, and publication citation](https://www.hmhco.com/~/media/sites/home/countries/us/california/190928-ca-hss-review/grade-4/california-places_and_regions.pdf).
+- Confidence: High.
+
+### WR-SA-011 - [Sometimes It Is Better to Travel]
+
+- Restored author and sources: Robert Louis Stevenson. The booklet provides only the shortened title *Travels with a Donkey* and no personal attribution.
+- Relationship: Composite. "Sometimes it is better to travel than arrive" loosely recasts "to travel hopefully is a better thing than to arrive" from "El Dorado" in *Virginibus Puerisque* (1881); "For my part, I travel not to go anywhere, but to go" begins a longer passage in *Travels with a Donkey in the Cévennes* (1879).
+- Evidence: [Project Gutenberg *Travels* text and surrounding passage](https://www.gutenberg.org/files/21686/21686-h/21686-h.htm), [Project Gutenberg *Virginibus Puerisque*](https://www.gutenberg.org/files/386/386-h/386-h.htm), and [Project Gutenberg's full "El Dorado" ending](https://www.gutenberg.org/ebooks/69825.html.images).
+- Confidence: High.
