@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-022, correcting Schutz and Publilius Syrus identities and restoring the Bach and anonymous 1856 maxim wording.
 - Extended the source-corrected Life edition through WR-L-018, restoring the Einstein and Thoreau excerpts while retaining one unresolved maxim.
 - Extended the source-corrected Life edition through WR-L-015, restoring the Thoreau passage and documenting abridged or witness-limited texts.
 - Extended the source-corrected Life edition through WR-L-012, retaining two sayings under unresolved authorship and restoring two verified short quotations.

@@ -410,6 +410,100 @@ Grow wild according to thy nature, like these sedges and brakes, which will neve
 
 *Henry David Thoreau*
 
+<!-- Original Booklet Page 14 -->
+
+<!--
+WR-ID: WR-L-019
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: To My Friend
+VERIFIED_AUTHOR: Susan Polis Schutz
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14
+SOURCE: https://books.google.com/books/about/Come_Into_the_Mountains_Dear_Friend.html?id=ojdbAAAAMAAJ
+EDITION_NOTE: Corrects the intended author's name. The poem was not located in an inspectable source edition, so its placement and source wording remain unresolved.
+-->
+
+## To My Friend
+
+*Complete poem; source placement unresolved and booklet wording retained.*
+
+You have such a positive outlook on life<br>
+Your words are always encouraging<br>
+Your face is lit up with excitement<br>
+Your actions are so straightforward<br>
+Your inner self helps you achieve so much<br>
+When people are around you they seem to absorb uplifting attitudes<br>
+When I think of you I can only think of happiness<br>
+and how lucky I am to know you.
+
+*Susan Polis Schutz*
+
+<!--
+WR-ID: WR-L-020
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [Don't Be Dismayed at Good-Byes]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977)
+SOURCE: https://archives.nd.edu/observer/1994-04-15_v26_124.pdf
+EDITION_NOTE: Restores "good-byes" and "those who are friends" while preserving the booklet's complete short-passage boundary.
+-->
+
+## [Don't Be Dismayed at Good-Byes]
+
+*Short excerpt from Illusions: The Adventures of a Reluctant Messiah.*
+
+Don't be dismayed at good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-L-021
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [An Agreeable Companion on a Journey]
+VERIFIED_AUTHOR: Publilius Syrus
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Darius Lyman, The Moral Sayings of Publius Syrus, a Roman Slave (1856), maxim 143
+SOURCE: https://en.wikiquote.org/wiki/Publilius_Syrus
+EDITION_NOTE: Preserves the verified 1856 translation and treats the booklet's "Max 143" as a citation rather than part of the attribution.
+-->
+
+## [An Agreeable Companion on a Journey]
+
+*Complete maxim.*
+
+An agreeable companion on a journey is as good as a carriage.
+
+*Publilius Syrus; translated by Darius Lyman*
+
+<!--
+WR-ID: WR-L-022
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [Happiness Is a Perfume]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Complete
+BOOKLET_RELATIONSHIP: Modernized anonymous maxim
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Punch, October 11, 1856, p. 147
+SOURCE: https://www.firstnerve.com/2008/10/happiness-is-perfume.html
+EDITION_NOTE: Restores the earliest located anonymous wording and does not adopt later Emerson or Og Mandino attributions.
+-->
+
+## [Happiness Is a Perfume]
+
+*Complete anonymous maxim.*
+
+Happiness is a perfume that one cannot shed over another without a few drops falling on oneself.
+
+*Anonymous*
+
 <!--
 WR-ID: WR-L-015
 PAGE: 13
