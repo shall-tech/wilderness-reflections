@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-057 on original page 63; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Beauty source verification is complete through WR-B-058 on original page 63; original page 64 is blank. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-058, "Then I Was Standing on the Highest Mountain," on original page 63.
+- Next entry: WR-W-001, "Wilderness," on original page 65.
 
 ## Source
 

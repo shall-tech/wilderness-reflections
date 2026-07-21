@@ -2228,3 +2228,12 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: One sentence. The source reads "really live," not the booklet's "truly live," and continues "All else is illusion, or mere endurance."
 - Evidence: [1883 periodical and page locator with fuller text](https://libquotes.com/richard-jefferies/quote/lbj2q3r), [scholarly article quoting the source form](https://unglueit-files.s3.amazonaws.com/ebf/84498f95482b4f4e878fb2ba81cbf7a5.pdf), and [museum-exhibition review identifying the 1884 collection](https://www.australianbookreview.com.au/abr-online/archive/2011/november-2011-no-336/61-november-2011/591-stephen-calloway-and-lynn-federle-orr-eds-the-cult-of-beauty).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 63, entry 7
+
+### WR-B-058 - [Then I Was Standing on the Highest Mountain]
+
+- Verified speaker and source: Nicholas Black Elk, as told through John G. Neihardt, chapter 3, "The Great Vision," in *Black Elk Speaks* (1932).
+- Relationship: Extended passage from the culminating portion of the great vision. The published text reads "can tell," singular "the shape of all shapes," "one of many hoops," and "wide as daylight and as starlight"; the booklet changes each, most consequentially corrupting "starlight" to "straight."
+- Evidence: [Complete-edition comparison text and bibliographic record](https://www.olivebiodiesel.com/Intellectuals/black_elk.pdf), [chapter and 1932 source identification](https://www.verostko.com/archive/spalding/flowers96.pdf), and [independent complete comparison witness](https://libquotes.com/black-elk/quote/lbm7z3m).
+- Confidence: High.

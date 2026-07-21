@@ -1788,22 +1788,22 @@ The hours when the mind is absorbed by beauty are the only hours when we truly l
 WR-ID: WR-B-058
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Then I Was Standing on the Highest Mountain]
 BOOKLET_AUTHOR: Black Elk
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Nicholas Black Elk, as told through John G. Neihardt
+WORK_TYPE: Oral Narrative Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from chapter 3, "The Great Vision," in Black Elk Speaks.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Black Elk Speaks (1932)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The published text reads "can tell," singular "the shape of all shapes," "one of many hoops," and "wide as daylight and as starlight." The booklet changes these to "could tell," plural "shapes," "one of the many hoops," and the corrupted "wide as daylight and as straight."
 -->
 
 ## [Then I Was Standing on the Highest Mountain]

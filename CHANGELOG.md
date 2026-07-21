@@ -137,3 +137,4 @@
 - Completed Beauty page 62 by identifying Hudson's *Green Mansions* sentence and documenting its corrupted booklet opening.
 - Began Beauty page 63 with an unresolved Sive statement, correction of the Psalm 19 source range, and Buffon's 1742 forestry memoir.
 - Continued Beauty page 63 with two provenance-unresolved traditional texts and Jefferies's altered sentence from "The Pageant of Summer."
+- Completed Beauty verification with Black Elk's great-vision passage, documenting the booklet's corruption of "starlight" to "straight."
