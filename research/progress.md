@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-040 on original page 61; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-044 on original page 61; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-041, "There Can Be No Greater Moral Obligation," on original page 61.
+- Next entry: WR-B-045, "Everybody Needs Beauty as Well as Bread," on original page 62.
 
 ## Source
 

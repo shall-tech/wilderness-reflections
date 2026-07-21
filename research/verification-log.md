@@ -2097,3 +2097,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Sentence excerpt; the booklet shortens the author's name to Hiram Chittenden.
 - Evidence: [University of Washington source citation](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/IV.html) and [University of Washington curriculum bibliography](https://content.lib.washington.edu/curriculumpackets/Building_Nature.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 61, entries 4-7
+
+### WR-B-041 - [There Can Be No Greater Moral Obligation]
+
+- Verified author and source: Frank Fraser Darling, "The Future Environments of Man," the sixth 1969 BBC Reith Lecture in the series *Wilderness and Plenty*.
+- Relationship: Closing-page sentence. The source reads "There can be no greater moral obligation than"; the booklet inserts "in the environmental field."
+- Evidence: [BBC transcript with surrounding passage](https://downloads.bbc.co.uk/rmhttp/radio4/transcripts/1969_reith6.pdf).
+- Confidence: High.
+
+### WR-B-042 - [For Oft When on My Couch I Lie]
+
+- Verified author and source: William Wordsworth, final stanza of "I Wandered Lonely as a Cloud," first published in *Poems, in Two Volumes* (1807).
+- Relationship: Complete final stanza. The booklet changes several punctuation marks and lowercases "Daffodils."
+- Evidence: [Facsimile-linked 1815 text](https://en.wikisource.org/wiki/Page%3APoems_by_William_Wordsworth_%281815%29_Volume_1.djvu/389) and [nineteenth-century poetry anthology with date and comparison text](https://upload.wikimedia.org/wikipedia/commons/1/14/British_poets_of_the_nineteenth_century%3B_%28IA_britishpoetsofni01page%29.pdf).
+- Confidence: High.
+
+### WR-B-043 - [O, These Vast, Calm, Measureless Mountain Days]
+
+- Verified author and source: John Muir, journal entry for June 23, 1869, in *My First Summer in the Sierra* (1911).
+- Relationship: First two sentences. The booklet prints erroneous "O'," omits "at once" before "to rest," changes the first sentence's punctuation, and omits the continuation beginning "Nevermore."
+- Evidence: [Complete book text and dated passage](https://www.yosemite.ca.us/john_muir_writings/my_first_summer_in_the_sierra/my_first_summer_in_the_sierra.pdf) and [first-edition scan](https://upload.wikimedia.org/wikipedia/commons/a/a0/My_first_summer_in_the_Sierra_%28IA_myfirstsummer00muir%29.pdf).
+- Confidence: High.
+
+### WR-B-044 - [Thus It Appears That Everything Here Is Marching to Music]
+
+- Verified author and source: John Muir, Yosemite notebook, circa 1887.
+- Relationship: Opening sentence of a longer reflection. Muir uses ampersands and continues beyond the booklet's stopping point with a qualification about harmonies extending beyond human powers.
+- Evidence: [University of the Pacific manuscript image, transcription, and date](https://scholarlycommons.pacific.edu/jmn-y2/41/) and [independent attributed excerpt](https://teachersinstitute.yale.edu/curriculum/units/files/90.03.05.pdf).
+- Confidence: High.

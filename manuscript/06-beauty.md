@@ -1283,22 +1283,22 @@ Ordinarily the demands of utility are imperative and scenic beauty where it stan
 WR-ID: WR-B-041
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [There Can Be No Greater Moral Obligation]
 BOOKLET_AUTHOR: Frank Fraser Darling
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Frank Fraser Darling
+WORK_TYPE: Radio Lecture Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence from the sixth and final 1969 BBC Reith Lecture in the series Wilderness and Plenty.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Future Environments of Man," BBC Reith Lectures (1969)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source reads "There can be no greater moral obligation than"; the booklet inserts "in the environmental field" before "than."
 -->
 
 ## [There Can Be No Greater Moral Obligation]
@@ -1311,22 +1311,22 @@ There can be no greater moral obligation in the environmental field than to ease
 WR-ID: WR-B-042
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [For Oft When on My Couch I Lie]
 BOOKLET_AUTHOR: William Wordsworth
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Wordsworth
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Final stanza of "I Wandered Lonely as a Cloud," often called "Daffodils."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Poems, in Two Volumes (1807)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The 1815 text has no commas after "oft," "eye," or "fills," uses a comma after "solitude," and capitalizes "Daffodils." The booklet's wording is otherwise complete for the stanza.
 -->
 
 ## [For Oft When on My Couch I Lie]
@@ -1344,22 +1344,22 @@ And dances with the daffodils.
 WR-ID: WR-B-043
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [O, These Vast, Calm, Measureless Mountain Days]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: First two sentences of Muir's journal entry for June 23, 1869.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: My First Summer in the Sierra (1911)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet prints erroneous "O'," omits "at once" before "to rest," and stops before the entry's sentence beginning "Nevermore." The source begins "Oh" and ends its first sentence with an exclamation point.
 -->
 
 ## [O, These Vast, Calm, Measureless Mountain Days]
@@ -1372,22 +1372,22 @@ O', these vast, calm, measureless mountain days inciting at once to work and res
 WR-ID: WR-B-044
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Thus It Appears That Everything Here Is Marching to Music]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Notebook Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening sentence of a longer notebook reflection on natural harmonies.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Yosemite notebook, circa 1887; exact first print publication not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: Muir's manuscript uses ampersands and continues "however far these harmonies may extend beyond our powers, they are simple enough on the surface." The booklet expands the ampersands and stops before that continuation.
 -->
 
 ## [Thus It Appears That Everything Here Is Marching to Music]

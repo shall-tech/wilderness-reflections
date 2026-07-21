@@ -131,3 +131,4 @@
 - Completed Beauty page 59 and began page 60 with one unresolved personal attribution, Moffitt's complete poem, and a Josiah Stamp saying lacking a primary source.
 - Completed Beauty page 60 with the Phillips epigram collection, an unresolved Julie Fine poem, Leopold's "Marshland Elegy," and Muir's "The American Forests."
 - Began Beauty page 61 with an anonymous Philmont-circulated poem, Carmer's Storm King testimony, and Chittenden's 1910 scenery essay.
+- Completed Beauty page 61 with Fraser Darling's final Reith lecture, Wordsworth's daffodils stanza, and two Muir journal and notebook excerpts.
