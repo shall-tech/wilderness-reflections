@@ -764,6 +764,48 @@ And eternity in an hour.
 *William Blake*
 
 <!--
+WR-ID: WR-L-034
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [You Can Only Go Halfway into the Darkest Forest]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 15
+SOURCE: https://womenscenter.virginia.edu/2020/07/are-we-halfway-there-yet
+EDITION_NOTE: The English saying is widely circulated, but no Chinese wording, author, or early source was located. The claimed cultural attribution is not endorsed.
+-->
+
+## [You Can Only Go Halfway into the Darkest Forest]
+
+*Complete circulating proverb; cultural origin unresolved.*
+
+You can only go halfway into the darkest forest, then you are coming out the other side.
+
+*Author and cultural origin unknown; labeled “Chinese Proverb” in the booklet*
+
+<!--
+WR-ID: WR-L-035
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [The Worst Sin Towards Our Fellow Creatures]
+VERIFIED_AUTHOR: George Bernard Shaw
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Devil's Disciple (1897), act 2
+SOURCE: https://www.gutenberg.org/ebooks/3638
+EDITION_NOTE: Restores Shaw's "towards" and the colon before the concluding clause.
+-->
+
+## [The Worst Sin Towards Our Fellow Creatures]
+
+*One-line excerpt from The Devil's Disciple, act 2.*
+
+The worst sin towards our fellow creatures is not to hate them, but to be indifferent to them: that's the essence of inhumanity.
+
+*George Bernard Shaw*
+
+<!--
 WR-ID: WR-L-015
 PAGE: 13
 SECTION: Life
