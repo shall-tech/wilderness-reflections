@@ -590,6 +590,93 @@ We who are gathered here may represent a particular elite, not of money and powe
 *Ansel Adams*
 
 <!--
+WR-ID: WR-L-027
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [There Are Beginnings and There Are Endings]
+VERIFIED_AUTHOR: John Hurst
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14; matched by a 1998 printed witness
+SOURCE: https://www.digifind-it.com/princetonday/data/pds-links/yearbooks/1998.pdf
+EDITION_NOTE: The transmitted wording and attribution are independently attested, but Hurst's identity and the original farewell context remain unknown.
+-->
+
+## [There Are Beginnings and There Are Endings]
+
+*Complete farewell statement; original context not located.*
+
+There are beginnings and there are endings. What meaning and effect your experience here will have in your life only you will ultimately know. The responsibility as always, is yours to make of it what you will. Bon Voyage, my friends.
+
+*John Hurst*
+
+<!--
+WR-ID: WR-L-028
+PAGE: 14
+SECTION: Life
+VERIFIED_TITLE: [All Paths Lead Nowhere]
+VERIFIED_AUTHOR: Carlos Castaneda
+WORK_SCOPE: Adapted
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 14; source identity checked against The Teachings of Don Juan (1968)
+SOURCE: https://www.azquotes.com/author/2613-Carlos_Castaneda/tag/heart
+EDITION_NOTE: Corrects Castaneda's name. The booklet compresses several sentences into one; restoring the full dialogue would violate the approved selection boundary, so the adaptation is retained and labeled.
+-->
+
+## [All Paths Lead Nowhere]
+
+*Adaptation of the path-with-heart dialogue in The Teachings of Don Juan.*
+
+All paths lead nowhere, so it is important to choose a path that has heart
+
+*Carlos Castaneda*
+
+<!-- Original Booklet Page 15 -->
+
+<!--
+WR-ID: WR-L-029
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: The Road Not Taken
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Atlantic Monthly, August 1915; collected in Mountain Interval (1916)
+SOURCE: https://www.poetryfoundation.org/poems/44272/the-road-not-taken
+EDITION_NOTE: Restores the complete poem's title, lineation, wording, and punctuation after numerous booklet corruptions.
+-->
+
+## The Road Not Taken
+
+*Complete work.*
+
+Two roads diverged in a yellow wood,<br>
+And sorry I could not travel both<br>
+And be one traveler, long I stood<br>
+And looked down one as far as I could<br>
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,<br>
+And having perhaps the better claim,<br>
+Because it was grassy and wanted wear;<br>
+Though as for that the passing there<br>
+Had worn them really about the same,
+
+And both that morning equally lay<br>
+In leaves no step had trodden black.<br>
+Oh, I kept the first for another day!<br>
+Yet knowing how way leads on to way,<br>
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh<br>
+Somewhere ages and ages hence:<br>
+Two roads diverged in a wood, and I—<br>
+I took the one less traveled by,<br>
+And that has made all the difference.
+
+*Robert Frost*
+
+<!--
 WR-ID: WR-L-015
 PAGE: 13
 SECTION: Life
