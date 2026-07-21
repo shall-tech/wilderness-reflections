@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-B-033 on original page 60; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-037 on original page 60; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-034, "To See Is One of God's Great Gifts," on original page 60.
+- Next entry: WR-B-038, "I Remember," on original page 61.
 
 ## Source
 

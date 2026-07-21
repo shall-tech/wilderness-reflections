@@ -1068,22 +1068,22 @@ Indifference to the aesthetic will in the long run lessen the economic product..
 WR-ID: WR-B-034
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [To See Is One of God's Great Gifts]
 BOOKLET_AUTHOR: Waite Phillips, Epigrams
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Waite Phillips
 WORK_TYPE: Quotation
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete epigram as preserved in a later family compilation; original composition or circulation date not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Original date not located; collected in Waite Phillips: A Compilation of Epigrams, Photos & More (2018)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Perception
 - Beauty
-NOTES: None
+NOTES: A later quotation witness matches the booklet wording. The family compilation describes its contents as sayings collected or created by Phillips, so original authorship cannot be established as firmly as collection provenance.
 -->
 
 ## [To See Is One of God's Great Gifts]
@@ -1096,22 +1096,22 @@ To see is one of God's great gifts to man and to comprehend what we see is doubl
 WR-ID: WR-B-035
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [So Much for Me Here]
 BOOKLET_AUTHOR: Julie Fine
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Julie Fine (identity and provenance unverified)
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: No independent publication or biographical source was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Happiness
 - Discovery
-NOTES: None
+NOTES: Searches for distinctive phrases and the credited name produced no reliable comparison witness.
 -->
 
 ## [So Much for Me Here]
@@ -1128,22 +1128,22 @@ Perfectly, yet its parts are interchangeable.
 WR-ID: WR-B-036
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Our Ability to Perceive Quality in Nature]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Three consecutive sentences from "Marshland Elegy."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Sand County Almanac and Sketches Here and There (1949)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Perception
-NOTES: None
+NOTES: The booklet wording matches the collected passage.
 -->
 
 ## [Our Ability to Perceive Quality in Nature]
@@ -1156,22 +1156,22 @@ Our ability to perceive quality in nature begins, as in art, with the pretty. It
 WR-ID: WR-B-037
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Sequoias, Kings of Their Race]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence segment from "The American Forests," later collected as chapter 10 of Our National Parks.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The American Forests," The Atlantic Monthly (August 1897); collected in Our National Parks (1901)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Forests
 - God
-NOTES: None
+NOTES: The source has a comma after "sky" and "the lilies" rather than the booklet's "lilies." The excerpt begins mid-sentence and omits the surrounding continental survey of forests.
 -->
 
 ## [Sequoias, Kings of Their Race]

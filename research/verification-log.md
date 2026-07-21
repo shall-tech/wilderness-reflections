@@ -2044,3 +2044,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Later witnesses reproduce substantially the same wording as the booklet.
 - Evidence: [Dated secondary quotation and contextual discussion](https://www.researchgate.net/publication/263183003_THE_NEXT_ECONOMY_TRANSITIONS_FROM_GLOBALIZATION_TO_ECO-LOCALISM) and [independent attributed witness](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf).
 - Confidence: Low.
+
+## 2026-07-20 - Beauty page 60, entries 3-6
+
+### WR-B-034 - [To See Is One of God's Great Gifts]
+
+- Verified collection provenance: Waite Phillips, collected in *Waite Phillips: A Compilation of Epigrams, Photos & More* (2018).
+- Relationship: Complete epigram. The family compilation describes its contents as sayings collected or created by Phillips, leaving original authorship and date less certain than the collection provenance.
+- Evidence: [Family compilation record and description](https://www.goodreads.com/en/book/show/54555803-waite-phillips-a-compilation-of-epigrams-photos-more) and [complete attributed comparison text](https://www.azquotes.com/quote/533374).
+- Confidence: Medium.
+
+### WR-B-035 - [So Much for Me Here]
+
+- Attribution unresolved: no independent publication or biographical source was located for Julie Fine.
+- Relationship: Searches for distinctive phrases produced no reliable comparison witness.
+- Evidence: Booklet text and attribution only.
+- Confidence: Low.
+
+### WR-B-036 - [Our Ability to Perceive Quality in Nature]
+
+- Verified author and source: Aldo Leopold, "Marshland Elegy," in *A Sand County Almanac and Sketches Here and There* (1949).
+- Relationship: Three consecutive sentences; the booklet wording matches the collected passage.
+- Evidence: [Scholarly discussion with book-page citation](https://jst.aberdeenunipress.org/article/45/galley/45/download/) and [complete passage locator](https://www.azquotes.com/author/8737-Aldo_Leopold/tag/quality).
+- Confidence: High.
+
+### WR-B-037 - [Sequoias, Kings of Their Race]
+
+- Verified author and source: John Muir, "The American Forests," first published in *The Atlantic Monthly* (August 1897) and collected as chapter 10 of *Our National Parks* (1901).
+- Relationship: Mid-sentence excerpt from Muir's survey of North American forests. The source has a comma after "sky" and reads "the lilies."
+- Evidence: [The Atlantic first publication](https://www.theatlantic.com/magazine/archive/1897/08/the-american-forests/305017/), [complete 1901 chapter text](https://www.yosemite.ca.us/john_muir_writings/our_national_parks/chapter_10.html), and [book-and-page locator](https://libquotes.com/john-muir/quote/lbq2d0v).
+- Confidence: High.
