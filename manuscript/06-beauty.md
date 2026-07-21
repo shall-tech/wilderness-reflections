@@ -260,22 +260,22 @@ And move my inward parts with joy.
 WR-ID: WR-B-008
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
-TITLE: [Gather Ye Rosebuds]
+STATUS: VERIFIED
+TITLE: To the Virgins, to Make Much of Time
 BOOKLET_AUTHOR: Robert Merrick
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Robert Herrick
 WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: First stanza of "To the Virgins, to Make Much of Time."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Hesperides (1648)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Flowers
 - Time
-NOTES: None
+NOTES: The booklet misattributes the poem to "Robert Merrick." The source prints "Old Time" and "a-flying" and hyphenates "To-morrow"; punctuation also differs.
 -->
 
 ## [Gather Ye Rosebuds]
@@ -291,22 +291,22 @@ Tomorrow will be dying.
 WR-ID: WR-B-009
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nature Might Have Made the Sphinxes]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage or sequence of short passages from On the Loose.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: On the Loose (Sierra Club, 1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Art
-NOTES: None
+NOTES: The booklet omits the authors and source. Comparison witnesses read plural "Sphinxes" but singular "Mona Lisa"; one book witness presents "After the first Artist / Only the copyist" as a separate short passage.
 -->
 
 ## [Nature Might Have Made the Sphinxes]
@@ -319,22 +319,22 @@ Nature might have made the Sphinxes in her spare time or Mona Lisas with her lef
 WR-ID: WR-B-010
 PAGE: 56
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Natural Beauty and Wonder]
 BOOKLET_AUTHOR: Henry Van Dyke
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry van Dyke
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete quotation widely attributed to van Dyke; exact originating work not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Exact originating work not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Heritage
-NOTES: None
+NOTES: Multiple independent quotation witnesses agree on the wording and attribution, but none identifies an original publication.
 -->
 
 ## [Natural Beauty and Wonder]

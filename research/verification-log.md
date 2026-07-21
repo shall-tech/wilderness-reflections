@@ -1844,3 +1844,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: One of many English translations or adaptations of the orally transmitted song, commonly titled "The Great Sea," "The Song of Uvavnuk," or "Earth and the Great Weather." The booklet's wording is independently attested, while other translations vary substantially.
 - Evidence: [Poetry Foundation author and transmission summary](https://www.poetryfoundation.org/poets/uvavnuk), [comparison text linked to Rasmussen's 1929 volume](https://sica-usa.org/news/uvavnuks-song-reynold-weissinger/), and [independent witness matching the booklet version](https://studylib.net/doc/8026858/inuit-poetry.doc---adult-basic-education-integration-wiki).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 56, entries 4-6
+
+### WR-B-008 - [Gather Ye Rosebuds]
+
+- Corrected author and source: Robert Herrick, first stanza of "To the Virgins, to Make Much of Time," published in *Hesperides* (1648). The booklet misattributes it to "Robert Merrick."
+- Relationship: First of four stanzas. The source prints "Old Time" and "a-flying" and hyphenates "To-morrow"; punctuation also differs.
+- Evidence: [University of Toronto text and first-edition citation](https://rpo.library.utoronto.ca/content/virgins-make-much-time) and [Christie's first-edition bibliographic record](https://www.christies.com/en/lot/lot-3098310).
+- Confidence: High.
+
+### WR-B-009 - [Nature Might Have Made the Sphinxes]
+
+- Restored authors and source: Terry and Renny Russell, *On the Loose* (Sierra Club, 1967). The booklet leaves the passage anonymous.
+- Relationship: Passage or sequence of short passages from the book. Comparison witnesses read plural "Sphinxes" but singular "Mona Lisa"; one book witness presents "After the first Artist / Only the copyist" separately.
+- Evidence: [Book review quoting both passages](https://www.goodreads.com/book/show/129232933), [independent identification of the closing sentence with the book](https://morenormalthannot.com/2012/11/12/david-byrne-and-the-beauty-of-failure/), and [comparison excerpt in a wilderness publication](https://wild.org/wp-content/uploads/2010/02/webSouthAfricanPassage.pdf).
+- Confidence: High.
+
+### WR-B-010 - [Natural Beauty and Wonder]
+
+- Verified attributed author: Henry van Dyke.
+- Relationship: Complete quotation. Multiple independent witnesses agree on the wording and attribution, but an originating work was not located.
+- Evidence: [Biographical quotation collection](https://inspiration.rightattitudes.com/authors/henry_van_dyke_jr/), [independent quotation witness](https://quotefancy.com/henry-van-dyke-quotes), and [second independent collection](https://www.inspiringquotes.us/author/3124-henry-van-dyke).
+- Confidence: Medium.

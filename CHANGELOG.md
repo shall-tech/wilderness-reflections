@@ -120,3 +120,4 @@
 - Completed Scouting and Adventures verification with Muir's fuller 1873 letter context and a composite of two Robert Louis Stevenson works.
 - Began Beauty verification with Hopkins's *Pied Beauty*, Shibayama's introductory verse, Olson's passage, and one provenance-unresolved anonymous poem.
 - Continued Beauty page 56 by correcting Rossetti's title and name, locating Bryant's excerpt, and documenting the transmission of Uvavnuk's song.
+- Completed Beauty page 56 by correcting Herrick's authorship, restoring a Russell passage from *On the Loose*, and documenting the unresolved publication source of a van Dyke quotation.
