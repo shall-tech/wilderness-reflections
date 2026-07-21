@@ -232,22 +232,22 @@ I'd rather wake up in the middle of nowhere than in any city on earth.
 WR-ID: WR-SA-007
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Red Exhaustion Rips at Your Throat]
 BOOKLET_AUTHOR: Terry and Renny Russell
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from On the Loose.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: On the Loose (Sierra Club, 1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Endurance
 - Reward
-NOTES: None
+NOTES: Against the Philmont collection witness, the booklet joins "and drips" to the preceding sentence, prints "further" for "farther," and capitalizes "Damned."
 -->
 
 ## [Red Exhaustion Rips at Your Throat]
@@ -260,22 +260,22 @@ Red exhaustion rips at your throat. And salt sweat spills off your forehead and 
 WR-ID: WR-SA-008
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Adventure Is Not in the Guidebook]
 BOOKLET_AUTHOR: Terry and Renny Russell
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Brief passage from On the Loose.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: On the Loose (Sierra Club, 1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Adventure
 - Discovery
-NOTES: None
+NOTES: The booklet lowercases "beauty" and modernizes the source's biblical "Seek and ye shall find" to "Seek and you shall find."
 -->
 
 ## [Adventure Is Not in the Guidebook]
@@ -288,22 +288,22 @@ Adventure is not in the guidebook and beauty is not on the map. Seek and you sha
 WR-ID: WR-SA-009
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Walk Away Quietly]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Selected passage from "The Yellowstone National Park," first published in The Atlantic Monthly and revised for Our National Parks.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Atlantic Monthly (April 1898); revised in Our National Parks (1901)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Mountains
 - Freedom
-NOTES: None
+NOTES: The booklet omits two sentences after "mountaineer," changes plural "winds" to singular "wind" while retaining "their," and omits later sentences from the paragraph.
 -->
 
 ## [Walk Away Quietly]

@@ -116,3 +116,4 @@
 - Completed Knowledge and Wisdom verification by correcting the modern screenplay authorship of the ecological text falsely attributed to Chief Seattle.
 - Began Scouting and Adventures verification with Phillips's Philmont dedication, Hingley's Eagle poem, and the Russells' On the Loose passage.
 - Began Scouting and Adventures page 50 with an unresolved dated Scouting poem, Wilder's condensed Matchmaker speech, and McQueen's 1963 LIFE quotation.
+- Completed Scouting and Adventures page 50 with two further On the Loose passages and Muir's altered Yellowstone paragraph.

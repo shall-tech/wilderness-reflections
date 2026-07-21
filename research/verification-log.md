@@ -1752,3 +1752,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete sentence; the booklet wording matches the reported quotation.
 - Evidence: [LIFE retrospective with Dominis's account and McQueen quotation](https://time.com/3490078/life-with-steve-mcqueen-photos-of-the-king-of-cool-in-1963/).
 - Confidence: High.
+
+## 2026-07-20 - Scouting and Adventures page 50, entries 4-6
+
+### WR-SA-007 - [Red Exhaustion Rips at Your Throat]
+
+- Verified authors and source: Terry and Renny Russell, *On the Loose* (Sierra Club, 1967).
+- Relationship: Complete prose passage. Against the Philmont collection witness, the booklet joins "and drips" to the preceding sentence, prints "further" for "farther," and capitalizes "Damned."
+- Evidence: [Full-passage Philmont collection witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html), [Open Library edition record](https://openlibrary.org/works/OL38067868W/On_the_Loose), and [Berkeley oral history confirming the Sierra Club's 1967 book](https://digicoll.lib.berkeley.edu/record/218636/files/brower_david.pdf).
+- Confidence: High.
+
+### WR-SA-008 - [Adventure Is Not in the Guidebook]
+
+- Verified authors and source: Terry and Renny Russell, *On the Loose* (Sierra Club, 1967).
+- Relationship: Brief passage. The booklet lowercases source "Beauty" and modernizes "Seek and ye shall find" to "Seek and you shall find."
+- Evidence: [Contemporary essay quoting and discussing the book](https://mappingliteraryutah.org/images/pdfs-doc/Trimble_The_Blue_Gate.pdf), [route guide explicitly naming the work](https://www.hitthetrail.com/wp-content/uploads/Hwy12ScenicHwyBrochure.pdf), and [1974 National Park Service quotation collection](https://npshistory.com/publications/interpretation/quotable-quotes-1974.pdf).
+- Confidence: High.
+
+### WR-SA-009 - [Walk Away Quietly]
+
+- Verified author and source: John Muir, "The Yellowstone National Park," first published in *The Atlantic Monthly* (April 1898) and revised for chapter 2 of *Our National Parks* (1901).
+- Relationship: Selected passage from one paragraph. The booklet omits two sentences after "mountaineer," changes plural "winds" to singular "wind" while retaining "their," and stops before the paragraph's closing sentences.
+- Evidence: [Full scan of *Our National Parks*](https://www.yosemite.ca.us/john_muir_writings/our_national_parks/our_national_parks.pdf), [periodical and book locator](https://libquotes.com/john-muir/quote/lbs9r3i), and [independent comparison excerpt](https://files.eric.ed.gov/fulltext/ED374992.pdf).
+- Confidence: High.
