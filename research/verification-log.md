@@ -1421,3 +1421,33 @@ This log records the external evidence used during the post-transcription verifi
 - Finding: No Polish original, work title, translator, page reference, early English translation, or scholarly quotation was located.
 - Evidence: [Modern attributed use](https://inspiration.rightattitudes.com/authors/stefan-zeromski/).
 - Confidence: Medium for the transmitted attribution; original provenance unresolved.
+
+## 2026-07-20 - Knowledge and Wisdom page 40, entries 5-8
+
+### WR-KW-072 - [All That Glitters Is Not Gold]
+
+- Corrected composite attribution: William Shakespeare and J. R. R. Tolkien.
+- Relationship: Shakespeare's *The Merchant of Venice*, act 2, scene 7, says "All that glisters is not gold." Tolkien's "The Riddle of Strider" in *The Fellowship of the Ring* says "Not all those who wander are lost." The booklet modernizes the first, reverses the second, and credits both to Shakespeare.
+- Evidence: [Source comparison](https://www.nittanymineral.org/bulletin/NMS1103.pdf) and [Tolkien/Shakespeare textual table](https://en.wikipedia.org/wiki/Shakespeare%27s_influence_on_Tolkien).
+- Confidence: High.
+
+### WR-KW-073 - [I Went to the Woods]
+
+- Verified author and source: Henry David Thoreau, *Walden* (1854), chapter 2, "Where I Lived, and What I Lived For."
+- Relationship: Extended continuous passage with minor punctuation changes, modernized "practice" for "practise," and capitalization of "Him" in the catechism quotation.
+- Evidence: [Project Gutenberg full text](https://www.gutenberg.org/cache/epub/205/pg205-images.html) and [comparison excerpt](https://www.environmentandsociety.org/printpdf/6676).
+- Confidence: High.
+
+### WR-KW-074 - [No Matter How Cold and Wet You Are]
+
+- Verified source and speaker context: Advice from an unnamed woodsman recalled by Sigurd F. Olson in *Open Horizons* (1969).
+- Relationship: Complete sentence with Olson's introductory "Remember, young fellow" removed.
+- Evidence: [Work and chapter quotation record](https://www.bookey.app/book/open-horizons/quote) and [independent old-adage attribution](https://cablemuseumnaturalconnections.blogspot.com/2014/09/natural-connections-rain-magic-by-emily.html).
+- Confidence: High for Olson's book source; the woodsman's identity is not given.
+
+### WR-KW-075 - [A Californian Whom I Had Recently the Pleasure of Meeting]
+
+- Verified author and source: George Santayana, "The Genteel Tradition in American Philosophy," delivered at the University of California, Berkeley in 1911 and collected in *Winds of Doctrine* (1913).
+- Relationship: Altered excerpt. The booklet omits "I should say," misprints "that man" as "the man," drops "the" before woods, and modernizes "centre."
+- Evidence: [Project Gutenberg full text](https://www.gutenberg.org/cache/epub/17771/pg17771-images.html) and [lecture context](https://kirkcenter.org/essays/the-voice-of-michael-oakeshott-in-the-conversation-of-conservatism/).
+- Confidence: High.

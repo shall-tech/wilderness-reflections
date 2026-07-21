@@ -2061,22 +2061,22 @@ He who has known how to love the land has loved eternity.
 WR-ID: WR-KW-072
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [All That Glitters Is Not Gold]
 BOOKLET_AUTHOR: William Shakespeare
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Shakespeare and J. R. R. Tolkien
+WORK_TYPE: Composite Quotation
+EXCERPT: Yes
+RELATIONSHIP: Modernized Shakespeare proverb joined to an altered Tolkien line
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Merchant of Venice (c. 1596-99); The Fellowship of the Ring (1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wandering
 - Value
-NOTES: None
+NOTES: Shakespeare's Merchant of Venice reads "All that glisters is not gold." Tolkien's "The Riddle of Strider" reads "Not all those who wander are lost." The booklet modernizes "glisters," reverses Tolkien's opening words, joins the two sentences, and credits the whole to Shakespeare.
 -->
 
 ## [All That Glitters Is Not Gold]
@@ -2089,22 +2089,22 @@ All that glitters is not gold. All who wander are not lost.
 WR-ID: WR-KW-073
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Went to the Woods]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Extended passage from Walden, chapter 2, "Where I Lived, and What I Lived For"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Walden; or, Life in the Woods (1854)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Purpose
-NOTES: None
+NOTES: The booklet closely follows the passage, with minor punctuation changes, Americanized "practice" for first-edition "practise," and capitalization of "Him" in the closing Westminster Catechism quotation.
 -->
 
 ## [I Went to the Woods]
@@ -2117,22 +2117,22 @@ I went to the woods because I wished to live deliberately, to front only the ess
 WR-ID: WR-KW-074
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No Matter How Cold and Wet You Are]
 BOOKLET_AUTHOR: Old Woodsman's Adage
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Anonymous woodsman, as reported by Sigurd F. Olson
+WORK_TYPE: Book Excerpt / Adage
+EXCERPT: Yes
+RELATIONSHIP: Woodsman's advice recalled in Open Horizons
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Open Horizons (1969)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Weather
 - Perspective
-NOTES: None
+NOTES: Olson's text includes the address "Remember, young fellow" before the sentence. The booklet drops the framing and presents the advice as an old woodsman's adage.
 -->
 
 ## [No Matter How Cold and Wet You Are]
@@ -2145,22 +2145,22 @@ No matter how cold and wet you are, you're always warm and dry.
 WR-ID: WR-KW-075
 PAGE: 40
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [A Californian Whom I Had Recently the Pleasure of Meeting]
 BOOKLET_AUTHOR: George Santayana
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: George Santayana
+WORK_TYPE: Lecture Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Passage from "The Genteel Tradition in American Philosophy"
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Lecture at the University of California, Berkeley (1911); collected in Winds of Doctrine (1913)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Mountains
 - Philosophy
-NOTES: None
+NOTES: The source includes "I should say" after "Certainly," "that man" rather than the booklet's scan-confirmed "the man," and "the mountains and the woods" rather than "the mountains and woods." It also uses British "centre."
 -->
 
 ## [A Californian Whom I Had Recently the Pleasure of Meeting]
