@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-015, restoring the Thoreau passage and documenting abridged or witness-limited texts.
 - Extended the source-corrected Life edition through WR-L-012, retaining two sayings under unresolved authorship and restoring two verified short quotations.
 - Extended the source-corrected Life edition through WR-L-008, preserving an unresolved text, restoring Roosevelt's speech wording, and documenting two rights- or witness-limited entries.
 - Established the separate source-corrected edition and completed its initial Life batch through WR-L-004, including visible work-scope labels and translation/source witnesses.

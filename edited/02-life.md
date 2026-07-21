@@ -354,3 +354,79 @@ At the end of the open road we come to ourselves.
 
 <!-- Original Booklet Page 12 -->
 <!-- Blank page -->
+
+<!-- Original Booklet Page 13 -->
+
+<!--
+WR-ID: WR-L-013
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: The More You Put In
+VERIFIED_AUTHOR: Rev. Bill Sutherland
+WORK_SCOPE: Abridged
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 13; compared with a Scout songbook reprint
+SOURCE: https://dankohn.info/~scouts/songbook/fives.pdf
+EDITION_NOTE: The checked witness adds a concluding application to Scouting and life, but the booklet's shorter boundary is preserved. The original Scottish Scout News issue and date remain unknown.
+-->
+
+## The More You Put In
+
+*Abridged anecdote; booklet selection boundary retained.*
+
+The chaplain and his young son were camping just outside a small seaside town. Not far away was a tiny church that had no minister, so the chaplain offered his services for Sunday. No fee was payable.
+
+As the chaplain and his son were passing out of the door after the service, the son noticed a small box which had on it the words, "For Contributions."
+
+"Father, don't you think you should put something in the box?" the son asked.
+
+"Certainly," the chaplain said. He dug into his pocket, pulled out a dollar, and placed it in the box. The two had gone a little way back to camp when a man came running after them.
+
+"It's our custom to give the minister whatever is dropped into the box," he said when he caught up with them. "I found this dollar and here it is." And he handed back the money the chaplain had donated.
+
+After the man had left, the boy look up at his dad. "Father," he said, "if you had only put more money into the box, you would have got so much more out."
+
+*Rev. Bill Sutherland*
+
+<!--
+WR-ID: WR-L-014
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [Grow Wild According to Thy Nature]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Adapted excerpt misattributed to Terry and Renny Russell
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden; or, Life in the Woods (1854), "Baker Farm"
+SOURCE: https://digitalthoreau.org/walden/fluid/text/10.html
+EDITION_NOTE: Restores Thoreau's wording within the booklet's opening and closing boundaries and corrects the attribution.
+-->
+
+## [Grow Wild According to Thy Nature]
+
+*Excerpt from Walden, “Baker Farm.”*
+
+Grow wild according to thy nature, like these sedges and brakes, which will never become English hay. Let the thunder rumble; what if it threaten ruin to farmers’ crops? that is not its errand to thee. Take shelter under the cloud, while they flee to carts and sheds. Let not to get a living be thy trade, but thy sport. Enjoy the land, but own it not.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-L-015
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [The World Is Your Exercise Book]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 13; work identity linked to Illusions: The Adventures of a Reluctant Messiah (1977), p. 127
+SOURCE: https://research.cs.wisc.edu/graphics/Papers/Gleicher/Thesis/Acrobat/thesisA.pdf
+EDITION_NOTE: The work and author are verified, but a directly inspectable authorized edition was not available. The user-supplied booklet text is retained, and its word-order variants are not silently normalized.
+-->
+
+## [The World Is Your Exercise Book]
+
+*Excerpt from Illusions: The Adventures of a Reluctant Messiah; booklet wording retained.*
+
+The world is your exercise book, the pages on which you do your sums. It is not reality although you can express reality there if you wish. You are also free to write nonsense, or lies, or to tear the pages.
+
+*Richard Bach*
