@@ -805,6 +805,74 @@ The worst sin towards our fellow creatures is not to hate them, but to be indiff
 
 *George Bernard Shaw*
 
+<!-- Original Booklet Page 16 -->
+
+<!--
+WR-ID: WR-L-036
+PAGE: 16
+SECTION: Life
+VERIFIED_TITLE: Mending Wall
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: North of Boston (1914; Henry Holt second edition, 1915)
+SOURCE: https://en.wikisource.org/wiki/North_of_Boston/Mending_Wall
+EDITION_NOTE: Restores Frost's title, complete lineation, omitted line, spelling, wording, and punctuation.
+-->
+
+## Mending Wall
+
+*Complete work.*
+
+Something there is that doesn't love a wall,<br>
+That sends the frozen-ground-swell under it,<br>
+And spills the upper boulders in the sun;<br>
+And makes gaps even two can pass abreast.<br>
+The work of hunters is another thing:<br>
+I have come after them and made repair<br>
+Where they have left not one stone on a stone,<br>
+But they would have the rabbit out of hiding,<br>
+To please the yelping dogs. The gaps I mean.<br>
+No one has seen them made or heard them made,<br>
+But at spring mending-time we find them there.<br>
+I let my neighbour know beyond the hill;<br>
+And on a day we meet to walk the line<br>
+And set the wall between us once again.<br>
+We keep the wall between us as we go.<br>
+To each the boulders that have fallen to each.<br>
+And some are loaves and some so nearly balls<br>
+We have to use a spell to make them balance:<br>
+"Stay where you are until our backs are turned!"
+
+We wear our fingers rough with handling them.<br>
+Oh, just another kind of out-door game,<br>
+One on a side. It comes to little more:<br>
+There where it is we do not need the wall:<br>
+He is all pine and I am apple orchard.<br>
+My apple trees will never get across<br>
+And eat the cones under his pines, I tell him.<br>
+He only says, "Good fences make good neighbours."<br>
+Spring is the mischief in me, and I wonder<br>
+If I could put a notion in his head:<br>
+"Why do they make good neighbours? Isn't it<br>
+Where there are cows? But here there are no cows.<br>
+Before I built a wall I'd ask to know<br>
+What I was walling in or walling out,<br>
+And to whom I was like to give offence.<br>
+Something there is that doesn't love a wall,<br>
+That wants it down." I could say "Elves" to him,<br>
+But it's not elves exactly, and I'd rather<br>
+He said it for himself. I see him there<br>
+Bringing a stone grasped firmly by the top<br>
+In each hand, like an old-stone savage armed.<br>
+He moves in darkness as it seems to me,<br>
+Not of woods only and the shade of trees.<br>
+He will not go behind his father's saying,<br>
+And he likes having thought of it so well<br>
+He says again, "Good fences make good neighbours."
+
+*Robert Frost*
+
 <!--
 WR-ID: WR-L-015
 PAGE: 13
