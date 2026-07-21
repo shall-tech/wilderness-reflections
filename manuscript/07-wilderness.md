@@ -967,22 +967,22 @@ Money is the wealth of the materialists and works miracles in the realm of the p
 WR-ID: WR-W-033
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: I've Known Rivers
 BOOKLET_AUTHOR: Langston Hughes
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Langston Hughes
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Nearly complete poem; the booklet substitutes its first line for the title and omits the original title.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Negro Speaks of Rivers," The Crisis (June 1921); collected in The Weary Blues (1926)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source title is "The Negro Speaks of Rivers" and its first line is "I've known rivers:" The booklet uses "I've Known Rivers" as a replacement title and therefore begins the body with the second line.
 -->
 
 ## I've Known Rivers
@@ -1004,22 +1004,22 @@ My soul has grown deep like rivers.
 WR-ID: WR-W-034
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nature Shows Us Only Surfaces]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Second sentence of a two-sentence observation in "Resources."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Resources," Letters and Social Aims (1876)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source sentence omits the booklet's "a" before "million fathoms" and follows "Nothing is great but the inexhaustible wealth of Nature."
 -->
 
 ## [Nature Shows Us Only Surfaces]
@@ -1032,22 +1032,22 @@ Nature shows us only surfaces, but she is a million fathoms deep.
 WR-ID: WR-W-035
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [And Forget Not the Earth Delights]
 BOOKLET_AUTHOR: Kahil Gibran
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Kahlil Gibran
+WORK_TYPE: Aphorism
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete aphorism from Sand and Foam.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Sand and Foam (1926)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet omits "that" after "forget not" and misspells the author's name "Kahil" rather than Kahlil.
 -->
 
 ## [And Forget Not the Earth Delights]
@@ -1060,22 +1060,22 @@ And forget not the earth delights to feel your bare feet and the winds long to p
 WR-ID: WR-W-036
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Are the Most Dangerous Species]
 BOOKLET_AUTHOR: Wallace Stegner
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Wallace Earle Stegner
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Closing sentences of "The Marks of Human Passage."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Marks of Human Passage," in This Is Dinosaur: Echo Park Country and Its Magic Rivers (1955)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet text matches the established comparison wording.
 -->
 
 ## [We Are the Most Dangerous Species]
@@ -1088,22 +1088,22 @@ We are the most dangerous species of life on the planet, and every other species
 WR-ID: WR-W-037
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Still Mind of the Sage]
 BOOKLET_AUTHOR: Chuang Tzu
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Zhuang Zhou; translated by James Legge
+WORK_TYPE: Philosophical Text Excerpt
+EXCERPT: Yes
+RELATIONSHIP: First clause of a sentence in chapter 13, "The Way of Heaven," of the Zhuangzi.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Zhuangzi, chapter 13; this English wording in James Legge's The Texts of Taoism (1891)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Legge's sentence continues ", the glass of all things." The booklet drops that closing parallel image and changes "the mirror" to "a mirror."
 -->
 
 ## [The Still Mind of the Sage]
@@ -1116,10 +1116,10 @@ The still mind of the sage is a mirror of heaven and earth.
 WR-ID: WR-W-038
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Once in a While You Find a Place on Earth]
 BOOKLET_AUTHOR: Sundance
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Unknown; booklet credit "Sundance" may identify a publication or commercial source rather than a person
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -1131,7 +1131,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: No original advertisement, catalog, article, or authored work was located. The wording resembles promotional copy for Sundance, Utah, but that inference is not sufficient to establish provenance.
 -->
 
 ## [Once in a While You Find a Place on Earth]
@@ -1144,10 +1144,10 @@ Once in a while you find a place on earth that becomes your very own. A place un
 WR-ID: WR-W-039
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Gueorgui Loved the Forest]
 BOOKLET_AUTHOR: Nicolai Levkov
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Nikolai Levkov (identity and transliteration provisional)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -1159,7 +1159,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: No original-language work, translation, or biographical record confidently matching this author and sentence was located. "Gueorgui" suggests a translated Bulgarian or Russian context.
 -->
 
 ## [Gueorgui Loved the Forest]
@@ -1172,22 +1172,22 @@ Gueorgui loved the forest, this forest as old as a legend, gentle as a mother, a
 WR-ID: WR-W-040
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Your Equipment Stands Between You and the Wilderness]
 BOOKLET_AUTHOR: Ed Burgen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ed Buryn
+WORK_TYPE: Guidebook Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Backpacking advice attributed to Vagabonding in America.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Vagabonding in America: A Guidebook about Energy (1973)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet again misspells Buryn as "Burgen." An independent Philmont text confirms the wording and credit; bibliographic records establish the correct author and work.
 -->
 
 ## [Your Equipment Stands Between You and the Wilderness]
@@ -1200,22 +1200,22 @@ Your equipment stands between you and the wilderness. The less of it you have th
 WR-ID: WR-W-041
 PAGE: 71
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Supreme Reality of Our Time]
 BOOKLET_AUTHOR: John F. Kennedy
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Fitzgerald Kennedy
+WORK_TYPE: Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Heavily shortened sentence from Kennedy's address to the Irish Parliament.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Address before the Dáil and Seanad, Dublin, June 28, 1963
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Kennedy said, "The supreme reality of our time is our indivisibility as children of God and our common vulnerability on this planet." The booklet replaces the central thought with an ellipsis and rewrites the ending as "the vulnerability of our planet."
 -->
 
 ## [The Supreme Reality of Our Time]

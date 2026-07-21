@@ -2464,3 +2464,64 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete aphorism. The booklet misspells Buryn as "Burgen."
 - Evidence: [Google Books bibliographic record for the 1973 edition](https://books.google.com/books/about/Vagabonding_in_America.html?id=Q8tovCcki5EC), [Open Library revised-edition record](https://openlibrary.org/books/OL3515732M/Vagabonding_in_the_U.S.A.), and [independent exact Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars2.html).
 - Confidence: Medium.
+
+## 2026-07-20 - Wilderness page 71
+
+### WR-W-033 - I've Known Rivers
+
+- Verified author and source: Langston Hughes, "The Negro Speaks of Rivers," first published in *The Crisis* (June 1921) and collected in *The Weary Blues* (1926).
+- Relationship: The booklet replaces the source title with a title made from its first line, then begins the body with the second line.
+- Evidence: [Lehigh University digital anthology with complete 1921 text and publication history](https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/media/langston-hughes-the-negro-speaks-of-rivers-1921) and [Brown University Hughes exhibition record](https://library.brown.edu/exhibits/archive/hughes/checklist.html).
+- Confidence: High.
+
+### WR-W-034 - [Nature Shows Us Only Surfaces]
+
+- Verified author and source: Ralph Waldo Emerson, "Resources," collected in *Letters and Social Aims* (1876).
+- Relationship: Second sentence of a two-sentence observation. Emerson omits the booklet's article before "million fathoms" and precedes it with "Nothing is great but the inexhaustible wealth of Nature."
+- Evidence: [Concord Free Public Library Emerson concordance](https://concordlibrary.org/special-collections/emerson-concordance/SUPRISES-SWEEPS) and [complete collected-works context](https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1946/Emerson_1236-08_EBk_v6.0.pdf).
+- Confidence: High.
+
+### WR-W-035 - [And Forget Not the Earth Delights]
+
+- Verified author and source: Kahlil Gibran, *Sand and Foam* (1926).
+- Relationship: Complete aphorism. The booklet omits "that" and misspells the author's first name "Kahil."
+- Evidence: [Book attribution and comparison wording](https://www.azquotes.com/author/5491-Khalil_Gibran/tag/earth) and [independent contextual witness](https://www.wellbeing.com.au/mind-spirit/mind/forget-earth-longs-feel-souls-feet.html).
+- Confidence: High.
+
+### WR-W-036 - [We Are the Most Dangerous Species]
+
+- Verified author and source: Wallace Stegner, closing of "The Marks of Human Passage" in *This Is Dinosaur* (1955).
+- Relationship: Two consecutive closing sentences matching the comparison wording.
+- Evidence: [Book preview identifying the essay and closing passage](https://www.everand.com/book/927424888/This-Is-Dinosaur-Echo-Park-Country-and-Its-Magic-Rivers) and [complete attributed comparison](https://www.azquotes.com/quote/645819).
+- Confidence: High.
+
+### WR-W-037 - [The Still Mind of the Sage]
+
+- Verified text and translation: *Zhuangzi*, chapter 13, "The Way of Heaven," in James Legge's 1891 translation.
+- Relationship: First clause of a sentence that continues ", the glass of all things." The booklet changes "the mirror" to "a mirror."
+- Evidence: [Chinese Text Project parallel original and Legge translation](https://ctext.org/zhuangzi/tian-dao/ens) and [complete translation scan](https://www.centertao.org/media/The-Writings-of-Chuang-Tzu.pdf).
+- Confidence: High.
+
+### WR-W-038 - [Once in a While You Find a Place on Earth]
+
+- Author and provenance unresolved: "Sundance" may name a publication or commercial source rather than a person. No original advertisement, catalog, article, or authored work was located.
+- Confidence: Low.
+
+### WR-W-039 - [Gueorgui Loved the Forest]
+
+- Author and provenance unresolved: no original-language work, translation, or reliable biographical record confidently matching the booklet's "Nicolai Levkov" was located.
+- Confidence: Low.
+
+### WR-W-040 - [Your Equipment Stands Between You and the Wilderness]
+
+- Verified author and work: Ed Buryn, *Vagabonding in America: A Guidebook about Energy* (1973).
+- Relationship: Backpacking advice reproduced in an independent Philmont text. The booklet again misspells Buryn as "Burgen."
+- Evidence: [Independent exact Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html) and [Google Books bibliographic record](https://books.google.com/books/about/Vagabonding_in_America.html?id=Q8tovCcki5EC).
+- Confidence: Medium.
+
+### WR-W-041 - [The Supreme Reality of Our Time]
+
+- Verified author and source: John F. Kennedy, address before the Dáil and Seanad in Dublin, June 28, 1963.
+- Relationship: Heavy rewrite of "The supreme reality of our time is our indivisibility as children of God and our common vulnerability on this planet." The booklet substitutes an ellipsis and changes the ending to "the vulnerability of our planet."
+- Evidence: [John F. Kennedy Presidential Library complete official transcript](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/irish-parliament-19630628) and [speech/date locator](https://www.azquotes.com/quote/361577).
+- Confidence: High.
