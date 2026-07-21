@@ -2525,3 +2525,60 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Heavy rewrite of "The supreme reality of our time is our indivisibility as children of God and our common vulnerability on this planet." The booklet substitutes an ellipsis and changes the ending to "the vulnerability of our planet."
 - Evidence: [John F. Kennedy Presidential Library complete official transcript](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/irish-parliament-19630628) and [speech/date locator](https://www.azquotes.com/quote/361577).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 72
+
+### WR-W-042 - [Humanity Is Cutting Down Forests]
+
+- Attribution unresolved: later witnesses credit Isaac Asimov and read "its forests," but no original Asimov book, essay, interview, or lecture was located.
+- Evidence: [Complete later attributed comparison](https://www.azquotes.com/quote/843808) and [independent civic-document witness](https://www.ci.cannon-beach.or.us/media/32361).
+- Confidence: Low.
+
+### WR-W-043 - [Remember Thy Creator in the Days of Thy Youth]
+
+- Verified construction: Ecclesiastes 12:1 followed by adapted sentences from Thoreau's "The Ponds" in *Walden* (1854), presented through Terry and Renny Russell's *On the Loose* (1967).
+- Relationship: The Thoreau source reads "Let noon find thee," not the booklet's "Let the moon find thee," and "no worthier games than may here be played."
+- Evidence: [Independent *On the Loose* comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html) and [Renny Russell contextual history of the book](https://www.canyoncountryzephyr.com/2014/02/03/rock-me-on-the-water-introduction-by-renny-russell/).
+- Confidence: High.
+
+### WR-W-044 - [I Look Forward to an America]
+
+- Verified author and source: John F. Kennedy, remarks at Amherst College, October 26, 1963.
+- Relationship: One sentence from Kennedy's closing vision; the source includes a comma before the final clause.
+- Evidence: [Amherst municipal archival reproduction of the full closing passage](https://www.amherstma.gov/DocumentView.aspx?DID=6334), [Congressional Record reproduction](https://www.congress.gov/88/crecb/1964/01/08/GPO-CRECB-1964-pt1-2.pdf), and [speech/date locator](https://www.azquotes.com/quote/612537).
+- Confidence: High.
+
+### WR-W-045 - [When I Go to Be 70]
+
+- Verified speaker and context: Lady Bird Johnson's December 20, 1982, *MacNeil/Lehrer Report* interview about founding the National Wildflower Research Center at age seventy.
+- Relationship: Condensed statement. The booklet prints "go" for "got" and drops "do" from "take time to do what I really yearn to do."
+- Evidence: [American Archive of Public Broadcasting transcript and program record](https://americanarchive.org/catalog/cpb-aacip-507-x34mk6655k) and [Texas Senate institutional history](https://journals.senate.texas.gov/sjrnl/80r/html/80RSJ05-28-F.HTM).
+- Confidence: High.
+
+### WR-W-046 - [Man Is Not Himself Only]
+
+- Verified author and collection: Mary Hunter Austin, collected in *Beyond Borders: The Selected Essays of Mary Austin* (1996); the original essay remains unidentified.
+- Relationship: Prose sentence arranged as free verse and shortened with ellipses by the booklet.
+- Evidence: [Sourced collection locator and complete prose comparison](https://libquotes.com/mary-hunter-austin/quote/lbg7x3h) and [independent formatted comparison](https://dspace.library.uu.nl/bitstream/1874/12179/17/full.pdf).
+- Confidence: Medium.
+
+### WR-W-047 - [Coming, Going, the Waterfowl]
+
+- Verified poet and translators: Eihei Dōgen, translated by Lucien Stryk and Takashi Ikemoto, published in *The Crane's Bill* (1973) and reprinted in *The Penguin Book of Zen Poetry* (1977).
+- Relationship: Complete three-line translation commonly titled "Waka on the Diamond Sutra"; the booklet supplies only the generic credit "Zen Verse."
+- Evidence: [Translation and publication documentation](https://www.scribd.com/document/698063573/Zen-Poems), [complete Dōgen comparison archive](https://terebess.hu/zen/dogen/verses.html), and [scholarly attribution to Dōgen](https://ir.library.osaka-u.ac.jp/repo/ouka/all/99122/jaas_016_059.pdf).
+- Confidence: High.
+
+### WR-W-048 - [At First, the People Talking About Ecology]
+
+- Verified speaker and context: Osmarino Amâncio Rodrigues, identified as secretary-general of Brazil's National Council of Rubber Tappers in the organization's informational publication.
+- Relationship: Complete statement. Both witnesses retain singular "ecologist" after plural "humans."
+- Evidence: [National Council of Rubber Tappers publication](https://acervo.socioambiental.org/sites/default/files/documents/04D00040.pdf) and [modern scholarly interview identifying Rodrigues's historical role](https://revista.fct.unesp.br/index.php/nera/article/view/11059).
+- Confidence: High.
+
+### WR-W-049 - [Her Mighty Lakes, Like Oceans of Liquid Silver]
+
+- Verified author and source: Washington Irving, "The Author's Account of Himself," in *The Sketch Book of Geoffrey Crayon, Gent.* (1819-1820).
+- Relationship: Extended sentence. The source uses additional commas and reads "with the magic of summer clouds," where the booklet has "with magic of summer clouds."
+- Evidence: [Complete collected-works scan with source passage](https://upload.wikimedia.org/wikipedia/commons/8/8a/The_complete_works_of_Washington_Irving_%28IA_completeworksofw0009irvi%29.pdf).
+- Confidence: High.

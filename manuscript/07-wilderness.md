@@ -1230,10 +1230,10 @@ The supreme reality of our time is... the vulnerability of our planet.
 WR-ID: WR-W-042
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Humanity Is Cutting Down Forests]
 BOOKLET_AUTHOR: Isaac Asimov
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Isaac Asimov (attribution supported only by later quotation witnesses)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -1245,7 +1245,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later witnesses read "its forests," while the booklet reads simply "forests." No original Asimov book, essay, interview, or lecture was located.
 -->
 
 ## [Humanity Is Cutting Down Forests]
@@ -1258,22 +1258,22 @@ Humanity is cutting down forests, apparently oblivious to the fact that we may n
 WR-ID: WR-W-043
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Remember Thy Creator in the Days of Thy Youth]
 BOOKLET_AUTHOR: Terry and Renny Russell
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ecclesiastes 12:1; Henry David Thoreau; adapted by Terry Russell and Renny Russell
+WORK_TYPE: Composite Biblical and Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Biblical opening followed by adapted sentences from Walden.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ecclesiastes 12:1 (King James Version, 1611); Walden (1854), "The Ponds"; adaptation in On the Loose (1967)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: "Remember thy Creator in the days of thy youth" is Ecclesiastes 12:1. The remainder adapts Thoreau, whose text reads "Let noon find thee" rather than the booklet's "Let the moon find thee," includes a comma before "and seek adventures," and reads "no worthier games than may here be played."
 -->
 
 ## [Remember Thy Creator in the Days of Thy Youth]
@@ -1286,22 +1286,22 @@ Remember thy Creator in the days of thy youth. Rise free from care before the da
 WR-ID: WR-W-044
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Look Forward to an America]
 BOOKLET_AUTHOR: John F. Kennedy
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Fitzgerald Kennedy
+WORK_TYPE: Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: One sentence from Kennedy's closing vision in his Amherst College address.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Remarks at Amherst College, October 26, 1963
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source includes a comma before the final "and which will build" clause; otherwise the booklet wording matches.
 -->
 
 ## [I Look Forward to an America]
@@ -1314,22 +1314,22 @@ I look forward to an America which will not be afraid of grace and beauty, which
 WR-ID: WR-W-045
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [When I Go to Be 70]
 BOOKLET_AUTHOR: Lady Bird Johnson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Claudia Alta "Lady Bird" Johnson
+WORK_TYPE: Interview Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed account of Johnson's decision at age seventy to found the National Wildflower Research Center.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: MacNeil/Lehrer Report interview, December 20, 1982
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet prints "When I go to be 70" instead of "When I got to be 70" and omits "do" from "take time to do what I really yearn to do." The broadcast transcript gives fuller, differently phrased context for the decision and founding announcement.
 -->
 
 ## [When I Go to Be 70]
@@ -1342,22 +1342,22 @@ When I go to be 70, I thought, I'm going to take time to what I really yearn to 
 WR-ID: WR-W-046
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Man Is Not Himself Only]
 BOOKLET_AUTHOR: Mary Austin
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Mary Hunter Austin
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Prose sentence arranged as free verse by the booklet.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Original essay not yet identified; collected in Beyond Borders: The Selected Essays of Mary Austin (1996)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The comparison source presents the words as continuous prose. The booklet creates line breaks and uses ellipses to shorten the sentence.
 -->
 
 ## [Man Is Not Himself Only]
@@ -1376,22 +1376,22 @@ Reach of its valleys.
 WR-ID: WR-W-047
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Coming, Going, the Waterfowl]
 BOOKLET_AUTHOR: Zen Verse
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
+VERIFIED_AUTHOR: Eihei Dōgen; translated by Lucien Stryk and Takashi Ikemoto
+WORK_TYPE: Waka Translation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete English translation commonly titled "Waka on the Diamond Sutra."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Translation in The Crane's Bill: Zen Poems of China and Japan (1973); reprinted in The Penguin Book of Zen Poetry (1977)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet's generic "Zen Verse" omits the poet and translators. Some sources associate the poem with Dōgen's verses on nondependence of mind.
 -->
 
 ## [Coming, Going, the Waterfowl]
@@ -1406,22 +1406,22 @@ Nor does it need a guide.
 WR-ID: WR-W-048
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [At First, the People Talking About Ecology]
 BOOKLET_AUTHOR: Osmarino Amancio Rodrigues
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Osmarino Amâncio Rodrigues
+WORK_TYPE: Public Statement Excerpt
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete statement reproduced by the National Council of Rubber Tappers.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: National Council of Rubber Tappers informational publication, date not established
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The organization identifies Rodrigues as its secretary-general. Grammatically, "these humans were the real ecologist" would normally be plural, but the singular is present in both the booklet and organizational witness.
 -->
 
 ## [At First, the People Talking About Ecology]
@@ -1434,22 +1434,22 @@ At first, the people talking about ecology were only defending the fishes, the a
 WR-ID: WR-W-049
 PAGE: 72
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Her Mighty Lakes, Like Oceans of Liquid Silver]
 BOOKLET_AUTHOR: Washington Irving
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Washington Irving
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Extended sentence from "The Author's Account of Himself."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Author's Account of Himself," The Sketch Book of Geoffrey Crayon, Gent. (1819-1820)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source punctuates "mountains, with their bright aerial tints" and reads "her skies, kindling with the magic of summer clouds," whereas the booklet omits both instances of "the" and alters commas.
 -->
 
 ## [Her Mighty Lakes, Like Oceans of Liquid Silver]

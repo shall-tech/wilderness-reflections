@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Wilderness source verification is complete through WR-W-041 on original page 71. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-049 on original page 72. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-042, "Today I Have Grown Taller from Walking with the Trees," on original page 72.
+- Next entry: WR-W-050, "On the East Side of Mount Mitchell," on original page 73.
 
 ## Source
 
