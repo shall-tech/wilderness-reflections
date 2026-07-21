@@ -5,7 +5,7 @@
 - The repository contained no prior manuscript batch, so intake begins at the front cover.
 - PDF pages 1-8 were visually inspected to establish the original page sequence.
 - The first batch stops after "The Bridge Builder" on original page 9 so each commit remains small and reviewable.
-- The booklet attribution "William Allen Droomgule" is preserved in the manuscript. The spelling appears questionable but is a source-text issue, not an OCR error, and will be handled in the verification pass.
+- The booklet attribution "William Allen Droomgule" is preserved in the manuscript. The spelling appeared questionable but was treated as a source-text issue rather than an OCR error; the later verification pass documented the correction in metadata.
 
 ## 2026-07-20 - Verification pass begins
 

@@ -30,7 +30,9 @@
 
 - Wilderness source verification is complete through WR-W-095 on original page 79; original page 80 is an intentionally omitted blank. All six thematic sections are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next step: manuscript-wide metadata, evidence-link, wording-note, and unresolved-question audit.
+- The manuscript-wide metadata, evidence-link, wording-note, and unresolved-question audit is complete.
+- Final result: 382 selections reviewed; 290 verified and 92 explicitly documented as attribution unresolved.
+- No transcription or first-pass verification work remains. Further work would be an optional archival research pass on unresolved provenance questions.
 
 ## Source
 

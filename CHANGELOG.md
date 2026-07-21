@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed the booklet-wide verification audit: all 382 selections have matching metadata and evidence records, with 290 verified and 92 explicitly documented as attribution unresolved.
 - Completed Wilderness pages 79-80 verification, documenting the extensive corruption of Service's complete poem and confirming page 80 as an intentionally omitted blank.
 - Completed Wilderness page 78 verification, documenting the Oliver and Chaucer wording errors, locating Ayensu's 1978 interview, and preserving two unresolved personal attributions.
 - Completed Wilderness page 77 verification, distinguishing Smith's and Perry's Chief Seattle texts, questioning a spurious Lincoln attribution, and tracing the Nigerian land-tenure saying.
