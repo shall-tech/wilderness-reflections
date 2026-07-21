@@ -3036,22 +3036,22 @@ While my companion contemplated with serious and satisfied spirit the magnificen
 WR-ID: WR-KW-105
 PAGE: 46
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We of the Genus Homo Ride the Logs]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from "The Round River—A Parable," published posthumously in Round River: From the Journals of Aldo Leopold.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Round River: From the Journals of Aldo Leopold (1953)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Planning
-NOTES: None
+NOTES: The booklet omits "a" before "little," omits "is" after "burling," drops a second "called," and corrupts "conversation" to "conservation." It also lowercases "River" despite the source's proper name.
 -->
 
 ## [We of the Genus Homo Ride the Logs]
@@ -3064,22 +3064,22 @@ We of the genus Homo ride the logs that float down the Round river, and by littl
 WR-ID: WR-KW-106
 PAGE: 46
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Our Newly Found Capacity]
 BOOKLET_AUTHOR: Arthur H. Carhart, 1962
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Arthur H. Carhart (attribution unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Booklet-dated 1962 statement; no original speech, essay, book, or archival document was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Booklet gives 1962; original publication not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Conservation
 - Survival
-NOTES: None
+NOTES: The phrase "has us to overlook" is grammatically defective and may represent a corruption of "has led us to overlook," but no comparison source was found to confirm a correction.
 -->
 
 ## [Our Newly Found Capacity]
@@ -3092,22 +3092,22 @@ Our newly found capacity for dealing with the massed death has us to overlook mo
 WR-ID: WR-KW-107
 PAGE: 46
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [For a Great Tree, Death Comes]
 BOOKLET_AUTHOR: Edwin Way Teale
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Edwin Way Teale
+WORK_TYPE: Memoir Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening paragraph of "The Death of a Tree" in Dune Boy.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Death of a Tree," The New Yorker (December 11, 1937); collected in Dune Boy (1943)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Trees
 - Death
-NOTES: None
+NOTES: The booklet prints "hill top" for "hilltop," omits the comma after "final moments" and the article "a" before "noble end," and uses "into a ridge" where the NPS transcription reads "in a ride," apparently itself a transcription error for "in a ridge."
 -->
 
 ## [For a Great Tree, Death Comes]

@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-104 on original page 45; Life and Leadership are complete.
+- Source verification is complete through WR-KW-107 on original page 46; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-105, "We of the Genus Homo Ride the Logs," on original page 46.
+- Next entry: WR-KW-108, "You Must Teach Your Children," on original page 46.
 
 ## Source
 

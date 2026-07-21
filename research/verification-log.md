@@ -1674,3 +1674,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two sentences with an intervening sentence omitted. The booklet also drops "a" before "serious" and changes "earnest research" and "as they were unfolded" to "earnestness, research" and "as they unfolded."
 - Evidence: [Project Gutenberg full novel](https://www.gutenberg.org/files/84/84-h/84-h.htm), [chapter text and context](https://www.oratlas.com/library/book/frankenstein-1831-text/mary-shelley/chapter-ii), and [printed-edition comparison](https://www.doverpublications.com/retailers/pdfs/DoverThrifts2022.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 46, entries 1-3
+
+### WR-KW-105 - [We of the Genus Homo Ride the Logs]
+
+- Verified author and source: Aldo Leopold, "The Round River—A Parable," in *Round River: From the Journals of Aldo Leopold* (1953), pages 158-165.
+- Relationship: Continuous passage. The booklet omits "a" before "little," omits "is" after "burling," drops a second "called," and corrupts "conversation" to "conservation."
+- Evidence: [Scholarly quotation and full bibliographic citation](https://theanarchistlibrary.org/library/martha-f-lee-earth-first-environmental-apocalypse.a4.pdf), [independent modern-edition comparison](https://landinstitute.org/wp-content/uploads/NP_PerennialTurn_ePDF.pdf), and [source-history study](https://www.researchgate.net/publication/275281768_Aldo_Leopold_and_the_Ecological_Imaginary).
+- Confidence: High.
+
+### WR-KW-106 - [Our Newly Found Capacity]
+
+- Booklet attribution: Arthur H. Carhart, dated 1962.
+- Finding: No matching original speech, essay, book, periodical, or archival document was located. The phrase "has us to overlook" is grammatically defective and may stand for "has led us to overlook," but the booklet wording remains unchanged without a comparison source.
+- Evidence: The booklet's stated source list identifies the Arthur Carhart National Wilderness Training Center's *Wilderness Quotes* compilation, which establishes collection provenance but not original authorship or wording.
+- Confidence: Low.
+
+### WR-KW-107 - [For a Great Tree, Death Comes]
+
+- Verified author and source: Edwin Way Teale, "The Death of a Tree," first printed in *The New Yorker* (December 11, 1937) and later collected in *Dune Boy* (1943).
+- Relationship: Opening paragraph. The booklet prints "hill top" for "hilltop" and omits a comma and the article "a" from the closing sentence; the NPS text itself appears to contain "ride" for "ridge."
+- Evidence: [National Park Service chapter text and book context](https://www.nps.gov/articles/000/dune-boy-the-early-years-of-a-naturalist.htm), [original New Yorker publication record](https://www.newyorker.com/magazine/1937/12/11/death-of-a-tree), and [University of Connecticut archival history confirming the 1943 book](https://blogs.lib.uconn.edu/archives/2017/02/14/throwing-bricks-at-the-temple-reexamining-the-life-and-writing-of-edwin-way-teale/).
+- Confidence: High.
