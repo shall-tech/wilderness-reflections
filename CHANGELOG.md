@@ -110,3 +110,4 @@
 - Completed Knowledge and Wisdom page 43 by identifying Li Bai's poem and translators while documenting the absence of an original publication source for the Abram T. Collier passage.
 - Began Knowledge and Wisdom page 44 with sources for Udall, the Wilhelm-Baynes I Ching, Douglas's mountain memoir, and the Supreme Court's Berman opinion.
 - Completed Knowledge and Wisdom page 44 by tracing Leopold's land-health sentence across its periodical and book versions and identifying Henderson's reprinted running column.
+- Began Knowledge and Wisdom page 45 with three Leopold excerpts, identifying a composite construction and several scan-confirmed wording errors and omissions.

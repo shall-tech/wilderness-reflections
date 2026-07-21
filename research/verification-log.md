@@ -1635,3 +1635,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Selected contrasts from a longer numbered column. The booklet prints "Your had" for the source's "You had" and appears to select and reorder portions.
 - Evidence: [1986 newsletter reprint headed "Running Commentary by Joe Henderson"](https://peiroadrunners.ca/static/history/newsletters/1986/04.pdf) and [independent retrospective excerpts](https://livingthestotanlife.blogspot.com/2019/).
 - Confidence: Medium; the exact original *Runner's World* issue and date remain unlocated.
+
+## 2026-07-20 - Knowledge and Wisdom page 45, entries 1-3
+
+### WR-KW-100 - [Man Always Kills the Thing He Loves]
+
+- Verified author and source: Aldo Leopold, *A Sand County Almanac* (1949), combining the close of "The Green Lagoons" with selected paragraphs from "Conservation Esthetic."
+- Relationship: Composite excerpt. The booklet prints "by young" for "be young," drops "To" before "those devoid," changes the later "blank place" to "blank spot," singularizes "satisfactions," omits "Recreational," and silently removes intervening text.
+- Evidence: [Complete book text, "The Green Lagoons"](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac#toc66) and [complete book text, "Conservation Esthetic"](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac#toc76).
+- Confidence: High.
+
+### WR-KW-101 - [No Servant Brought Them Meats]
+
+- Verified author and source: Aldo Leopold, "Flambeau," in *A Sand County Almanac* (1949).
+- Relationship: Selected passage. The booklet prints "meats" for "meals," omits the intervening paragraph explaining the boys' impending Army service, and removes quotation marks from "on their own."
+- Evidence: [Complete book text at "Flambeau"](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac#toc54).
+- Confidence: High.
+
+### WR-KW-102 - [Land, Then, Is Not Merely Soil]
+
+- Verified author and source: Aldo Leopold, "The Land Pyramid" subsection of "The Land Ethic," in *A Sand County Almanac* (1949).
+- Relationship: Complete paragraph; the booklet wording matches the comparison text.
+- Evidence: [Complete book text at "The Land Pyramid"](https://www.thetedkarchive.com/library/aldo-leopold-a-sand-county-almanac#toc89).
+- Confidence: High.

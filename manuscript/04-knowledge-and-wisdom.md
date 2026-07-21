@@ -2894,22 +2894,22 @@ Losing is matching yourself against everyone else who runs. This is self-defeati
 WR-ID: WR-KW-100
 PAGE: 45
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Man Always Kills the Thing He Loves]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Composite Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Joins the close of "The Green Lagoons" to selected paragraphs from "Conservation Esthetic" in A Sand County Almanac.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Sand County Almanac (1949)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Imagination
-NOTES: None
+NOTES: The booklet prints "by young" for "be young," drops "To" before "those devoid," changes "blank place" to "blank spot" in the later passage, singularizes "satisfactions," omits "Recreational," and silently removes several intervening sentences and paragraphs.
 -->
 
 ## [Man Always Kills the Thing He Loves]
@@ -2922,22 +2922,22 @@ Man always kills the thing he loves, and so we the pioneers have killed our wild
 WR-ID: WR-KW-101
 PAGE: 45
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No Servant Brought Them Meats]
 BOOKLET_AUTHOR: Aldo Leopold, from Sand County Almanac
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Book Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Selected passage from "Flambeau" in A Sand County Almanac.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Sand County Almanac (1949)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Freedom
-NOTES: None
+NOTES: The booklet prints "meats" for "meals," omits a paragraph explaining the boys' impending Army service, and removes quotation marks from "on their own."
 -->
 
 ## [No Servant Brought Them Meats]
@@ -2950,22 +2950,22 @@ No servant brought them meats: they got their meat out of the river, or went wit
 WR-ID: WR-KW-102
 PAGE: 45
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Land, Then, Is Not Merely Soil]
 BOOKLET_AUTHOR: Aldo Leopold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete paragraph from "The Land Pyramid" subsection of "The Land Ethic" in A Sand County Almanac.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Sand County Almanac (1949)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Land
 - Energy
-NOTES: None
+NOTES: The booklet wording matches the comparison text.
 -->
 
 ## [Land, Then, Is Not Merely Soil]
