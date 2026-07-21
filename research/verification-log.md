@@ -2237,3 +2237,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Extended passage from the culminating portion of the great vision. The published text reads "can tell," singular "the shape of all shapes," "one of many hoops," and "wide as daylight and as starlight"; the booklet changes each, most consequentially corrupting "starlight" to "straight."
 - Evidence: [Complete-edition comparison text and bibliographic record](https://www.olivebiodiesel.com/Intellectuals/black_elk.pdf), [chapter and 1932 source identification](https://www.verostko.com/archive/spalding/flowers96.pdf), and [independent complete comparison witness](https://libquotes.com/black-elk/quote/lbm7z3m).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 67, entries 1-3
+
+### WR-W-001 - [If These Mountains Die]
+
+- Verified author and source: John Treadwell Nichols, opening page of *If Mountains Die: A New Mexico Memoir* (1979), with photographs by William Davis.
+- Relationship: Extended opening-page passage. The booklet repeats the sentence beginning "If the high valley" and part of the following sentence; an independent Philmont witness repeats the same material, but a primary-page scan was not located to establish where the duplication began.
+- Evidence: [Philmont comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars2.html), [scholarly page-1 source citation](https://prizedwriting.ucdavis.edu/sites/g/files/dgvnsk15806/files/media/documents/1997%E2%80%931998%20DICKERMAN.pdf), and [first-edition bibliographic record](https://www.abaa.org/book/1774419415).
+- Confidence: Medium.
+
+### WR-W-002 - [We Have a Profound Fundamental Need]
+
+- Verified author and source: Howard Zahniser, "The Need for Wilderness Areas," delivered as a speech in 1955 and published in *The Living Wilderness*, no. 59 (Winter-Spring 1956-1957).
+- Relationship: Condensation joining Zahniser's earlier statement of a "profound, a fundamental need for areas of wilderness" to the next paragraph's "This need is for areas of the earth within which we stand." The booklet author note misspells "principal" as "principle."
+- Evidence: [Government educational excerpt with surrounding text](https://www.govinfo.gov/content/pkg/GOVPUB-I53-PURL-gpo64440/pdf/GOVPUB-I53-PURL-gpo64440.pdf), [publication history and fuller comparison passage](https://wildernesswatch.org/wp-content/uploads/2015/06/Fall-2019-Watcher.pdf), and [historical transcript with citation](https://explorepahistory.com/odocument.php%3FdocId%3D1-4-31D.html).
+- Confidence: High.
+
+### WR-W-003 - [So Rests the Sky Against the Earth]
+
+- Verified author, translator, and source: Dag Hammarskjöld, 1951 waymark in *Vägmärken* (1963), translated by Leif Sjöberg and W. H. Auden as *Markings* (1964).
+- Relationship: Complete entry. The booklet corrupts "The dark still tarn" to "The dark sill torn," inserts "idle" before "ache," adds "and" before "sky," and alters closing punctuation.
+- Evidence: [Dag Hammarskjöld Foundation reader's guide with complete entry and context](https://www.daghammarskjold.se/wp-content/uploads/2014/08/rg_to_waymarks.pdf), [translation and date locator](https://www.quotegarden.com/sky.html), and [independent comparison text](https://www.azquotes.com/author/6178-Dag_Hammarskjold/tag/waiting).
+- Confidence: High.

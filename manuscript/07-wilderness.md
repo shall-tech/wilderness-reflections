@@ -16,22 +16,22 @@
 WR-ID: WR-W-001
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [If These Mountains Die]
 BOOKLET_AUTHOR: John Nichols, from If Mountains Die, a New Mexico Memoir
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Treadwell Nichols
+WORK_TYPE: Memoir Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening-page passage from If Mountains Die: A New Mexico Memoir.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: If Mountains Die: A New Mexico Memoir (1979), page 1
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet repeats the sentence beginning "If the high valley" and the opening of the following "long time people" sentence. A Philmont comparison witness repeats the same material, but a scan of the primary page was not located to determine whether the duplication originated in the booklet's source copy. The booklet also uses unhyphenated "self seekers" and "long time."
 -->
 
 ## [If These Mountains Die]
@@ -44,22 +44,22 @@ If these mountains die, where will our imagination wander? If the far mesas are 
 WR-ID: WR-W-002
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Have a Profound Fundamental Need]
 BOOKLET_AUTHOR: Howard Zahniser, principle author of the Wilderness Act
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Howard Zahniser
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed sentence assembled from two clauses in "The Need for Wilderness Areas."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Speech delivered in 1955; The Living Wilderness, no. 59 (Winter-Spring 1956-1957)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Zahniser's full text first states a "profound, a fundamental need for areas of wilderness," then begins a new paragraph "This need is for areas of the earth within which we stand." The booklet joins and shortens those clauses. It also misspells "principal" as "principle" in the author note.
 -->
 
 ## [We Have a Profound Fundamental Need]
@@ -72,22 +72,22 @@ I believe we have a profound fundamental need for areas of the earth where we st
 WR-ID: WR-W-003
 PAGE: 67
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [So Rests the Sky Against the Earth]
 BOOKLET_AUTHOR: Dag Hammarskjold
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Dag Hammarskjöld; translated by Leif Sjöberg and W. H. Auden
+WORK_TYPE: Journal Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Complete 1951 waymark, published posthumously in Markings.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Vägmärken (1963); English translation Markings (1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The established English text reads "The dark still tarn in the lap of the forest," not the booklet's nonsensical "The dark sill torn." It also reads "an ache" rather than "an idle ache," "towards earth, water, sky" without "and," and "rested - while waiting" rather than the booklet's altered punctuation.
 -->
 
 ## [So Rests the Sky Against the Earth]

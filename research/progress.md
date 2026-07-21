@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Beauty source verification is complete through WR-B-058 on original page 63; original page 64 is blank. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-003 on original page 67. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-001, "Wilderness," on original page 65.
+- Next entry: WR-W-004, "There Is a Limit to the Number of Lands of Shoreline," on original page 67.
 
 ## Source
 

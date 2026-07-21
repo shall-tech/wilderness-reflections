@@ -138,3 +138,4 @@
 - Began Beauty page 63 with an unresolved Sive statement, correction of the Psalm 19 source range, and Buffon's 1742 forestry memoir.
 - Continued Beauty page 63 with two provenance-unresolved traditional texts and Jefferies's altered sentence from "The Pageant of Summer."
 - Completed Beauty verification with Black Elk's great-vision passage, documenting the booklet's corruption of "starlight" to "straight."
+- Began Wilderness page 67 with Nichols's duplicated memoir passage, Zahniser's condensed wilderness-need argument, and Hammarskjöld's heavily corrupted 1951 waymark.
