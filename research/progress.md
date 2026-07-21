@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-107 on original page 46; Life and Leadership are complete.
+- Source verification is complete through WR-KW-108 on original page 46; Life, Leadership, and Knowledge and Wisdom are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-108, "You Must Teach Your Children," on original page 46.
+- Next entry: WR-SA-001, "If You Want to Make a Difference," on original page 49.
 
 ## Source
 

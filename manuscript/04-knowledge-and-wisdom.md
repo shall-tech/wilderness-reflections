@@ -3120,22 +3120,22 @@ For a great tree, death comes as a gradual transformation. Its vitality ebbs slo
 WR-ID: WR-KW-108
 PAGE: 46
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [You Must Teach Your Children]
 BOOKLET_AUTHOR: Chief Seattle
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Ted Perry, with later editing by producer John Stevens and anonymous abridgment; falsely attributed to Chief Seattle
+WORK_TYPE: Screenplay-Derived Excerpt
 EXCERPT: Yes
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: A shortened form of the ecological speech written for the television film Home, not part of any reliable record of Chief Seattle's nineteenth-century speech.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Written in 1971 for Home, broadcast in 1972
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Earth
 - Connection
-NOTES: None
+NOTES: The booklet repeats the false Chief Seattle attribution and prints "tell you children" for "tell your children." The famous "web of life" language originated in Perry's twentieth-century script.
 -->
 
 ## [You Must Teach Your Children]

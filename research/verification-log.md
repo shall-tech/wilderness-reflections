@@ -1697,3 +1697,12 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Opening paragraph. The booklet prints "hill top" for "hilltop" and omits a comma and the article "a" from the closing sentence; the NPS text itself appears to contain "ride" for "ridge."
 - Evidence: [National Park Service chapter text and book context](https://www.nps.gov/articles/000/dune-boy-the-early-years-of-a-naturalist.htm), [original New Yorker publication record](https://www.newyorker.com/magazine/1937/12/11/death-of-a-tree), and [University of Connecticut archival history confirming the 1943 book](https://blogs.lib.uconn.edu/archives/2017/02/14/throwing-bricks-at-the-temple-reexamining-the-life-and-writing-of-edwin-way-teale/).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 46, entry 4
+
+### WR-KW-108 - [You Must Teach Your Children]
+
+- Corrected authorship and source: Ted Perry wrote the ecological speech for the television film *Home* in 1971; producer John Stevens subsequently edited it, and anonymous abridgments circulated afterward. It is not a reliable record of anything Chief Seattle said.
+- Relationship: Shortened Perry/Stevens-derived text. The booklet repeats the false Chief Seattle attribution and prints "tell you children" for "tell your children."
+- Evidence: [National Archives history of the undocumented speech](https://www.archives.gov/publications/prologue/1985/spring/chief-seattle.html), [HistoryLink account of the fabricated modern versions](https://www.historylink.org/File/1427), [University of Washington study with Perry's version](https://com.uw.edu/wp-content/uploads/2024/08/Madeleine-G.-Welchs-Thesis_-Interpretations-of-Chief-sia%CA%94%C9%ACs-speech-and-character.pdf), and [local historical explanation of the "web of life" passage](https://www.chiefseattle.com/history/chiefseattle/speech/speech.htm).
+- Confidence: High.
