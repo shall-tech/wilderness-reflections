@@ -710,22 +710,22 @@ and try to follow where they lead.
 WR-ID: WR-B-022
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Pine Tree Tops
 BOOKLET_AUTHOR: Gary Snyder
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Gary Snyder
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem, "Pine Tree Tops."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Clear Creek, no. 13 (March 1972); collected in Turtle Island (1974)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Night
 - Nature
-NOTES: None
+NOTES: The booklet preserves all words but changes capitalization at several line openings and omits periods after "starlight," "boots," and the final line.
 -->
 
 ## Pine Tree Tops
@@ -746,22 +746,22 @@ What do we know?
 WR-ID: WR-B-023
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Sometimes the Rare, the Beautiful]
 BOOKLET_AUTHOR: Loren Eiseley
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Loren Eiseley
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from The Mind as Nature.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Mind as Nature (Harper & Row, 1962)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Creativity
 - Solitude
-NOTES: None
+NOTES: Comparison witnesses read "emerge and survive" rather than "emerge or survive," "seems to nurture" rather than "serves to nurture," singular "power," and "the strange, the unexpected."
 -->
 
 ## [Sometimes the Rare, the Beautiful]
@@ -774,22 +774,22 @@ Sometimes the rare, the beautiful can only emerge or survive in isolation. In a 
 WR-ID: WR-B-024
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [No Synonym for God Is So Perfect as Beauty]
 BOOKLET_AUTHOR: John Muir
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Muir
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Journal entry dated June 26, 1875, published posthumously in John of the Mountains.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: John of the Mountains: The Unpublished Journals of John Muir (1938)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - God
-NOTES: None
+NOTES: The source reads plural "movements of water," capitalizes "Beauty," and ends with an exclamation point; the booklet prints singular "movement of water," lowercases "beauty," and alters punctuation.
 -->
 
 ## [No Synonym for God Is So Perfect as Beauty]

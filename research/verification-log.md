@@ -1952,3 +1952,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Shortened prose excerpt arranged as verse. The source reads "I cannot reach them" rather than "I may not reach them" and continues with an image of frost and white flowers omitted by the booklet.
 - Evidence: [Project Gutenberg complete novel and surrounding passage](https://www.gutenberg.org/files/4770/4770-h/4770-h.htm), [chapter-level comparison text](https://www.online-literature.com/alcott/work/12/), and [sourced work locator](https://libquotes.com/louisa-may-alcott/quote/lbb0f1p).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 59, entries 1-3
+
+### WR-B-022 - Pine Tree Tops
+
+- Verified author and source: Gary Snyder, "Pine Tree Tops," first published in *Clear Creek*, no. 13 (March 1972), and collected in *Turtle Island* (1974).
+- Relationship: Complete poem. The booklet preserves every word but changes capitalization at several line openings and omits three periods.
+- Evidence: [UC Davis Gary Snyder bibliography with first-publication record](https://library.ucdavis.edu/wp-content/uploads/2022/07/bib-garysnyder-2ed.pdf), [complete comparison text](https://www.wenaus.org/poetry/gs-pinetops.html), and [collection locator](https://www.poetryexplorer.net/poem26.php?pid=12508274).
+- Confidence: High.
+
+### WR-B-023 - [Sometimes the Rare, the Beautiful]
+
+- Verified author and source: Loren Eiseley, *The Mind as Nature* (Harper & Row, 1962).
+- Relationship: Prose passage. Comparison witnesses read "emerge and survive" rather than "emerge or survive," "seems to nurture" rather than "serves to nurture," singular "power," and "the strange, the unexpected."
+- Evidence: [Scholarly quotation with page citation](https://www.zygonjournal.org/article/12054/galley/24485/download/), [Loren Eiseley Society bibliography](https://www.eiseley.org/bibliography.php), and [first-edition bibliographic record](https://www.abaa.org/book/276252960).
+- Confidence: High.
+
+### WR-B-024 - [No Synonym for God Is So Perfect as Beauty]
+
+- Verified author and source: John Muir, journal entry dated June 26, 1875, published posthumously in *John of the Mountains: The Unpublished Journals of John Muir* (1938), page 208.
+- Relationship: Complete journal sentence. The source reads plural "movements of water," capitalizes "Beauty," and ends with an exclamation point; the booklet alters each feature.
+- Evidence: [Dated book and page locator with comparison text](https://libquotes.com/john-muir/quote/lbs7d8s) and [independent full-text witness](https://quotes.schollz.com/subject/movements).
+- Confidence: High.
