@@ -1579,22 +1579,22 @@ These beautiful days must enrich all my life. They do not exist as mere pictures
 WR-ID: WR-B-051
 PAGE: 62
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I Thanked to the Author of My Being]
 BOOKLET_AUTHOR: William Henry Hudson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: William Henry Hudson
+WORK_TYPE: Novel Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence ending from chapter 5 of Green Mansions, narrated by the fictional Abel.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Green Mansions: A Romance of the Tropical Forest (1904)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source reads "then casting up my eyes, thanked the Author of my being"; the booklet replaces the opening with the ungrammatical "I thanked to the Author of my being." The remainder matches.
 -->
 
 ## [I Thanked to the Author of My Being]

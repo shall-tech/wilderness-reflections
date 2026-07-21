@@ -134,3 +134,4 @@
 - Completed Beauty page 61 with Fraser Darling's final Reith lecture, Wordsworth's daffodils stanza, and two Muir journal and notebook excerpts.
 - Began Beauty page 62 with Muir's Hetch Hetchy argument and two dated journal passages, documenting several booklet wording and punctuation changes.
 - Continued Beauty page 62 with Muir's "Mountain Thoughts," a composite assembled from two Carr letters, and a shortened posthumous journal passage.
+- Completed Beauty page 62 by identifying Hudson's *Green Mansions* sentence and documenting its corrupted booklet opening.

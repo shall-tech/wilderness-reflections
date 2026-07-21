@@ -2173,3 +2173,12 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Shortened passage. The booklet's ellipsis omits a clause about pictures brightening and shrinking with memory, and it changes "the body" to "my body."
 - Evidence: [Scholarly complete comparison text with book-page citation](https://www.mdpi.com/2077-1444/3/2/266), [later quotation-book locator](https://www.azquotes.com/quote/1055528), and [independent Philmont comparison witness](https://www.philmontscoutranch.org/wp-content/uploads/filestore/pdf/Philnews_2010/2010PhilNewsIssue07.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 62, entry 7
+
+### WR-B-051 - [I Thanked to the Author of My Being]
+
+- Verified author and source: William Henry Hudson, chapter 5 of *Green Mansions: A Romance of the Tropical Forest* (1904).
+- Relationship: Sentence ending spoken by the fictional narrator Abel. The source reads "then casting up my eyes, thanked the Author of my being"; the booklet replaces that opening with the ungrammatical "I thanked to the Author of my being."
+- Evidence: [Project Gutenberg complete novel](https://www.gutenberg.org/files/942/942-h/942-h.htm), [first-edition bibliographic record and text](https://www.ibiblio.org/eldritch/whh/gmans.htm), and [scanned comparison page](https://upload.wikimedia.org/wikipedia/commons/0/0d/Green_mansions-_a_romance_of_the_tropical_forest_%28IA_greenmansionsromhuds%29.pdf).
+- Confidence: High.
