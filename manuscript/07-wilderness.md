@@ -1466,22 +1466,22 @@ Her mighty lakes, like oceans of liquid silver; her mountains with their bright 
 WR-ID: WR-W-050
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Home to the Wilderness
 BOOKLET_AUTHOR: Sally Carrighar
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Sally Carrighar
+WORK_TYPE: Autobiography excerpt
+EXCERPT: Yes
+RELATIONSHIP: Passage from Home to the Wilderness: A Personal Journey; later comparisons show minor wording variants.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Home to the Wilderness: A Personal Journey (1973)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Later witnesses read "the blueness" rather than the booklet's "the blends," "flowerettes" rather than "flowerets," and "jump with a squirrel" rather than "the squirrel." A paginated copy of the 1973 edition was not available for direct comparison.
 -->
 
 ## Home to the Wilderness
@@ -1494,22 +1494,22 @@ I held a blue flower in my hand, probably a wild aster, wondering what its name 
 WR-ID: WR-W-051
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: [I Think That I Shall Never See]
+STATUS: VERIFIED
+TITLE: Song of the Open Road
 BOOKLET_AUTHOR: Ogden Nash
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Ogden Nash
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete revised four-line version; parody of Joyce Kilmer's "Trees."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The New Yorker (October 15, 1932); revised version in The Face Is Familiar (1940)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The 1932 text begins the third line "Perhaps"; Nash's 1940 revision uses the booklet's "Indeed." Both read "tree," where the booklet prints "tress."
 -->
 
 ## [I Think That I Shall Never See]
@@ -1525,13 +1525,13 @@ I'll never see a tree at all.
 WR-ID: WR-W-052
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Earth, Born in Fire]
 BOOKLET_AUTHOR: E.V. Komarek
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: E. V. Komarek Sr. (provisional)
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Exact source and original prose or verse formatting not located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1540,7 +1540,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet prints "lightening," which may be an authorial or booklet error for "lightning." Later fire-ecology literature associates Komarek with the "fire planet" formulation, but no original occurrence of this wording was located.
 -->
 
 ## [The Earth, Born in Fire]
@@ -1557,13 +1557,13 @@ A fire planet.
 WR-ID: WR-W-053
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Am Part of My Environment]
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete statement in the same Philmont transmission tradition; no earlier author or publication located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1572,7 +1572,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: An independent Philmont compilation reproduces the passage and credits it to "Unknown," but does not establish earlier provenance.
 -->
 
 ## [I Am Part of My Environment]
@@ -1585,22 +1585,22 @@ I am part of my environment, and my environment is part of me. When I maim the e
 WR-ID: WR-W-054
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Good News Is That Americans Will]
 BOOKLET_AUTHOR: Charles E. Little
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Charles E. Little
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Closing observation attributed to Little's essay "The Land Between."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: "The Land Between," in The American Land (1979)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: A precise later source identifies the work and collection, but the original volume was not available for direct page comparison.
 -->
 
 ## [The Good News Is That Americans Will]
@@ -1613,22 +1613,22 @@ The good news is that Americans will, in increasing numbers, begin to value and 
 WR-ID: WR-W-055
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
-TITLE: [Come Said the Wind]
+STATUS: VERIFIED
+TITLE: Come, Little Leaves
 BOOKLET_AUTHOR: A children's song, circa 1886
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: George Cooper
+WORK_TYPE: Poem / children's song
+EXCERPT: Yes
+RELATIONSHIP: Adapted first stanza of Cooper's poem, transmitted as a children's song.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Ballads for Little Folks (date unresolved; documented in school use by 1900)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Cooper's text begins "Come, little leaves," reads "with me, and play," and uses "red and gold." The booklet's circa-1886 song date was not independently established.
 -->
 
 ## [Come Said the Wind]
@@ -1648,22 +1648,22 @@ and the days grow cold.
 WR-ID: WR-W-056
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Laws Change; People Die]
 BOOKLET_AUTHOR: Abraham Lincoln
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Abraham Lincoln (paraphrase)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Modern condensation of an argument in Lincoln's Second Annual Message, not a located verbatim sentence.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Second Annual Message to Congress (December 1, 1862)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Lincoln discusses territory, people, and laws and emphasizes the nation's enduring geography. The booklet's exact wording appears widely in later conservation materials, but was not found verbatim in the official message.
 -->
 
 ## [Laws Change; People Die]
@@ -1676,22 +1676,22 @@ Laws change; people die; the land remains.
 WR-ID: WR-W-057
 PAGE: 73
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Birds I Heard Today]
 BOOKLET_AUTHOR: Henry David Thoreau
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Henry David Thoreau
 WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+EXCERPT: Yes
+RELATIONSHIP: Journal sentence collected posthumously in Early Spring in Massachusetts.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Early Spring in Massachusetts: From the Journal of Henry D. Thoreau (1881)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The collected text reads singular "the first morning of creation"; the booklet prints "creations."
 -->
 
 ## [The Birds I Heard Today]

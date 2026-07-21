@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed Wilderness page 73 verification, restoring the Nash and Cooper poem titles, documenting four booklet wording errors, and distinguishing Lincoln's paraphrase from his 1862 message.
 - Completed Wilderness page 72 verification, identifying the Russell biblical/Thoreau composite, restoring Dōgen and his translators, and locating the Kennedy, Johnson, Austin, Rodrigues, and Irving contexts.
 - Completed Wilderness page 71 verification, restoring Hughes's title, tracing the Emerson, Gibran, Stegner, Zhuangzi, Buryn, and Kennedy sources, and documenting two unresolved passages.
 - Completed Wilderness page 70 verification, correcting the Abbey quotation misattributed to Leopold and documenting the page's personal and transmission-only sources.

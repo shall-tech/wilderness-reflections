@@ -2582,3 +2582,61 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Extended sentence. The source uses additional commas and reads "with the magic of summer clouds," where the booklet has "with magic of summer clouds."
 - Evidence: [Complete collected-works scan with source passage](https://upload.wikimedia.org/wikipedia/commons/8/8a/The_complete_works_of_Washington_Irving_%28IA_completeworksofw0009irvi%29.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 73
+
+### WR-W-050 - Home to the Wilderness
+
+- Verified author and work: Sally Carrighar, *Home to the Wilderness: A Personal Journey* (1973).
+- Relationship: Autobiographical passage. Later witnesses read "the blueness" rather than "the blends," "flowerettes" rather than "flowerets," and "jump with a squirrel" rather than "the squirrel."
+- Evidence: [Google Books bibliographic record](https://books.google.com/books/about/Home_to_the_Wilderness.html?id=QWHlZ-NED_8C), [library catalog for the 1973 edition](https://library.comfsm.fm/webopac/titleinfo?k1=1179298&k2=28144&searchtext=Carrighar%2C+Sally.), and [complete later comparison](https://www.azquotes.com/quote/601965).
+- Confidence: Medium.
+
+### WR-W-051 - Song of the Open Road
+
+- Verified author and publication: Ogden Nash, first published in *The New Yorker* on October 15, 1932, and revised in *The Face Is Familiar* (1940).
+- Relationship: Complete parody of Joyce Kilmer's "Trees." The booklet uses Nash's revised "Indeed" but prints "tress" for "tree."
+- Evidence: [Publication-history and textual comparison](https://ogden365.rssing.com/chan-26347628/all_p1.html), [collected Nash text](https://www.scribd.com/document/771444773/The-Pocket-Book-of-Ogden-Nash-Ogden-Nash), and [Congressional Record witness](https://www.congress.gov/87/crecb/1961/06/15/GPO-CRECB-1961-pt8-5.pdf).
+- Confidence: High.
+
+### WR-W-052 - [The Earth, Born in Fire]
+
+- Attribution unresolved: E. V. Komarek Sr. is a plausible speaker because later fire-ecology literature associates him with the "fire planet" formulation, but no original occurrence of the booklet text was located.
+- Relationship: The booklet's "lightening" may be an error for "lightning"; original prose or verse formatting is unknown.
+- Evidence: [Later Komarek fire-ecology compilation](https://www.scribd.com/document/960417568/201-Komarek1974-op).
+- Confidence: Low.
+
+### WR-W-053 - [I Am Part of My Environment]
+
+- Author and original provenance unresolved.
+- Relationship: An independent Philmont compilation reproduces the complete statement with the same "Unknown" credit.
+- Evidence: [Independent Philmont comparison](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
+- Confidence: Low.
+
+### WR-W-054 - [The Good News Is That Americans Will]
+
+- Verified author and work: Charles E. Little, "The Land Between," in *The American Land* (1979).
+- Relationship: Complete closing observation according to a precise later source; the original volume was unavailable for direct page comparison.
+- Evidence: [Work, collection, and date locator with complete text](https://jimstrailresources.wordpress.com/tag/charles-little/).
+- Confidence: Medium.
+
+### WR-W-055 - Come, Little Leaves
+
+- Verified author and work: George Cooper, "Come, Little Leaves," from *Ballads for Little Folks*.
+- Relationship: Adapted first stanza transmitted as a children's song. Cooper reads "Come, little leaves," "with me, and play," and "red and gold."
+- Evidence: [Complete attributed comparison](https://www.gatewaytotheclassics.com/offerings/displayitem.php?item=poems%2Fcooper_george%2Fleaves&s=1), [early school-course attribution from 1900](https://spl.cde.state.co.us/artemis/edserials/ed289internet/ed2891900internet.pdf), and [early printed scan](https://upload.wikimedia.org/wikipedia/commons/8/8e/Gold_nuggets_of_literature%3B_%28IA_goldnuggetsoflit00towe%29.pdf).
+- Confidence: High.
+
+### WR-W-056 - [Laws Change; People Die]
+
+- Verified basis: condensation of Abraham Lincoln's Second Annual Message to Congress, December 1, 1862.
+- Relationship: Lincoln discusses territory, people, and laws and the permanence of geography; the booklet sentence was not found verbatim in the official message and is best treated as a modern paraphrase.
+- Evidence: [Complete official message at the American Presidency Project](https://www.presidency.ucsb.edu/documents/second-annual-message-9) and [later institutional conservation witness](https://documents.dnrec.delaware.gov/OpenSpaces/Documents/Delawares-Open-Space-Program-A-26-year-report-1990-June2016.pdf).
+- Confidence: Medium.
+
+### WR-W-057 - [The Birds I Heard Today]
+
+- Verified author and collection: Henry David Thoreau, collected in *Early Spring in Massachusetts: From the Journal of Henry D. Thoreau* (1881).
+- Relationship: Journal sentence; the source reads singular "the first morning of creation," whereas the booklet prints "creations."
+- Evidence: [Collection locator and complete comparison](https://www.azquotes.com/author/14637-Henry_David_Thoreau/tag/bird).
+- Confidence: Medium.
