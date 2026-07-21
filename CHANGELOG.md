@@ -98,3 +98,4 @@
 - Completed Knowledge and Wisdom page 37 by identifying the Brashear epitaph's poetic source, correcting Ivy Baker Priest in metadata, locating Franklin's full maxim, and flagging an untraceable Sufi saying.
 - Began Knowledge and Wisdom page 38 with sources for Hammarskjöld and Freud, while distinguishing Moriah's adaptation from the unresolved origin of its anecdote.
 - Completed Knowledge and Wisdom page 38 by identifying Hughes's epigram and McFarland's 1908 address, documenting two corrupted McFarland words and an unresolved Szent-Györgyi attribution.
+- Began Knowledge and Wisdom page 39 by restoring Merton's prose context and Steven Wright's omitted credit while tracing two anonymous sayings as far as available evidence allows.

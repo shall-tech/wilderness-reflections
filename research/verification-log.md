@@ -1340,3 +1340,31 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two sentences with major scan-confirmed wording errors. The source reads "has lighted" rather than "has lighten" and "this love is excited" rather than "this life is excited."
 - Evidence: [Library of Congress historical account with occasion and source wording](https://blogs.loc.gov/inside_adams/2016/08/john-horace-mcfarland-unsung-hero-of-the-national-park-service/) and [independent occasion witness](https://www.bamanews.com/archives/2008_07_01_archive.html).
 - Confidence: High.
+
+## 2026-07-20 - Knowledge and Wisdom page 39, entries 1-4
+
+### WR-KW-061 - Rain and the Rhinoceros
+
+- Verified author and source: Thomas Merton, "Rain and the Rhinoceros," collected in *Raids on the Unspeakable* (1966).
+- Relationship: Condensed prose excerpt arranged by the booklet as verse. The booklet omits intervening prose and several punctuation marks.
+- Evidence: [Extended essay text](https://piefurcation.blogspot.com/2006/04/rain-and-rhinoceros-by-thomas-merton.html?showComment=1401303453675).
+- Confidence: High.
+
+### WR-KW-062 - [Everywhere Is Walking Distance]
+
+- Verified transmitted author: Comedian Steven Wright; the line is linked to his 1985 television performance.
+- Relationship: Complete one-liner. Circulated variants add "within" or substitute "you've got" for "you have."
+- Evidence: [Performance-source analysis](https://fixquotes.com/quotes/everywhere-is-within-walking-distance-if-you-have-1930.htm) and [2003 print witness](https://www.metropolitan-walkers.org.uk/wp-content/uploads/programme/2003/MetWalkers_Programme_2003-09.pdf).
+- Confidence: Medium because an official transcript or recording locator was not found.
+
+### WR-KW-063 - [You Can't Be Lost]
+
+- Finding: The saying occurs in aviation-humor lists and later travel writing, but no named author, first publication, or early source was located.
+- Evidence: [Aviation-humor collection](https://12tfw.org/aviationcliches.pdf) and [1995 travel witness](https://www.claytor.com/archive/03net.html).
+- Confidence: Low.
+
+### WR-KW-064 - [There Isn't Enough Darkness]
+
+- Finding: A close form is often attributed to Robert L. Alden without a work citation. Related wording appears in a 1903 tract, while Philip Bennett Power used a longer precursor in 1861. The booklet's exact "snuff out" form remains unattributed.
+- Evidence: [Provenance investigation and precursor references](https://fakebuddhaquotes.com/there-isnt-enough-darkness-in-all-the-world-to-snuff-out-the-light-of-one-little-candle/).
+- Confidence: Low for original authorship.

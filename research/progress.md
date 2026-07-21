@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-KW-060 on original page 38; Life and Leadership are complete.
+- Source verification is complete through WR-KW-064 on original page 39; Life and Leadership are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-KW-061, "Rain and the Rhinoceros," on original page 39.
+- Next entry: WR-KW-065, "I Think Over My Small Adventures," on original page 39.
 
 ## Source
 

@@ -1732,22 +1732,22 @@ It is the love of country that has lighten and that keeps glowing the holy fire 
 WR-ID: WR-KW-061
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Rain and the Rhinoceros
 BOOKLET_AUTHOR: Thomas Merton
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Thomas Merton
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Condensed prose excerpt from "Rain and the Rhinoceros," arranged as verse
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Raids on the Unspeakable (1966)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Rain
 - Solitude
-NOTES: None
+NOTES: The source is prose, not a poem. The booklet extracts sentences from the middle of the essay, omits intervening text, arranges the words as verse, and omits punctuation including the exclamation point after "hollows" and period after "stop it."
 -->
 
 ## Rain and the Rhinoceros
@@ -1769,22 +1769,22 @@ As long as it talks I am going to listen.
 WR-ID: WR-KW-062
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Everywhere Is Walking Distance]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Steven Wright
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Stand-up comedy one-liner
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: In performance by 1985
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Walking
 - Time
-NOTES: None
+NOTES: The saying is consistently attributed to Steven Wright and is documented in connection with his 1985 television special. Variants add "within" or use "you've got" rather than "you have." The booklet omits the author.
 -->
 
 ## [Everywhere Is Walking Distance]
@@ -1797,7 +1797,7 @@ Everywhere is walking distance, if you have the time.
 WR-ID: WR-KW-063
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [You Can't Be Lost]
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
@@ -1812,7 +1812,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wandering
 - Perspective
-NOTES: None
+NOTES: The saying appears in aviation-humor collections and later travel writing, but no named author, original publication, or early source was located.
 -->
 
 ## [You Can't Be Lost]
@@ -1825,13 +1825,13 @@ You can't be lost if you don't care where you are.
 WR-ID: WR-KW-064
 PAGE: 39
 SECTION: Knowledge and Wisdom
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [There Isn't Enough Darkness]
 BOOKLET_AUTHOR: Unknown
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Anonymous; Robert L. Alden attribution unverified
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Modern variant of an older light-and-darkness maxim
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
 FIRST_PUBLICATION: Unknown
@@ -1840,7 +1840,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Light
 - Hope
-NOTES: None
+NOTES: A close form is often credited to Robert L. Alden, but no work by Alden containing it was located. Related forms are documented in print by 1903 and a longer precursor by Philip Bennett Power in 1861; the booklet's exact "snuff out" wording remains unattributed.
 -->
 
 ## [There Isn't Enough Darkness]
