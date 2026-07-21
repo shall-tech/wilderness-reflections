@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Source verification is complete through WR-SA-011 on original page 51; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
+- Source verification is complete through WR-B-004 on original page 55; Life, Leadership, Knowledge and Wisdom, and Scouting and Adventures are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-B-001, "I Looked Into The Face," on original page 55.
+- Next entry: WR-B-005, "Silent Moon," on original page 56.
 
 ## Source
 

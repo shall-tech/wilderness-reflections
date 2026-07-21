@@ -1791,3 +1791,33 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Composite. "Sometimes it is better to travel than arrive" loosely recasts "to travel hopefully is a better thing than to arrive" from "El Dorado" in *Virginibus Puerisque* (1881); "For my part, I travel not to go anywhere, but to go" begins a longer passage in *Travels with a Donkey in the Cévennes* (1879).
 - Evidence: [Project Gutenberg *Travels* text and surrounding passage](https://www.gutenberg.org/files/21686/21686-h/21686-h.htm), [Project Gutenberg *Virginibus Puerisque*](https://www.gutenberg.org/files/386/386-h/386-h.htm), and [Project Gutenberg's full "El Dorado" ending](https://www.gutenberg.org/ebooks/69825.html.images).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 55
+
+### WR-B-001 - I Looked Into The Face
+
+- Finding: No independent publication, author record, or comparison text was located through searches of the title and distinctive lines.
+- Relationship: Complete anonymous poem as printed; provenance remains unresolved.
+- Evidence: The booklet transcription and scan are the only located witnesses.
+- Confidence: Low.
+
+### WR-B-002 - Pied Beauty
+
+- Corrected author and source: Gerard Manley Hopkins, "Pied Beauty," written in 1877 and first published posthumously in *Poems of Gerard Manley Hopkins* (1918). The booklet misspells the author's middle name as "Manly."
+- Relationship: Complete poem. The booklet introduces numerous errors and variants, including "brandied" for "brinded," "a dazzle" for "adazzle," lost compound hyphens, capitalization changes, and altered punctuation.
+- Evidence: [Poetry Foundation text and author record](https://www.poetryfoundation.org/poems/44399/pied-beauty) and [Poetry Foundation biography and publication history](https://www.poetryfoundation.org/poets/gerard-manley-hopkins).
+- Confidence: High.
+
+### WR-B-003 - [Silently a Flower Blooms]
+
+- Verified author and source: Zenkei Shibayama, introductory verse to *A Flower Does Not Talk: Zen Essays* (Charles E. Tuttle, 1970; reissued 2012).
+- Relationship: Complete introductory verse. The booklet reads "the world of the flower" where comparison witnesses read "the whole of the flower" and alters capitalization and lineation.
+- Evidence: [Book and 1970 publication identification](https://www.dancingmountains.org.uk/newsletter/issue-26-A-Flower-Does-Not-Talk.ghtml), [2012 edition and page locator](https://libquotes.com/zenkei-shibayama/quote/lbn1b9u), and [published scholarly comparison identifying it as the introductory verse](https://api.pageplace.de/preview/DT0400.9781317279402_A29527725/preview-9781317279402_A29527725.pdf).
+- Confidence: High.
+
+### WR-B-004 - [Beauty Is Composed of Many Things]
+
+- Corrected author: Sigurd F. Olson; the booklet prints "Olsen."
+- Relationship: Substantial excerpt from an Olson passage. Comparison witnesses read "great primeval silences" and "knowledge of all things of earth"; one longer witness includes an omitted sentence about hopes, dreams, and the spirit world. The exact originating Olson work was not located.
+- Evidence: [Full comparison transcription](https://friendsofsilence.net/quote/author/sigurd-olson), [1990 periodical witness](https://torreypine.org/wp-content/uploads/nl/1990/9001.pdf), and [longer comparison witness](https://wclra.org/wp-content/uploads/2018-Vol-24-02-Summer-TLPA-Newsletter-scanned.pdf).
+- Confidence: Medium.

@@ -14,22 +14,22 @@
 WR-ID: WR-B-001
 PAGE: 55
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: I Looked Into The Face
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete poem as printed; no independent publication or author record was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Mountains
-NOTES: None
+NOTES: Exact-phrase and distinctive-line searches did not locate another witness; authorship and provenance remain unknown.
 -->
 
 ## I Looked Into The Face
@@ -53,22 +53,22 @@ At her face.
 WR-ID: WR-B-002
 PAGE: 55
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: Pied Beauty
 BOOKLET_AUTHOR: Gerard Manly Hopkins
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Gerard Manley Hopkins
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem, "Pied Beauty," written in 1877 and first published posthumously in Poems of Gerard Manley Hopkins.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Poems of Gerard Manley Hopkins (1918)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Variety
-NOTES: None
+NOTES: The booklet misspells Hopkins's middle name as "Manly." Its text also prints "couple color" for "couple-colour," "brandied" for "brinded," "Rose Moles" for "rose-moles," dissolves several compounds, prints "a dazzle" for "adazzle," and alters punctuation throughout.
 -->
 
 ## Pied Beauty
@@ -91,22 +91,22 @@ Praise him.
 WR-ID: WR-B-003
 PAGE: 55
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Silently a Flower Blooms]
 BOOKLET_AUTHOR: Zenkei Shibayama
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
+VERIFIED_AUTHOR: Zenkei Shibayama
+WORK_TYPE: Introductory Verse
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Introductory verse from A Flower Does Not Talk: Zen Essays.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: A Flower Does Not Talk: Zen Essays (Charles E. Tuttle, 1970)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Flowers
 - Eternal life
-NOTES: None
+NOTES: The booklet text closely follows the published verse but prints "the world of the flower" where comparison witnesses read "the whole of the flower" and changes capitalization and lineation.
 -->
 
 ## [Silently a Flower Blooms]
@@ -126,22 +126,22 @@ The glory of eternal life is fully shining here.
 WR-ID: WR-B-004
 PAGE: 55
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Beauty Is Composed of Many Things]
 BOOKLET_AUTHOR: Sigurd F. Olsen
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Sigurd F. Olson
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Substantial excerpt from an Olson passage; the exact originating work was not located.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Exact originating work not located; passage was in circulation by 1990
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Beauty
 - Wilderness
-NOTES: None
+NOTES: The booklet misspells Olson's surname as "Olsen." Comparison witnesses read "great primeval silences" and "knowledge of all things of earth"; a longer witness also includes a sentence about hopes, dreams, and the spirit world before "it is so fragile."
 -->
 
 ## [Beauty Is Composed of Many Things]
