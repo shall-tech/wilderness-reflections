@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed Wilderness page 69 verification, identifying composite Muir/Wang Wei and two-address Johnson entries while documenting four unresolved provenance questions.
 - Completed Wilderness page 68 verification, documenting one unresolved Eve Merriam attribution and locating the Fletcher, Chu Guangxi, Carson, and Devies sources.
 - Completed Wilderness page 67 verification by tracing the final four entries to Carhart's 1919 memorandum, Cather's *O Pioneers!*, Le Gallienne's "Beatus Vir," and Beston's *The Outermost House*.
 

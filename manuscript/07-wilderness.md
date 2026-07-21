@@ -379,22 +379,22 @@ That wonderful world of high mountains, dazzling in their rock and ice, acts as 
 WR-ID: WR-W-013
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [When the Night Is Almost Done]
 BOOKLET_AUTHOR: Emily Dickinson
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Emily Dickinson
 WORK_TYPE: Poem
 EXCERPT: No
 RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Composed circa 1862; Franklin 679 / Johnson 347; first published posthumously
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Dickinson's text reads "Sunrise grows so near" and "Dimples," not the booklet's "sunrise grown" and "dipples." The booklet also regularizes Dickinson's capitalization and dashes.
 -->
 
 ## [When the Night Is Almost Done]
@@ -414,22 +414,22 @@ That frightened but an hour.
 WR-ID: WR-W-014
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Earth Laughs in Flowers]
 BOOKLET_AUTHOR: Ralph Waldo Emerson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening clause from a line in "Hamatreya."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "Hamatreya" (1846)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The source continues "to see her boastful boys / Earth-proud, proud of the earth which is not theirs"; the familiar stand-alone quotation removes the line's critical context.
 -->
 
 ## [The Earth Laughs in Flowers]
@@ -442,10 +442,10 @@ The earth laughs in flowers.
 WR-ID: WR-W-015
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [I Do Not Know of a Flowering Plant]
 BOOKLET_AUTHOR: Euell Gibbons
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Euell Gibbons (attribution supported only by later quotation witnesses)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -457,7 +457,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Multiple later witnesses credit Gibbons, but no book, article, interview, or recording containing the statement was located.
 -->
 
 ## [I Do Not Know of a Flowering Plant]
@@ -470,22 +470,22 @@ I do not know of a flowering plant that tastes good and is poisonous. Nature is 
 WR-ID: WR-W-016
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Since the Land Is the Parent]
 BOOKLET_AUTHOR: Plato
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Plato; translation or paraphrase unidentified
+WORK_TYPE: Dialogue Paraphrase
+EXCERPT: Yes
+RELATIONSHIP: Loose modernization of the noble-lie passage in Republic 414e.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: Medium
+FIRST_PUBLICATION: Republic, book 3, 414e (fourth century BCE)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: Standard translations say that the earth is the citizens' mother and nurse and that they must take thought for and defend her. The booklet's compact wording was not located in a named translation.
 -->
 
 ## [Since the Land Is the Parent]
@@ -498,10 +498,10 @@ Since the land is the parent, let the citizens take care of her more carefully t
 WR-ID: WR-W-017
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Let Us Dance in the Sun]
 BOOKLET_AUTHOR: Susan Poliz Schuetz
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Susan Polis Schutz (attribution supported only by later quotation witnesses)
 WORK_TYPE: Quotation
 EXCERPT: No
 RELATIONSHIP: Unknown
@@ -513,7 +513,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet misspells the writer's middle name "Poliz" rather than Polis. The complete text is widely credited to Schutz, but an original card, book, poem, or dated publication was not located.
 -->
 
 ## [Let Us Dance in the Sun]
@@ -526,22 +526,22 @@ Let us dance in the sun, wearing wild flowers in our hair and let us huddle toge
 WR-ID: WR-W-018
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Nature Is More Than a Refuge]
 BOOKLET_AUTHOR: Donald Culross
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Donald Culross Peattie
+WORK_TYPE: Book Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Opening sentences of The Road of a Naturalist.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Road of a Naturalist (1941)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet truncates the author's name to "Donald Culross." The source hyphenates "smoke-filled" and reads "quietude from ears in torture," not the booklet's "quietude for ears."
 -->
 
 ## [Nature Is More Than a Refuge]
@@ -554,7 +554,7 @@ Nature is more than a refuge from human chaos, more than fresh air for smoke fil
 WR-ID: WR-W-019
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [There Is No Graduation from the School of the Outdoors]
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
@@ -569,7 +569,7 @@ EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wordi
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: No earlier or attributable publication of this aphorism was located.
 -->
 
 ## [There Is No Graduation from the School of the Outdoors]
@@ -582,22 +582,22 @@ There is no graduation from the school of the outdoors.
 WR-ID: WR-W-020
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Clearest Way into the Universe]
 BOOKLET_AUTHOR: Wang Wei
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Poem
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: John Muir; Wang Wei, translated by Kenneth Rexroth
+WORK_TYPE: Composite Quotation and Poem
+EXCERPT: Yes
+RELATIONSHIP: Muir journal sentence followed by Rexroth's complete translation of Wang Wei's "Deer Park."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Muir journal entry, July 1890, posthumously in John of the Mountains (1938), page 313; Rexroth translation in Love and the Turning Year (1970), page 58
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet credits the whole entry only to Wang Wei, leaving Muir's opening sentence unattributed and omitting Rexroth's translator credit. The poem is commonly titled "Deer Park" or, in Rexroth's collection, "Deep in the Mountain Wilderness."
 -->
 
 ## [The Clearest Way into the Universe]
@@ -617,22 +617,22 @@ And gleam again on the shadowy moss.
 WR-ID: WR-W-021
 PAGE: 69
 SECTION: Wilderness
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Must Not Only Protect the Country Side]
 BOOKLET_AUTHOR: Lyndon B. Johnson
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Lyndon Baines Johnson
+WORK_TYPE: Composite Speech Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Joins a 1965 conservation message to the closing warning of Johnson's 1964 Great Society address.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Great Society address, May 22, 1964; Special Message to Congress on Conservation and Restoration of Natural Beauty, February 8, 1965
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Nature
-NOTES: None
+NOTES: The booklet silently joins two statements delivered nine months apart. It changes "countryside" to "country side," omits "For once the battle is lost," and corrupts "man" to "once" in "And once man can no longer walk."
 -->
 
 ## [We Must Not Only Protect the Country Side]

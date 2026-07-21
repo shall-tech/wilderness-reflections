@@ -28,9 +28,9 @@
 
 ## Verification pass
 
-- Wilderness source verification is complete through WR-W-012 on original page 68. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
+- Wilderness source verification is complete through WR-W-021 on original page 69. Life, Leadership, Knowledge and Wisdom, Scouting and Adventures, and Beauty are complete.
 - Verified metadata and comparison evidence are recorded without altering the booklet transcription.
-- Next entry: WR-W-013, "Having Seen the Infinite Compassion," on original page 69.
+- Next entry: WR-W-022, "The Starlight, the Heavens, the Breeze," on original page 70.
 
 ## Source
 

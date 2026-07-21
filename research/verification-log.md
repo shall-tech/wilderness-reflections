@@ -2327,3 +2327,65 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Three sentences from page x of the preface, within a longer argument about climbing, self-expression, and infinity.
 - Evidence: [Scholarly comparison with preface and page citation](https://www.assayjournal.com/lynn-z-bloom-the-slippery-slope-8203ideals-and-ethical-issues-in-high-altitude-climbing-narratives-61.html) and [journal PDF preserving the fuller context](https://www.assayjournal.com/uploads/2/8/2/4/28246027/_6.1_bloom.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Wilderness page 69
+
+### WR-W-013 - [When the Night Is Almost Done]
+
+- Verified author and work: Emily Dickinson, Franklin 679 / Johnson 347, composed circa 1862.
+- Relationship: Complete poem with regularized capitalization and punctuation. The source reads "Sunrise grows" and "Dimples," not the booklet's "sunrise grown" and "dipples."
+- Evidence: [Dickinson poems edition with Franklin and Johnson numbering](https://www.emilydickinson.it/edpoesievol2.pdf) and [independent complete comparison text](https://dyssebeia.wordpress.com/tag/emily-dickinson/).
+- Confidence: High.
+
+### WR-W-014 - [The Earth Laughs in Flowers]
+
+- Verified author and source: Ralph Waldo Emerson, "Hamatreya" (1846).
+- Relationship: Opening clause detached from the longer line "Earth laughs in flowers, to see her boastful boys" and its critique of claims to land ownership.
+- Evidence: [Complete poem and contextual line](https://americanliterature.com/author/ralph-waldo-emerson/poem/hamatreya) and [historical study of Emerson's source and wording](https://upload.wikimedia.org/wikipedia/commons/2/22/Clews_to_Emerson%27s_mystic_verse_by_William_Sloane_Kennedy_%28IA_clewstoemersonsm00kenniala%29.pdf).
+- Confidence: High.
+
+### WR-W-015 - [I Do Not Know of a Flowering Plant]
+
+- Attribution unresolved: later quotation witnesses consistently credit Euell Gibbons, but no original book, article, interview, or recording was located.
+- Evidence: [Independent attributed comparison witness](https://www.thesunmagazine.org/articles/26269-sunbeams).
+- Confidence: Low.
+
+### WR-W-016 - [Since the Land Is the Parent]
+
+- Verified underlying author and passage: loose modernization of Plato's *Republic*, book 3, 414e, where the earth is the citizens' mother and nurse and they must care for and defend her.
+- Relationship: The booklet's sentence does not match the standard translation examined, and its translator or paraphraser remains unidentified.
+- Evidence: [Scholarly discussion quoting the 414c-e passage in translation](https://dokumen.pub/creation-and-procreation-feminist-reflections-on-mythologies-of-cosmogony-and-parturition-reprint-2016nbsped-9781512809008.html) and [later witness for the compact wording](https://inspiration.rightattitudes.com/authors/plato/).
+- Confidence: Medium.
+
+### WR-W-017 - [Let Us Dance in the Sun]
+
+- Attribution unresolved: the complete text is widely credited to Susan Polis Schutz, but no original card, book, poem, or dated publication was located.
+- Relationship: Complete circulating text. The booklet misspells Schutz's middle name "Poliz" rather than Polis.
+- Evidence: [Complete attributed comparison witness](https://quotepark.com/quotes/669922-susan-polis-schutz-let-us-dance-in-the-sun-wearing-wild-flowers-in-o/) and [independent periodical witness](https://www.unityofauburn.com/sites/unityofauburn/files/082021news.pdf).
+- Confidence: Low.
+
+### WR-W-018 - [Nature Is More Than a Refuge]
+
+- Verified author and source: Donald Culross Peattie, opening of *The Road of a Naturalist* (1941).
+- Relationship: Opening two sentences. The booklet truncates the author's name, omits the hyphen in "smoke-filled," and changes "quietude from ears in torture" to "quietude for ears."
+- Evidence: [Complete book preview with opening passage](https://www.everand.com/book/330741242/The-Road-of-a-Naturalist).
+- Confidence: High.
+
+### WR-W-019 - [There Is No Graduation from the School of the Outdoors]
+
+- Author and provenance unresolved: no earlier or attributable publication was located.
+- Confidence: Low.
+
+### WR-W-020 - [The Clearest Way into the Universe]
+
+- Verified composite sources: John Muir's July 1890 journal sentence, collected on page 313 of *John of the Mountains* (1938), followed by Wang Wei's "Deer Park" in Kenneth Rexroth's translation from *Love and the Turning Year* (1970), page 58.
+- Relationship: The booklet credits the whole entry only to Wang Wei, thereby leaving Muir's opening sentence unattributed and omitting Rexroth's translator credit.
+- Evidence: [National Park Service Muir attribution and qualification](https://home.nps.gov/jomu/learn/historyculture/john-muir-quotes.htm), [Muir book-page locator](https://libquotes.com/john-muir/quote/lbx8t0f), [Rexroth translation with book-page citation](https://laudatortemporisacti.blogspot.com/2011/11/poem-by-wang-wei.html), and [scholarly comparison of Rexroth's translation](https://files.blogs.baruch.cuny.edu/wp-content/blogs.dir/4816/files/2016/08/19-ways-of-looking-at-wang-wei.pdf).
+- Confidence: High.
+
+### WR-W-021 - [We Must Not Only Protect the Country Side]
+
+- Verified author and construction: composite of Lyndon B. Johnson's May 22, 1964, Great Society address and his February 8, 1965, Special Message to Congress on Conservation and Restoration of Natural Beauty.
+- Relationship: The first sentence comes from the 1965 message; the remainder comes from the 1964 address. The booklet changes "countryside" to "country side," omits "For once the battle is lost," and corrupts "man" to "once."
+- Evidence: [LBJ Library complete 1965 message](https://www.lbjlibrary.org/object/text/special-message-congress-conservation-restoration-natural-beauty-02-08-1965), [complete 1964 Great Society address comparison](https://www.presidentialrhetoric.com/historicspeeches/johnson_lyndon/greatsociety.html), and [National Park Service historical context](https://www.nps.gov/articles/npshistory-wilderness.htm).
+- Confidence: High.
