@@ -886,22 +886,22 @@ Nature is painting for us, day after day, pictures of infinite beauty.
 WR-ID: WR-B-028
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Riverbanks Lined with Green Trees]
 BOOKLET_AUTHOR: Zen Verse
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Traditional Zen saying (provenance unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Commonly circulated English Zen saying; the original text, translator, and publication were not located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Sacredness
 - Nature
-NOTES: None
+NOTES: Common witnesses read "green willows" rather than the booklet's "green trees." No reliable witness identifies an original-language source or translator.
 -->
 
 ## [Riverbanks Lined with Green Trees]
@@ -914,22 +914,22 @@ Riverbanks lined with green trees, fragrant grasses: a place not sacred? Where?
 WR-ID: WR-B-029
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Machine Turned Nature into an Art Form]
 BOOKLET_AUTHOR: Marshal McLuhan
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Marshall McLuhan
+WORK_TYPE: Pamphlet Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Two consecutive sentences from a longer discussion of how new media turn preceding environments into art forms.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Counterblast (1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Technology
 - Nature
-NOTES: None
+NOTES: The booklet misspells "Marshall" as "Marshal" and lowercases McLuhan's "Nature" in both sentences; the wording otherwise matches.
 -->
 
 ## [The Machine Turned Nature into an Art Form]
@@ -942,22 +942,22 @@ The machine turned nature into an art form. For the first time men began to rega
 WR-ID: WR-B-030
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Greatest Beauty Is Organic Wholeness]
 BOOKLET_AUTHOR: Robinson Jeffers
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Robinson Jeffers
+WORK_TYPE: Poem Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Selected lines from "The Answer."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Such Counsels You Gave to Me and Other Poems (1937)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wholeness
 - Beauty
-NOTES: None
+NOTES: The booklet omits the preceding words "Integrity is wholeness," removes the verse lineation, lowercases Jeffers's line-opening "Organic" and "Apart," and stops before the sentence continues.
 -->
 
 ## [The Greatest Beauty Is Organic Wholeness]

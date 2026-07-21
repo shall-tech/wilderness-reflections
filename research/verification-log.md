@@ -1998,3 +1998,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete common form of the aphorism. Some Ruskin witnesses append "if only we have the eyes to see them." An exact originating work was not located.
 - Evidence: [National Park Service attribution to Ruskin](https://www.nps.gov/subjects/nnlandmarks/upload/FY2019-LH-report_Final.pdf), [Hampshire Cultural Trust's longer form and Ruskin attribution](https://www.hampshireculture.org.uk/event/infinite-beauty), and [independent quotation witness](https://www.azquotes.com/quote/520410).
 - Confidence: Medium.
+
+## 2026-07-20 - Beauty page 59, entries 7-9
+
+### WR-B-028 - [Riverbanks Lined with Green Trees]
+
+- Attribution unresolved: commonly circulated as a traditional Zen saying, but no original-language text, translator, or originating publication was located.
+- Relationship: Common witnesses read "green willows" where the booklet prints "green trees."
+- Evidence: [Zen Proverb comparison witness](https://inspiration.rightattitudes.com/authors/zen-proverb/), [Zen Forest Saying attribution](https://www.walkgps.com.au/opportunities/why-not-walk/), and [independent Zen-saying witness](https://meetingbrook.blogspot.com/2005_07_17_archive.html).
+- Confidence: Low.
+
+### WR-B-029 - [The Machine Turned Nature into an Art Form]
+
+- Verified author and source: Marshall McLuhan, *Counterblast* (1954), page ix.
+- Relationship: Two consecutive sentences from a longer discussion of how each new medium turns its predecessor into an art form. The booklet misspells "Marshall" as "Marshal" and lowercases "Nature."
+- Evidence: [Scholarly quotation with source citation and surrounding passage](https://kyouyou.agu.ac.jp/laboratory/file/GokenKiyou-40.pdf) and [independent comparison text](https://www.thing.de/projekte/7%3A9%23/y_McLuhan_Quote.html).
+- Confidence: High.
+
+### WR-B-030 - [The Greatest Beauty Is Organic Wholeness]
+
+- Verified author and source: Robinson Jeffers, "The Answer," in *Such Counsels You Gave to Me and Other Poems* (1937).
+- Relationship: Selected lines. The booklet omits the preceding "Integrity is wholeness," removes line breaks, changes two line-opening capitals, and stops before the sentence continues.
+- Evidence: [Robinson Jeffers Association collection and poem locator](https://robinsonjeffersassociation.org/his-writing/poetry/), [Robinson Jeffers Association comparison excerpt](https://robinsonjeffersassociation.org/wp-content/uploads/2024/08/V2-N4.pdf), and [ABAA comparison text](https://www.abaa.org/articles/californias-wild-coast-poet-robinson-jeffers).
+- Confidence: High.
