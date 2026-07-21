@@ -677,6 +677,93 @@ And that has made all the difference.
 *Robert Frost*
 
 <!--
+WR-ID: WR-L-030
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [Expose Yourself to the Possibility]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 15
+SOURCE: https://www.globalstewards.org/pdf/daily-inspirational-quotations-sustainable-living.pdf
+EDITION_NOTE: Later compilations repeat the sentence under "Cunningham" but provide no identifiable author, work, date, or primary source.
+-->
+
+## [Expose Yourself to the Possibility]
+
+*Complete aphorism; attribution unresolved.*
+
+Expose yourself to the possibility of doing something remarkable.
+
+*Author unknown; attributed in the booklet to C. Cunningham*
+
+<!--
+WR-ID: WR-L-031
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [It's Kind of Fun to Do the Impossible]
+VERIFIED_AUTHOR: Walt Disney
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Fletcher Markle interview with Walt Disney, September 25, 1963
+SOURCE: https://en.wikiquote.org/wiki/Walt_Disney
+EDITION_NOTE: The booklet already reproduces the documented interview sentence verbatim.
+-->
+
+## [It's Kind of Fun to Do the Impossible]
+
+*Complete interview quotation.*
+
+It's kind of fun to do the impossible.
+
+*Walt Disney*
+
+<!--
+WR-ID: WR-L-032
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [To Achieve the Impossible]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Composite
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 15
+SOURCE: research/verification-log.md#wr-l-032---to-achieve-the-impossible
+EDITION_NOTE: The complete sentence circulates as anonymous or as a supposed Chinese proverb. Its first clause resembles a Unamuno maxim, but no evidence connects him to the composite.
+-->
+
+## [To Achieve the Impossible]
+
+*Composite circulating aphorism; origin unresolved.*
+
+To achieve the impossible, one must think absurd; to look where everyone else has looked, but to see what no one else has seen.
+
+*Anonymous*
+
+<!--
+WR-ID: WR-L-033
+PAGE: 15
+SECTION: Life
+VERIFIED_TITLE: [To See a World in a Grain of Sand]
+VERIFIED_AUTHOR: William Blake
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Auguries of Innocence," in Poems, ed. Dante Gabriel Rossetti (1863)
+SOURCE: https://www.poetryfoundation.org/poems/43650/auguries-of-innocence
+EDITION_NOTE: Restores the article "a" before "heaven" while preserving the opening-quatrain boundary.
+-->
+
+## [To See a World in a Grain of Sand]
+
+*Opening quatrain of “Auguries of Innocence.”*
+
+To see a world in a grain of sand<br>
+And a heaven in a wild flower,<br>
+Hold infinity in the palm of your hand<br>
+And eternity in an hour.
+
+*William Blake*
+
+<!--
 WR-ID: WR-L-015
 PAGE: 13
 SECTION: Life
