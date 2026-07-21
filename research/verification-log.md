@@ -2021,3 +2021,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Selected lines. The booklet omits the preceding "Integrity is wholeness," removes line breaks, changes two line-opening capitals, and stops before the sentence continues.
 - Evidence: [Robinson Jeffers Association collection and poem locator](https://robinsonjeffersassociation.org/his-writing/poetry/), [Robinson Jeffers Association comparison excerpt](https://robinsonjeffersassociation.org/wp-content/uploads/2024/08/V2-N4.pdf), and [ABAA comparison text](https://www.abaa.org/articles/californias-wild-coast-poet-robinson-jeffers).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 59, entry 10, and page 60, entries 1-2
+
+### WR-B-031 - [Looking Good Never Takes a Day Off]
+
+- Attribution unresolved: no independent publication or biographical source was located for the booklet's Fr. Don Hummel credit.
+- Relationship: The exact slogan now appears in unrelated commercial contexts, none of which supports the booklet attribution.
+- Evidence: [Independent modern use of the slogan](https://www.anthonymichaelclothing.com/).
+- Confidence: Low.
+
+### WR-B-032 - To look at anything
+
+- Verified author and source: John Moffitt, "To Look at Any Thing," from *The Living Seed* (1961).
+- Relationship: Complete poem. The booklet closes "any thing" to "anything," changes capitalization and punctuation, substitutes a hyphen for an em dash, and introduces several different line breaks.
+- Evidence: [Bibliographic source locator](https://poetshouse.org/wp-content/uploads/2018/09/LOC_Book_2013.pdf), [complete comparison text with later anthology credit](https://www.ayearofbeinghere.com/2013/04/john-moffitt-to-look-at-anything.html), and [early educational comparison witness](https://files.eric.ed.gov/fulltext/ED260452.pdf).
+- Confidence: High.
+
+### WR-B-033 - [Indifference to the Aesthetic]
+
+- Attribution unresolved: modern sources attribute the sentence to Josiah Stamp and one dates it to 1925, but no originating speech or publication was located.
+- Relationship: Later witnesses reproduce substantially the same wording as the booklet.
+- Evidence: [Dated secondary quotation and contextual discussion](https://www.researchgate.net/publication/263183003_THE_NEXT_ECONOMY_TRANSITIONS_FROM_GLOBALIZATION_TO_ECO-LOCALISM) and [independent attributed witness](https://cms3.revize.com/revize/hudsonnynew/Boards%20and%20Committees/Planning%20Board/2023%20Correspondence/Colarusso%20Haul%20Road/Haul%20Road%20-%20Kristy%20King.pdf).
+- Confidence: Low.

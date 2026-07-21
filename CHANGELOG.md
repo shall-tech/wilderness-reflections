@@ -128,3 +128,4 @@
 - Began Beauty page 59 with Snyder's publication history, Eiseley's *The Mind as Nature* passage, and Muir's dated journal entry.
 - Continued Beauty page 59 with Thoreau's journal sentence, Beecher's sermon context, and correction of the Lowell attribution to John Ruskin.
 - Continued Beauty page 59 with an unresolved Zen saying, McLuhan's *Counterblast*, and Jeffers's "The Answer."
+- Completed Beauty page 59 and began page 60 with one unresolved personal attribution, Moffitt's complete poem, and a Josiah Stamp saying lacking a primary source.

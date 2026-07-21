@@ -970,22 +970,22 @@ The greatest beauty is organic wholeness, the wholeness of life and things, the 
 WR-ID: WR-B-031
 PAGE: 59
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Looking Good Never Takes a Day Off]
 BOOKLET_AUTHOR: Fr. Don Hummel
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Fr. Don Hummel (identity and provenance unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Exact saying; no independent publication or biographical source was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Appearance
 - Humor
-NOTES: None
+NOTES: Searches found later commercial uses of the slogan but no evidence connecting it to Fr. Don Hummel outside the booklet.
 -->
 
 ## [Looking Good Never Takes a Day Off]
@@ -998,22 +998,22 @@ Looking good never takes a day off.
 WR-ID: WR-B-032
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: To look at anything
 BOOKLET_AUTHOR: John Moffitt
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: John Moffitt
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Complete poem, with altered title spacing, capitalization, punctuation, and lineation.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Living Seed (1961)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Perception
 - Nature
-NOTES: None
+NOTES: The source title is "To Look at Any Thing." Comparison texts begin "To look at any thing," capitalize "Woods," and punctuate the fourth line with a comma; the booklet uses "anything," lowercase "woods," a hyphen for an em dash, and several different line breaks.
 -->
 
 ## To look at anything
@@ -1040,22 +1040,22 @@ They issue from.
 WR-ID: WR-B-033
 PAGE: 60
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [Indifference to the Aesthetic]
 BOOKLET_AUTHOR: Josiah Stamp
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Josiah Stamp (original source unverified)
 WORK_TYPE: Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Commonly attributed sentence; a 1925 date is given by a modern secondary source, but the originating speech or publication was not located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Reported as 1925; exact source not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Aesthetics
 - Economics
-NOTES: None
+NOTES: Later witnesses reproduce the booklet wording and attribution, but none identifies a primary publication.
 -->
 
 ## [Indifference to the Aesthetic]
