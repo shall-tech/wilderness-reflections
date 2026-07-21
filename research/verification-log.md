@@ -1729,3 +1729,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Complete prose passage. The booklet prints "getting a hold" for "getting ahold," omits "the" before both "Sierra" references, and alters punctuation.
 - Evidence: [Scholarly discussion naming the book and quoting its close](https://etda.libraries.psu.edu/files/final_submissions/7643), [Open Library edition record](https://openlibrary.org/works/OL38067868W/On_the_Loose), and [full-passage comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars3.html).
 - Confidence: High.
+
+## 2026-07-20 - Scouting and Adventures page 50, entries 1-3
+
+### WR-SA-004 - I Am
+
+- Booklet attribution: James A. DeReign, dated "Ocotober 14, 1985."
+- Finding: No independent publication, author record, or comparison text was located. The booklet clearly misspells "October"; without a source, possible grammatical problems such as "parent's" and "fresh sharpened" remain unclassified.
+- Evidence: The booklet transcription and scan are the only located witnesses.
+- Confidence: Low.
+
+### WR-SA-005 - [It's When You Are Safe at Home]
+
+- Corrected author and source: Thornton Wilder, Barnaby Tucker's closing speech in act 4 of *The Matchmaker* (1954). The booklet misspells Thornton as "Thorton."
+- Relationship: Condensed paraphrase of the longer speech beginning "The test of an adventure." The booklet also prints "you wish you're having" for "you wish you were having."
+- Evidence: [Official Thornton Wilder site quoting the dramatic context](https://thorntonwilder.com/blog/2018/06/12/david-greenspan-the-wilder-proust-questionnaire), [work and act locator](https://libquotes.com/thornton-wilder/quote/lbv9d5v), and [National Park Service comparison witness](https://www.nps.gov/ever/learn/nature/kathleenkonicek-moran.htm).
+- Confidence: High.
+
+### WR-SA-006 - [I'd Rather Wake Up in the Middle of Nowhere]
+
+- Verified speaker and source: Steve McQueen, speaking to *LIFE* during photographer John Dominis's 1963 assignment.
+- Relationship: Complete sentence; the booklet wording matches the reported quotation.
+- Evidence: [LIFE retrospective with Dominis's account and McQueen quotation](https://time.com/3490078/life-with-steve-mcqueen-photos-of-the-king-of-cool-in-1963/).
+- Confidence: High.

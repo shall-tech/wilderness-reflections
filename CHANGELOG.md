@@ -115,3 +115,4 @@
 - Began Knowledge and Wisdom page 46 with Leopold's posthumous Round River parable, Teale's "Death of a Tree," and an unresolved 1962 Carhart statement.
 - Completed Knowledge and Wisdom verification by correcting the modern screenplay authorship of the ecological text falsely attributed to Chief Seattle.
 - Began Scouting and Adventures verification with Phillips's Philmont dedication, Hingley's Eagle poem, and the Russells' On the Loose passage.
+- Began Scouting and Adventures page 50 with an unresolved dated Scouting poem, Wilder's condensed Matchmaker speech, and McQueen's 1963 LIFE quotation.

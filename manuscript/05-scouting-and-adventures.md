@@ -129,22 +129,22 @@ It feels good to say, "I know Sierra," or, "I know Point Reyes." But of course y
 WR-ID: WR-SA-004
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: I Am
 BOOKLET_AUTHOR: James A. DeReign, Ocotober 14, 1985
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: James A. DeReign (attribution unverified)
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete dated poem as printed; no independent publication or author record was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Booklet dates the poem October 14, 1985; independent publication not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Scouting
 - Spirit
-NOTES: None
+NOTES: The booklet misspells "October" as "Ocotober." Without a comparison text, possible grammatical issues such as "parent's" and "fresh sharpened" remain uncorrected and unclassified.
 -->
 
 ## I Am
@@ -176,22 +176,22 @@ I am... the Scouting Spirit... Pass me on...
 WR-ID: WR-SA-005
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [It's When You Are Safe at Home]
 BOOKLET_AUTHOR: Thorton Wilder
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Thornton Wilder
+WORK_TYPE: Play Paraphrase
+EXCERPT: Yes
+RELATIONSHIP: Condensed paraphrase of Barnaby Tucker's closing speech in act 4 of The Matchmaker.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: The Matchmaker (1954)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Adventure
 - Home
-NOTES: None
+NOTES: The booklet misspells Thornton as "Thorton" and prints "you wish you're having" for "you wish you were having." Its two-sentence maxim condenses a substantially longer speech beginning "The test of an adventure."
 -->
 
 ## [It's When You Are Safe at Home]
@@ -204,22 +204,22 @@ It's when you are safe at home that you wish you're having an adventure. When yo
 WR-ID: WR-SA-006
 PAGE: 50
 SECTION: Scouting and Adventures
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [I'd Rather Wake Up in the Middle of Nowhere]
 BOOKLET_AUTHOR: Steve McQueen
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
+VERIFIED_AUTHOR: Steve McQueen
+WORK_TYPE: Interview Quotation
 EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+RELATIONSHIP: Statement to LIFE during photographer John Dominis's 1963 assignment with McQueen.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: LIFE reporting from 1963; digital retrospective published 2014
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Wilderness
 - Cities
-NOTES: None
+NOTES: The booklet wording matches LIFE's quotation.
 -->
 
 ## [I'd Rather Wake Up in the Middle of Nowhere]
