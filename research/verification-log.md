@@ -2074,3 +2074,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Mid-sentence excerpt from Muir's survey of North American forests. The source has a comma after "sky" and reads "the lilies."
 - Evidence: [The Atlantic first publication](https://www.theatlantic.com/magazine/archive/1897/08/the-american-forests/305017/), [complete 1901 chapter text](https://www.yosemite.ca.us/john_muir_writings/our_national_parks/chapter_10.html), and [book-and-page locator](https://libquotes.com/john-muir/quote/lbq2d0v).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 61, entries 1-3
+
+### WR-B-038 - I Remember
+
+- Attribution unresolved: an independent Philmont-related quotation page reproduces the complete poem with an Unknown credit, but no author or originating publication was located.
+- Relationship: The comparison witness has substantially the same wording and title, with different line wrapping and ellipsis styling.
+- Evidence: [Philmont quotation-page comparison witness](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars1.html).
+- Confidence: Low.
+
+### WR-B-039 - [We Believe That Ugliness Begets Ugliness]
+
+- Verified author and source: Carl Carmer, testimony before the Federal Power Commission during the May 1964 licensing hearings for the proposed Storm King pumped-storage plant.
+- Relationship: Sentence excerpt from Carmer's broader argument that the Hudson River's beauty and spiritual value should not be sacrificed for commerce. One historical account omits "the" before "artifice," while later witnesses include it.
+- Evidence: [New York State Bar Association history of the hearing and comparison text](https://nysba.org/wp-content/uploads/2020/04/BarJournSept05.pdf), [1977 *Harper's* account preserving the fuller statement](https://iiif.library.cmu.edu/file/Heinz_box00098_fld00017_bdl0026_doc0001/Heinz_box00098_fld00017_bdl0026_doc0001.pdf), and [independent dated quotation witness](https://assets.nationbuilder.com/savetheamericanriver/pages/34/attachments/original/1468006197/sum2003.pdf?1468006197=).
+- Confidence: High.
+
+### WR-B-040 - [Ordinarily the Demands of Utility Are Imperative]
+
+- Verified author and source: Hiram Martin Chittenden, "Sentiment versus Utility in the Treatment of National Scenery," *Pacific Monthly* (January 1910), pages 37-38.
+- Relationship: Sentence excerpt; the booklet shortens the author's name to Hiram Chittenden.
+- Evidence: [University of Washington source citation](https://www.washington.edu/uwired/outreach/cspn/Website/Classroom%20Materials/Curriculum%20Packets/Building%20Nature/IV.html) and [University of Washington curriculum bibliography](https://content.lib.washington.edu/curriculumpackets/Building_Nature.pdf).
+- Confidence: High.

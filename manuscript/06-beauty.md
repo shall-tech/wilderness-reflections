@@ -1186,22 +1186,22 @@ Sequoias, kings of their race, growing close together like grass in a meadow, po
 WR-ID: WR-B-038
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: I Remember
 BOOKLET_AUTHOR: Unknown
 VERIFIED_AUTHOR: Unknown
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete anonymous poem as circulated in Philmont-related quotation collections; no author or originating publication was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: An independent Philmont quotation-page witness reproduces the poem with the title "I Remember" and an Unknown credit, but supplies no provenance.
 -->
 
 ## I Remember
@@ -1227,22 +1227,22 @@ What I remember.
 WR-ID: WR-B-039
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [We Believe That Ugliness Begets Ugliness]
 BOOKLET_AUTHOR: Carl Carmer
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Carl Carmer
+WORK_TYPE: Testimony Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence from Carmer's testimony opposing the proposed Storm King pumped-storage plant before the Federal Power Commission.
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Federal Power Commission licensing testimony (May 1964)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: A historical account of the hearing reads "restored by artifice of man," omitting the booklet's "the" before "artifice"; other later witnesses include "the." The booklet excerpt omits Carmer's surrounding statement about the Hudson River's spiritual value.
 -->
 
 ## [We Believe That Ugliness Begets Ugliness]
@@ -1255,22 +1255,22 @@ We believe that ugliness begets ugliness and that nature's beauty, once destroye
 WR-ID: WR-B-040
 PAGE: 61
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [Ordinarily the Demands of Utility Are Imperative]
 BOOKLET_AUTHOR: Hiram Chittenden
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Hiram Martin Chittenden
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: Sentence from "Sentiment versus Utility in the Treatment of National Scenery."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: Pacific Monthly (January 1910)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet shortens the author's name to Hiram Chittenden. No wording difference was established from the available comparison evidence.
 -->
 
 ## [Ordinarily the Demands of Utility Are Imperative]
