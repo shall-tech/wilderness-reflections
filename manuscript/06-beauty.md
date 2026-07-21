@@ -1693,22 +1693,22 @@ Nothing is less known; nothing more neglected. The forest is a gift of nature wh
 WR-ID: WR-B-055
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [The Thoughts of the Earth Are My Thoughts]
 BOOKLET_AUTHOR: Navajo Song
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Diné song tradition (specific source and translator unverified)
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Shortened English arrangement of a longer text circulated as "Song of the Earth Spirit" and described as deriving from a Navajo origin narrative.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: Longer witnesses add opening and intervening body-parallel lines, "The feather of the earth is my feather," "I, I am the sacred works of the earth," and a repeated frame. No original-language text, named translator, or primary publication was located.
 -->
 
 ## [The Thoughts of the Earth Are My Thoughts]
@@ -1725,22 +1725,22 @@ It is lovely indeed, it is lovely indeed.
 WR-ID: WR-B-056
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: ATTRIBUTION UNRESOLVED
 TITLE: [If There Is Light in the Soul]
 BOOKLET_AUTHOR: Chinese Proverb
-VERIFIED_AUTHOR: Unknown
+VERIFIED_AUTHOR: Commonly labeled Chinese proverb (provenance unverified)
 WORK_TYPE: Poem
 EXCERPT: No
-RELATIONSHIP: Unknown
+RELATIONSHIP: Complete modern circulating form; no Chinese text, traditional source, translator, or early publication was located.
 SOURCE_VERIFIED: No
 SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+FIRST_PUBLICATION: Not located
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The booklet omits "be" in "There will harmony in the house." Comparison witnesses include the grammatically complete phrase.
 -->
 
 ## [If There Is Light in the Soul]
@@ -1760,22 +1760,22 @@ There will be peace in the world.
 WR-ID: WR-B-057
 PAGE: 63
 SECTION: Beauty
-STATUS: NEEDS RESEARCH
+STATUS: VERIFIED
 TITLE: [The Hours When the Mind Is Absorbed by Beauty]
 BOOKLET_AUTHOR: Richard Jefferies
-VERIFIED_AUTHOR: Unknown
-WORK_TYPE: Quotation
-EXCERPT: No
-RELATIONSHIP: Unknown
-SOURCE_VERIFIED: No
-SOURCE_CONFIDENCE: Low
-FIRST_PUBLICATION: Unknown
+VERIFIED_AUTHOR: Richard Jefferies
+WORK_TYPE: Essay Excerpt
+EXCERPT: Yes
+RELATIONSHIP: One sentence from "The Pageant of Summer."
+SOURCE_VERIFIED: Yes
+SOURCE_CONFIDENCE: High
+FIRST_PUBLICATION: "The Pageant of Summer" (1883); collected in The Life of the Fields (1884)
 OCR_CORRECTIONS: Corrected obvious character-recognition errors against the scan.
 EDITORIAL_DECISIONS: Apparent errors printed in the booklet attribution or wording are preserved for source verification.
 THEMES:
 - Nature
 - Beauty
-NOTES: None
+NOTES: The source reads "the only hours when we really live" and continues "All else is illusion, or mere endurance." The booklet substitutes "truly" for "really" and omits the continuation.
 -->
 
 ## [The Hours When the Mind Is Absorbed by Beauty]

@@ -2205,3 +2205,26 @@ This log records the external evidence used during the post-transcription verifi
 - Relationship: Two consecutive sentences in scholarly English translation. The booklet misspells "Louis" as "Lois."
 - Evidence: [Scholarly source, translation, and page documentation](https://dokumen.pub/traces-on-the-rhodian-shore-nature-and-culture-in-western-thought-from-ancient-times-to-the-end-of-the-eighteenth-century-reprint-2020nbsped-9780520343054.html) and [independent scholarly comparison witness](https://www.environmentandsociety.org/sites/default/files/key_docs/eh164_kwiatowska_holland.pdf).
 - Confidence: High.
+
+## 2026-07-20 - Beauty page 63, entries 4-6
+
+### WR-B-055 - [The Thoughts of the Earth Are My Thoughts]
+
+- Tradition and provenance unresolved: a longer English text circulates as "Song of the Earth Spirit" from a Navajo origin narrative, but no original-language text, translator, or primary publication was located.
+- Relationship: The booklet selects five lines and omits the longer version's opening frame, body-part parallels, feather line, sacred-works line, and closing frame.
+- Evidence: [Longer comparison text and transmission label](https://spiritofmercy.wordpress.com/2009/11/10/song-of-the-earth-spirit-from-navajo-origin-myth/) and [1990s educational witness for the booklet's compact form](https://files.eric.ed.gov/fulltext/ED404107.pdf).
+- Confidence: Low.
+
+### WR-B-056 - [If There Is Light in the Soul]
+
+- Attribution unresolved: commonly labeled a Chinese proverb, but no Chinese text, traditional source, translator, or early publication was located.
+- Relationship: Complete circulating English form. The booklet omits "be" from "There will be harmony in the house."
+- Evidence: [Independent complete comparison witness](https://dragoon1st.tripod.com/poetree/files/east_chinese_proverb.html).
+- Confidence: Low.
+
+### WR-B-057 - [The Hours When the Mind Is Absorbed by Beauty]
+
+- Verified author and source: Richard Jefferies, "The Pageant of Summer" (1883), collected in *The Life of the Fields* (1884).
+- Relationship: One sentence. The source reads "really live," not the booklet's "truly live," and continues "All else is illusion, or mere endurance."
+- Evidence: [1883 periodical and page locator with fuller text](https://libquotes.com/richard-jefferies/quote/lbj2q3r), [scholarly article quoting the source form](https://unglueit-files.s3.amazonaws.com/ebf/84498f95482b4f4e878fb2ba81cbf7a5.pdf), and [museum-exhibition review identifying the 1884 collection](https://www.australianbookreview.com.au/abr-online/archive/2011/november-2011-no-336/61-november-2011/591-stephen-calloway-and-lynn-federle-orr-eds-the-cult-of-beauty).
+- Confidence: High.
