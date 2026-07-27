@@ -408,3 +408,96 @@ EDITION_NOTE: Corrects the attribution, returns the four selected clauses to sou
 But now the sun is rising calm and bright. The birds are singing. . . . All things that love the sun are out of doors. . . . The sky rejoices.
 
 *William Wordsworth*
+
+<!-- Original Booklet Page 58 -->
+
+<!--
+WR-ID: WR-B-017
+PAGE: 58
+SECTION: Beauty
+VERIFIED_TITLE: Nothing Gold Can Stay
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: New Hampshire: A Poem with Notes and Grace Notes (1923)
+SOURCE: research/verification-log.md#wr-b-017---nothing-gold-can-stay
+EDITION_NOTE: Restores the period omitted after the first line; the remaining booklet wording matches the published poem.
+-->
+
+## Nothing Gold Can Stay
+
+*Complete poem.*
+
+Nature's first green is gold.\
+Her hardest hue to hold.\
+Her early leaf's a flower;\
+But only so an hour.\
+Then leaf subsides to leaf.\
+So Eden sank to grief,\
+So dawn goes down to day.\
+Nothing gold can stay.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-B-018
+PAGE: 58
+SECTION: Beauty
+VERIFIED_TITLE: [With Beauty Before Me, May I Walk]
+VERIFIED_AUTHOR: Traditional Diné prayer
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Modern shortened arrangement based on Washington Matthews's translation in The Night Chant (1902); arranger unidentified
+SOURCE: research/verification-log.md#wr-b-018---may-i-walk
+EDITION_NOTE: Identifies the Diné tradition and the Matthews transmission, but the booklet's reordered compact adaptation has no named arranger. It is not reproduced pending selection of a specific public-domain or licensed text.
+-->
+
+## [With Beauty Before Me, May I Walk]
+
+*Modern shortened arrangement of lines from a traditional Diné prayer; text not reproduced.*
+
+*[Text omitted pending selection of a named public-domain or licensed version.]*
+
+*Traditional Diné prayer*
+
+<!--
+WR-ID: WR-B-019
+PAGE: 58
+SECTION: Beauty
+VERIFIED_TITLE: [Those Who Contemplate the Beauty of the Earth]
+VERIFIED_AUTHOR: Rachel Carson
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Sense of Wonder (1965), first published as "Help Your Child to Wonder" (1956)
+SOURCE: research/verification-log.md#wr-b-019---those-who-contemplate-the-beauty-of-the-earth
+EDITION_NOTE: Identifies the joined selections and documented booklet variants. The substantial protected composite is not reproduced.
+-->
+
+## [Those Who Contemplate the Beauty of the Earth]
+
+*Joined selections from The Sense of Wonder; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Rachel Carson*
+
+<!--
+WR-ID: WR-B-020
+PAGE: 58
+SECTION: Beauty
+VERIFIED_TITLE: [The Wonder of the World]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Alexander Morton Memorial inscription, Darvel, Scotland (1927)
+SOURCE: research/verification-log.md#wr-b-020---the-wonder-of-the-world
+EDITION_NOTE: Restores the memorial inscription's British "colours" and plural "shades" while retaining the anonymous attribution and complete boundary.
+-->
+
+## [The Wonder of the World]
+
+*Complete anonymous memorial inscription.*
+
+The wonder of the world, the beauty and the power, the shapes of things, their colours, lights and shades. These I saw. Look ye also while life lasts.
+
+*Unknown*

@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-020, restoring Frost and the Morton memorial while withholding an unidentified Diné adaptation and Carson composite.
 - Extended the source-corrected Beauty edition through WR-B-016, qualifying Tosco, restoring Morton and Longfellow, and reconstructing Wordsworth's composite.
 - Extended the source-corrected Beauty edition through WR-B-012, withholding Russell, qualifying van Dyke, and restoring Gannett and Emerson.
 - Extended the source-corrected Beauty edition through WR-B-008, restoring Rossetti, Bryant, and Herrick while withholding an unidentified translation of Uvavnuk.
