@@ -1050,3 +1050,89 @@ EDITION_NOTE: Corrects Rodrigues's diacritics, identifies his organizational rol
 *[Text omitted pending permission from the rights holder.]*
 
 *Osmarino Amâncio Rodrigues*
+
+<!--
+WR-ID: WR-W-049
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [Her Mighty Lakes, Like Oceans of Liquid Silver]
+VERIFIED_AUTHOR: Washington Irving
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Author's Account of Himself," The Sketch Book of Geoffrey Crayon, Gent. (1819-1820)
+SOURCE: research/verification-log.md#wr-w-049---her-mighty-lakes-like-oceans-of-liquid-silver
+EDITION_NOTE: Restores Irving's commas around the mountain phrase and "with the magic of summer clouds" while preserving the extended-sentence boundary.
+-->
+
+## [Her Mighty Lakes, Like Oceans of Liquid Silver]
+
+*Extended sentence from "The Author's Account of Himself."*
+
+Her mighty lakes, like oceans of liquid silver; her mountains, with their bright aerial tints; her valleys, teeming with wild fertility; her tremendous cataracts, thundering in their solitudes; her boundless plains, waving with spontaneous verdure; her broad deep rivers, rolling in solemn silence to the ocean; her trackless forests, where vegetation puts forth all its magnificence; her skies, kindling with the magic of summer clouds and glorious sunshine; no, never need an American look beyond his own country for the sublime and beautiful of natural scenery.
+
+*Washington Irving*
+
+<!-- Original Booklet Page 73 -->
+
+<!--
+WR-ID: WR-W-050
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: Home to the Wilderness
+VERIFIED_AUTHOR: Sally Carrighar
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Home to the Wilderness: A Personal Journey (1973); later comparison witnesses only
+SOURCE: research/verification-log.md#wr-w-050---home-to-the-wilderness
+EDITION_NOTE: Identifies later variants including "the blueness," "flowerettes," and "jump with a squirrel," but no paginated 1973 witness was available. The substantial protected passage is not reproduced.
+-->
+
+## Home to the Wilderness
+
+*Autobiographical passage from Home to the Wilderness; text not reproduced.*
+
+*[Text omitted pending primary-page comparison and permission from the rights holder.]*
+
+*Sally Carrighar*
+
+<!--
+WR-ID: WR-W-051
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: Song of the Open Road
+VERIFIED_AUTHOR: Ogden Nash
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Revised version in The Face Is Familiar (1940), first published in The New Yorker (October 15, 1932)
+SOURCE: research/verification-log.md#wr-w-051---song-of-the-open-road
+EDITION_NOTE: Restores the source title and records the booklet's "tress" error for "tree" and the revised "Indeed." The complete protected poem is not reproduced.
+-->
+
+## Song of the Open Road
+
+*Complete revised four-line poem; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Ogden Nash*
+
+<!--
+WR-ID: WR-W-052
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: [The Earth, Born in Fire]
+VERIFIED_AUTHOR: E. V. Komarek Sr. (attribution provisional)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Booklet text and later fire-ecology association; original occurrence and formatting not located
+SOURCE: research/verification-log.md#wr-w-052---the-earth-born-in-fire
+EDITION_NOTE: Keeps the Komarek attribution provisional and records the unresolved "lightening" or "lightning" reading. The complete potentially protected poem is not reproduced without a primary witness.
+-->
+
+## [The Earth, Born in Fire]
+
+*Complete short fire-ecology poem attributed provisionally to E. V. Komarek Sr.; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*E. V. Komarek Sr. (attribution provisional)*
