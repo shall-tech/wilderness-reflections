@@ -1106,3 +1106,95 @@ EDITION_NOTE: Restores the source prose, capitalization, and "every fiber" while
 Here is calm so deep, grasses cease waving. . . . Wonderful how completely everything in wild nature fits into us, as if truly part and parent of us. The sun shines not on us but in us. The rivers flow not past, but through us, thrilling, tingling, vibrating every fiber and cell of the substance of our bodies, making them glide and sing.
 
 *John Muir*
+
+<!--
+WR-ID: WR-B-049
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [I Care to Live Only to Entice People]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Adapted; Composite; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Letters to Jeanne C. Carr dated October 7, 1874, and December 25, 1872; printed in The Life and Letters of John Muir (1924)
+SOURCE: research/verification-log.md#wr-b-049---i-care-to-live-only-to-entice-people
+EDITION_NOTE: Separates the two-letter composite, restores "Nature's" and the 1874 sentence boundary, and identifies the flake-of-glass sentence as an adaptation without extending the booklet's endpoint.
+-->
+
+## [I Care to Live Only to Entice People]
+
+*Composite of language adapted from two letters to Jeanne C. Carr.*
+
+I care to live only to entice people to look at Nature's loveliness. My own special self is nothing.
+
+*From the letter of October 7, 1874*
+
+I want to be like a flake of glass through which light passes.
+
+*Adapted from the letter of December 25, 1872*
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-050
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [These Beautiful Days Must Enrich All My Life]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal passage published in John of the Mountains (1938), page 53
+SOURCE: research/verification-log.md#wr-b-050---these-beautiful-days-must-enrich-all-my-life
+EDITION_NOTE: Preserves the booklet's explicit internal omission while restoring the source's "the body" and the punctuation around "pictures -- maps."
+-->
+
+## [These Beautiful Days Must Enrich All My Life]
+
+*Shortened journal passage.*
+
+These beautiful days must enrich all my life. They do not exist as mere pictures -- maps hung upon the walls of memory . . . but they saturate themselves into every part of the body and live always.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-051
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [Then Casting Up My Eyes]
+VERIFIED_AUTHOR: William Henry Hudson
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Green Mansions: A Romance of the Tropical Forest (1904), chapter 5
+SOURCE: research/verification-log.md#wr-b-051---i-thanked-to-the-author-of-my-being
+EDITION_NOTE: Replaces the booklet's ungrammatical invented opening with the source wording and supplies the implied first-person subject in brackets while preserving the sentence endpoint.
+-->
+
+## [Then Casting Up My Eyes]
+
+*Sentence ending from Abel's narration in Green Mansions.*
+
+Then casting up my eyes, [I] thanked the Author of my being for the gift of that wild forest, those green mansions where I had found so great a happiness!
+
+*William Henry Hudson*
+
+<!-- Original Booklet Page 63 -->
+
+<!--
+WR-ID: WR-B-052
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [Beauty Created by Nature Is Equal in Value To]
+VERIFIED_AUTHOR: David Sive (attribution unverified)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 63
+SOURCE: research/verification-log.md#wr-b-052---beauty-created-by-nature-is-equal-in-value-to
+EDITION_NOTE: The statement is consistent with Sive's environmental-law advocacy, but its wording, occasion, and publication were not located. The substantial potentially protected quotation is not duplicated.
+-->
+
+## [Beauty Created by Nature Is Equal in Value To]
+
+*Complete quotation of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Attributed in the booklet to David Sive*

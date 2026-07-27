@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-052 by separating Muir's letter composite, restoring Muir and Hudson excerpts, and withholding the unresolved Sive quotation.
 - Extended the source-corrected Beauty edition through WR-B-048 by restoring four Muir selections on original page 62 with their verified source boundaries.
 - Extended the source-corrected Beauty edition through WR-B-044, restoring Darling, Wordsworth, and two Muir selections with their original endpoints.
 - Extended the source-corrected Beauty edition through WR-B-040, restoring Muir, Carmer, and Chittenden while withholding the anonymous complete poem "I Remember."
