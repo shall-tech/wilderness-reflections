@@ -966,3 +966,87 @@ EDITION_NOTE: Restores the source comma before the final "and which will build" 
 I look forward to an America which will not be afraid of grace and beauty, which will protect the beauty of our natural environment, which will preserve the great old American houses and squares and parks of our national past, and which will build handsome and balanced cities for our future.
 
 *John F. Kennedy*
+
+<!--
+WR-ID: WR-W-045
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [When I Got to Be 70]
+VERIFIED_AUTHOR: Claudia Alta "Lady Bird" Johnson
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: MacNeil/Lehrer Report interview (December 20, 1982)
+SOURCE: research/verification-log.md#wr-w-045---when-i-go-to-be-70
+EDITION_NOTE: Corrects the booklet's "go" to "got" and identifies the omitted "do" and fuller broadcast context. The substantial protected interview excerpt is not reproduced.
+-->
+
+## [When I Got to Be 70]
+
+*Condensed account of Johnson's decision to found the National Wildflower Research Center; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Lady Bird Johnson*
+
+<!--
+WR-ID: WR-W-046
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [Man Is Not Himself Only]
+VERIFIED_AUTHOR: Mary Hunter Austin
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Prose sentence collected in Beyond Borders: The Selected Essays of Mary Austin (1996); original essay not identified
+SOURCE: research/verification-log.md#wr-w-046---man-is-not-himself-only
+EDITION_NOTE: Identifies the booklet's artificial free-verse arrangement and ellipsis-shortened prose, but the original essay and publication remain unknown. Replacement text is not reproduced without a primary witness.
+-->
+
+## [Man Is Not Himself Only]
+
+*Shortened prose sentence arranged as verse by the booklet; text not reproduced.*
+
+*[Text omitted pending identification of the original essay and a primary-page comparison.]*
+
+*Mary Hunter Austin*
+
+<!--
+WR-ID: WR-W-047
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: Waka on the Diamond Sutra
+VERIFIED_AUTHOR: Eihei Dōgen; translated by Lucien Stryk and Takashi Ikemoto
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Crane's Bill: Zen Poems of China and Japan (1973), reprinted in The Penguin Book of Zen Poetry (1977)
+SOURCE: research/verification-log.md#wr-w-047---coming-going-the-waterfowl
+EDITION_NOTE: Restores the poet, translators, and commonly used title omitted by the booklet. The complete protected English translation is not reproduced.
+-->
+
+## Waka on the Diamond Sutra
+
+*Complete Stryk-Ikemoto translation; text not reproduced.*
+
+*[Text omitted pending permission from the translation rights holders.]*
+
+*Eihei Dōgen; translated by Lucien Stryk and Takashi Ikemoto*
+
+<!--
+WR-ID: WR-W-048
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [At First, the People Talking About Ecology]
+VERIFIED_AUTHOR: Osmarino Amâncio Rodrigues
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: National Council of Rubber Tappers informational publication; date not established
+SOURCE: research/verification-log.md#wr-w-048---at-first-the-people-talking-about-ecology
+EDITION_NOTE: Corrects Rodrigues's diacritics, identifies his organizational role, and notes that both witnesses retain singular "ecologist." The substantial protected statement is not reproduced.
+-->
+
+## [At First, the People Talking About Ecology]
+
+*Complete statement published by the National Council of Rubber Tappers; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Osmarino Amâncio Rodrigues*
