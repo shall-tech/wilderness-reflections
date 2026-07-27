@@ -530,3 +530,89 @@ EDITION_NOTE: Restores the source punctuation while preserving the booklet's tru
 To allow mystery, which is to say to yourself, there could be more, there could be things we don't understand, is not to damn knowledge.
 
 *Barry Lopez*
+
+<!--
+WR-ID: WR-KW-025
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Life Is Change]
+VERIFIED_AUTHOR: Karen Kaiser Clark (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 35; compared with later circulating witnesses
+SOURCE: research/verification-log.md#wr-kw-025---life-is-change
+EDITION_NOTE: The booklet's initials correspond to the common Karen Kaiser Clark attribution, but no original book, article, speech, or contemporaneous witness was located.
+-->
+
+## [Life Is Change]
+
+*Complete modern maxim; original provenance unresolved.*
+
+Life is change; growth is optional; choose wisely.
+
+*Karen Kaiser Clark (as circulated; “KKC” in the booklet)*
+
+<!--
+WR-ID: WR-KW-026
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Secret of the Making of the Best Persons]
+VERIFIED_AUTHOR: Walt Whitman
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Song of the Open Road," section 6, later Leaves of Grass text
+SOURCE: research/verification-log.md#wr-kw-026---the-secret-of-making-the-best-person
+EDITION_NOTE: Restores "the making of," the plural "persons," and the source's two-line presentation.
+-->
+
+## [The Secret of the Making of the Best Persons]
+
+*Two-line excerpt from “Song of the Open Road,” section 6.*
+
+Now I see the secret of the making of the best persons,\
+It is to grow in the open air and to eat and sleep with the earth.
+
+*Walt Whitman*
+
+<!--
+WR-ID: WR-KW-027
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Those Who Know Do Not Talk]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Gia-Fu Feng and Jane English, Tao Te Ching: A New Translation (1972), chapter 56
+SOURCE: research/verification-log.md#wr-kw-027---those-who-know-do-not-talk
+EDITION_NOTE: Identifies the exact translation and attribution omitted by the booklet while preserving its opening two-line boundary.
+-->
+
+## [Those Who Know Do Not Talk]
+
+*Opening two-line excerpt from the Tao Te Ching, chapter 56.*
+
+Those who know do not talk.\
+Those who talk do not know.
+
+*Laozi (traditional attribution); translated by Gia-Fu Feng and Jane English*
+
+<!--
+WR-ID: WR-KW-028
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Fact Remains]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 35
+SOURCE: research/verification-log.md#wr-kw-028---the-fact-remains
+EDITION_NOTE: No publication, interview, institutional record, or reliable biographical identification supports the booklet's T. J. Walker attribution.
+-->
+
+## [The Fact Remains]
+
+*Complete booklet passage; source and attribution unresolved.*
+
+The fact remains that the people who profess to know about these things and to love them haven't the vaguest notion of how to see nature. They don't know where to find it, they don't know how to experience it, and if they demonstrate the existence of it they do so on a field trip which is more a social outing than a field trip. If anything, they do more damage to nature by their activity than they do if they never brought the kids out at all. The point is that people should find these things out for themselves. You shouldn't have to go to some expert to know that if you look here or there you'll find something. You're there - look! It's as simple as that.
+
+*Author unknown; attributed in the booklet to T. J. Walker*
