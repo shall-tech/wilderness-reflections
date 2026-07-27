@@ -672,3 +672,92 @@ EDITION_NOTE: Retains the booklet's brief English wording rather than selecting 
 Riverbanks lined with green trees, fragrant grasses: a place not sacred? Where?
 
 *Traditional Zen saying*
+
+<!--
+WR-ID: WR-B-029
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [The Machine Turned Nature into an Art Form]
+VERIFIED_AUTHOR: Marshall McLuhan
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Counterblast (1954), page ix
+SOURCE: research/verification-log.md#wr-b-029---the-machine-turned-nature-into-an-art-form
+EDITION_NOTE: Restores McLuhan's name and his capitalization of "Nature" in both sentences while preserving the consecutive two-sentence boundary.
+-->
+
+## [The Machine Turned Nature into an Art Form]
+
+*Two consecutive sentences from Counterblast.*
+
+The machine turned Nature into an art form. For the first time men began to regard Nature as a source of aesthetic and spiritual values.
+
+*Marshall McLuhan*
+
+<!--
+WR-ID: WR-B-030
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [The Greatest Beauty Is Organic Wholeness]
+VERIFIED_AUTHOR: Robinson Jeffers
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: "The Answer," in Such Counsels You Gave to Me and Other Poems (1937)
+SOURCE: research/verification-log.md#wr-b-030---the-greatest-beauty-is-organic-wholeness
+EDITION_NOTE: Restores the source lineation and line-opening capitals, marks the continuing endpoint, and preserves the booklet's start after the omitted phrase "Integrity is wholeness."
+-->
+
+## [The Greatest Beauty Is Organic Wholeness]
+
+*Selected lines from "The Answer."*
+
+The greatest beauty is\
+Organic wholeness, the wholeness of life and things, the divine beauty\
+Of the universe. Love that, not man\
+Apart from that . . .
+
+*Robinson Jeffers*
+
+<!--
+WR-ID: WR-B-031
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [Looking Good Never Takes a Day Off]
+VERIFIED_AUTHOR: Fr. Don Hummel (attribution unverified)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 59
+SOURCE: research/verification-log.md#wr-b-031---looking-good-never-takes-a-day-off
+EDITION_NOTE: Retains the brief slogan but qualifies the booklet attribution because no independent publication, biographical source, or author-linked witness was located.
+-->
+
+## [Looking Good Never Takes a Day Off]
+
+*Brief saying of unresolved provenance.*
+
+Looking good never takes a day off.
+
+*Attributed in the booklet to Fr. Don Hummel*
+
+<!-- Original Booklet Page 60 -->
+
+<!--
+WR-ID: WR-B-032
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: To Look at Any Thing
+VERIFIED_AUTHOR: John Moffitt
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Living Seed (1961)
+SOURCE: research/verification-log.md#wr-b-032---to-look-at-anything
+EDITION_NOTE: Restores the verified title in metadata and documents the booklet's altered spacing, lineation, capitalization, and punctuation. The complete protected poem is not reproduced.
+-->
+
+## To Look at Any Thing
+
+*Complete poem; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*John Moffitt*
