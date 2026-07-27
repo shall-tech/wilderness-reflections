@@ -1198,3 +1198,87 @@ EDITION_NOTE: The statement is consistent with Sive's environmental-law advocacy
 See the scan-faithful booklet version and the cited source record.
 
 *Attributed in the booklet to David Sive*
+
+<!--
+WR-ID: WR-B-053
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [The Heavens Declare God's Glory]
+VERIFIED_AUTHOR: Psalm 19:1-6 (paraphrase; translator unidentified)
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Free modern paraphrase of Psalm 19:1-6; exact English source unidentified
+SOURCE: research/verification-log.md#wr-b-053---the-heavens-declare-gods-glory
+EDITION_NOTE: Corrects the booklet's incomplete 1-4 range to 1-6, whose sun imagery supplies the final portion. The substantial unidentified modern paraphrase is not reproduced.
+-->
+
+## [The Heavens Declare God's Glory]
+
+*Free modern paraphrase of Psalm 19:1-6; text not reproduced.*
+
+*[Text omitted pending identification of the paraphrase or selection of a named public-domain translation.]*
+
+*Psalm 19:1-6*
+
+<!--
+WR-ID: WR-B-054
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [Nothing Is Less Known; Nothing More Neglected]
+VERIFIED_AUTHOR: Georges-Louis Leclerc, Comte de Buffon
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: "Sur la culture et l'exploitation des forêts" (1742), in a published scholarly English translation
+SOURCE: research/verification-log.md#wr-b-054---nothing-is-less-known-nothing-more-neglected
+EDITION_NOTE: Corrects Buffon's middle name and title while retaining the brief two-sentence English translation because no named alternate translation was selected.
+-->
+
+## [Nothing Is Less Known; Nothing More Neglected]
+
+*Two consecutive sentences in English translation.*
+
+Nothing is less known; nothing more neglected. The forest is a gift of nature which it is sufficient to accept just as it comes from her hands.
+
+*Georges-Louis Leclerc, Comte de Buffon*
+
+<!--
+WR-ID: WR-B-055
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [The Thoughts of the Earth Are My Thoughts]
+VERIFIED_AUTHOR: Diné song tradition (source and translator unverified)
+WORK_SCOPE: Abridged; Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Shortened English arrangement of a text circulated as "Song of the Earth Spirit"; original-language source and translator unidentified
+SOURCE: research/verification-log.md#wr-b-055---the-thoughts-of-the-earth-are-my-thoughts
+EDITION_NOTE: Identifies the compact selection as an adaptation of a longer circulating text. It is not reproduced without an original-language witness, named translator, or reliable publication source.
+-->
+
+## [The Thoughts of the Earth Are My Thoughts]
+
+*Shortened English arrangement associated with a Diné song tradition; text not reproduced.*
+
+*[Text omitted pending identification of a named source and translation.]*
+
+*Diné song tradition*
+
+<!--
+WR-ID: WR-B-056
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [If There Is Light in the Soul]
+VERIFIED_AUTHOR: Commonly labeled Chinese proverb (provenance unverified)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Modern circulating English form; Chinese source and translator unidentified
+SOURCE: research/verification-log.md#wr-b-056---if-there-is-light-in-the-soul
+EDITION_NOTE: Documents the booklet's missing "be" in the fourth line, but does not reproduce the complete modern English text without a Chinese source, translator, or early publication.
+-->
+
+## [If There Is Light in the Soul]
+
+*Complete modern English saying of unresolved provenance; text not reproduced.*
+
+*[Text omitted pending identification of a named source and translation.]*
+
+*Commonly labeled a Chinese proverb*
