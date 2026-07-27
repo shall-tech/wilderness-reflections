@@ -2022,3 +2022,89 @@ Since the world can in no way answer to our craving,<br>
 I will loosen my hair tomorrow and take to a fishing-boat.
 
 *Li Bai (Li Po); translated by Witter Bynner and Kiang Kang-hu*
+
+<!--
+WR-ID: WR-KW-093
+PAGE: 43
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Men Go Back to the Mountains]
+VERIFIED_AUTHOR: Abram T. Collier (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 43; matching later Philmont-related collection
+SOURCE: research/verification-log.md#wr-kw-093---men-go-back-to-the-mountains
+EDITION_NOTE: The wording and attribution recur together, but no original essay, book, periodical, date, or page reference was located. The complete potentially protected passage is not duplicated.
+-->
+
+## [Men Go Back to the Mountains]
+
+*Complete passage of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Abram T. Collier (as circulated)*
+
+<!-- Original Booklet Page 44 -->
+
+<!--
+WR-ID: WR-KW-094
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [A Land Ethic for Tomorrow]
+VERIFIED_AUTHOR: Stewart L. Udall
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Notes on a Land Ethic for Tomorrow," chapter 14 of The Quiet Crisis (1963)
+SOURCE: research/verification-log.md#wr-kw-094---a-land-ethic-for-tomorrow
+EDITION_NOTE: Identifies the source and the booklet's "policy makes" error and missing quotation marks around "progress." The substantial protected passage is not reproduced.
+-->
+
+## [A Land Ethic for Tomorrow]
+
+*Passage from The Quiet Crisis; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Stewart L. Udall*
+
+<!--
+WR-ID: WR-KW-095
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Difficulties and Obstructions]
+VERIFIED_AUTHOR: Richard Wilhelm and Cary F. Baynes
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Commentary on hexagram 39 in The I Ching or Book of Changes (1950), German translation by Richard Wilhelm, English translation by Cary F. Baynes
+SOURCE: research/verification-log.md#wr-kw-095---difficulties-and-obstructions
+EDITION_NOTE: Identifies this as modern explanatory commentary rather than ancient source text and names both translators. The complete protected translation paragraph is not reproduced.
+-->
+
+## [Difficulties and Obstructions]
+
+*Commentary on the Image of hexagram 39; translation not reproduced.*
+
+*[Text omitted pending permission from the translation rights holder.]*
+
+*Richard Wilhelm; translated into English by Cary F. Baynes*
+
+<!--
+WR-ID: WR-KW-096
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Mountains Can Be Reached in All Seasons]
+VERIFIED_AUTHOR: William O. Douglas
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Of Men and Mountains (1950), page 326
+SOURCE: research/verification-log.md#wr-kw-096---the-mountains-can-be-reached-in-all-seasons
+EDITION_NOTE: Corrects the booklet's "Douglass" and identifies the omitted word "help." The substantial protected excerpt is not reproduced without permission.
+-->
+
+## [The Mountains Can Be Reached in All Seasons]
+
+*Extended passage from Of Men and Mountains; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*William O. Douglas*
