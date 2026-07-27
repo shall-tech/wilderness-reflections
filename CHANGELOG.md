@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-080, restoring Emerson and Thoreau while retaining two explicitly qualified modern attributions.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-076, restoring Thoreau and Santayana, identifying Olson's woodsman, and withholding Cunningham's complete poem.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-072, restoring two Thoreau journal passages, qualifying Żeromski, and separating the Shakespeare-Tolkien composite.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-068, documenting protected Inuit-song and Einstein texts without reproducing them and restoring Smohalla and Thoreau.

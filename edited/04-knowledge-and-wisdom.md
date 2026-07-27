@@ -1644,3 +1644,87 @@ EDITION_NOTE: The title and attribution recur in a matching Philmont collection,
 *[Text omitted pending source verification and permission from the rights holder.]*
 
 *Edward Cunningham (as circulated)*
+
+<!--
+WR-ID: WR-KW-077
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [In the Woods Too]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Nature (1836), chapter 1
+SOURCE: research/verification-log.md#wr-kw-077---in-the-woods-too
+EDITION_NOTE: Restores "soever" as one word and the source punctuation while preserving the one-sentence boundary before "In the woods, is perpetual youth."
+-->
+
+## [In the Woods Too]
+
+*One-sentence excerpt from Nature, chapter 1.*
+
+In the woods too, a man casts off his years, as the snake his slough, and at what period soever of life is always a child.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-KW-078
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Mountains and Deserts]
+VERIFIED_AUTHOR: George B. Schaller (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 41; compared with later Schaller attributions
+SOURCE: research/verification-log.md#wr-kw-078---mountains-and-deserts
+EDITION_NOTE: The sentence circulates under Schaller's name, but no book, essay, article, interview, speech, page number, or contemporaneous witness was located.
+-->
+
+## [Mountains and Deserts]
+
+*Complete circulating statement; original provenance unresolved.*
+
+Mountains and deserts, with their sparse life at the limit of existence, make one restless and disconsolate; one becomes an explorer in an intellectual realm as well as in a physical one.
+
+*George B. Schaller (as circulated)*
+
+<!--
+WR-ID: WR-KW-079
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [He Who Reads the Landscape]
+VERIFIED_AUTHOR: Barry Lopez (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 41; matching Philmont circulation
+SOURCE: research/verification-log.md#wr-kw-079---he-who-reads-the-landscape
+EDITION_NOTE: A matching Philmont collection credits Lopez, but no named book, essay, interview, or independent early source was located.
+-->
+
+## [He Who Reads the Landscape]
+
+*Complete circulating statement; original provenance unresolved.*
+
+He who reads the landscape without the aid of maps as a matter of habit, becomes as sophisticated of eye as it is popular to believe the bat is sophisticated of ear.
+
+*Barry Lopez (as circulated)*
+
+<!--
+WR-ID: WR-KW-080
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [When I Would Recreate Myself]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Walking," The Atlantic Monthly (June 1862)
+SOURCE: research/verification-log.md#wr-kw-080---when-i-would-recreate-myself
+EDITION_NOTE: Restores the source's articles, commas, and "There is the strength, the marrow, of Nature" within the three-sentence boundary.
+-->
+
+## [When I Would Recreate Myself]
+
+*Three sentences from "Walking."*
+
+When I would recreate myself, I seek the darkest wood, the thickest and most interminable and, to the citizen, most dismal, swamp. I enter a swamp as a sacred place--a sanctum sanctorum. There is the strength, the marrow, of Nature.
+
+*Henry David Thoreau*
