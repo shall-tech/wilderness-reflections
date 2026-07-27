@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Leadership edition through WR-LE-024, correcting the Laozi attribution and translation witness, preserving the Proverbs excerpt boundary, and retaining two unresolved maxims.
 - Extended the source-corrected Leadership edition through WR-LE-020, retaining three provenance-limited statements and restoring Lutzenberger's source wording.
 - Extended the source-corrected Leadership edition through WR-LE-016, qualifying another Phillips epigram, restoring Witch Hunt dialogue and authorship, and rejecting two unsupported Patton attributions.
 - Extended the source-corrected Leadership edition through WR-LE-012, qualifying three more Phillips-collected epigrams and restoring the short-line presentation of Bach's handbook entry.

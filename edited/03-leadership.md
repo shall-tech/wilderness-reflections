@@ -439,3 +439,88 @@ EDITION_NOTE: The booklet stops before "regardless of their chosen field of ende
 The quality of a person's life is in direct proportion to their commitment to excellence.
 
 *Vince Lombardi (as circulated)*
+
+<!--
+WR-ID: WR-LE-021
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [A Journey of a Thousand Miles]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Tao-te-ching.org line-by-line translation of Tao Te Ching, chapter 64
+SOURCE: https://www.tao-te-ching.org/64
+EDITION_NOTE: Corrects the booklet's Chuang Tzu attribution and restores the selected translation's "beneath your feet" rather than the familiar "single step" paraphrase.
+-->
+
+## [A Journey of a Thousand Miles]
+
+*Two-line excerpt from the Tao Te Ching, chapter 64.*
+
+A journey of a thousand miles\
+Begins beneath your feet.
+
+*Laozi (traditional attribution)*
+
+<!--
+WR-ID: WR-LE-022
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Everything Begins with Leadership]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28
+SOURCE: research/verification-log.md#wr-le-022---everything-begins-with-leadership
+EDITION_NOTE: No identifiable original publication, speaker, or earlier witness was located.
+-->
+
+## [Everything Begins with Leadership]
+
+*Complete anonymous leadership maxim.*
+
+Everything begins with leadership; you start a spiral up or down.
+
+*Author unknown*
+
+<!--
+WR-ID: WR-LE-023
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Where There Is No Vision]
+VERIFIED_AUTHOR: Biblical Book of Proverbs
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: King James Version, Proverbs 29:18
+SOURCE: research/verification-log.md#wr-le-023---where-there-is-no-vision
+EDITION_NOTE: Preserves the booklet's exact first-clause boundary; the verse's second clause remains outside the selection.
+-->
+
+## [Where There Is No Vision]
+
+*First-clause excerpt from Proverbs 29:18, King James Version.*
+
+Where there is no vision, the people perish.
+
+*Proverbs 29:18*
+
+<!--
+WR-ID: WR-LE-024
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Hold Yourself Responsible]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28; compared with later Beecher-attributed collections
+SOURCE: research/verification-log.md#wr-le-024---hold-yourself-responsible
+EDITION_NOTE: Later collections frequently attribute the opening two sentences to Beecher, but no Beecher speech, sermon, book, or contemporaneous witness was located; the full four-sentence form is less consistently transmitted.
+-->
+
+## [Hold Yourself Responsible]
+
+*Complete circulating passage; attribution unresolved.*
+
+Hold yourself responsible for a higher standard than anybody else expects of you. Never excuse yourself. Never pity yourself. Be a hard taskmaster to yourself and be lenient with everybody else.
+
+*Author unknown; attributed in the booklet to Henry Ward Beecher*
