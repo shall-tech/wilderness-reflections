@@ -1491,3 +1491,87 @@ EDITION_NOTE: Retains the short collection-verified sentence while explicitly re
 My heart is tuned to the quietness that the stillness of nature inspires.
 
 *Hazrat Inayat Khan*
+
+<!--
+WR-ID: WR-W-069
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [What a Joy It Is to Feel the Soft, Springy Earth]
+VERIFIED_AUTHOR: Helen Keller
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Story of My Life (1903)
+SOURCE: research/verification-log.md#wr-w-069---what-a-joy-it-is-to-feel-the-soft-springy-earth
+EDITION_NOTE: Follows the source punctuation around "notes, or to clamber" while preserving the autobiographical sentence boundary.
+-->
+
+## [What a Joy It Is to Feel the Soft, Springy Earth]
+
+*Autobiographical sentence from The Story of My Life.*
+
+What a joy it is to feel the soft, springy earth under my feet once more, to follow grassy roads that lead to ferny brooks where I can bathe my fingers in a cataract of rippling notes, or to clamber over a stone wall into green fields that tumble and roll and climb in riotous gladness!
+
+*Helen Keller*
+
+<!--
+WR-ID: WR-W-070
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [The Care of Rivers]
+VERIFIED_AUTHOR: Tanaka Shōzō (attribution provisional); translator unidentified
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Later English-language witnesses; no dated Japanese text or original translation located
+SOURCE: research/verification-log.md#wr-w-070---the-care-of-rivers
+EDITION_NOTE: Retains the short transmitted English sentence without blending translations and makes both the Tanaka attribution and unidentified translator explicit.
+-->
+
+## [The Care of Rivers]
+
+The care of rivers is not a question of rivers, but of the human heart.
+
+*Attributed to Tanaka Shōzō; translator and original source unidentified*
+
+<!--
+WR-ID: WR-W-071
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [No Pain Here]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: First sentence quoted from a Muir journal by 1918; second sentence independently transmitted; exact journal locations unresolved
+SOURCE: research/verification-log.md#wr-w-071---no-pain-here
+EDITION_NOTE: Retains the two joined sentiments with an explicit separation marker and records that their exact journal dates and original continuity remain unresolved.
+-->
+
+## [No Pain Here]
+
+*Two Muir journal sentiments transmitted together.*
+
+No pain here, no dull empty hours, no fear of the past, no fear of the Future.
+
+*[Exact continuity between the two statements has not been established.]*
+
+Drinking this champagne water is pure pleasure, so is breathing the living air.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-072
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [I Am Always Glad to Touch the Living Rock]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Independent Philmont and attributed comparison witnesses; original journal, letter, or book location unresolved
+SOURCE: research/verification-log.md#wr-w-072---i-am-always-glad-to-touch-the-living-rock
+EDITION_NOTE: Restores the suppressed internal omission after "I" but otherwise retains the transmitted wording because the exact original source remains unidentified.
+-->
+
+## [I Am Always Glad to Touch the Living Rock]
+
+I . . . am always glad to touch the living rock again and dip my hand in the high mountain air.
+
+*John Muir*
