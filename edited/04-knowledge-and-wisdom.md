@@ -2108,3 +2108,89 @@ EDITION_NOTE: Corrects the booklet's "Douglass" and identifies the omitted word 
 *[Text omitted pending permission from the rights holder.]*
 
 *William O. Douglas*
+
+<!--
+WR-ID: WR-KW-097
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Concept of Public Welfare]
+VERIFIED_AUTHOR: William O. Douglas, for a unanimous U.S. Supreme Court
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Berman v. Parker, 348 U.S. 26, 33 (1954)
+SOURCE: research/verification-log.md#wr-kw-097---the-concept-of-public-welfare
+EDITION_NOTE: Corrects the booklet's "Douglass" and restores "well-balanced as well as carefully patrolled" while retaining an ellipsis for intervening opinion context.
+-->
+
+## [The Concept of Public Welfare]
+
+*Excerpt from the Court's opinion in Berman v. Parker.*
+
+The concept of the public welfare is broad and inclusive. . . . The values it represents are spiritual as well as physical, aesthetic as well as monetary. It is within the power of the legislature to determine that the community should be beautiful as well as healthy, spacious as well as clean, well-balanced as well as carefully patrolled.
+
+*Justice William O. Douglas, for a unanimous Court*
+
+<!--
+WR-ID: WR-KW-098
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Art of Land Doctoring]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Wilderness as a Land Laboratory," revised for A Sand County Almanac (1949)
+SOURCE: research/verification-log.md#wr-kw-098---the-art-of-land-doctoring
+EDITION_NOTE: Preserves the booklet's closing-sentence boundary and the revised book wording "yet to be born"; the 1941 periodical version ends differently.
+-->
+
+## [The Art of Land Doctoring]
+
+*Closing sentence of "Wilderness as a Land Laboratory."*
+
+The art of land doctoring is being practiced with vigor, but the science of land health is yet to be born.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-099
+PAGE: 44
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Winning Is Realizing You Already Have Won]
+VERIFIED_AUTHOR: Joe Henderson
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Running Commentary" column, reprinted in a 1986 runners' newsletter
+SOURCE: research/verification-log.md#wr-kw-099---winning-is-realizing-you-already-have-won
+EDITION_NOTE: The booklet selects and reorders portions of a longer numbered column and prints "Your had" for "You had." The substantial protected selection is not reproduced.
+-->
+
+## [Winning Is Realizing You Already Have Won]
+
+*Selected contrasts from Joe Henderson's "Running Commentary"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Joe Henderson*
+
+<!-- Original Booklet Page 45 -->
+
+<!--
+WR-ID: WR-KW-100
+PAGE: 45
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Man Always Kills the Thing He Loves]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Green Lagoons" and "Conservation Esthetic" in A Sand County Almanac (1949)
+SOURCE: research/verification-log.md#wr-kw-100---man-always-kills-the-thing-he-loves
+EDITION_NOTE: The booklet combines noncontiguous protected passages and introduces several errors, including "by young" for "be young." The substantial replacement composite is not reproduced.
+-->
+
+## [Man Always Kills the Thing He Loves]
+
+*Composite excerpt from two A Sand County Almanac essays; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*

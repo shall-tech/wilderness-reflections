@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-100, restoring the Douglas opinion and a limited Leopold sentence while withholding substantial Henderson and Leopold selections.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-096, documenting Collier, Udall, Wilhelm-Baynes, and Douglas while withholding substantial or complete protected text.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-092, withholding Olson, restoring Gibran, identifying the Tao Te Ching translation, and restoring Li Bai's closing stanza.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-088, correcting Storm and Olson source identities while withholding four substantial or complete protected passages.
