@@ -700,3 +700,89 @@ EDITION_NOTE: Restores the opening conjunction while preserving the booklet's fi
 Or speak to the earth, and it shall teach thee.
 
 *Job 12:8*
+
+<!-- Original Booklet Page 36 -->
+
+<!--
+WR-ID: WR-KW-033
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [If You Plan for a Year]
+VERIFIED_AUTHOR: Unknown modern adapter; derived from the Guanzi
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36; compared with the Guanzi, "Quan Xiu"
+SOURCE: research/verification-log.md#wr-kw-033---if-you-plan-for-a-year
+EDITION_NOTE: The modern proverb substitutes rice, changes a lifetime to one hundred years, and narrows cultivating people to educating one's children. Its adapter is unknown.
+-->
+
+## [If You Plan for a Year]
+
+*Modern adaptation of a passage in the Guanzi.*
+
+If you plan for a year, plant rice. If you plan for ten years, plant trees. If you plan for 100 years, educate your children.
+
+*Modern Chinese proverb; adapter unknown*
+
+<!--
+WR-ID: WR-KW-034
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Forests and This Planet Are Alive]
+VERIFIED_AUTHOR: Paulinho Paiakan (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36; independently reproduced by 1993
+SOURCE: research/verification-log.md#wr-kw-034---the-forests-and-this-planet-are-alive
+EDITION_NOTE: Later environmental-education sources reproduce the statement under Paiakan's name, but the original speech, interview, or publication was not located.
+-->
+
+## [The Forests and This Planet Are Alive]
+
+*Complete circulating statement; original occasion unidentified.*
+
+I am trying to save the knowledge that the forests and this planet are alive, to give it back to you who have lost the understanding.
+
+*Paulinho Paiakan (as circulated)*
+
+<!--
+WR-ID: WR-KW-035
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Of What Avail Is an Open Eye]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36; compared with later Ibn Gabirol attributions
+SOURCE: research/verification-log.md#wr-kw-035---of-what-avail-is-an-open-eye
+EDITION_NOTE: No poem, philosophical work, manuscript reference, original-language text, or early translation establishes the Ibn Gabirol attribution.
+-->
+
+## [Of What Avail Is an Open Eye]
+
+*Complete aphorism; attribution unresolved.*
+
+Of what avail is an open eye, if the heart is blind?
+
+*Author unknown; attributed in the booklet to Solomon ibn Gabirol*
+
+<!--
+WR-ID: WR-KW-036
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Have Learned a Lot from Trees]
+VERIFIED_AUTHOR: Tatanga Mani (Walking Buffalo)
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Touch the Earth, compiled by T. C. McLuhan (1971), page 23
+SOURCE: research/verification-log.md#wr-kw-036---i-have-learned-a-lot-from-trees
+EDITION_NOTE: Restores the source's prose presentation, "the animals," and the speaker's name while preserving the booklet's closing-portion boundary.
+-->
+
+## [I Have Learned a Lot from Trees]
+
+*Closing portion of a longer oral statement published in Touch the Earth.*
+
+I have learned a lot from trees; sometimes about the weather, sometimes about the animals, sometimes about the Great Spirit.
+
+*Tatanga Mani (Walking Buffalo)*
