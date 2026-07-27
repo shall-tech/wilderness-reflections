@@ -410,6 +410,94 @@ Grow wild according to thy nature, like these sedges and brakes, which will neve
 
 *Henry David Thoreau*
 
+<!--
+WR-ID: WR-L-015
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [The World Is Your Exercise Book]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 13; work identity linked to Illusions: The Adventures of a Reluctant Messiah (1977), p. 127
+SOURCE: https://research.cs.wisc.edu/graphics/Papers/Gleicher/Thesis/Acrobat/thesisA.pdf
+EDITION_NOTE: The work and author are verified, but a directly inspectable authorized edition was not available. The user-supplied booklet text is retained, and its word-order variants are not silently normalized.
+-->
+
+## [The World Is Your Exercise Book]
+
+*Excerpt from Illusions: The Adventures of a Reluctant Messiah; booklet wording retained.*
+
+The world is your exercise book, the pages on which you do your sums. It is not reality although you can express reality there if you wish. You are also free to write nonsense, or lies, or to tear the pages.
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-L-016
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [Live as to Die Tomorrow]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+BOOKLET_RELATIONSHIP: Variant of a long-circulating maxim attributed to several writers
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 13
+SOURCE: research/verification-log.md#wr-l-016---live-as-to-die-tomorrow
+EDITION_NOTE: No primary source by Isidore of Seville was located, and related forms have several competing attributions. The booklet wording is retained under an unknown author.
+-->
+
+## [Live as to Die Tomorrow]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Live as to die tomorrow. Learn as to live forever.
+
+*Author unknown; attributed in the booklet to “Isadore of Seville”*
+
+<!--
+WR-ID: WR-L-017
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [Try Not to Become a Man of Success]
+VERIFIED_AUTHOR: Albert Einstein
+WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Condensed quotation
+EDITION_STATUS: Source restored
+TEXT_WITNESS: William Miller, "Death of a Genius," Life, May 2, 1955
+SOURCE: https://www.sundheimgroup.com/a-brief-visit-with-einstein/
+EDITION_NOTE: Restores the connective wording omitted by the booklet while preserving its single-sentence boundary.
+-->
+
+## [Try Not to Become a Man of Success]
+
+*One-sentence excerpt from a 1955 interview.*
+
+Try not to become a man of success, but rather try to become a man of value.
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-L-018
+PAGE: 13
+SECTION: Life
+VERIFIED_TITLE: [I Left the Woods]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden; or, Life in the Woods (1854), "Conclusion"
+SOURCE: https://www.gutenberg.org/files/205/205-h/205-h.htm
+EDITION_NOTE: Restores the source's punctuation and compound form "pond-side" within the booklet's consecutive excerpt boundary.
+-->
+
+## [I Left the Woods]
+
+*Excerpt from Walden, “Conclusion.”*
+
+I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one. It is remarkable how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond-side; and though it is five or six years since I trod it, it is still quite distinct.
+
+It is true, I fear that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world, how deep the ruts of tradition and conformity! I did not wish to take a cabin passage, but rather to go before the mast and on the deck of the world, for there I could best see the moonlight amid the mountains. I do not wish to go below now.
+
+*Henry David Thoreau*
+
 <!-- Original Booklet Page 14 -->
 
 <!--
@@ -676,96 +764,6 @@ And that has made all the difference.
 
 *Robert Frost*
 
-<!-- Original Booklet Page 17 -->
-
-<!--
-WR-ID: WR-L-037
-PAGE: 17
-SECTION: Life
-VERIFIED_TITLE: [The Man Who Sat on the Ground]
-VERIFIED_AUTHOR: Luther Standing Bear
-WORK_SCOPE: Excerpt
-EDITION_STATUS: Source identified; text not reproduced
-TEXT_WITNESS: Land of the Spotted Eagle (1933)
-SOURCE: https://www.fadedpage.com/books/20180142/html.php
-EDITION_NOTE: The source begins with an additional introductory phrase and spells "tipi" differently. Because the 1933 United States publication may remain protected, the externally sourced replacement text is not reproduced.
--->
-
-## [The Man Who Sat on the Ground]
-
-*Two-sentence excerpt from Land of the Spotted Eagle; source text not reproduced.*
-
-See the scan-faithful booklet version and the cited source witness.
-
-*Luther Standing Bear*
-
-<!--
-WR-ID: WR-L-038
-PAGE: 17
-SECTION: Life
-VERIFIED_TITLE: [Then Here's a Hail to Each Flaring Dawn]
-VERIFIED_AUTHOR: Robert W. Service
-WORK_SCOPE: Excerpt
-EDITION_STATUS: Source restored
-TEXT_WITNESS: "A Rolling Stone," in Rhymes of a Rolling Stone (1912)
-SOURCE: https://www.gutenberg.org/ebooks/309
-EDITION_NOTE: Restores "flaring," "a-roaming," four-line form, and source punctuation.
--->
-
-## [Then Here's a Hail to Each Flaring Dawn]
-
-*Four-line excerpt from “A Rolling Stone.”*
-
-Then here's a hail to each flaring dawn!<br>
-And here's a cheer to the night that's gone!<br>
-And may I go a-roaming on<br>
-Until the day I die!
-
-*Robert W. Service*
-
-<!--
-WR-ID: WR-L-039
-PAGE: 17
-SECTION: Life
-VERIFIED_TITLE: [What Is Life?]
-VERIFIED_AUTHOR: H. Rider Haggard
-WORK_SCOPE: Abridged; Excerpt
-BOOKLET_RELATIONSHIP: Apocryphal adaptation attributed to Crowfoot
-EDITION_STATUS: Source restored
-TEXT_WITNESS: King Solomon's Mines (1885), speech by the fictional character Infadoos
-SOURCE: https://www.gutenberg.org/ebooks/2166
-EDITION_NOTE: Restores the source's image sequence within the booklet's boundary and identifies its fictional speaker; no historical evidence supports the Crowfoot attribution.
--->
-
-## [What Is Life?]
-
-*Abridged excerpt from a speech by the fictional Infadoos in King Solomon's Mines.*
-
-What is life? It is the glow-worm that shines in the night-time and is black in the morning; it is the white breath of the oxen in winter; it is the little shadow that runs across the grass and loses itself at sunset.
-
-*H. Rider Haggard*
-
-<!--
-WR-ID: WR-L-040
-PAGE: 17
-SECTION: Life
-VERIFIED_TITLE: [A Human Being Should Be Able To]
-VERIFIED_AUTHOR: Adaptation author unresolved; underlying text by Robert A. Heinlein
-WORK_SCOPE: Adapted
-EDITION_STATUS: Booklet text retained
-TEXT_WITNESS: Wilderness Reflections, original page 17; compared with Time Enough for Love (1973)
-SOURCE: https://libquotes.com/robert-a-heinlein/works/time-enough-for-love
-EDITION_NOTE: The booklet retains Heinlein's framing but replaces most of his list and credits Lew Hitcher, whose role could not be established. Restoring Heinlein's list would replace, rather than correct, this adaptation.
--->
-
-## [A Human Being Should Be Able To]
-
-*Substantial adaptation of a Lazarus Long maxim; adaptation authorship unresolved.*
-
-A human being should be able to heal a wound, plan an expedition, order from a French menu, climb a mountain face, enjoy a ballet, balance accounts, roll a kayak, embolden a friend, tell a joke, laugh at himself, cooperate, act alone, sing a children's song, solve equations, throw a dog a stick, pitch manure, program a computer, cook a tasty meal, love heartily, fight efficiently, die gallantly. Specialization is for insects.
-
-*Attributed in the booklet to Lew Hitcher; underlying form by Robert A. Heinlein*
-
 <!--
 WR-ID: WR-L-030
 PAGE: 15
@@ -963,90 +961,181 @@ He says again, "Good fences make good neighbours."
 
 *Robert Frost*
 
+<!-- Original Booklet Page 17 -->
+
 <!--
-WR-ID: WR-L-015
-PAGE: 13
+WR-ID: WR-L-037
+PAGE: 17
 SECTION: Life
-VERIFIED_TITLE: [The World Is Your Exercise Book]
-VERIFIED_AUTHOR: Richard Bach
+VERIFIED_TITLE: [The Man Who Sat on the Ground]
+VERIFIED_AUTHOR: Luther Standing Bear
 WORK_SCOPE: Excerpt
-EDITION_STATUS: Booklet text retained
-TEXT_WITNESS: Wilderness Reflections, original page 13; work identity linked to Illusions: The Adventures of a Reluctant Messiah (1977), p. 127
-SOURCE: https://research.cs.wisc.edu/graphics/Papers/Gleicher/Thesis/Acrobat/thesisA.pdf
-EDITION_NOTE: The work and author are verified, but a directly inspectable authorized edition was not available. The user-supplied booklet text is retained, and its word-order variants are not silently normalized.
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Land of the Spotted Eagle (1933)
+SOURCE: https://www.fadedpage.com/books/20180142/html.php
+EDITION_NOTE: The source begins with an additional introductory phrase and spells "tipi" differently. Because the 1933 United States publication may remain protected, the externally sourced replacement text is not reproduced.
 -->
 
-## [The World Is Your Exercise Book]
+## [The Man Who Sat on the Ground]
 
-*Excerpt from Illusions: The Adventures of a Reluctant Messiah; booklet wording retained.*
+*Two-sentence excerpt from Land of the Spotted Eagle; source text not reproduced.*
 
-The world is your exercise book, the pages on which you do your sums. It is not reality although you can express reality there if you wish. You are also free to write nonsense, or lies, or to tear the pages.
+See the scan-faithful booklet version and the cited source witness.
 
-*Richard Bach*
+*Luther Standing Bear*
 
 <!--
-WR-ID: WR-L-016
-PAGE: 13
+WR-ID: WR-L-038
+PAGE: 17
 SECTION: Life
-VERIFIED_TITLE: [Live as to Die Tomorrow]
+VERIFIED_TITLE: [Then Here's a Hail to Each Flaring Dawn]
+VERIFIED_AUTHOR: Robert W. Service
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "A Rolling Stone," in Rhymes of a Rolling Stone (1912)
+SOURCE: https://www.gutenberg.org/ebooks/309
+EDITION_NOTE: Restores "flaring," "a-roaming," four-line form, and source punctuation.
+-->
+
+## [Then Here's a Hail to Each Flaring Dawn]
+
+*Four-line excerpt from “A Rolling Stone.”*
+
+Then here's a hail to each flaring dawn!<br>
+And here's a cheer to the night that's gone!<br>
+And may I go a-roaming on<br>
+Until the day I die!
+
+*Robert W. Service*
+
+<!--
+WR-ID: WR-L-039
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [What Is Life?]
+VERIFIED_AUTHOR: H. Rider Haggard
+WORK_SCOPE: Abridged; Excerpt
+BOOKLET_RELATIONSHIP: Apocryphal adaptation attributed to Crowfoot
+EDITION_STATUS: Source restored
+TEXT_WITNESS: King Solomon's Mines (1885), speech by the fictional character Infadoos
+SOURCE: https://www.gutenberg.org/ebooks/2166
+EDITION_NOTE: Restores the source's image sequence within the booklet's boundary and identifies its fictional speaker; no historical evidence supports the Crowfoot attribution.
+-->
+
+## [What Is Life?]
+
+*Abridged excerpt from a speech by the fictional Infadoos in King Solomon's Mines.*
+
+What is life? It is the glow-worm that shines in the night-time and is black in the morning; it is the white breath of the oxen in winter; it is the little shadow that runs across the grass and loses itself at sunset.
+
+*H. Rider Haggard*
+
+<!--
+WR-ID: WR-L-040
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [A Human Being Should Be Able To]
+VERIFIED_AUTHOR: Adaptation author unresolved; underlying text by Robert A. Heinlein
+WORK_SCOPE: Adapted
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 17; compared with Time Enough for Love (1973)
+SOURCE: https://libquotes.com/robert-a-heinlein/works/time-enough-for-love
+EDITION_NOTE: The booklet retains Heinlein's framing but replaces most of his list and credits Lew Hitcher, whose role could not be established. Restoring Heinlein's list would replace, rather than correct, this adaptation.
+-->
+
+## [A Human Being Should Be Able To]
+
+*Substantial adaptation of a Lazarus Long maxim; adaptation authorship unresolved.*
+
+A human being should be able to heal a wound, plan an expedition, order from a French menu, climb a mountain face, enjoy a ballet, balance accounts, roll a kayak, embolden a friend, tell a joke, laugh at himself, cooperate, act alone, sing a children's song, solve equations, throw a dog a stick, pitch manure, program a computer, cook a tasty meal, love heartily, fight efficiently, die gallantly. Specialization is for insects.
+
+*Attributed in the booklet to Lew Hitcher; underlying form by Robert A. Heinlein*
+
+<!--
+WR-ID: WR-L-041
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [As for Small Difficulties and Worryings]
+VERIFIED_AUTHOR: Herman Melville for the first sentence; second sentence unattributed
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Moby-Dick (1851), chapter 49, "The Hyena"; Wilderness Reflections for the unidentified addition
+SOURCE: https://m.gutenberg.org/files/2489/2489-h/2489-h.htm
+EDITION_NOTE: Restores Melville's first sentence and visibly separates the appended wilderness sentence, which was not found in Moby-Dick or another identified Melville work.
+-->
+
+## [As for Small Difficulties and Worryings]
+
+*Composite text: an excerpt from Moby-Dick followed by an unidentified addition.*
+
+As for small difficulties and worryings, prospects of sudden disaster, peril of life and limb; all these, and death itself, seem to him only sly, good-natured hits, and jolly punches in the side bestowed by the unseen and unaccountable old joker.
+
+*—Herman Melville, Moby-Dick, chapter 49*
+
+There is nothing like the perils of the wilderness to breed this free and easy sort of genial, desperado philosophy.
+
+*—Author unknown; appended in the booklet*
+
+<!--
+WR-ID: WR-L-042
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [When You Lose Your Name]
 VERIFIED_AUTHOR: Unknown
 WORK_SCOPE: Complete
-BOOKLET_RELATIONSHIP: Variant of a long-circulating maxim attributed to several writers
 EDITION_STATUS: Booklet text retained
-TEXT_WITNESS: Wilderness Reflections, original page 13
-SOURCE: research/verification-log.md#wr-l-016---live-as-to-die-tomorrow
-EDITION_NOTE: No primary source by Isidore of Seville was located, and related forms have several competing attributions. The booklet wording is retained under an unknown author.
+TEXT_WITNESS: Wilderness Reflections, original page 17
+SOURCE: research/verification-log.md#wr-l-042---when-you-lose-your-name
+EDITION_NOTE: No Navajo-language text, speaker, publication, or reliable cultural source was located. The claimed cultural attribution is not endorsed.
 -->
 
-## [Live as to Die Tomorrow]
+## [When You Lose Your Name]
+
+*Complete circulating saying; cultural origin unresolved.*
+
+When you lose your name, you become small. When you lose your spirit you become nothing.
+
+*Author and cultural origin unknown; labeled “Navajo saying” in the booklet*
+
+<!--
+WR-ID: WR-L-043
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [Play for More Than You Can Afford to Lose]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 17
+SOURCE: research/verification-log.md#wr-l-043---play-for-more-than-you-can-afford-to-lose
+EDITION_NOTE: Later books repeat the Winston Churchill attribution, but no speech, book, letter, or archival source was located.
+-->
+
+## [Play for More Than You Can Afford to Lose]
 
 *Complete circulating maxim; attribution unresolved.*
 
-Live as to die tomorrow. Learn as to live forever.
+Play for more than you can afford to lose, and you will learn the game.
 
-*Author unknown; attributed in the booklet to “Isadore of Seville”*
-
-<!--
-WR-ID: WR-L-017
-PAGE: 13
-SECTION: Life
-VERIFIED_TITLE: [Try Not to Become a Man of Success]
-VERIFIED_AUTHOR: Albert Einstein
-WORK_SCOPE: Excerpt
-BOOKLET_RELATIONSHIP: Condensed quotation
-EDITION_STATUS: Source restored
-TEXT_WITNESS: William Miller, "Death of a Genius," Life, May 2, 1955
-SOURCE: https://www.sundheimgroup.com/a-brief-visit-with-einstein/
-EDITION_NOTE: Restores the connective wording omitted by the booklet while preserving its single-sentence boundary.
--->
-
-## [Try Not to Become a Man of Success]
-
-*One-sentence excerpt from a 1955 interview.*
-
-Try not to become a man of success, but rather try to become a man of value.
-
-*Albert Einstein*
+*Author unknown; attributed in the booklet to Winston Churchill*
 
 <!--
-WR-ID: WR-L-018
-PAGE: 13
+WR-ID: WR-L-044
+PAGE: 17
 SECTION: Life
-VERIFIED_TITLE: [I Left the Woods]
-VERIFIED_AUTHOR: Henry David Thoreau
+VERIFIED_TITLE: [If More of Us Valued Food and Cheer and Song]
+VERIFIED_AUTHOR: J. R. R. Tolkien
 WORK_SCOPE: Excerpt
+BOOKLET_RELATIONSHIP: Paraphrase of Thorin's words
 EDITION_STATUS: Source restored
-TEXT_WITNESS: Walden; or, Life in the Woods (1854), "Conclusion"
-SOURCE: https://www.gutenberg.org/files/205/205-h/205-h.htm
-EDITION_NOTE: Restores the source's punctuation and compound form "pond-side" within the booklet's consecutive excerpt boundary.
+TEXT_WITNESS: The Hobbit (1937), chapter 18, "The Return Journey"
+SOURCE: research/verification-log.md#wr-l-044---if-more-of-us-valued-good-food-and-drink
+EDITION_NOTE: Corrects Tolkien's name and restores the wording of Thorin's sentence while maintaining the one-sentence boundary.
 -->
 
-## [I Left the Woods]
+## [If More of Us Valued Food and Cheer and Song]
 
-*Excerpt from Walden, “Conclusion.”*
+*One-sentence excerpt from The Hobbit, chapter 18.*
 
-I left the woods for as good a reason as I went there. Perhaps it seemed to me that I had several more lives to live, and could not spare any more time for that one. It is remarkable how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond-side; and though it is five or six years since I trod it, it is still quite distinct.
+If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.
 
-It is true, I fear that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world, how deep the ruts of tradition and conformity! I did not wish to take a cabin passage, but rather to go before the mast and on the deck of the world, for there I could best see the moonlight amid the mountains. I do not wish to go below now.
-
-*Henry David Thoreau*
+*J. R. R. Tolkien*

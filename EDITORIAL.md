@@ -25,6 +25,7 @@
 - `WORK_SCOPE` uses one or more controlled values: `Complete`, `Excerpt`, `Abridged`, `Adapted`, `Composite`, or `Fragment`.
 - A reader-facing scope line identifies excerpts and other non-complete forms beneath each title.
 - `EDITION_STATUS: Source restored` means the displayed wording follows the cited source witness within the booklet's selection boundaries.
+- `EDITION_STATUS: Source restored in part` is reserved for composites in which one component has an authoritative source and another component remains unidentified; the boundary is made visible to readers.
 - `EDITION_STATUS: Booklet text retained` means reliable source wording could not be reproduced or established. The reason is stated in `EDITION_NOTE`.
 - `EDITION_STATUS: Source identified; text not reproduced` means the original work is identified, but its text is omitted because a reliable reproducible witness or publication right is unavailable.
 - Titles, author names, and work identities follow the verified source when confidence is sufficient. Unresolved attributions remain explicitly unresolved.
