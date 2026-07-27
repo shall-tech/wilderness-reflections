@@ -1329,3 +1329,79 @@ This is the forest primeval. The murmuring pines and the hemlocks,
 Stand like Druids of eld.
 
 *Henry Wadsworth Longfellow*
+
+<!--
+WR-ID: WR-W-061
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [The Essence of What We Call America]
+VERIFIED_AUTHOR: Paul Strand (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and later attributed witnesses; original interview, essay, or lecture not located
+SOURCE: research/verification-log.md#wr-w-061---the-essence-of-what-we-call-america
+EDITION_NOTE: Retains the booklet's short wording while recording that later witnesses instead read "This something we call America lives." The Strand attribution and original wording remain provisional.
+-->
+
+## [The Essence of What We Call America]
+
+(The essence of what) we call America lies not so much in political institutions as in its rocks and skies and seas.
+
+*Attributed to Paul Strand; original source not located*
+
+<!--
+WR-ID: WR-W-062
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [We Love the Quiet]
+VERIFIED_AUTHOR: Unidentified Indigenous speaker
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Later transmission claiming an address to Pennsylvania's governor in 1796; no contemporary document or speaker identity located
+SOURCE: research/verification-log.md#wr-w-062---we-love-the-quiet
+EDITION_NOTE: Retains the short booklet wording without treating the unverified 1796 context as established fact and avoids assigning a tribal identity not present in the evidence.
+-->
+
+## [We Love the Quiet]
+
+We love the quiet, we suffer the mouse to play; when the woods are rustled by the wind, we fear not.
+
+*Attributed to an unidentified Indigenous speaker; documentary source not located*
+
+<!--
+WR-ID: WR-W-063
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [Conservation Is the Foresighted Utilization]
+VERIFIED_AUTHOR: Gifford Pinchot
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Breaking New Ground (1947), p. 505
+SOURCE: research/verification-log.md#wr-w-063---conservation-is-the-foresighted-utilization
+EDITION_NOTE: Restores plural "forests," removes the booklet's extra comma before "for," and follows Pinchot's series "forests, waters, lands and minerals."
+-->
+
+## [Conservation Is the Foresighted Utilization]
+
+Conservation is the foresighted utilization, preservation, and/or renewal of forests, waters, lands and minerals for the greatest good of the greatest number for the longest time.
+
+*Gifford Pinchot*
+
+<!--
+WR-ID: WR-W-064
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [Holy Mother Earth]
+VERIFIED_AUTHOR: Anonymous; Ho-Chunk/Winnebago attribution unverified
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Late-twentieth-century circulating witnesses with conflicting cultural attributions; no Ho-Chunk-language or early ethnographic source located
+SOURCE: research/verification-log.md#wr-w-064---holy-mother-earth
+EDITION_NOTE: Retains the short saying but removes the unsupported claim that it is specifically a Winnebago wise saying and records the conflicting transmission.
+-->
+
+## [Holy Mother Earth]
+
+Holy Mother Earth, the trees and all nature, are witnesses of your thoughts and deeds.
+
+*Anonymous circulating saying; cultural attribution unresolved*
