@@ -1040,3 +1040,87 @@ EDITION_NOTE: The booklet changes "this frontier continent" to "his frontier con
 See the scan-faithful booklet version and the cited source record.
 
 *Luther Standing Bear*
+
+<!--
+WR-ID: WR-KW-049
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [We Have Loved the Stars Too Fondly]
+VERIFIED_AUTHOR: Sarah Williams; adapted for John and Phoebe Brashear
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Allegheny Observatory epitaph; adapted from Sarah Williams, "The Old Astronomer to His Pupil" (1868)
+SOURCE: research/verification-log.md#wr-kw-049---we-have-loved-the-stars-too-fondly
+EDITION_NOTE: Preserves the verified plural epitaph while identifying Sarah Williams's singular poem line and the two astronomers commemorated by the adaptation.
+-->
+
+## [We Have Loved the Stars Too Fondly]
+
+*Epitaph for John and Phoebe Brashear, adapted from Sarah Williams.*
+
+We have loved the stars too fondly to be fearful of the night.
+
+*Adapted from Sarah Williams, "The Old Astronomer to His Pupil"*
+
+<!--
+WR-ID: WR-KW-050
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The World Is Round]
+VERIFIED_AUTHOR: Ivy Baker Priest
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Parade (1958), as cited in later quotation records
+SOURCE: research/verification-log.md#wr-kw-050---the-world-is-round
+EDITION_NOTE: Restores "also" from the transmitted 1958 wording and corrects the booklet's "Ivy Barker Priest" to Ivy Baker Priest.
+-->
+
+## [The World Is Round]
+
+*Complete statement, cited to Parade in 1958.*
+
+The world is round and the place which may seem like the end may also be only the beginning.
+
+*Ivy Baker Priest*
+
+<!--
+WR-ID: WR-KW-051
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [He That Riseth Late]
+VERIFIED_AUTHOR: Benjamin Franklin
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Poor Richard's Almanack, August 1742
+SOURCE: research/verification-log.md#wr-kw-051---he-that-riseth-late
+EDITION_NOTE: Restores the comma after "late" while preserving the booklet's first-clause boundary; the remainder concerning business at night stays outside the selection.
+-->
+
+## [He That Riseth Late]
+
+*First clause of an August 1742 Poor Richard's Almanack maxim.*
+
+He that riseth late, must trot all day.
+
+*Benjamin Franklin*
+
+<!--
+WR-ID: WR-KW-052
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Pilgrimage to the Place of the Wise]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 37
+SOURCE: research/verification-log.md#wr-kw-052---pilgrimage-to-the-place-of-the-wise
+EDITION_NOTE: No Sufi author, original-language text, classical source, translator, or independent pre-booklet witness was located for the attribution.
+-->
+
+## [Pilgrimage to the Place of the Wise]
+
+*Complete saying; Sufi provenance unresolved.*
+
+Pilgrimage to the place of the wise is to escape the flame of separation from nature.
+
+*Anonymous; circulated as an old Sufi saying*
