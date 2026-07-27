@@ -798,3 +798,85 @@ EDITION_NOTE: Identifies the source-verified closing passage and preserves its t
 *[Text omitted pending permission from the rights holder.]*
 
 *Wallace Stegner*
+
+<!--
+WR-ID: WR-W-037
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [The Still Mind of the Sage]
+VERIFIED_AUTHOR: Zhuang Zhou; translated by James Legge
+WORK_SCOPE: Fragment; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Zhuangzi, chapter 13, "The Way of Heaven," James Legge's The Texts of Taoism (1891)
+SOURCE: research/verification-log.md#wr-w-037---the-still-mind-of-the-sage
+EDITION_NOTE: Restores Legge's "the mirror" while preserving the booklet's boundary before the sentence's omitted parallel phrase, "the glass of all things."
+-->
+
+## [The Still Mind of the Sage]
+
+*First clause of a sentence in "The Way of Heaven."*
+
+The still mind of the sage is the mirror of heaven and earth.
+
+*Zhuang Zhou; translated by James Legge*
+
+<!--
+WR-ID: WR-W-038
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [Once in a While You Find a Place on Earth]
+VERIFIED_AUTHOR: Unknown; "Sundance" may identify a publication or commercial source
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Booklet text; no original advertisement, catalog, article, or authored work located
+SOURCE: research/verification-log.md#wr-w-038---once-in-a-while-you-find-a-place-on-earth
+EDITION_NOTE: Keeps "Sundance" as an unresolved source credit rather than treating it as an author. The substantial potentially protected passage is not reproduced.
+-->
+
+## [Once in a While You Find a Place on Earth]
+
+*Extended promotional-style passage credited only to "Sundance"; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Source credit: "Sundance"; author unknown*
+
+<!--
+WR-ID: WR-W-039
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [Gueorgui Loved the Forest]
+VERIFIED_AUTHOR: Nikolai Levkov (identity and transliteration provisional); translator unidentified
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text; no original-language work, translation, or reliable biographical record located
+SOURCE: research/verification-log.md#wr-w-039---gueorgui-loved-the-forest
+EDITION_NOTE: Retains the short booklet sentence without normalizing names against an unidentified original language and makes the provisional author identity and missing translator explicit.
+-->
+
+## [Gueorgui Loved the Forest]
+
+Gueorgui loved the forest, this forest as old as a legend, gentle as a mother, and stern as a father.
+
+*Nikolai Levkov (identity and transliteration provisional); translator unidentified*
+
+<!--
+WR-ID: WR-W-040
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [Your Equipment Stands Between You and the Wilderness]
+VERIFIED_AUTHOR: Ed Buryn
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Vagabonding in America: A Guidebook about Energy (1973), with independent Philmont comparison
+SOURCE: research/verification-log.md#wr-w-040---your-equipment-stands-between-you-and-the-wilderness
+EDITION_NOTE: Corrects the booklet's "Ed Burgen" to Ed Buryn and identifies the source work. The substantial protected backpacking passage is not reproduced.
+-->
+
+## [Your Equipment Stands Between You and the Wilderness]
+
+*Backpacking advice from Vagabonding in America; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Ed Buryn*
