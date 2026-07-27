@@ -588,3 +588,87 @@ or gathering matter into stars, or planning the movements of water,
 or gardening - still all is Beauty!
 
 *John Muir*
+
+<!--
+WR-ID: WR-B-025
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [Thank God They Cannot Cut Down the Clouds]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Thoreau journal sentence quoted in Ralph Waldo Emerson, "Thoreau," The Atlantic Monthly (August 1862)
+SOURCE: research/verification-log.md#wr-b-025---thank-god-they-cannot-cut-down-the-clouds
+EDITION_NOTE: Removes the booklet's comma after "God" and restores the source exclamation point while preserving the one-sentence boundary.
+-->
+
+## [Thank God They Cannot Cut Down the Clouds]
+
+*Complete sentence quoted from Thoreau's journal.*
+
+Thank God they cannot cut down the clouds!
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-B-026
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [The Sun Does Not Shine for a Few Trees and Flowers]
+VERIFIED_AUTHOR: Henry Ward Beecher
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Life Thoughts: Gathered from the Extemporaneous Discourses of Henry Ward Beecher (1858)
+SOURCE: research/verification-log.md#wr-b-026---the-sun-does-not-shine-for-a-few-trees-and-flowers
+EDITION_NOTE: The booklet wording matches the opening sentence of a longer sermon passage; the edition preserves that endpoint.
+-->
+
+## [The Sun Does Not Shine for a Few Trees and Flowers]
+
+*Opening sentence of a longer sermon passage.*
+
+The sun does not shine for a few trees and flowers, but for the wide world's joy.
+
+*Henry Ward Beecher*
+
+<!--
+WR-ID: WR-B-027
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [Nature Is Painting for Us]
+VERIFIED_AUTHOR: John Ruskin (attributed)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 59; compared with multiple Ruskin attribution witnesses
+SOURCE: research/verification-log.md#wr-b-027---nature-is-painting-for-us
+EDITION_NOTE: Corrects the booklet's Lowell attribution to the consistently reported Ruskin attribution, but qualifies it because an originating work was not located.
+-->
+
+## [Nature Is Painting for Us]
+
+*Brief aphorism; originating work not located.*
+
+Nature is painting for us, day after day, pictures of infinite beauty.
+
+*Attributed to John Ruskin*
+
+<!--
+WR-ID: WR-B-028
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [Riverbanks Lined with Green Trees]
+VERIFIED_AUTHOR: Traditional Zen saying (provenance unverified)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 59; compared with later English Zen-saying witnesses
+SOURCE: research/verification-log.md#wr-b-028---riverbanks-lined-with-green-trees
+EDITION_NOTE: Retains the booklet's brief English wording rather than selecting among unsupported "green trees" and "green willows" variants; no original text, translator, or originating publication was located.
+-->
+
+## [Riverbanks Lined with Green Trees]
+
+*Brief saying of unresolved transmission.*
+
+Riverbanks lined with green trees, fragrant grasses: a place not sacred? Where?
+
+*Traditional Zen saying*
