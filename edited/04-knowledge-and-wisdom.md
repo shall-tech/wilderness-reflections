@@ -1382,3 +1382,91 @@ EDITION_NOTE: Related forms predate the booklet, but its exact "snuff out" wordi
 There isn't enough darkness in all the world to snuff out the light of one little candle.
 
 *Author unknown*
+
+<!--
+WR-ID: WR-KW-065
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Think Over My Small Adventures]
+VERIFIED_AUTHOR: Anonymous Inuit singer
+WORK_SCOPE: Abridged; Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Anerca (1959), edited by Edmund Carpenter from material transmitted through Knud Rasmussen's Fifth Thule Expedition reports
+SOURCE: research/verification-log.md#wr-kw-065---i-think-over-my-small-adventures
+EDITION_NOTE: The booklet presents a shortened English transmission that omits kayaking lines; the individual singer, exact original-language text, and translation chain remain incomplete. The protected edited translation is not reproduced.
+-->
+
+## [I Think Over My Small Adventures]
+
+*Shortened English transmission of an Inuit song; text not reproduced.*
+
+*[Text omitted pending permission and identification of the translation rights holder.]*
+
+*Anonymous Inuit singer; English transmission through Knud Rasmussen and Edmund Carpenter*
+
+<!--
+WR-ID: WR-KW-066
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [A Human Being Is Part of the Whole]
+VERIFIED_AUTHOR: Albert Einstein
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Condolence letter dated February 12, 1950, reproduced in The New Quotable Einstein (2005), page 206
+SOURCE: research/verification-log.md#wr-kw-066---a-human-being-is-part-of-the-whole
+EDITION_NOTE: The authoritative transcription has "the whole of nature in its beauty." Because this is a substantial excerpt from a protected private letter, replacement text is not reproduced without permission.
+-->
+
+## [A Human Being Is Part of the Whole]
+
+*Substantial excerpt from a February 12, 1950 condolence letter; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-KW-067
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [You Ask Me to Plow the Ground]
+VERIFIED_AUTHOR: Smohalla
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: James Mooney, The Ghost-Dance Religion and the Sioux Outbreak of 1890 (1896), from an A. B. MacMurray manuscript
+SOURCE: research/verification-log.md#wr-kw-067---you-ask-me-to-plow-the-ground
+EDITION_NOTE: Restores "bosom" and both references to "her bones" from the early record while preserving the booklet's endpoint before the concluding refusal and resurrection passage.
+-->
+
+## [You Ask Me to Plow the Ground]
+
+*Nearly complete recorded statement published by James Mooney in 1896.*
+
+You ask me to plow the ground. Shall I take a knife and tear my mother's bosom? Then when I die she will not take me to her bosom to rest. You ask me to dig for stone. Shall I dig under her skin for her bones? Then when I die I cannot enter her body to be born again. You ask me to cut grass and make hay and sell it and be rich like white men. But how dare I cut off my mother's hair?
+
+*Smohalla*
+
+<!-- Original Booklet Page 40 -->
+
+<!-- Page heading: Walking -->
+
+<!--
+WR-ID: WR-KW-068
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Hope and the Future]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Walking," The Atlantic Monthly (June 1862)
+SOURCE: research/verification-log.md#wr-kw-068---hope-and-the-future
+EDITION_NOTE: Removes the booklet's added "the" before both "lawns" and "towns" within the complete selected sentence.
+-->
+
+## [Hope and the Future]
+
+*Complete sentence from "Walking."*
+
+Hope and the future for me are not in lawns and cultivated fields, not in towns and cities, but in the impervious and quaking swamps.
+
+*Henry David Thoreau*
