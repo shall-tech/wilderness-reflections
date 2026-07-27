@@ -95,3 +95,99 @@ EDITION_NOTE: Retains the confirmed phrase "lands of shoreline," restores "on th
 There is a limit to the number of lands of shoreline on the lakes; there is a limit to the number of lakes in existence; there is a limit to the mountainous areas of the world, and . . . there are portions of natural scenic beauty which are God-made and . . . which of a right should be the property of all people.
 
 *Arthur Hawthorne Carhart*
+
+<!--
+WR-ID: WR-W-005
+PAGE: 67
+SECTION: Wilderness
+VERIFIED_TITLE: [The Land Belongs to the Future]
+VERIFIED_AUTHOR: Willa Cather
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: O Pioneers! (1913), Part V, chapter 3, Project Gutenberg transcription
+SOURCE: research/verification-log.md#wr-w-005---the-land-belongs-to-the-future
+EDITION_NOTE: Restores the selected speech after its omitted opening sentence, including "of the names," "and understand," and Cather's punctuation.
+-->
+
+## [The Land Belongs to the Future]
+
+*Most of Alexandra Bergson's closing speech to Carl Linstrum, beginning after its opening sentence.*
+
+The land belongs to the future, Carl; that's the way it seems to me. How many of the names on the county clerk's plat will be there in fifty years? I might as well try to will the sunset over there to my brother's children. We come and go, but the land is always here. And the people who love it and understand it are the people who own it—for a little while.
+
+*Willa Cather*
+
+<!--
+WR-ID: WR-W-006
+PAGE: 67
+SECTION: Wilderness
+VERIFIED_TITLE: Beatus Vir
+VERIFIED_AUTHOR: Richard Le Gallienne
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Beatus Vir," as printed in Our Holidays in Poetry (1929), p. 149
+SOURCE: research/verification-log.md#wr-w-006---beatus-vir
+EDITION_NOTE: Restores the first and fourth stanzas, marks the omitted middle stanzas, corrects the poet's surname, and restores "well-beloved," "moon-rise," and source punctuation.
+-->
+
+## Beatus Vir
+
+*First and fourth stanzas of the four-stanza poem.*
+
+Happy is the man who loves the woods and waters,\
+Brother to the grass, and well-beloved of Pan;\
+The earth shall be his, and all her laughing daughters—\
+Happy the man.
+
+*[Two stanzas omitted.]*
+
+His gossips are the stars, and the moon-rise his tavern;\
+He who seeks a better find it if he can—\
+And O his sweet pillow in the ferny cavern!\
+Happy the man.
+
+*Richard Le Gallienne*
+
+<!--
+WR-ID: WR-W-007
+PAGE: 67
+SECTION: Wilderness
+VERIFIED_TITLE: [Touch the Earth, Love the Earth]
+VERIFIED_AUTHOR: Henry Beston
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Outermost House: A Year of Life on the Great Beach of Cape Cod (1928), chapter 10
+SOURCE: research/verification-log.md#wr-w-007---touch-the-earth-love-the-earth
+EDITION_NOTE: Preserves the two selected clauses and restores the source comma after the repeated phrase "honor the earth."
+-->
+
+## [Touch the Earth, Love the Earth]
+
+*Two clauses from the closing passage of The Outermost House.*
+
+Touch the earth, love the earth, honor the earth, her plains, her valleys, her hills, and her seas; rest your spirit in her solitary places.
+
+*Henry Beston*
+
+<!-- Original Booklet Page 68 -->
+
+<!--
+WR-ID: WR-W-008
+PAGE: 68
+SECTION: Wilderness
+VERIFIED_TITLE: [Today the Open Road Is a Six Lane Highway]
+VERIFIED_AUTHOR: Eve Merriam (attribution not independently sourced)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Booklet text and an independent Philmont transcription; original publication not located
+SOURCE: research/verification-log.md#wr-w-008---today-the-open-road-is-a-six-lane-highway
+EDITION_NOTE: Corrects the booklet's surname "Merrian" to Merriam but keeps the attribution provisional. The substantial protected passage is not reproduced without a primary source and permission.
+-->
+
+## [Today the Open Road Is a Six Lane Highway]
+
+*Three-paragraph outdoor reflection attributed provisionally to Eve Merriam; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Eve Merriam (attribution provisional)*
