@@ -354,3 +354,93 @@ EDITION_NOTE: Restores the source's plural subject and pronouns while preserving
 The old Lakota were wise. They knew that man's heart, away from nature, becomes hard; they knew that lack of respect for growing, living things soon led to lack of respect for humans too.
 
 *Luther Standing Bear*
+
+<!--
+WR-ID: WR-KW-017
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Natural Wilderness Is a Factor for World Stability]
+VERIFIED_AUTHOR: Sir Frank Fraser Darling
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Wilderness and Plenty: The 1969 Reith Lectures, fourth lecture
+SOURCE: research/verification-log.md#wr-kw-017---natural-wilderness-is-a-factor-for-world-stability
+EDITION_NOTE: Separates and restores the two source clauses that the booklet joined into a condensed sentence.
+-->
+
+## [Natural Wilderness Is a Factor for World Stability]
+
+*Abridged composite of two statements from the fourth Wilderness and Plenty lecture.*
+
+Natural wilderness is a factor for world stability, not some remote place inimical to the human being.
+
+It is not remote or indifferent, but an active agent in maintaining a habitable world.
+
+*Sir Frank Fraser Darling*
+
+<!--
+WR-ID: WR-KW-018
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Remember What You Have Seen]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 34; also printed as the epigraph to Blue Highways (1982)
+SOURCE: research/verification-log.md#wr-kw-018---remember-what-you-have-seen
+EDITION_NOTE: The modern print history is documented, but no Navajo-language text, collector, ceremony, or earlier ethnographic source supports the booklet's "Navaho mantra" label.
+-->
+
+## [Remember What You Have Seen]
+
+*Four-line circulating verse; claimed cultural origin unresolved.*
+
+Then he was told:\
+Remember what you have seen,\
+Because everything forgotten\
+Returns to the circling winds.
+
+*Author and cultural origin unknown; labeled a “Navaho mantra” in the booklet*
+
+<!--
+WR-ID: WR-KW-019
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Many of Our Greatest American Thinkers]
+VERIFIED_AUTHOR: Robert Marshall
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Forest for Recreation," in A National Plan for American Forestry (U.S. Senate Document 12, 1933)
+SOURCE: research/verification-log.md#wr-kw-019---many-of-our-greatest-american-thinkers
+EDITION_NOTE: Restores the source's parenthetical punctuation and the author's full name.
+-->
+
+## [Many of Our Greatest American Thinkers]
+
+*Complete sentence from “The Forest for Recreation.”*
+
+Many of our greatest American thinkers—men of the caliber of Thomas Jefferson, Henry Thoreau, Mark Twain, William James, and John Muir—have found the forest an effective stimulus to original thought.
+
+*Robert Marshall*
+
+<!--
+WR-ID: WR-KW-020
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Come Forth into the Light of Things]
+VERIFIED_AUTHOR: William Wordsworth
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Tables Turned," stanza 4, in Lyrical Ballads (1798)
+SOURCE: research/verification-log.md#wr-kw-020---come-forth-into-the-light-of-things
+EDITION_NOTE: Restores the source's two-line presentation, comma, and capitalization of "Nature."
+-->
+
+## [Come Forth into the Light of Things]
+
+*Two-line excerpt from “The Tables Turned.”*
+
+Come forth into the light of things,\
+Let Nature be your teacher.
+
+*William Wordsworth*
