@@ -1905,3 +1905,120 @@ EDITION_NOTE: Corrects the booklet's "Olsen" attribution and "matte of simplicit
 *[Text omitted pending permission from the rights holder.]*
 
 *Sigurd F. Olson*
+
+<!-- Original Booklet Page 43 -->
+
+<!--
+WR-ID: WR-KW-089
+PAGE: 43
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [How Often We Speak of the Great Silences]
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Great Silences," in Reflections from the North Country (1976)
+SOURCE: research/verification-log.md#wr-kw-089---how-often-we-speak-of-the-great-silences
+EDITION_NOTE: Corrects the booklet's "Olsen," "wonder of peace," and lowercased regional names. The complete protected passage is not reproduced without permission.
+-->
+
+## [How Often We Speak of the Great Silences]
+
+*Complete passage from "The Great Silences"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Sigurd F. Olson*
+
+<!--
+WR-ID: WR-KW-090
+PAGE: 43
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: On Friendship
+VERIFIED_AUTHOR: Kahlil Gibran
+WORK_SCOPE: Complete; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Prophet (1923), "On Friendship"
+SOURCE: research/verification-log.md#wr-kw-090---speak-to-us-of-friendship
+EDITION_NOTE: Restores the complete chapter wording, including "with love," "aught," possessive "its," and the omitted transition from "hours to kill" to "hours to live."
+-->
+
+## On Friendship
+
+*Complete chapter from The Prophet.*
+
+And a youth said, Speak to us of Friendship.\
+And he answered, saying:
+
+Your friend is your needs answered.\
+He is your field which you sow with love and reap with thanksgiving.\
+And he is your board and your fireside.\
+For you come to him with your hunger, and you seek him for peace.
+
+When your friend speaks his mind you fear not the “nay” in your own mind, nor do you withhold the “ay.”\
+And when he is silent your heart ceases not to listen to his heart;\
+For without words, in friendship, all thoughts, all desires, all expectations are born and shared, with joy that is unacclaimed.\
+When you part from your friend, you grieve not;\
+For that which you love most in him may be clearer in his absence, as the mountain to the climber is clearer from the plain.\
+And let there be no purpose in friendship save the deepening of the spirit.\
+For love that seeks aught but the disclosure of its own mystery is not love but a net cast forth: and only the unprofitable is caught.
+
+And let your best be for your friend.\
+If he must know the ebb of your tide, let him know its flood also.\
+For what is your friend that you should seek him with hours to kill?\
+Seek him always with hours to live.\
+For it is his to fill your need, but not your emptiness.\
+And in the sweetness of friendship let there be laughter, and sharing of pleasures.\
+For in the dew of little things the heart finds its morning and is refreshed.
+
+*Kahlil Gibran*
+
+<!--
+WR-ID: WR-KW-091
+PAGE: 43
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Keep Your Mouth Closed]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Tao Te Ching, chapter 56, translated by Gia-Fu Feng and Jane English (1972)
+SOURCE: research/verification-log.md#wr-kw-091---keep-your-mouth-closed
+EDITION_NOTE: Restores the source and named translators for the middle seven lines of chapter 56; the chapter's closing four lines remain separately bounded as WR-KW-082.
+-->
+
+## [Keep Your Mouth Closed]
+
+*Middle seven lines of Tao Te Ching, chapter 56.*
+
+Keep your mouth closed.\
+Guard your senses.\
+Temper your sharpness.\
+Simplify your problems.\
+Mask your brightness.\
+Be at one with the dust of the earth.\
+This is primal union.
+
+*Laozi; translated by Gia-Fu Feng and Jane English*
+
+<!--
+WR-ID: WR-KW-092
+PAGE: 43
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: A Farewell to Secretary Shu-yun
+VERIFIED_AUTHOR: Li Bai (Li Po)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Jade Mountain (1929), Witter Bynner and Kiang Kang-hu translation
+SOURCE: research/verification-log.md#wr-kw-092---since-water-still-flows
+EDITION_NOTE: Restores plural sorrows, fishing-boat, the poem title, and translator credits within the closing-four-line boundary.
+-->
+
+## A Farewell to Secretary Shu-yun
+
+*Closing four lines.*
+
+Since water still flows, though we cut it with swords,<br>
+And sorrows return, though we drown them with wine,<br>
+Since the world can in no way answer to our craving,<br>
+I will loosen my hair tomorrow and take to a fishing-boat.
+
+*Li Bai (Li Po); translated by Witter Bynner and Kiang Kang-hu*
