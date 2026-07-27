@@ -444,3 +444,89 @@ Come forth into the light of things,\
 Let Nature be your teacher.
 
 *William Wordsworth*
+
+<!--
+WR-ID: WR-KW-021
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Society Speaks and All Men Listen]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 34
+SOURCE: research/verification-log.md#wr-kw-021---society-speaks-and-all-men-listen
+EDITION_NOTE: No occurrence was found in Muir's books, journals, letters, or biographies; the modern maxim's original author remains unknown.
+-->
+
+## [Society Speaks and All Men Listen]
+
+*Complete modern maxim; attribution unresolved.*
+
+Society speaks and all men listen; mountains speak and wise men listen.
+
+*Author unknown; attributed in the booklet to John Muir*
+
+<!--
+WR-ID: WR-KW-022
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Observe All of the Light]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 34; compared across translations of Tao Te Ching, chapter 28
+SOURCE: research/verification-log.md#wr-kw-022---observe-all-of-the-light
+EDITION_NOTE: The wording is a loose modern paraphrase of chapter 28, and no matching translation was located. The booklet mistakenly treats the Tao Te Ching title as an author.
+-->
+
+## [Observe All of the Light]
+
+*Loose modern adaptation of a thought from the Tao Te Ching, chapter 28.*
+
+Observe all of the light that surrounds you; but, you remember the dark that is there.
+
+*Laozi (traditional attribution)*
+
+<!-- Original Booklet Page 35 -->
+
+<!--
+WR-ID: WR-KW-023
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Only Went Out for a Walk]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: John of the Mountains: The Unpublished Journals of John Muir (1938), page 439
+SOURCE: research/verification-log.md#wr-kw-023---i-only-went-out-for-a-walk
+EDITION_NOTE: Restores the published journal's "till sundown" while preserving the complete one-sentence entry.
+-->
+
+## [I Only Went Out for a Walk]
+
+*Complete journal sentence, commonly dated 1913.*
+
+I only went out for a walk, and finally concluded to stay out till sundown; for going out, I found, was really going in.
+
+*John Muir*
+
+<!--
+WR-ID: WR-KW-024
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [To Allow Mystery]
+VERIFIED_AUTHOR: Barry Lopez
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Of Wolves and Men (1978)
+SOURCE: research/verification-log.md#wr-kw-024---to-allow-mystery
+EDITION_NOTE: Restores the source punctuation while preserving the booklet's truncation after "knowledge"; the following sentence remains outside the selection.
+-->
+
+## [To Allow Mystery]
+
+*Abridged excerpt from Of Wolves and Men.*
+
+To allow mystery, which is to say to yourself, there could be more, there could be things we don't understand, is not to damn knowledge.
+
+*Barry Lopez*

@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-024, rejecting a false Muir attribution, identifying a Tao Te Ching adaptation, and restoring the Muir journal and Lopez excerpts.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-020, separating Darling's composite, qualifying an unsupported Navajo attribution, and restoring Marshall and Wordsworth.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-016, disentangling Muir's composite, restoring Palmer and Reynolds, and correcting Standing Bear's plural wording.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-012, qualifying White and Phillips provenance, preserving Augustine's clause boundary, and correcting B. David Polis's name.
