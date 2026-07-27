@@ -931,3 +931,92 @@ EDITION_NOTE: Restores Chittenden's full name while preserving the verified one-
 Ordinarily the demands of utility are imperative and scenic beauty where it stands in the way must yield.
 
 *Hiram Martin Chittenden*
+
+<!--
+WR-ID: WR-B-041
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [There Can Be No Greater Moral Obligation]
+VERIFIED_AUTHOR: Frank Fraser Darling
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Future Environments of Man," BBC Reith Lectures (1969), lecture 6
+SOURCE: research/verification-log.md#wr-b-041---there-can-be-no-greater-moral-obligation
+EDITION_NOTE: Removes the booklet's inserted phrase "in the environmental field" and preserves the source's closing-page sentence boundary.
+-->
+
+## [There Can Be No Greater Moral Obligation]
+
+*Closing-page sentence from the final lecture in Wilderness and Plenty.*
+
+There can be no greater moral obligation than to ease out the living space and replace dereliction by beauty.
+
+*Frank Fraser Darling*
+
+<!--
+WR-ID: WR-B-042
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [For Oft When on My Couch I Lie]
+VERIFIED_AUTHOR: William Wordsworth
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Final stanza of "I Wandered Lonely as a Cloud," 1815 text
+SOURCE: research/verification-log.md#wr-b-042---for-oft-when-on-my-couch-i-lie
+EDITION_NOTE: Restores the 1815 stanza's punctuation and capitalization of "Daffodils" while preserving the six-line final-stanza boundary.
+-->
+
+## [For Oft When on My Couch I Lie]
+
+*Final stanza of "I Wandered Lonely as a Cloud."*
+
+For oft when on my couch I lie\
+In vacant or in pensive mood,\
+They flash upon that inward eye\
+Which is the bliss of solitude,\
+And then my heart with pleasure fills,\
+And dances with the Daffodils.
+
+*William Wordsworth*
+
+<!--
+WR-ID: WR-B-043
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [Oh, These Vast, Calm, Measureless Mountain Days]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry for June 23, 1869, in My First Summer in the Sierra (1911)
+SOURCE: research/verification-log.md#wr-b-043---o-these-vast-calm-measureless-mountain-days
+EDITION_NOTE: Restores "Oh," the source punctuation, and "inciting at once to work and rest" while preserving the first two sentences and stopping before "Nevermore."
+-->
+
+## [Oh, These Vast, Calm, Measureless Mountain Days]
+
+*First two sentences of Muir's June 23, 1869 journal entry.*
+
+Oh, these vast, calm, measureless mountain days, inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-044
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [Thus It Appears That Everything Here Is Marching to Music]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Yosemite notebook, circa 1887, page 76
+SOURCE: research/verification-log.md#wr-b-044---thus-it-appears-that-everything-here-is-marching-to-music
+EDITION_NOTE: Restores the notebook's ampersands and marks the booklet endpoint before Muir's sentence continues with a qualification about harmonies beyond human powers.
+-->
+
+## [Thus It Appears That Everything Here Is Marching to Music]
+
+*Opening portion of a longer notebook sentence.*
+
+Thus it appears that everything here is marching to music & the harmonies are all so simple & young they are easily apprehended by those who will keep still & listen & look. . . .
+
+*John Muir*
