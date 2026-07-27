@@ -1405,3 +1405,89 @@ EDITION_NOTE: Retains the short saying but removes the unsupported claim that it
 Holy Mother Earth, the trees and all nature, are witnesses of your thoughts and deeds.
 
 *Anonymous circulating saying; cultural attribution unresolved*
+
+<!--
+WR-ID: WR-W-065
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: Isaiah 5:8
+VERIFIED_AUTHOR: Book of Isaiah
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: King James Version (1611)
+SOURCE: research/verification-log.md#wr-w-065---isaiah-58
+EDITION_NOTE: Corrects the booklet's "Isiah" to Isaiah and restores "placed alone" in place of the corrupted "placed also."
+-->
+
+## Isaiah 5:8
+
+Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!
+
+*Isaiah 5:8, King James Version*
+
+<!-- Original Booklet Page 75 -->
+
+<!--
+WR-ID: WR-W-066
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: The Pasture
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: North of Boston (1914)
+SOURCE: research/verification-log.md#wr-w-066---the-pasture
+EDITION_NOTE: Restores Frost's colon after the parenthetical line, the spelling "sha'n't," the em-dash sentence break, and the two-stanza structure.
+-->
+
+## The Pasture
+
+I'm going out to clean the pasture spring;\
+I'll only stop to rake the leaves away\
+(And wait to watch the water clear, I may):\
+I sha'n't be gone long.—You come too.
+
+I'm going out to fetch the little calf\
+That's standing by the mother. It's so young,\
+It totters when she licks it with her tongue.\
+I sha'n't be gone long.—You come too.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-067
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [Science Has Never Drummed Up]
+VERIFIED_AUTHOR: W. Earl Hall (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Later attributed quotation witnesses; no original column, broadcast, or speech located
+SOURCE: research/verification-log.md#wr-w-067---science-has-never-drummed-up
+EDITION_NOTE: Retains the short epigram while qualifying the Hall attribution and documenting the missing original context.
+-->
+
+## [Science Has Never Drummed Up]
+
+Science has never drummed up quite as effective a tranquilizing agent as a sunny spring day.
+
+*Attributed to W. Earl Hall; original source not located*
+
+<!--
+WR-ID: WR-W-068
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [My Heart Is Tuned to the Quietness]
+VERIFIED_AUTHOR: Hazrat Inayat Khan
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Nature Meditations; original lecture or first publication not identified
+SOURCE: research/verification-log.md#wr-w-068---my-heart-is-tuned-to-the-quietness
+EDITION_NOTE: Retains the short collection-verified sentence while explicitly recording that its original lecture or first publication remains unidentified.
+-->
+
+## [My Heart Is Tuned to the Quietness]
+
+My heart is tuned to the quietness that the stillness of nature inspires.
+
+*Hazrat Inayat Khan*

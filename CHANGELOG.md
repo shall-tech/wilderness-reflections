@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-068 by correcting Isaiah and Frost while retaining two short, explicitly source-limited statements.
 - Extended the source-corrected Wilderness edition through WR-W-064 by qualifying Strand and the unidentified Indigenous statement, restoring Pinchot, and removing an unsupported Ho-Chunk attribution.
 - Extended the source-corrected Wilderness edition through WR-W-060 by correcting Thoreau, fully restoring Frost and Muir, and marking Longfellow's omitted lines.
 - Extended the source-corrected Wilderness edition through WR-W-056 by withholding the anonymous environment statement, retaining Little, restoring Cooper, and relabeling the Lincoln sentence as a modern paraphrase.
