@@ -1663,3 +1663,88 @@ EDITION_NOTE: Restores Whitman's spelling "self-contain'd" while preserving the 
 I think I could turn and live with the animals, they are so placid and self-contain'd.
 
 *Walt Whitman*
+
+<!--
+WR-ID: WR-L-069
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [Cowards Die Many Times Before Their Deaths]
+VERIFIED_AUTHOR: William Shakespeare
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Julius Caesar, act 2, scene 2, First Folio text (1623)
+SOURCE: research/verification-log.md#wr-l-069---a-coward-dies-a-thousand-deaths
+EDITION_NOTE: Replaces the later proverbial paraphrase with the two Shakespeare lines that underlie it.
+-->
+
+## [Cowards Die Many Times Before Their Deaths]
+
+*Two-line excerpt from Julius Caesar, act 2, scene 2.*
+
+Cowards die many times before their deaths;\
+The valiant never taste of death but once.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-L-070
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [Love Your Life]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 20
+SOURCE: research/verification-log.md#wr-l-070---love-your-life
+EDITION_NOTE: The passage adapts part of a modern speech attributed to Tecumseh and adds phrases absent from common witnesses. No contemporary Shawnee-language or documentary source supports the claimed cultural attribution.
+-->
+
+## [Love Your Life]
+
+*Adapted excerpt from a modern circulating speech; cultural attribution unresolved.*
+
+Love your life, perfect your life, beautify all things in life; glory in your strength and beauty. Rejoice in the fullness of your aliveness. Seek to make your life long and full of service to others, to your people. And prepare a noble Death Song for the day when you are about to cross the Great Divide.
+
+*Author and cultural origin unknown; labeled “The Twelfth Commandment of the Redman” in the booklet*
+
+<!--
+WR-ID: WR-L-071
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [Acceptance Is the Art of Making the Obstacle the Path]
+VERIFIED_AUTHOR: China Galland (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 20; compared with later circulating witnesses
+SOURCE: research/verification-log.md#wr-l-071---acceptance-is-the-art-of-making-the-obstacle-the-path
+EDITION_NOTE: Later witnesses consistently attribute the passage to Galland, but no original book, essay, or publication date was located.
+-->
+
+## [Acceptance Is the Art of Making the Obstacle the Path]
+
+*Complete circulating quotation; original publication unidentified.*
+
+Acceptance is the art of making the obstacle the path. Therefore, embrace the enemy. This is the lesson of the river guide; face the danger, move toward it, that is where the current is the strongest, and it will carry you around the obstacle. Use it.
+
+*China Galland (as circulated)*
+
+<!--
+WR-ID: WR-L-072
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [The Preservationist Is Not an Elitist]
+VERIFIED_AUTHOR: Joseph L. Sax
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Mountains Without Handrails: Reflections on the National Parks (1980)
+SOURCE: research/verification-log.md#wr-l-072---the-preservationist-is-not-an-elitist
+EDITION_NOTE: The checked source supports the booklet wording and context; the selection is retained as a limited excerpt.
+-->
+
+## [The Preservationist Is Not an Elitist]
+
+*Two-sentence excerpt from Mountains Without Handrails.*
+
+The preservationist is not an elitist who wants to exclude others, notwithstanding popular opinion to the contrary; he is a moralist who wants to convert them. He is concerned about what other people do in the parks not because he is unaware of the diversity of taste in the society, but because he views certain kinds of activity as calculated to undermine the attitudes he believes the park can, and should, encourage.
+
+*Joseph L. Sax*
