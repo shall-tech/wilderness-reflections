@@ -1231,3 +1231,87 @@ The nation behaves well if it treats its natural resources as assets which it mu
 Conservation means development as much as it does protection.
 
 *Theodore Roosevelt*
+
+<!--
+WR-ID: WR-L-049
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [In This Age]
+VERIFIED_AUTHOR: Thomas Cole
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Essay on American Scenery," American Monthly Magazine (January 1836)
+SOURCE: https://thomascole.org/wp-content/uploads/Essay-on-American-Scenery.pdf
+EDITION_NOTE: Corrects the booklet's essay title, restores "all" before "be crushed," and restores "preserve" in the final clause.
+-->
+
+## [In This Age]
+
+*One-sentence excerpt from “Essay on American Scenery.”*
+
+In this age, when a meager utilitarianism seems ready to absorb every feeling and sentiment, and what is sometimes called improvement in its march makes us fear that the bright and tender flowers of the imagination shall all be crushed beneath its iron tramp, it would be well to cultivate the oasis that yet remains to us, and thus preserve the germs of a future and purer system.
+
+*Thomas Cole*
+
+<!--
+WR-ID: WR-L-050
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [Where We Begin and Where We Finish]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18
+SOURCE: research/verification-log.md#wr-l-050---where-we-begin-and-where-we-finish
+EDITION_NOTE: No reliable evidence identifies "Hung Tsu" or connects this wording to a classical Chinese source.
+-->
+
+## [Where We Begin and Where We Finish]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Where we begin and where we finish are little more than reference points. What truly matters is what happens between them.
+
+*Author unknown; attributed in the booklet to Hung Tsu*
+
+<!--
+WR-ID: WR-L-051
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [The Reeds Know What the Wind Does Not]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18
+SOURCE: research/verification-log.md#wr-l-051---the-reeds-know-what-the-wind-does-not
+EDITION_NOTE: No reliable source or author was located. A colon supplies punctuation apparently omitted after "does not" in the booklet.
+-->
+
+## [The Reeds Know What the Wind Does Not]
+
+*Complete circulating maxim; attribution unresolved.*
+
+The reeds know what the wind does not: the power to endure harm outlives the power to inflict it.
+
+*Author unknown; attributed in the booklet to Faung Tse*
+
+<!--
+WR-ID: WR-L-052
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [The Unknown Is Not to Be Avoided]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18
+SOURCE: research/verification-log.md#wr-l-052---the-unknown-is-not-to-be-avoided
+EDITION_NOTE: A Philmont Ranger Fieldbook gives a nearly identical version under Marinaccio's name but reads "Fear should not be handled the same way," reversing the booklet's sense; no primary publication was located.
+-->
+
+## [The Unknown Is Not to Be Avoided]
+
+*Complete Philmont-circulated quotation; source and attribution unresolved.*
+
+The unknown is not to be avoided, it is to be examined, understood, and accepted. Fear should be handled the same way.
+
+*Author unknown; attributed in the booklet to Dave Marinaccio*

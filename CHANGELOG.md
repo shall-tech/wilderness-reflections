@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-052, restoring Cole's source wording and documenting three unresolved circulating attributions without endorsing them.
 - Extended the source-corrected Life edition through WR-L-048, restoring Keller and Frost, retaining the unresolved Tuscan proverb wording, and identifying Roosevelt's selection as a four-statement memorial composite.
 - Extended the source-corrected Life edition through WR-L-044, separating the Melville composite, retaining two unresolved sayings, restoring Tolkien's wording, and repairing the edited file's WR-ID and page order.
 - Recorded the first field edition's 5.5 × 8.5-inch coil-bound print specification, weather-protection choices, production checks, and August 5 books-in-hand target.
