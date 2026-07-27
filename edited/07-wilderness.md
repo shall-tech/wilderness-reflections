@@ -191,3 +191,87 @@ EDITION_NOTE: Corrects the booklet's surname "Merrian" to Merriam but keeps the 
 *[Text omitted pending primary-source identification and permission from the rights holder.]*
 
 *Eve Merriam (attribution provisional)*
+
+<!--
+WR-ID: WR-W-009
+PAGE: 68
+SECTION: Wilderness
+VERIFIED_TITLE: [I Have Been Told with Some Regularity]
+VERIFIED_AUTHOR: Colin Fletcher
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Complete Walker (1968), with later revised-edition comparison
+SOURCE: research/verification-log.md#wr-w-009---i-have-been-told-with-some-regularity
+EDITION_NOTE: Identifies the paragraph and documents edition-dependent variants including "question" or "statement," Boeing 707 or 747, and the pelican phrase. The substantial protected passage is not reproduced.
+-->
+
+## [I Have Been Told with Some Regularity]
+
+*Paragraph from The Complete Walker; text not reproduced.*
+
+*[Text omitted pending selection and permission for a specific edition.]*
+
+*Colin Fletcher*
+
+<!--
+WR-ID: WR-W-010
+PAGE: 68
+SECTION: Wilderness
+VERIFIED_TITLE: A Mountain Brook
+VERIFIED_AUTHOR: Ch'u Kuang-hsi (Chu Guangxi); translated by Kenneth Rexroth
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: One Hundred Poems from the Chinese (1956), translated by Kenneth Rexroth
+SOURCE: research/verification-log.md#wr-w-010---there-is-a-brook-in-the-mountains
+EDITION_NOTE: Restores the poem's title, poet's name, and translator credit. The complete protected English translation is not reproduced.
+-->
+
+## A Mountain Brook
+
+*Complete Kenneth Rexroth translation; text not reproduced.*
+
+*[Text omitted pending permission from the translation rights holder.]*
+
+*Ch'u Kuang-hsi (Chu Guangxi); translated by Kenneth Rexroth*
+
+<!--
+WR-ID: WR-W-011
+PAGE: 68
+SECTION: Wilderness
+VERIFIED_TITLE: [The Control of Nature]
+VERIFIED_AUTHOR: Rachel Carson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Silent Spring (1962), chapter 17, "The Other Road"
+SOURCE: research/verification-log.md#wr-w-011---the-control-of-nature
+EDITION_NOTE: Retains the booklet's source-verified opening sentence and preserves its boundary before Carson's following discussion.
+-->
+
+## [The Control of Nature]
+
+*Opening sentence of the concluding argument in "The Other Road."*
+
+The control of nature is a phrase conceived in arrogance, born of the Neanderthal age of biology and philosophy, when it was supposed that nature exists for the convenience of man.
+
+*Rachel Carson*
+
+<!--
+WR-ID: WR-W-012
+PAGE: 68
+SECTION: Wilderness
+VERIFIED_TITLE: [That Wonderful World of High Mountains]
+VERIFIED_AUTHOR: Lucien Devies; translated by Nea Morin and Janet Adam Smith
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Preface to Maurice Herzog's Annapurna, English edition (1952), p. x, translated by Nea Morin and Janet Adam Smith
+SOURCE: research/verification-log.md#wr-w-012---that-wonderful-world-of-high-mountains
+EDITION_NOTE: Retains the three source-verified sentences, preserves their excerpt boundary, and supplies the English translators omitted by the booklet.
+-->
+
+## [That Wonderful World of High Mountains]
+
+*Three sentences from the English translation of Devies's preface to Annapurna.*
+
+That wonderful world of high mountains, dazzling in their rock and ice, acts as a catalyst. It suggests the infinite but it is not the infinite. The heights only give us what we ourselves bring them.
+
+*Lucien Devies; translated by Nea Morin and Janet Adam Smith*

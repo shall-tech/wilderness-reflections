@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-012 by withholding Fletcher and Rexroth while retaining the short, verified Carson and Devies excerpts with explicit boundaries.
 - Extended the source-corrected Wilderness edition through WR-W-008 by restoring Cather, Le Gallienne, and Beston while withholding the substantial unresolved Merriam passage.
 - Started the source-corrected Wilderness edition through WR-W-004, withholding Nichols and Hammarskjöld while restoring Zahniser and Carhart.
 - Completed the source-corrected Beauty edition through WR-B-058 by restoring Jefferies and identifying the protected Black Elk passage without reproducing it.
