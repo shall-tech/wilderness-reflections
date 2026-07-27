@@ -40,6 +40,7 @@
 - Life entries WR-L-001 through WR-L-085 are complete in the edited edition.
 - Leadership entries WR-LE-001 through WR-LE-025 are complete in the edited edition.
 - Knowledge and Wisdom entries WR-KW-001 through WR-KW-108 are complete in the edited edition; the section is complete.
+- Scouting and Adventures entries WR-SA-001 through WR-SA-004 are complete in the edited edition.
 - Excerpt boundaries are preserved; translation witnesses and rights-related source-text limitations are stated explicitly.
 
 ## Source
