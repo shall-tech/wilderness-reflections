@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-036, qualifying Stamp and Phillips while withholding complete Fine and substantial Leopold selections.
 - Extended the source-corrected Beauty edition through WR-B-032, restoring McLuhan, preserving Jeffers's partial boundary, qualifying Hummel, and withholding Moffitt's complete poem.
 - Extended the source-corrected Beauty edition through WR-B-028, restoring Thoreau and Beecher while qualifying Ruskin and an unresolved Zen saying.
 - Extended the source-corrected Beauty edition through WR-B-024, restoring Alcott and Muir while withholding complete Snyder and substantial Eiseley selections.

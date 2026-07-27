@@ -761,3 +761,87 @@ EDITION_NOTE: Restores the verified title in metadata and documents the booklet'
 *[Text omitted pending permission from the rights holder.]*
 
 *John Moffitt*
+
+<!--
+WR-ID: WR-B-033
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: [Indifference to the Aesthetic]
+VERIFIED_AUTHOR: Josiah Stamp (attribution unverified)
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 60; compared with later attributed witnesses
+SOURCE: research/verification-log.md#wr-b-033---indifference-to-the-aesthetic
+EDITION_NOTE: Retains the booklet's two-part abbreviated sentence and qualifies the attribution because no originating speech or publication was located.
+-->
+
+## [Indifference to the Aesthetic]
+
+*Abbreviated sentence of unresolved provenance.*
+
+Indifference to the aesthetic will in the long run lessen the economic product. . . . attention to the aesthetic will increase economic welfare.
+
+*Attributed to Josiah Stamp*
+
+<!--
+WR-ID: WR-B-034
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: [To See Is One of God's Great Gifts]
+VERIFIED_AUTHOR: Waite Phillips (collection attribution)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 60; collected in Waite Phillips: A Compilation of Epigrams, Photos & More (2018)
+SOURCE: research/verification-log.md#wr-b-034---to-see-is-one-of-gods-great-gifts
+EDITION_NOTE: Retains the complete epigram because the later family compilation matches the booklet, while qualifying authorship because that compilation contains sayings both collected and created by Phillips.
+-->
+
+## [To See Is One of God's Great Gifts]
+
+*Complete epigram with verified collection provenance.*
+
+To see is one of God's great gifts to man and to comprehend what we see is doubly so. Furthermore, He has endowed some people with the qualities to see the beauties of life and nature much more than others and they have the greatest gift of all.
+
+*Collected under the name of Waite Phillips*
+
+<!--
+WR-ID: WR-B-035
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: [So Much for Me Here]
+VERIFIED_AUTHOR: Julie Fine (attribution unverified)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 60
+SOURCE: research/verification-log.md#wr-b-035---so-much-for-me-here
+EDITION_NOTE: No independent publication, biographical source, or comparison witness was located. The complete potentially protected poem is not duplicated.
+-->
+
+## [So Much for Me Here]
+
+*Complete poem of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Julie Fine (as attributed in the booklet)*
+
+<!--
+WR-ID: WR-B-036
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: [Our Ability to Perceive Quality in Nature]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Marshland Elegy," in A Sand County Almanac and Sketches Here and There (1949)
+SOURCE: research/verification-log.md#wr-b-036---our-ability-to-perceive-quality-in-nature
+EDITION_NOTE: Identifies the three consecutive sentences and confirms that the booklet wording matches the collected passage. The substantial protected excerpt is not reproduced.
+-->
+
+## [Our Ability to Perceive Quality in Nature]
+
+*Three consecutive sentences from "Marshland Elegy"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*
