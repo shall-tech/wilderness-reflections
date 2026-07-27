@@ -954,3 +954,89 @@ EDITION_NOTE: The sentence circulates under Schaller's name, but no original wor
 A ruin is not just something that happened long ago to someone else; its history is that of us all, the transience of power, of ideas, of all human endeavors.
 
 *George B. Schaller (as circulated)*
+
+<!-- Original Booklet Page 37 -->
+
+<!--
+WR-ID: WR-KW-045
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Perspective - Use It or Lose It]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977), Messiah's Handbook passage
+SOURCE: research/verification-log.md#wr-kw-045---perspective---use-it-or-lose-it
+EDITION_NOTE: The booklet omits "that" after "you're forgetting." Because this is a substantial copyrighted handbook passage, replacement source text is not reproduced without permission.
+-->
+
+## [Perspective - Use It or Lose It]
+
+*Substantial Messiah's Handbook passage from Illusions; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-KW-046
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Simplest Questions]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977), Messiah's Handbook passage
+SOURCE: research/verification-log.md#wr-kw-046---the-simplest-questions
+EDITION_NOTE: Corrects the booklet's "Where were your born?" to "Where were you born?" and restores the source punctuation in this limited excerpt.
+-->
+
+## [The Simplest Questions]
+
+*Messiah's Handbook passage from Illusions.*
+
+The simplest questions are the most profound. Where were you born? Where is your home? Where are you going? What are you doing? Think about these once in a while, and watch your answers change.
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-KW-047
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Old People Came Literally to Love the Soil]
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Land of the Spotted Eagle (1933), page 192 in the 2006 University of Nebraska Press edition
+SOURCE: research/verification-log.md#wr-kw-047---the-old-people-came-literally-to-love-the-soil
+EDITION_NOTE: The source uses "tipis" and "flew in the air." Because the 1933 United States publication may remain protected, replacement source text is not reproduced.
+-->
+
+## [The Old People Came Literally to Love the Soil]
+
+*Paragraph excerpt from Land of the Spotted Eagle; source text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Luther Standing Bear*
+
+<!--
+WR-ID: WR-KW-048
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The White Man Does Not Understand the Indian]
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Land of the Spotted Eagle (1933)
+SOURCE: research/verification-log.md#wr-kw-048---the-white-man-does-not-understand-the-indian
+EDITION_NOTE: The booklet changes "this frontier continent" to "his frontier continent," "fastnesses" to "vastness," and the plural possessive "forefathers' bones" to a singular possessive. The substantial replacement text is not reproduced because the work may remain protected.
+-->
+
+## [The White Man Does Not Understand the Indian]
+
+*Extended excerpt from Land of the Spotted Eagle; source text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Luther Standing Bear*

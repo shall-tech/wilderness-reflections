@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-048, correcting Bach's short passage and withholding substantial Bach and Standing Bear replacement text pending permission.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-044, identifying Duffy, restoring Thackeray, retaining an unidentified Camus translation, and qualifying the Schaller attribution.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-040, qualifying two anonymous sayings and restoring the Bernard and Spinoza excerpts.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-036, labeling the Guanzi adaptation, qualifying two transmitted attributions, and restoring Tatanga Mani's prose excerpt.
