@@ -2194,3 +2194,89 @@ EDITION_NOTE: The booklet combines noncontiguous protected passages and introduc
 *[Text omitted pending permission from the rights holder.]*
 
 *Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-101
+PAGE: 45
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [No Servant Brought Them Meals]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Flambeau," in A Sand County Almanac (1949)
+SOURCE: research/verification-log.md#wr-kw-101---no-servant-brought-them-meats
+EDITION_NOTE: Corrects "meats" to "meals," identifies an omitted intervening paragraph, and restores the quoted phrase "on their own" in the source record. The substantial protected passage is not reproduced.
+-->
+
+## [No Servant Brought Them Meals]
+
+*Selected passage from "Flambeau"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-102
+PAGE: 45
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Land, Then, Is Not Merely Soil]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Land Pyramid" in "The Land Ethic," A Sand County Almanac (1949)
+SOURCE: research/verification-log.md#wr-kw-102---land-then-is-not-merely-soil
+EDITION_NOTE: The booklet accurately reproduces one complete protected paragraph. It is identified but not duplicated in the source-corrected edition without permission.
+-->
+
+## [Land, Then, Is Not Merely Soil]
+
+*Complete paragraph from "The Land Pyramid"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-103
+PAGE: 45
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Universe Has Been Quite Literally Writing upon Humans]
+VERIFIED_AUTHOR: Joseph W. Meeker
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 45; compared with a 1992 Maine government report
+SOURCE: research/verification-log.md#wr-kw-103---the-universe-has-been-quite-literally-writing-upon-humans
+EDITION_NOTE: Restores the author's full name. The printed witness confirms the wording and longer-reflection context, but the original essay title and publication remain unidentified.
+-->
+
+## [The Universe Has Been Quite Literally Writing upon Humans]
+
+*Closing lines of a longer reflection; booklet wording retained.*
+
+The universe has been quite literally writing upon humans for many thousands of years, and our alphabets are among the trails that nature has carved in order to cross our minds. Wild lands have cut deeper trails in my life than I will ever be able to make in the forest.
+
+*Joseph W. Meeker*
+
+<!--
+WR-ID: WR-KW-104
+PAGE: 45
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [While My Companion Contemplated]
+VERIFIED_AUTHOR: Mary Wollstonecraft Shelley
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Frankenstein; or, The Modern Prometheus (1818), chapter 2
+SOURCE: research/verification-log.md#wr-kw-104---while-my-companion-contemplated
+EDITION_NOTE: Corrects the author's name and restores the article, omitted intervening sentence, "earnest research," and "as they were unfolded" within the selected start-to-end boundary.
+-->
+
+## [While My Companion Contemplated]
+
+*Passage from Frankenstein, chapter 2.*
+
+While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes. The world was to me a secret which I desired to divine. Curiosity, earnest research to learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest sensations I can remember.
+
+*Mary Wollstonecraft Shelley*
+
+<!-- Original Booklet Page 46 -->
