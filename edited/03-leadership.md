@@ -355,3 +355,87 @@ EDITION_NOTE: No Patton speech, letter, diary, book, or contemporaneous witness 
 Guts is that determination that will not be denied.
 
 *Author unknown; attributed in the booklet to George S. Patton Jr.*
+
+<!--
+WR-ID: WR-LE-017
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Freedom Without Discipline]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28
+SOURCE: research/verification-log.md#wr-le-017---freedom-without-discipline
+EDITION_NOTE: No identifiable Don Hummel, publication, speech, or independent witness was located; related formulations do not establish the attribution.
+-->
+
+## [Freedom Without Discipline]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Freedom without discipline is anarchy, and anarchy is slavery.
+
+*Author unknown; attributed in the booklet to Fr. Don Hummel*
+
+<!--
+WR-ID: WR-LE-018
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Ecological Sanity and Social Justice]
+VERIFIED_AUTHOR: José Lutzenberger
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Brazil's Amazonian Alliance," The Ecologist 17, nos. 4/5 (1987)
+SOURCE: research/verification-log.md#wr-le-018---ecological-sanity-and-social-justice
+EDITION_NOTE: Replaces the booklet's "two faces of the same coin" restatement with Lutzenberger's source sentence.
+-->
+
+## [Ecological Sanity and Social Justice]
+
+*One-sentence excerpt from “Brazil's Amazonian Alliance.”*
+
+Ecological sanity and social justice always go together.
+
+*José Lutzenberger*
+
+<!--
+WR-ID: WR-LE-019
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [People Need a Model]
+VERIFIED_AUTHOR: Marion Stoddart (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28; compared with later environmental compilations
+SOURCE: research/verification-log.md#wr-le-019---people-need-a-model
+EDITION_NOTE: Multiple later witnesses reproduce the exact statement under Stoddart's name, but no original interview, speech, or publication was located.
+-->
+
+## [People Need a Model]
+
+*Complete circulating statement; original occasion unidentified.*
+
+People need a model. If they can see a place become beautiful, they're inspired to act.
+
+*Marion Stoddart (as circulated)*
+
+<!--
+WR-ID: WR-LE-020
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [The Quality of a Person's Life]
+VERIFIED_AUTHOR: Vince Lombardi (as circulated)
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28; compared with the standard fuller circulating form
+SOURCE: research/verification-log.md#wr-le-020---the-quality-of-a-persons-life
+EDITION_NOTE: The booklet stops before "regardless of their chosen field of endeavor." No contemporaneous Lombardi speech or writing was located, so the shorter selected wording is retained.
+-->
+
+## [The Quality of a Person's Life]
+
+*Abridged circulating statement; original occasion unidentified.*
+
+The quality of a person's life is in direct proportion to their commitment to excellence.
+
+*Vince Lombardi (as circulated)*
