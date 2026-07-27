@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed the source-corrected Beauty edition through WR-B-058 by restoring Jefferies and identifying the protected Black Elk passage without reproducing it.
 - Extended the source-corrected Beauty edition through WR-B-056 by correcting the Psalm range and Buffon attribution while withholding three unidentified translated or adapted texts.
 - Extended the source-corrected Beauty edition through WR-B-052 by separating Muir's letter composite, restoring Muir and Hudson excerpts, and withholding the unresolved Sive quotation.
 - Extended the source-corrected Beauty edition through WR-B-048 by restoring four Muir selections on original page 62 with their verified source boundaries.

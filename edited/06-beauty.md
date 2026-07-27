@@ -1282,3 +1282,49 @@ EDITION_NOTE: Documents the booklet's missing "be" in the fourth line, but does 
 *[Text omitted pending identification of a named source and translation.]*
 
 *Commonly labeled a Chinese proverb*
+
+<!--
+WR-ID: WR-B-057
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [The Hours When the Mind Is Absorbed by Beauty]
+VERIFIED_AUTHOR: Richard Jefferies
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Pageant of Summer" (1883), collected in The Life of the Fields (1884)
+SOURCE: research/verification-log.md#wr-b-057---the-hours-when-the-mind-is-absorbed-by-beauty
+EDITION_NOTE: Restores "really live" while preserving the one-sentence endpoint before Jefferies continues, "All else is illusion, or mere endurance."
+-->
+
+## [The Hours When the Mind Is Absorbed by Beauty]
+
+*One-sentence excerpt from "The Pageant of Summer."*
+
+The hours when the mind is absorbed by beauty are the only hours when we really live.
+
+*Richard Jefferies*
+
+<!--
+WR-ID: WR-B-058
+PAGE: 63
+SECTION: Beauty
+VERIFIED_TITLE: [Then I Was Standing on the Highest Mountain]
+VERIFIED_AUTHOR: Nicholas Black Elk, as told through John G. Neihardt
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Great Vision," chapter 3 of Black Elk Speaks (1932)
+SOURCE: research/verification-log.md#wr-b-058---then-i-was-standing-on-the-highest-mountain
+EDITION_NOTE: Identifies the extended protected passage and documents the booklet's variants, including its corruption of "starlight" to "straight," without reproducing replacement source text.
+-->
+
+## [Then I Was Standing on the Highest Mountain]
+
+*Extended passage from "The Great Vision"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Nicholas Black Elk, as told through John G. Neihardt*
+
+<!-- Original Booklet Page 64 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->
