@@ -1864,3 +1864,89 @@ EDITION_NOTE: The booklet reproduces a substantial copyrighted passage with mate
 *[Text omitted pending identification of an authoritative licensed witness or permission from the rights holder.]*
 
 *Edward Abbey (as circulated)*
+
+<!-- Original Booklet Page 22 -->
+
+<!--
+WR-ID: WR-L-077
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [You May Not Ever Travel to Maine]
+VERIFIED_AUTHOR: Eric Ashby
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 22; compared with a later public-record witness
+SOURCE: research/verification-log.md#wr-l-077---you-may-not-ever-travel-to-maine
+EDITION_NOTE: The probable source is "What Price the Furbish Lousewort?" (1980), but the original article text was unavailable for direct comparison.
+-->
+
+## [You May Not Ever Travel to Maine]
+
+*Excerpt probably from “What Price the Furbish Lousewort?”*
+
+You may not ever travel to Maine to see the Furbish lousewort. But the weeds in any patch of natural vegetation issue the same challenge. We have survived, say the weeds, since the Cretaceous. Man is a mere novice in evolution compared with us. He hasn't yet learned the secret of the weeds: how to create fail-safe communities.
+
+*Eric Ashby*
+
+<!--
+WR-ID: WR-L-078
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [Up to a Point in a Man's Life]
+VERIFIED_AUTHOR: Louis L'Amour
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Walking Drum (1984)
+SOURCE: research/verification-log.md#wr-l-078---up-to-a-point-in-a-mans-life
+EDITION_NOTE: The booklet condenses and alters a substantial copyrighted passage. The work and author are identified, but replacement source text is not reproduced without permission.
+-->
+
+## [Up to a Point in a Man's Life]
+
+*Condensed excerpt from The Walking Drum; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Louis L'Amour*
+
+<!--
+WR-ID: WR-L-079
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [There Are No Idealists in the Plant World]
+VERIFIED_AUTHOR: Hal Borland (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 22; compared with later circulating witnesses
+SOURCE: research/verification-log.md#wr-l-079---there-are-no-idealists-in-the-plant-world
+EDITION_NOTE: Later witnesses consistently attribute the passage to Borland and close the compounds "fencerow" and "roothold," but no original column, book, or publication date was located.
+-->
+
+## [There Are No Idealists in the Plant World]
+
+*Complete circulating passage; original publication unidentified.*
+
+There are no idealists in the plant world and no compassion. The rose and the morning glory know no mercy. Bindweed, the morning glory, will quickly choke its competitors to death, and the fence row rose will just as quietly crowd out any other plant that tried to share its root hold. Idealism and mercy are human terms and human concepts.
+
+*Hal Borland (as circulated)*
+
+<!--
+WR-ID: WR-L-080
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [Until One Is Committed]
+VERIFIED_AUTHOR: William H. Murray
+WORK_SCOPE: Adapted; Composite; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Scottish Himalayan Expedition (1951), combined with a later paraphrase and an Anster-derived couplet
+SOURCE: research/verification-log.md#wr-l-080---until-one-is-committed
+EDITION_NOTE: The booklet combines and alters a substantial copyrighted Murray passage with later wording. The closing couplet derives from John Anster's loose translation of Faust rather than a literal Goethe text; replacement text is not reproduced.
+-->
+
+## [Until One Is Committed]
+
+*Adapted composite excerpt from The Scottish Himalayan Expedition and later transmission; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder and selection of an authoritative witness.]*
+
+*William H. Murray; closing couplet derived from John Anster's translation of Faust*
