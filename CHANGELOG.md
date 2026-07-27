@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Leadership edition through WR-LE-016, qualifying another Phillips epigram, restoring Witch Hunt dialogue and authorship, and rejecting two unsupported Patton attributions.
 - Extended the source-corrected Leadership edition through WR-LE-012, qualifying three more Phillips-collected epigrams and restoring the short-line presentation of Bach's handbook entry.
 - Extended the source-corrected Leadership edition through WR-LE-008, separating Rockefeller from an unidentified Phillips component, qualifying two collected epigrams, and restoring the underlying Burroughs maxim.
 - Started the source-corrected Leadership edition through WR-LE-004, restoring Holmes and Haskins while retaining two unresolved circulating or composite texts with qualified attributions.

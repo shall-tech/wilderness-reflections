@@ -269,3 +269,89 @@ and sure enough,\
 they're yours.
 
 *Richard Bach*
+
+<!-- Original Booklet Page 28 -->
+
+<!--
+WR-ID: WR-LE-013
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Nothing Worthwhile Was Ever Accomplished]
+VERIFIED_AUTHOR: Unknown; collected by Waite Phillips
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Waite Phillips's Epigrams (1964)
+SOURCE: research/verification-log.md#wr-le-013---nothing-worthwhile-was-ever-accomplished
+EDITION_NOTE: Inclusion in Phillips's collection is verified, but original authorship is not independently established.
+-->
+
+## [Nothing Worthwhile Was Ever Accomplished]
+
+*Complete collected epigram; original authorship unresolved.*
+
+Nothing worthwhile was ever accomplished without the will to start, the enthusiasm to continue, and regardless of temporary obstacles, the persistence to complete.
+
+*Author unknown; collected by Waite Phillips*
+
+<!--
+WR-ID: WR-LE-014
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Let Me Tell You Something About the People, Phil]
+VERIFIED_AUTHOR: Joseph Dougherty
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Witch Hunt (1994), dialogue spoken by Senator Larson Crockett
+SOURCE: research/verification-log.md#wr-le-014---let-me-tell-you-about-the-people-jack
+EDITION_NOTE: Restores the character name and the film dialogue, and credits screenwriter Joseph Dougherty rather than the film title as author.
+-->
+
+## [Let Me Tell You Something About the People, Phil]
+
+*Two-sentence dialogue excerpt from Witch Hunt.*
+
+Let me tell you something about the people, Phil. You lock any ten of 'em in a room and they may not elect a leader; but, I guarantee, they'll pick someone to hate.
+
+*Joseph Dougherty; spoken by Senator Larson Crockett*
+
+<!--
+WR-ID: WR-LE-015
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Luck Is Where Preparation Meets Opportunity]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28; compared with an anonymous 1912 precursor
+SOURCE: research/verification-log.md#wr-le-015---luck-is-where-preparation-meets-opportunity
+EDITION_NOTE: An anonymous 1912 version predates the many later attributions. No evidence supports the booklet's attribution to George S. Patton Jr.
+-->
+
+## [Luck Is Where Preparation Meets Opportunity]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Luck is where preparation meets opportunity.
+
+*Author unknown; attributed in the booklet to George S. Patton Jr.*
+
+<!--
+WR-ID: WR-LE-016
+PAGE: 28
+SECTION: Leadership
+VERIFIED_TITLE: [Guts Is That Determination]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 28
+SOURCE: research/verification-log.md#wr-le-016---guts-is-that-determination
+EDITION_NOTE: No Patton speech, letter, diary, book, or contemporaneous witness containing the sentence was located.
+-->
+
+## [Guts Is That Determination]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Guts is that determination that will not be denied.
+
+*Author unknown; attributed in the booklet to George S. Patton Jr.*
