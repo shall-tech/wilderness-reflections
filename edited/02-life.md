@@ -1315,3 +1315,87 @@ EDITION_NOTE: A Philmont Ranger Fieldbook gives a nearly identical version under
 The unknown is not to be avoided, it is to be examined, understood, and accepted. Fear should be handled the same way.
 
 *Author unknown; attributed in the booklet to Dave Marinaccio*
+
+<!--
+WR-ID: WR-L-053
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [We Must Learn to Reawaken]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden (1854), "Where I Lived, and What I Lived For"
+SOURCE: research/verification-log.md#wr-l-053---we-must-learn-to-reawaken
+EDITION_NOTE: Restores the source punctuation while preserving the booklet's three-sentence excerpt boundary.
+-->
+
+## [We Must Learn to Reawaken]
+
+*Three-sentence excerpt from Walden.*
+
+We must learn to reawaken and keep ourselves awake, not by mechanical aids, but by an infinite expectation of the dawn, which does not forsake us in our soundest sleep. I know of no more encouraging fact than the unquestionable ability of man to elevate his life by a conscious endeavor. To affect the quality of the day, that is the highest of arts.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-L-054
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [When You Were Born]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18
+SOURCE: research/verification-log.md#wr-l-054---when-you-were-born
+EDITION_NOTE: No primary Navajo or Cherokee source was located. Corrects the booklet's apparent typographical error "live you life" to "live your life."
+-->
+
+## [When You Were Born]
+
+*Complete circulating proverb; cultural origin unresolved.*
+
+When you were born, you cried and the world rejoiced; live your life so that when you die, the world cries and you rejoice.
+
+*Cultural origin unknown; labeled “Navajo saying” in the booklet*
+
+<!--
+WR-ID: WR-L-055
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [Most People Are About as Happy]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18
+SOURCE: research/verification-log.md#wr-l-055---most-people-are-about-as-happy
+EDITION_NOTE: The maxim is widely attributed to Lincoln, often with "folks" rather than "people," but no contemporary Lincoln source was located.
+-->
+
+## [Most People Are About as Happy]
+
+*Complete circulating maxim; attribution unresolved.*
+
+Most people are about as happy as they make up their minds to be.
+
+*Author unknown; attributed in the booklet to Abraham Lincoln*
+
+<!--
+WR-ID: WR-L-056
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [Hard Rain Cannot Fall All Day]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Adapted
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 18; compared with Tao Te Ching, chapter 23
+SOURCE: research/verification-log.md#wr-l-056---hard-rain-cannot-fall-all-day
+EDITION_NOTE: The booklet gives a modern expansion of chapter 23 rather than a traceable translation; its wording is retained and labeled as an adaptation.
+-->
+
+## [Hard Rain Cannot Fall All Day]
+
+*Modern adaptation of a thought from the Tao Te Ching, chapter 23.*
+
+Hard rain cannot fall all day, harsh winds cannot blow forever. If nature cannot make violent actions last, how can you?
+
+*Laozi (traditional attribution)*
