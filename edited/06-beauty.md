@@ -1020,3 +1020,89 @@ EDITION_NOTE: Restores the notebook's ampersands and marks the booklet endpoint 
 Thus it appears that everything here is marching to music & the harmonies are all so simple & young they are easily apprehended by those who will keep still & listen & look. . . .
 
 *John Muir*
+
+<!-- Original Booklet Page 62 -->
+
+<!--
+WR-ID: WR-B-045
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [Everybody Needs Beauty as Well as Bread]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Hetch Hetchy Valley," chapter 16 of The Yosemite (1912)
+SOURCE: research/verification-log.md#wr-b-045---everybody-needs-beauty-as-well-as-bread
+EDITION_NOTE: Restores Muir's capitalization of "Nature" while preserving the complete one-sentence excerpt from his Hetch Hetchy argument.
+-->
+
+## [Everybody Needs Beauty as Well as Bread]
+
+*One-sentence excerpt from "Hetch Hetchy Valley."*
+
+Everybody needs beauty as well as bread, places to play in and pray in, where Nature may heal and cheer and give strength to body and soul alike.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-046
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [The Mountains Are Fountains of Men]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry dated July 1890, published in John of the Mountains (1938), pages 315-316
+SOURCE: research/verification-log.md#wr-b-046---the-mountains-are-fountains-of-men
+EDITION_NOTE: Restores the source dash before "mountain-dwellers" and possessive "Nature's workshops" while preserving the consecutive two-sentence boundary.
+-->
+
+## [The Mountains Are Fountains of Men]
+
+*Two consecutive journal sentences.*
+
+The mountains are fountains of men as well as of rivers, of glaciers, of fertile soil. The great poets, philosophers, prophets, able men whose thoughts and deeds have moved the world, have come down from the mountains -- mountain-dwellers who have grown strong there with the forest trees in Nature's workshops.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-047
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [How Deep Our Sleep Last Night in the Mountain's Heart]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry for June 9, 1869, in My First Summer in the Sierra (1911), chapter 2
+SOURCE: research/verification-log.md#wr-b-047---how-deep-our-sleep-last-night-in-the-mountains-here
+EDITION_NOTE: Restores "in the mountain's heart," source compounds and punctuation, and the comma after "new flowers" across the complete journal entry.
+-->
+
+## [How Deep Our Sleep Last Night in the Mountain's Heart]
+
+*Complete journal entry for June 9, 1869.*
+
+How deep our sleep last night in the mountain's heart, beneath the trees and stars, hushed by solemn-sounding waterfalls and many small soothing voices in sweet accord whispering peace! And our first pure mountain day, warm, calm, cloudless, -- how immeasurable it seems, how serenely wild! I can scarcely remember its beginning. Along the river, over the hills, in the ground, in the sky, spring work is going on with joyful enthusiasm, new life, new beauty, unfolding, unrolling in glorious exuberant extravagance, -- new birds in their nests, new winged creatures in the air, and new leaves, new flowers, spreading, shining, rejoicing everywhere.
+
+*John Muir*
+
+<!--
+WR-ID: WR-B-048
+PAGE: 62
+SECTION: Beauty
+VERIFIED_TITLE: [Here Is Calm]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Mountain Thoughts," Sierra item 2, written in the 1870s and collected in John of the Mountains (1938)
+SOURCE: research/verification-log.md#wr-b-048---here-is-calm
+EDITION_NOTE: Restores the source prose, capitalization, and "every fiber" while preserving the booklet endpoint before the note continues with trees, flowers, and songs within the body.
+-->
+
+## [Here Is Calm]
+
+*Opening portion of a longer prose note.*
+
+Here is calm so deep, grasses cease waving. . . . Wonderful how completely everything in wild nature fits into us, as if truly part and parent of us. The sun shines not on us but in us. The rivers flow not past, but through us, thrilling, tingling, vibrating every fiber and cell of the substance of our bodies, making them glide and sing.
+
+*John Muir*
