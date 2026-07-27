@@ -880,3 +880,89 @@ EDITION_NOTE: Corrects the booklet's "Ed Burgen" to Ed Buryn and identifies the 
 *[Text omitted pending permission from the rights holder.]*
 
 *Ed Buryn*
+
+<!--
+WR-ID: WR-W-041
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [The Supreme Reality of Our Time]
+VERIFIED_AUTHOR: John Fitzgerald Kennedy
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Address before the Dáil and Seanad, Dublin (June 28, 1963)
+SOURCE: research/verification-log.md#wr-w-041---the-supreme-reality-of-our-time
+EDITION_NOTE: Replaces the booklet's heavy rewrite with Kennedy's complete source sentence, restoring both human indivisibility and common vulnerability on the planet.
+-->
+
+## [The Supreme Reality of Our Time]
+
+*One sentence from Kennedy's address to the Irish Parliament.*
+
+The supreme reality of our time is our indivisibility as children of God and our common vulnerability on this planet.
+
+*John F. Kennedy*
+
+<!-- Original Booklet Page 72 -->
+
+<!--
+WR-ID: WR-W-042
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [Humanity Is Cutting Down Forests]
+VERIFIED_AUTHOR: Isaac Asimov (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and later attributed witnesses; original Asimov source not located
+SOURCE: research/verification-log.md#wr-w-042---humanity-is-cutting-down-forests
+EDITION_NOTE: Retains the short booklet wording rather than adopting the later-witness variant "its forests," and qualifies the Asimov attribution.
+-->
+
+## [Humanity Is Cutting Down Forests]
+
+Humanity is cutting down forests, apparently oblivious to the fact that we may not be able to live without them.
+
+*Attributed to Isaac Asimov; original source not located*
+
+<!--
+WR-ID: WR-W-043
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [Remember Thy Creator in the Days of Thy Youth]
+VERIFIED_AUTHOR: Ecclesiastes 12:1; Henry David Thoreau; arranged by Terry Russell and Renny Russell
+WORK_SCOPE: Adapted; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Ecclesiastes 12:1 (King James Version, 1611); "The Ponds," Walden (1854); arrangement transmitted through On the Loose (1967)
+SOURCE: research/verification-log.md#wr-w-043---remember-thy-creator-in-the-days-of-thy-youth
+EDITION_NOTE: Identifies the biblical opening and Thoreau source, corrects "moon" to "noon," and restores Thoreau's punctuation and "no worthier games than may here be played."
+-->
+
+## [Remember Thy Creator in the Days of Thy Youth]
+
+*Ecclesiastes 12:1 followed by selected sentences from "The Ponds," arranged in On the Loose.*
+
+Remember thy Creator in the days of thy youth.
+
+Rise free from care before the dawn, and seek adventures. Let noon find thee by other lakes, and the night overtake thee everywhere at home. There are no larger fields than these, no worthier games than may here be played.
+
+*Ecclesiastes 12:1; Henry David Thoreau; arrangement by Terry and Renny Russell*
+
+<!--
+WR-ID: WR-W-044
+PAGE: 72
+SECTION: Wilderness
+VERIFIED_TITLE: [I Look Forward to an America]
+VERIFIED_AUTHOR: John Fitzgerald Kennedy
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Remarks at Amherst College (October 26, 1963)
+SOURCE: research/verification-log.md#wr-w-044---i-look-forward-to-an-america
+EDITION_NOTE: Restores the source comma before the final "and which will build" clause while preserving the selected sentence boundary.
+-->
+
+## [I Look Forward to an America]
+
+*One sentence from Kennedy's closing vision at Amherst College.*
+
+I look forward to an America which will not be afraid of grace and beauty, which will protect the beauty of our natural environment, which will preserve the great old American houses and squares and parks of our national past, and which will build handsome and balanced cities for our future.
+
+*John F. Kennedy*

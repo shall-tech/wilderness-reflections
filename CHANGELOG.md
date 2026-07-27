@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-044 by restoring two Kennedy passages and the Scripture-Thoreau composite while qualifying the unresolved Asimov attribution.
 - Extended the source-corrected Wilderness edition through WR-W-040 by restoring Legge's Zhuangzi clause, withholding Sundance and Buryn passages, and qualifying the unresolved Levkov translation.
 - Extended the source-corrected Wilderness edition through WR-W-036 by restoring Hughes's title and first line, correcting Emerson and Gibran, and withholding the substantial Stegner passage.
 - Extended the source-corrected Wilderness edition through WR-W-032 by correcting Abbey's false Leopold attribution, retaining Leopold, withholding Kloss, and correcting Ed Buryn's name.
