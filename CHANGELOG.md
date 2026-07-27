@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-024 by separating Johnson's two speeches, withholding Hagen, qualifying Berrill, and retaining Stendhal's unidentified English rendering.
 - Extended the source-corrected Wilderness edition through WR-W-020 by withholding Schutz, restoring Peattie, retaining the anonymous outdoors maxim, and separating Muir from Rexroth's protected translation.
 - Extended the source-corrected Wilderness edition through WR-W-016 by restoring Dickinson and Emerson while qualifying the unresolved Gibbons attribution and Plato paraphrase.
 - Extended the source-corrected Wilderness edition through WR-W-012 by withholding Fletcher and Rexroth while retaining the short, verified Carson and Devies excerpts with explicit boundaries.

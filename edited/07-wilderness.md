@@ -450,3 +450,91 @@ The clearest way into the Universe is through a forest wilderness.
 *[Rexroth's translation "Deep in the Mountain Wilderness" omitted pending permission from the translation rights holder.]*
 
 *Wang Wei; translated by Kenneth Rexroth*
+
+<!--
+WR-ID: WR-W-021
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [We Must Not Only Protect the Countryside]
+VERIFIED_AUTHOR: Lyndon Baines Johnson
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Special Message to Congress on Conservation and Restoration of Natural Beauty (February 8, 1965); Great Society address (May 22, 1964)
+SOURCE: research/verification-log.md#wr-w-021---we-must-not-only-protect-the-country-side
+EDITION_NOTE: Separates statements delivered nine months apart, restores "countryside" and "man," and preserves the booklet's boundary after the omitted opening clause of the 1964 passage.
+-->
+
+## [We Must Not Only Protect the Countryside]
+
+*One sentence from Johnson's 1965 conservation message, followed by two sentences selected from his 1964 Great Society address.*
+
+We must not only protect the countryside and save it from destruction, we must restore what has been destroyed and salvage the beauty and charm of our cities.
+
+*[Text from the two different addresses is not continuous.]*
+
+Once our natural splendor is destroyed, it can never be recaptured. And once man can no longer walk with beauty or wonder at nature his spirit will wither and his sustenance be wasted.
+
+*Lyndon Baines Johnson*
+
+<!-- Original Booklet Page 70 -->
+
+<!--
+WR-ID: WR-W-022
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: A New "Pledge of Allegiance"
+VERIFIED_AUTHOR: Bruce Hagen (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Later witnesses dated Petaluma, California, 1983; original publication and author identity not located
+SOURCE: research/verification-log.md#wr-w-022---a-new-pledge-of-allegiance
+EDITION_NOTE: Retains the title, Bruce Hagen credit, place, and date as provisional metadata. The complete protected poem is not reproduced without an original witness and permission.
+-->
+
+## A New "Pledge of Allegiance"
+
+*Complete poem credited provisionally to Bruce Hagen, Petaluma, California, 1983; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Bruce Hagen (attribution provisional)*
+
+<!--
+WR-ID: WR-W-023
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [Nature Includes All of the Universe]
+VERIFIED_AUTHOR: Norman John Berrill (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and later attributed quotation witnesses; original publication not located
+SOURCE: research/verification-log.md#wr-w-023---nature-includes-all-of-the-universe
+EDITION_NOTE: Retains the short booklet statement while expanding the initials and qualifying the Berrill attribution because no original book, essay, or interview was located.
+-->
+
+## [Nature Includes All of the Universe]
+
+Nature includes all of the universe and man is not only a part of nature, he is in it up to his neck.
+
+*Attributed to Norman John Berrill; original source not located*
+
+<!--
+WR-ID: WR-W-024
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [The Landscapes Were Like a Violin Bow]
+VERIFIED_AUTHOR: Stendhal (Marie-Henri Beyle); English translator unidentified
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Unidentified English rendering of Vie de Henry Brulard, composed 1835-1836 and published posthumously in 1890
+SOURCE: research/verification-log.md#wr-w-024---the-landscapes-were-like-a-violin-bow
+EDITION_NOTE: Retains the booklet's compact English rendering without blending it with another translation and supplies the source work and unidentified-translator qualification.
+-->
+
+## [The Landscapes Were Like a Violin Bow]
+
+*English rendering of a sentence from Vie de Henry Brulard.*
+
+The landscapes were like a violin bow that played upon my soul.
+
+*Stendhal (Marie-Henri Beyle); English translator unidentified*
