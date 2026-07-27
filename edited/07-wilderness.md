@@ -1223,3 +1223,109 @@ EDITION_NOTE: Retains the familiar short condensation but no longer presents it 
 Laws change; people die; the land remains.
 
 *After Abraham Lincoln; paraphraser unknown*
+
+<!--
+WR-ID: WR-W-057
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: [The Birds I Heard Today]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Early Spring in Massachusetts: From the Journal of Henry D. Thoreau (1881)
+SOURCE: research/verification-log.md#wr-w-057---the-birds-i-heard-today
+EDITION_NOTE: Corrects the booklet's plural "creations" to the collected journal's singular "the first morning of creation" while preserving the sentence boundary.
+-->
+
+## [The Birds I Heard Today]
+
+*Journal sentence collected in Early Spring in Massachusetts.*
+
+The birds I heard today, which, fortunately, did not come within the scope of my science, sang as freshly as if it had been the first morning of creation.
+
+*Henry David Thoreau*
+
+<!-- Original Booklet Page 74 -->
+
+<!--
+WR-ID: WR-W-058
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: Stopping by Woods on a Snowy Evening
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: New Hampshire: A Poem with Notes and Grace Notes (1923), p. 87
+SOURCE: research/verification-log.md#wr-w-058---stopping-by-woods-on-a-snowy-evening
+EDITION_NOTE: Restores Frost's title, "though," "the frozen lake," stanza breaks, and the punctuation and capitalization of the final stanza.
+-->
+
+## Stopping by Woods on a Snowy Evening
+
+Whose woods these are I think I know.\
+His house is in the village though;\
+He will not see me stopping here\
+To watch his woods fill up with snow.
+
+My little horse must think it queer\
+To stop without a farmhouse near\
+Between the woods and the frozen lake\
+The darkest evening of the year.
+
+He gives his harness bells a shake\
+To ask if there is some mistake.\
+The only other sound's the sweep\
+Of easy wind and downy flake.
+
+The woods are lovely, dark and deep,\
+But I have promises to keep,\
+And miles to go before I sleep,\
+And miles to go before I sleep.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-059
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [This Grand Show Is Eternal]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: John of the Mountains: The Unpublished Journals of John Muir (1938)
+SOURCE: research/verification-log.md#wr-w-059---this-grand-show-is-eternal
+EDITION_NOTE: Restores "vapor ever rising," "dawn and gloaming," and "on seas and continents and islands" in place of the booklet's corruptions.
+-->
+
+## [This Grand Show Is Eternal]
+
+*Posthumously published journal passage.*
+
+This grand show is eternal. It is always sunrise somewhere; the dew is never all dried at once; a shower is forever falling; vapor ever rising. Eternal sunrise, eternal sunset, eternal dawn and gloaming, on seas and continents and islands, each in its turn, as the round earth rolls.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-060
+PAGE: 74
+SECTION: Wilderness
+VERIFIED_TITLE: [This Is the Forest Primeval]
+VERIFIED_AUTHOR: Henry Wadsworth Longfellow
+WORK_SCOPE: Abridged; Fragment; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Prelude to Evangeline: A Tale of Acadie (1847)
+SOURCE: research/verification-log.md#wr-w-060---this-is-the-forest-primeval
+EDITION_NOTE: Restores Longfellow's "Druids of eld," marks the omitted intervening lines explicitly, and preserves the booklet's fragment endpoints.
+-->
+
+## [This Is the Forest Primeval]
+
+*Fragments from the opening lines of the Prelude to Evangeline.*
+
+This is the forest primeval. The murmuring pines and the hemlocks,
+
+*[Two lines omitted.]*
+
+Stand like Druids of eld.
+
+*Henry Wadsworth Longfellow*
