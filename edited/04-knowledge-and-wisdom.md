@@ -870,3 +870,87 @@ EDITION_NOTE: Restores the omitted opening conjunction and corrects the booklet'
 But all things excellent are as difficult as they are rare.
 
 *Baruch Spinoza*
+
+<!--
+WR-ID: WR-KW-041
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [When I Go Quiet]
+VERIFIED_AUTHOR: Brother Patrick Duffy, as recorded by William Least Heat-Moon
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Blue Highways, William Least Heat-Moon (1982)
+SOURCE: research/verification-log.md#wr-kw-041---when-i-go-quiet
+EDITION_NOTE: Restores the identified speaker omitted by the booklet; the complete reported statement is presented within the booklet's excerpt boundary.
+-->
+
+## [When I Go Quiet]
+
+*Reported statement in William Least Heat-Moon's Blue Highways.*
+
+When I go quiet I stop hearing myself and start hearing the world outside me. Then I hear something very great.
+
+*Brother Patrick Duffy*
+
+<!--
+WR-ID: WR-KW-042
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The World Is a Looking Glass]
+VERIFIED_AUTHOR: William Makepeace Thackeray
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Vanity Fair (1848), chapter 2
+SOURCE: research/verification-log.md#wr-kw-042---the-world-is-a-looking-glass
+EDITION_NOTE: Restores omitted words, removes the booklet's added conjunction, and corrects the author's name while preserving the booklet's endpoint before the advice to young persons.
+-->
+
+## [The World Is a Looking Glass]
+
+*Excerpt from Vanity Fair, chapter 2.*
+
+The world is a looking glass, and gives back to every man the reflection of his own face. Frown at it, and it will in turn look sourly upon you; laugh at it and with it, and it is a jolly kind companion.
+
+*William Makepeace Thackeray*
+
+<!--
+WR-ID: WR-KW-043
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [In the Midst of Winter]
+VERIFIED_AUTHOR: Albert Camus
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36; translated from "Retour à Tipasa" in L'Été (1954)
+SOURCE: research/verification-log.md#wr-kw-043---in-the-midst-of-winter
+EDITION_NOTE: The French source is verified, but English translations vary and the booklet's compact translator is unidentified; its translation is retained without blending witnesses.
+-->
+
+## [In the Midst of Winter]
+
+*Final sentence of "Return to Tipasa"; booklet translation retained.*
+
+In the midst of winter I finally learned that there was in me an invincible summer.
+
+*Albert Camus*
+
+<!--
+WR-ID: WR-KW-044
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [A Ruin Is Not Just Something]
+VERIFIED_AUTHOR: George B. Schaller (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36; compared with later Schaller attributions
+SOURCE: research/verification-log.md#wr-kw-044---a-ruin-is-not-just-something
+EDITION_NOTE: The sentence circulates under Schaller's name, but no original work, interview, page reference, or contemporaneous witness was located.
+-->
+
+## [A Ruin Is Not Just Something]
+
+*Complete circulating statement; original provenance unresolved.*
+
+A ruin is not just something that happened long ago to someone else; its history is that of us all, the transience of power, of ideas, of all human endeavors.
+
+*George B. Schaller (as circulated)*
