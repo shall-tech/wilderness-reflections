@@ -1212,3 +1212,87 @@ The creation of the mental domain of phantasy has a complete counterpart in the 
 The “reservation” is to maintain the old condition of things which has been regretfully sacrificed to necessity everywhere else; there everything may grow and spread as it pleases, including what is useless and even what is harmful. The mental realm of phantasy is also such a reservation reclaimed from the encroaches of the reality-principle.
 
 *Sigmund Freud; translated by Joan Riviere*
+
+<!--
+WR-ID: WR-KW-057
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [To Know One's Landscape]
+VERIFIED_AUTHOR: Richard E. Dodge (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 38
+SOURCE: research/verification-log.md#wr-kw-057---to-know-ones-landscape
+EDITION_NOTE: No book, article, speech, page reference, biographical source, or independent early witness was located; the text remains under a qualified transmitted attribution.
+-->
+
+## [To Know One's Landscape]
+
+*Complete circulating passage; original provenance unresolved.*
+
+To know one's landscape, to feel in sympathy with it, is often to be at peace with life. When all the world seems wrong and the burdens overwhelming he can look out on the familiar fields and hills or get among them and give way to their beauties of form and color as a resource within himself that will be an ever-present power of recuperation.
+
+*Richard E. Dodge (as circulated)*
+
+<!--
+WR-ID: WR-KW-058
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: Two Somewhat Different Epigrams
+VERIFIED_AUTHOR: Langston Hughes
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Two Somewhat Different Epigrams" (1957), later collected in The Poems: 1951-1967
+SOURCE: research/verification-log.md#wr-kw-058---oh-god-of-dust-and-rainbows
+EDITION_NOTE: The booklet reproduces the complete first two-line epigram as prose. The copyrighted poem is identified but not reproduced without permission.
+-->
+
+## Two Somewhat Different Epigrams
+
+*First epigram; complete copyrighted poem not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Langston Hughes*
+
+<!--
+WR-ID: WR-KW-059
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Discovery Consists of Looking]
+VERIFIED_AUTHOR: Albert Szent-Györgyi (as circulated)
+WORK_SCOPE: Adapted; Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 38; compared with the familiar Szent-Györgyi attribution
+SOURCE: research/verification-log.md#wr-kw-059---discovery-consists-of-looking
+EDITION_NOTE: Corrects the author's name but does not replace the booklet's paraphrase with a different circulating form because no primary source was located.
+-->
+
+## [Discovery Consists of Looking]
+
+*Complete circulating paraphrase; original provenance unresolved.*
+
+Discovery consists of looking at the same thing as everyone else and thinking something different.
+
+*Albert Szent-Györgyi (as circulated)*
+
+<!--
+WR-ID: WR-KW-060
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [It Is the Love of Country]
+VERIFIED_AUTHOR: J. Horace McFarland
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Remarks to the White House Conference on Conservation and Natural Resources, May 14, 1908
+SOURCE: research/verification-log.md#wr-kw-060---it-is-the-love-of-country
+EDITION_NOTE: Corrects the booklet's "has lighten" to "has lighted" and "this life is excited" to "this love is excited" within the selected two-sentence boundary.
+-->
+
+## [It Is the Love of Country]
+
+*Two sentences from remarks to the 1908 White House Conference on Conservation.*
+
+It is the love of country that has lighted and that keeps glowing the holy fire of patriotism. And this love is excited, primarily, by the beauty of the country.
+
+*J. Horace McFarland*
