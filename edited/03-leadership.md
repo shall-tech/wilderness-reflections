@@ -183,3 +183,89 @@ EDITION_NOTE: Removes Phillips's additions and restores the established Burrough
 A man can fail many times, but he isn't a failure until he begins to blame somebody else.
 
 *John Burroughs (as circulated)*
+
+<!--
+WR-ID: WR-LE-009
+PAGE: 27
+SECTION: Leadership
+VERIFIED_TITLE: [Being Good Is Commendable]
+VERIFIED_AUTHOR: Unknown; collected by Waite Phillips
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Waite Phillips's Epigrams (1964)
+SOURCE: research/verification-log.md#wr-le-009---being-good-is-commendable
+EDITION_NOTE: Inclusion in Phillips's collection is verified. Later anonymous and Stephen King attributions do not establish original authorship.
+-->
+
+## [Being Good Is Commendable]
+
+*Complete collected epigram; original authorship unresolved.*
+
+Being good is commendable, but only when it is combined with doing good is it useful.
+
+*Author unknown; collected by Waite Phillips*
+
+<!--
+WR-ID: WR-LE-010
+PAGE: 27
+SECTION: Leadership
+VERIFIED_TITLE: [To Become Competent in Governing Others]
+VERIFIED_AUTHOR: Unknown; collected by Waite Phillips
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Waite Phillips's Epigrams (1964)
+SOURCE: research/verification-log.md#wr-le-010---to-become-competent-in-governing-others
+EDITION_NOTE: Inclusion in Phillips's collection is verified, but original authorship is not independently established.
+-->
+
+## [To Become Competent in Governing Others]
+
+*Complete collected epigram; original authorship unresolved.*
+
+To become competent in governing others we must first learn to govern ourselves.
+
+*Author unknown; collected by Waite Phillips*
+
+<!--
+WR-ID: WR-LE-011
+PAGE: 27
+SECTION: Leadership
+VERIFIED_TITLE: [Ruined by Flattery]
+VERIFIED_AUTHOR: Unknown; collected by Waite Phillips
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Waite Phillips's Epigrams (1964)
+SOURCE: research/verification-log.md#wr-le-011---ruined-by-flattery
+EDITION_NOTE: Inclusion in Phillips's collection is verified; no earlier source for the exact wording was located.
+-->
+
+## [Ruined by Flattery]
+
+*Complete collected epigram; original authorship unresolved.*
+
+The trouble with many of us is that we would rather be ruined by flattery and praise than saved by honest criticism.
+
+*Author unknown; collected by Waite Phillips*
+
+<!--
+WR-ID: WR-LE-012
+PAGE: 27
+SECTION: Leadership
+VERIFIED_TITLE: [Argue for Your Limitations]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977), Messiah's Handbook entry
+SOURCE: research/verification-log.md#wr-le-012---argue-for-your-limitations
+EDITION_NOTE: Restores the short-line presentation of the fictional handbook entry.
+-->
+
+## [Argue for Your Limitations]
+
+*Complete Messiah's Handbook entry from Illusions.*
+
+Argue for your limitations,\
+and sure enough,\
+they're yours.
+
+*Richard Bach*
