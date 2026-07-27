@@ -210,3 +210,114 @@ And this same flower that smiles to-day\
 To-morrow will be dying.
 
 *Robert Herrick*
+
+<!--
+WR-ID: WR-B-009
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: [Nature Might Have Made the Sphinxes]
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: On the Loose (Sierra Club, 1967)
+SOURCE: research/verification-log.md#wr-b-009---nature-might-have-made-the-sphinxes
+EDITION_NOTE: Restores the authors and identifies the booklet as a sequence of protected passages, including a separately printed closing sentence. The substantial selection is not reproduced.
+-->
+
+## [Nature Might Have Made the Sphinxes]
+
+*Composite selection from On the Loose; text not reproduced.*
+
+*[Text omitted pending permission from the rights holders.]*
+
+*Terry Russell and Renny Russell*
+
+<!--
+WR-ID: WR-B-010
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: [Natural Beauty and Wonder]
+VERIFIED_AUTHOR: Henry van Dyke (attributed)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 56; compared with multiple independent quotation witnesses
+SOURCE: research/verification-log.md#wr-b-010---natural-beauty-and-wonder
+EDITION_NOTE: Retains the brief complete quotation because comparison witnesses agree on its wording and attribution, while qualifying the attribution because no originating work was located.
+-->
+
+## [Natural Beauty and Wonder]
+
+*Brief complete quotation; originating work not located.*
+
+Natural beauty and wonder are priceless heirlooms which God has bestowed upon our nation. How shall we escape the contempt of the coming generation if we suffer this irreplaceable heritage to be wasted?
+
+*Attributed to Henry van Dyke*
+
+<!-- Original Booklet Page 57 -->
+
+<!--
+WR-ID: WR-B-011
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: The Morning Hangs a Signal
+VERIFIED_AUTHOR: William Channing Gannett
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Crowning Day," collected in The Thought of God in Hymns and Poems (1885)
+SOURCE: research/verification-log.md#wr-b-011---the-morning-hangs-a-signal
+EDITION_NOTE: Restores Gannett's authorship and the received three-stanza text, including "sunlight," "truth flares as the daystar," and "Night shall release its splendor."
+-->
+
+## The Morning Hangs a Signal
+
+*Complete hymn, also known as "The Crowning Day."*
+
+The morning hangs a signal\
+Upon the mountain crest,\
+While all the sleeping valleys\
+In silent darkness rest.\
+From peak to peak it flashes,\
+It laughs along the sky,\
+Till glory of the sunlight\
+On all the land shall lie.
+
+Above the generations\
+The lonely prophets rise,\
+While truth flares as the daystar\
+Within their glowing eyes.\
+And other eyes, beholding,\
+Are kindled from that light;\
+And dawn becomes the morning,\
+The darkness put to flight.
+
+The soul hath lifted moments\
+Above the drift of days,\
+When life's great meaning breaketh\
+In sunrise on our ways.\
+Behold the radiant token\
+Of faith above all fear;\
+Night shall release its splendor,\
+And morning shall appear.
+
+*William Channing Gannett*
+
+<!--
+WR-ID: WR-B-012
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: [God Had Infinite Time to Give Us]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal passage collected in Bliss Perry, The Heart of Emerson's Journals (1909)
+SOURCE: research/verification-log.md#wr-b-012---god-has-infinite-time-to-give-us
+EDITION_NOTE: Restores "God had infinite time" and "how did He give it?" while preserving the booklet's endpoint before the fuller passage continues.
+-->
+
+## [God Had Infinite Time to Give Us]
+
+*Opening portion of a longer journal passage.*
+
+God had infinite time to give us; but how did He give it? In one immense tract of lazy millenniums? No, He cut it up into a neat succession of new mornings.
+
+*Ralph Waldo Emerson*
