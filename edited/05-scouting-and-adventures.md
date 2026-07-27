@@ -132,3 +132,87 @@ EDITION_NOTE: Corrects the booklet's misspelling of October, but no independent 
 See the scan-faithful booklet version and the cited source record.
 
 *James A. DeReign (as printed), October 14, 1985*
+
+<!--
+WR-ID: WR-SA-005
+PAGE: 50
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [It's When You Are Safe at Home]
+VERIFIED_AUTHOR: Thornton Wilder
+WORK_SCOPE: Abridged; Adapted; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 50; compared with Barnaby Tucker's closing speech in The Matchmaker (1954), act 4
+SOURCE: research/verification-log.md#wr-sa-005---its-when-you-are-safe-at-home
+EDITION_NOTE: Corrects Thornton Wilder's name and the booklet's grammatical "you wish you're having" to "you wish you were having," but retains the two-sentence condensation rather than replacing it with the substantially longer protected speech.
+-->
+
+## [It's When You Are Safe at Home]
+
+*Condensed paraphrase of Barnaby Tucker's closing speech in The Matchmaker.*
+
+It's when you are safe at home that you wish you were having an adventure. When you're having an adventure you wish you were safe at home.
+
+*Thornton Wilder*
+
+<!--
+WR-ID: WR-SA-006
+PAGE: 50
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [I'd Rather Wake Up in the Middle of Nowhere]
+VERIFIED_AUTHOR: Steve McQueen
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Statement to LIFE during John Dominis's 1963 assignment
+SOURCE: research/verification-log.md#wr-sa-006---id-rather-wake-up-in-the-middle-of-nowhere
+EDITION_NOTE: The booklet wording matches the reported complete sentence.
+-->
+
+## [I'd Rather Wake Up in the Middle of Nowhere]
+
+*Complete reported statement.*
+
+I'd rather wake up in the middle of nowhere than in any city on earth.
+
+*Steve McQueen*
+
+<!--
+WR-ID: WR-SA-007
+PAGE: 50
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [Red Exhaustion Rips at Your Throat]
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: On the Loose (Sierra Club, 1967)
+SOURCE: research/verification-log.md#wr-sa-007---red-exhaustion-rips-at-your-throat
+EDITION_NOTE: Identifies punctuation and wording variants, including "further" for "farther." The complete substantial protected passage is not reproduced.
+-->
+
+## [Red Exhaustion Rips at Your Throat]
+
+*Complete prose passage from On the Loose; text not reproduced.*
+
+*[Text omitted pending permission from the rights holders.]*
+
+*Terry Russell and Renny Russell*
+
+<!--
+WR-ID: WR-SA-008
+PAGE: 50
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [Adventure Is Not in the Guidebook]
+VERIFIED_AUTHOR: Terry Russell and Renny Russell
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: On the Loose (Sierra Club, 1967)
+SOURCE: research/verification-log.md#wr-sa-008---adventure-is-not-in-the-guidebook
+EDITION_NOTE: Restores the source's capitalization of "Beauty" and biblical "Seek and ye shall find" in this limited excerpt.
+-->
+
+## [Adventure Is Not in the Guidebook]
+
+*Brief passage from On the Loose.*
+
+Adventure is not in the guidebook and Beauty is not on the map. Seek and ye shall find.
+
+*Terry Russell and Renny Russell*

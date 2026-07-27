@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Scouting and Adventures edition through WR-SA-008, correcting Wilder and McQueen, withholding a substantial Russell passage, and restoring a brief Russell excerpt.
 - Started the source-corrected Scouting and Adventures edition through WR-SA-004, restoring Phillips and Hingley while withholding two substantial or complete protected selections.
 - Completed the source-corrected Knowledge and Wisdom edition through WR-KW-108, identifying the final Leopold, Carhart, Teale, and Perry sources while withholding substantial or complete protected text.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-104, withholding two Leopold passages, retaining Meeker's witnessed wording, and restoring Shelley's continuous passage.
