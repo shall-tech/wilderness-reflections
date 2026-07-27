@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-036 by restoring Hughes's title and first line, correcting Emerson and Gibran, and withholding the substantial Stegner passage.
 - Extended the source-corrected Wilderness edition through WR-W-032 by correcting Abbey's false Leopold attribution, retaining Leopold, withholding Kloss, and correcting Ed Buryn's name.
 - Extended the source-corrected Wilderness edition through WR-W-028 by qualifying Brower and Leopold, preserving the Shooter/Okute provenance limits, and restoring Abbey's punctuation.
 - Extended the source-corrected Wilderness edition through WR-W-024 by separating Johnson's two speeches, withholding Hagen, qualifying Berrill, and retaining Stendhal's unidentified English rendering.

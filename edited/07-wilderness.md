@@ -700,3 +700,101 @@ EDITION_NOTE: Corrects the booklet's "Ed Burgen" to Ed Buryn and retains the sho
 Money is the wealth of the materialists and works miracles in the realm of the physical. Time is the wealth of the pilgrim, and works miracles in all realms.
 
 *Ed Buryn, Vagabonding in America*
+
+<!-- Original Booklet Page 71 -->
+
+<!--
+WR-ID: WR-W-033
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: The Negro Speaks of Rivers
+VERIFIED_AUTHOR: Langston Hughes
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: First publication in The Crisis (June 1921), also collected in The Weary Blues (1926)
+SOURCE: research/verification-log.md#wr-w-033---ive-known-rivers
+EDITION_NOTE: Restores the source title and returns "I've known rivers:" from the booklet's substitute title to its place as the poem's first line.
+-->
+
+## The Negro Speaks of Rivers
+
+I've known rivers:
+
+I've known rivers ancient as the world and older than the\
+    flow of human blood in human veins.
+
+My soul has grown deep like the rivers.
+
+I bathed in the Euphrates when dawns were young.\
+I built my hut near the Congo and it lulled me to sleep.\
+I looked upon the Nile and raised the pyramids above it.\
+I heard the singing of the Mississippi when Abe Lincoln\
+    went down to New Orleans, and I've seen its muddy\
+    bosom turn all golden in the sunset.\
+I've known rivers:\
+Ancient, dusky rivers.
+
+My soul has grown deep like the rivers.
+
+*Langston Hughes*
+
+<!--
+WR-ID: WR-W-034
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [Nature Shows Us Only Surfaces]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Resources," Letters and Social Aims (1876)
+SOURCE: research/verification-log.md#wr-w-034---nature-shows-us-only-surfaces
+EDITION_NOTE: Restores the source wording by removing the booklet's added article before "million fathoms" and preserves the second-sentence-only boundary.
+-->
+
+## [Nature Shows Us Only Surfaces]
+
+*Second sentence of a two-sentence observation in "Resources."*
+
+Nature shows us only surfaces, but she is million fathoms deep.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-035
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [And Forget Not That the Earth Delights]
+VERIFIED_AUTHOR: Kahlil Gibran
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Sand and Foam (1926)
+SOURCE: research/verification-log.md#wr-w-035---and-forget-not-the-earth-delights
+EDITION_NOTE: Restores the omitted "that" and corrects the booklet's "Kahil" to Kahlil Gibran.
+-->
+
+## [And Forget Not That the Earth Delights]
+
+And forget not that the earth delights to feel your bare feet and the winds long to play with your hair.
+
+*Kahlil Gibran*
+
+<!--
+WR-ID: WR-W-036
+PAGE: 71
+SECTION: Wilderness
+VERIFIED_TITLE: [We Are the Most Dangerous Species]
+VERIFIED_AUTHOR: Wallace Earle Stegner
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Closing two sentences of "The Marks of Human Passage," in This Is Dinosaur (1955)
+SOURCE: research/verification-log.md#wr-w-036---we-are-the-most-dangerous-species
+EDITION_NOTE: Identifies the source-verified closing passage and preserves its two-sentence boundary. The substantial protected excerpt is not reproduced.
+-->
+
+## [We Are the Most Dangerous Species]
+
+*Closing two sentences of "The Marks of Human Passage"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Wallace Stegner*
