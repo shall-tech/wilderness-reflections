@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-008, restoring Rossetti, Bryant, and Herrick while withholding an unidentified translation of Uvavnuk.
 - Started the source-corrected Beauty edition through WR-B-004, restoring Hopkins while withholding three complete or substantial protected selections.
 - Completed the source-corrected Scouting and Adventures edition through WR-SA-011 by restoring Muir's two excerpts and separating Stevenson's composite.
 - Extended the source-corrected Scouting and Adventures edition through WR-SA-008, correcting Wilder and McQueen, withholding a substantial Russell passage, and restoring a brief Russell excerpt.

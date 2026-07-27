@@ -106,3 +106,107 @@ EDITION_NOTE: Corrects Olson's surname and identifies the booklet as a substanti
 *[Text omitted pending source resolution and permission from the rights holder.]*
 
 *Sigurd F. Olson*
+
+<!-- Original Booklet Page 56 -->
+
+<!--
+WR-ID: WR-B-005
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: Silent Noon
+VERIFIED_AUTHOR: Dante Gabriel Rossetti
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Silent Noon," sonnet 19 of The House of Life, first edition in Ballads and Sonnets (1881)
+SOURCE: research/verification-log.md#wr-b-005---silent-moon
+EDITION_NOTE: Restores the title and author and corrects the booklet's altered words, compounds, and punctuation against the first-edition text.
+-->
+
+## Silent Noon
+
+*Complete sonnet.*
+
+Your hands lie open in the long fresh grass, --\
+The finger-points look through like rosy blooms:\
+Your eyes smile peace. The pasture gleams and glooms\
+'Neath billowing clouds that scatter and amass.\
+All round our nest, far as the eye can pass,\
+Are golden kingcup-fields with silver edge\
+Where the cow-parsley skirts the hawthorn-hedge.\
+'Tis visible silence, still as the hour-glass.
+
+Deep in the sun-searched growths the dragon-fly\
+Hangs like a blue thread loosened from the sky: --\
+So this winged hour is dropt to us from above.\
+Oh! clasp we to our hearts, for deathless dower,\
+This close-companioned inarticulate hour\
+When twofold silence was the song of love.
+
+*Dante Gabriel Rossetti*
+
+<!--
+WR-ID: WR-B-006
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: [The Sunshine on My Path]
+VERIFIED_AUTHOR: William Cullen Bryant
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "A Winter Piece," first published as "Winter Scenes" in The Idle Man (1821)
+SOURCE: research/verification-log.md#wr-b-006---the-sunshine-on-my-path
+EDITION_NOTE: Restores "as a friend" and the source's two-line verse form while preserving the booklet's single-sentence boundary.
+-->
+
+## [The Sunshine on My Path]
+
+*Two-line excerpt from "A Winter Piece."*
+
+The sunshine on my path\
+Was to me as a friend.
+
+*William Cullen Bryant*
+
+<!--
+WR-ID: WR-B-007
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: [The Great Sea]
+VERIFIED_AUTHOR: Uvavnuk
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Orally transmitted song related through Aua to Knud Rasmussen and published in Intellectual Culture of the Iglulik Eskimos (1929); booklet translation unidentified
+SOURCE: research/verification-log.md#wr-b-007---the-great-sea
+EDITION_NOTE: English versions vary substantially, and the booklet does not identify its translator. The complete translated song is not reproduced until a specific public-domain or licensed witness is selected.
+-->
+
+## [The Great Sea]
+
+*Complete translated or adapted song; text not reproduced.*
+
+*[Text omitted pending selection of a named public-domain or licensed translation.]*
+
+*Uvavnuk*
+
+<!--
+WR-ID: WR-B-008
+PAGE: 56
+SECTION: Beauty
+VERIFIED_TITLE: To the Virgins, to Make Much of Time
+VERIFIED_AUTHOR: Robert Herrick
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Hesperides (1648)
+SOURCE: research/verification-log.md#wr-b-008---gather-ye-rosebuds
+EDITION_NOTE: Restores Herrick's name, the first stanza's source capitalization, compounds, and punctuation, and preserves the booklet's one-stanza endpoint.
+-->
+
+## To the Virgins, to Make Much of Time
+
+*First stanza.*
+
+Gather ye rosebuds while ye may,\
+Old Time is still a-flying:\
+And this same flower that smiles to-day\
+To-morrow will be dying.
+
+*Robert Herrick*
