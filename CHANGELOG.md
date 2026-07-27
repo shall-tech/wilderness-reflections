@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-016, qualifying Tosco, restoring Morton and Longfellow, and reconstructing Wordsworth's composite.
 - Extended the source-corrected Beauty edition through WR-B-012, withholding Russell, qualifying van Dyke, and restoring Gannett and Emerson.
 - Extended the source-corrected Beauty edition through WR-B-008, restoring Rossetti, Bryant, and Herrick while withholding an unidentified translation of Uvavnuk.
 - Started the source-corrected Beauty edition through WR-B-004, restoring Hopkins while withholding three complete or substantial protected selections.

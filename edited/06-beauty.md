@@ -321,3 +321,90 @@ EDITION_NOTE: Restores "God had infinite time" and "how did He give it?" while p
 God had infinite time to give us; but how did He give it? In one immense tract of lazy millenniums? No, He cut it up into a neat succession of new mornings.
 
 *Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-B-013
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: [Plants Should Be Regarded as Jewels]
+VERIFIED_AUTHOR: Uberto Tosco (attribution unverified)
+WORK_SCOPE: Fragment
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 57
+SOURCE: research/verification-log.md#wr-b-013---plants-should-be-regarded-as-jewels
+EDITION_NOTE: Retains the brief fragment with its supplied bracketed opening and qualifies the booklet attribution because no independent publication or comparison text was located.
+-->
+
+## [Plants Should Be Regarded as Jewels]
+
+*Brief fragment of unresolved provenance.*
+
+[Plants should be regarded as] jewels in the devalued currency of our world environment.
+
+*Attributed in the booklet to Uberto Tosco*
+
+<!--
+WR-ID: WR-B-014
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: Who Walks with Beauty
+VERIFIED_AUTHOR: David Morton
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Who Walks with Beauty," in Ships in Harbour (1921)
+SOURCE: research/verification-log.md#wr-b-014---who-walks-with-beauty
+EDITION_NOTE: Restores "has," "pace," and the two-line verse form while preserving the booklet's endpoint after the sonnet's opening couplet.
+-->
+
+## Who Walks with Beauty
+
+*Opening two lines of a fourteen-line sonnet.*
+
+Who walks with Beauty has no need of fear;\
+The sun and moon and stars keep pace with him.
+
+*David Morton*
+
+<!--
+WR-ID: WR-B-015
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: [That Beautiful Season, the Summer]
+VERIFIED_AUTHOR: Henry Wadsworth Longfellow
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Evangeline: A Tale of Acadie (1847), part 1
+SOURCE: research/verification-log.md#wr-b-015---that-beautiful-season-the-summer
+EDITION_NOTE: Restores the source lineation and "new-created," supplies the omitted opening words, and marks the booklet's internal omission of the Summer of All-Saints line.
+-->
+
+## [That Beautiful Season, the Summer]
+
+*Selected lines from Evangeline.*
+
+Then followed that beautiful season, the Summer! . . .\
+Filled was the air with a dreamy and magical light; and the landscape\
+Lay as if new-created in all the freshness of childhood.
+
+*Henry Wadsworth Longfellow*
+
+<!--
+WR-ID: WR-B-016
+PAGE: 57
+SECTION: Beauty
+VERIFIED_TITLE: [But Now the Sun Is Rising Calm and Bright]
+VERIFIED_AUTHOR: William Wordsworth
+WORK_SCOPE: Adapted; Composite; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: "Resolution and Independence," in Poems, in Two Volumes (1807)
+SOURCE: research/verification-log.md#wr-b-016---now-the-sun-is-rising
+EDITION_NOTE: Corrects the attribution, returns the four selected clauses to source order, and makes their noncontiguous construction explicit without extending the booklet's clause endpoints.
+-->
+
+## [But Now the Sun Is Rising Calm and Bright]
+
+*Four noncontiguous clauses from the first two stanzas of "Resolution and Independence."*
+
+But now the sun is rising calm and bright. The birds are singing. . . . All things that love the sun are out of doors. . . . The sky rejoices.
+
+*William Wordsworth*
