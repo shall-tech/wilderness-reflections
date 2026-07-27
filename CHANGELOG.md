@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-076, withholding substantial Beston and Abbey passages, restoring Huxley's wording, and reconstructing the booklet-bounded Kipling excerpt from the 1910 text.
 - Extended the source-corrected Life edition through WR-L-072, restoring Shakespeare's actual lines, flagging an unsupported Indigenous attribution, preserving Galland's uncertain provenance, and confirming the Sax excerpt.
 - Extended the source-corrected Life edition through WR-L-068, correcting Carver's name, marking Emerson's mid-sentence boundary, withholding an uncertain complete poem, and restoring Whitman's spelling.
 - Extended the source-corrected Life edition through WR-L-064, withholding a substantial Berry passage, restoring the Braveheart and Mason wording with accurate authorship, and correcting Boone's sentence.

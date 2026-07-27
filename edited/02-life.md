@@ -1748,3 +1748,119 @@ EDITION_NOTE: The checked source supports the booklet wording and context; the s
 The preservationist is not an elitist who wants to exclude others, notwithstanding popular opinion to the contrary; he is a moralist who wants to convert them. He is concerned about what other people do in the parks not because he is unaware of the diversity of taste in the society, but because he views certain kinds of activity as calculated to undermine the attitudes he believes the park can, and should, encourage.
 
 *Joseph L. Sax*
+
+<!--
+WR-ID: WR-L-073
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [One Aspect of the Machine World]
+VERIFIED_AUTHOR: Henry Beston
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Northern Farm: A Chronicle of Maine (1948)
+SOURCE: research/verification-log.md#wr-l-073---one-aspect-of-the-machine-world
+EDITION_NOTE: The booklet reproduces a substantial copyrighted passage. The work is identified, but the available wording witness is secondary and replacement text is not reproduced without permission.
+-->
+
+## [One Aspect of the Machine World]
+
+*Substantial excerpt from Northern Farm; text not reproduced.*
+
+*[Text omitted pending a reliable licensed witness or permission from the rights holder.]*
+
+*Henry Beston*
+
+<!--
+WR-ID: WR-L-074
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [Plants Are Superb Opportunists]
+VERIFIED_AUTHOR: Anthony Huxley
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Plant and Planet (1975)
+SOURCE: research/verification-log.md#wr-l-074---plants-are-superb-opportunists
+EDITION_NOTE: Removes the booklet's bracketed editorial substitution "Plants" and restores "an" before "astounding diversification and variety."
+-->
+
+## [Plants Are Superb Opportunists]
+
+*Two-sentence excerpt from Plant and Planet.*
+
+They are superb opportunists, making the most of different combinations of water, air, soil, and climate. Their grip on the planet, their capacities for colonization, and their integration with the environment are due to an astounding diversification and variety.
+
+*Anthony Huxley*
+
+<!-- Original Booklet Page 21 -->
+
+<!--
+WR-ID: WR-L-075
+PAGE: 21
+SECTION: Life
+VERIFIED_TITLE: If—
+VERIFIED_AUTHOR: Rudyard Kipling
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "If—," in Rewards and Fairies (1910)
+SOURCE: https://www.gutenberg.org/files/32772/32772-h/32772-h.htm
+EDITION_NOTE: Restores Kipling's wording and punctuation for the lines selected by the booklet while preserving its omission of the line about dreaming.
+-->
+
+## If—
+
+*Abridged excerpt preserving the booklet's selected lines.*
+
+If you can keep your head when all about you\
+Are losing theirs and blaming it on you;\
+If you can trust yourself when all men doubt you,\
+But make allowance for their doubting too;\
+If you can wait and not be tired by waiting,\
+Or being lied about, don't deal in lies,\
+Or being hated don't give way to hating,\
+And yet don't look too good, nor talk too wise;\
+If you can think—and not make thoughts your aim,\
+If you can meet with Triumph and Disaster\
+And treat those two impostors just the same;\
+If you can bear to hear the truth you've spoken\
+Twisted by knaves to make a trap for fools,\
+Or watch the things you gave your life to, broken,\
+And stoop and build 'em up with worn-out tools;\
+If you can make one heap of all your winnings\
+And risk it on one turn of pitch-and-toss,\
+And lose, and start again at your beginnings\
+And never breathe a word about your loss;\
+If you can force your heart and nerve and sinew\
+To serve your turn long after they are gone,\
+And so hold on when there is nothing in you\
+Except the Will which says to them: 'Hold on!'\
+If you can talk with crowds and keep your virtue,\
+Or walk with Kings—nor lose the common touch,\
+If neither foes nor loving friends can hurt you,\
+If all men count with you, but none too much;\
+If you can fill the unforgiving minute\
+With sixty seconds' worth of distance run,\
+Yours is the Earth and everything that's in it,\
+And—which is more—you'll be a Man, my son!
+
+*Rudyard Kipling*
+
+<!--
+WR-ID: WR-L-076
+PAGE: 21
+SECTION: Life
+VERIFIED_TITLE: [One Final Paragraph of Advice]
+VERIFIED_AUTHOR: Edward Abbey (as circulated)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Speech or spoken statement circulated by 1983; original occasion unresolved
+SOURCE: research/verification-log.md#wr-l-076---one-final-paragraph-of-advice
+EDITION_NOTE: The booklet reproduces a substantial copyrighted passage with material variants. The original occasion and exact authoritative wording remain unresolved, so replacement text is not reproduced.
+-->
+
+## [One Final Paragraph of Advice]
+
+*Substantial speech excerpt; text not reproduced.*
+
+*[Text omitted pending identification of an authoritative licensed witness or permission from the rights holder.]*
+
+*Edward Abbey (as circulated)*
