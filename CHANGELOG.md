@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Beauty edition through WR-B-040, restoring Muir, Carmer, and Chittenden while withholding the anonymous complete poem "I Remember."
 - Extended the source-corrected Beauty edition through WR-B-036, qualifying Stamp and Phillips while withholding complete Fine and substantial Leopold selections.
 - Extended the source-corrected Beauty edition through WR-B-032, restoring McLuhan, preserving Jeffers's partial boundary, qualifying Hummel, and withholding Moffitt's complete poem.
 - Extended the source-corrected Beauty edition through WR-B-028, restoring Thoreau and Beecher while qualifying Ruskin and an unresolved Zen saying.

@@ -845,3 +845,89 @@ EDITION_NOTE: Identifies the three consecutive sentences and confirms that the b
 *[Text omitted pending permission from the rights holder.]*
 
 *Aldo Leopold*
+
+<!--
+WR-ID: WR-B-037
+PAGE: 60
+SECTION: Beauty
+VERIFIED_TITLE: [Sequoias, Kings of Their Race]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The American Forests," The Atlantic Monthly (August 1897); collected in Our National Parks (1901), chapter 10
+SOURCE: research/verification-log.md#wr-b-037---sequoias-kings-of-their-race
+EDITION_NOTE: Restores the source comma after "sky" and "the lilies" while preserving the booklet's mid-sentence start and selected endpoint.
+-->
+
+## [Sequoias, Kings of Their Race]
+
+*Mid-sentence excerpt from "The American Forests."*
+
+Sequoias, kings of their race, growing close together like grass in a meadow, poised their brave domes and spires in the sky, three hundred feet above the ferns and the lilies that enameled the ground; towering serene through the long centuries, preaching God's forestry fresh from heaven.
+
+*John Muir*
+
+<!-- Original Booklet Page 61 -->
+
+<!--
+WR-ID: WR-B-038
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: I Remember
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 61; compared with an independent Philmont quotation-page witness
+SOURCE: research/verification-log.md#wr-b-038---i-remember
+EDITION_NOTE: An independent witness confirms the title and substantially the same wording but supplies no author or originating publication. The complete potentially protected poem is not duplicated.
+-->
+
+## I Remember
+
+*Complete anonymous poem of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Unknown*
+
+<!--
+WR-ID: WR-B-039
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [We Believe That Ugliness Begets Ugliness]
+VERIFIED_AUTHOR: Carl Carmer
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Federal Power Commission testimony concerning the Storm King pumped-storage proposal (May 1964)
+SOURCE: research/verification-log.md#wr-b-039---we-believe-that-ugliness-begets-ugliness
+EDITION_NOTE: Restores the verified author and retains the booklet's one-sentence boundary; comparison witnesses differ only over "artifice" versus "the artifice."
+-->
+
+## [We Believe That Ugliness Begets Ugliness]
+
+*One-sentence excerpt from Carmer's Storm King testimony.*
+
+We believe that ugliness begets ugliness and that nature's beauty, once destroyed, may never be restored by the artifice of man.
+
+*Carl Carmer*
+
+<!--
+WR-ID: WR-B-040
+PAGE: 61
+SECTION: Beauty
+VERIFIED_TITLE: [Ordinarily the Demands of Utility Are Imperative]
+VERIFIED_AUTHOR: Hiram Martin Chittenden
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Sentiment versus Utility in the Treatment of National Scenery," Pacific Monthly (January 1910), pages 37-38
+SOURCE: research/verification-log.md#wr-b-040---ordinarily-the-demands-of-utility-are-imperative
+EDITION_NOTE: Restores Chittenden's full name while preserving the verified one-sentence excerpt unchanged.
+-->
+
+## [Ordinarily the Demands of Utility Are Imperative]
+
+*One-sentence excerpt from "Sentiment versus Utility in the Treatment of National Scenery."*
+
+Ordinarily the demands of utility are imperative and scenic beauty where it stands in the way must yield.
+
+*Hiram Martin Chittenden*

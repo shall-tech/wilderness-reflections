@@ -41,7 +41,7 @@
 - Leadership entries WR-LE-001 through WR-LE-025 are complete in the edited edition.
 - Knowledge and Wisdom entries WR-KW-001 through WR-KW-108 are complete in the edited edition; the section is complete.
 - Scouting and Adventures entries WR-SA-001 through WR-SA-011 are complete in the edited edition; the section is complete.
-- Beauty entries WR-B-001 through WR-B-036 are complete in the edited edition.
+- Beauty entries WR-B-001 through WR-B-040 are complete in the edited edition.
 - Excerpt boundaries are preserved; translation witnesses and rights-related source-text limitations are stated explicitly.
 
 ## Source
