@@ -1821,3 +1821,87 @@ EDITION_NOTE: Restores "by my constitution," punctuation, and an explicit ellips
 I am in love with this world; by my constitution I have nestled lovingly in it. . . . I have climbed its mountains, roamed its forests, sailed its waters, crossed its deserts, felt the sting of its frosts, the oppression of its heats, the drench of its rains, the fury of its winds, and always have beauty and joy waited upon my goings and comings.
 
 *John Burroughs*
+
+<!--
+WR-ID: WR-KW-085
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [To Touch and Feel Is to Experience]
+VERIFIED_AUTHOR: Hyemeyohsts Storm
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Seven Arrows (1972)
+SOURCE: research/verification-log.md#wr-kw-085---to-touch-and-feel-is-to-experience
+EDITION_NOTE: Separates the author's name from the book title and identifies the continuous protected passage. Replacement text is not reproduced without permission.
+-->
+
+## [To Touch and Feel Is to Experience]
+
+*Passage from Seven Arrows; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Hyemeyohsts Storm*
+
+<!--
+WR-ID: WR-KW-086
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Touched the Nothingness of Air]
+VERIFIED_AUTHOR: Nancy Wood (as printed; attribution unresolved)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 42; matching Philmont collection credits "Nancy Woods"
+SOURCE: research/verification-log.md#wr-kw-086---i-touched-the-nothingness-of-air
+EDITION_NOTE: No work title, periodical, page reference, date, or independent publication was located, and the surname differs between witnesses. The substantial potentially protected passage is not duplicated.
+-->
+
+## [I Touched the Nothingness of Air]
+
+*Substantial passage of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Nancy Wood (as printed in the booklet)*
+
+<!--
+WR-ID: WR-KW-087
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Awareness Is Becoming Acquainted with Environment]
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Reflections from the North Country (1976)
+SOURCE: research/verification-log.md#wr-kw-087---awareness-is-becoming-acquainted-with-environment
+EDITION_NOTE: Corrects the booklet's "Olsen" attribution and identifies small wording variants. The complete protected passage is not reproduced without permission.
+-->
+
+## [Awareness Is Becoming Acquainted with Environment]
+
+*Complete passage from Reflections from the North Country; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Sigurd F. Olson*
+
+<!--
+WR-ID: WR-KW-088
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Simplicity in All Things]
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Reflections from the North Country (1976)
+SOURCE: research/verification-log.md#wr-kw-088---simplicity-in-all-things
+EDITION_NOTE: Corrects the booklet's "Olsen" attribution and "matte of simplicity" typo; the source continues beyond the booklet boundary. The substantial protected excerpt is not reproduced.
+-->
+
+## [Simplicity in All Things]
+
+*Substantial excerpt from Reflections from the North Country; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Sigurd F. Olson*
