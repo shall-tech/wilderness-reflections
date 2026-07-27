@@ -1139,3 +1139,95 @@ EDITION_NOTE: Corrects Tolkien's name and restores the wording of Thorin's sente
 If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.
 
 *J. R. R. Tolkien*
+
+<!--
+WR-ID: WR-L-045
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [Life Is Either a Daring Adventure or Nothing]
+VERIFIED_AUTHOR: Helen Keller
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Let Us Have Faith (1940)
+SOURCE: https://afb.org/fun-facts-and-quotes
+EDITION_NOTE: Restores "either" and the source punctuation while preserving the booklet's single-sentence boundary.
+-->
+
+## [Life Is Either a Daring Adventure or Nothing]
+
+*One-sentence excerpt from Let Us Have Faith.*
+
+Life is either a daring adventure or nothing.
+
+*Helen Keller*
+
+<!--
+WR-ID: WR-L-046
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [He Says the Best Way Out Is Always Through]
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "A Servant to Servants," in North of Boston (1914)
+SOURCE: https://www.gutenberg.org/ebooks/3026
+EDITION_NOTE: Restores the poem's introductory words "He says" within the selected line.
+-->
+
+## [He Says the Best Way Out Is Always Through]
+
+*One-line excerpt from “A Servant to Servants.”*
+
+He says the best way out is always through.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-L-047
+PAGE: 17
+SECTION: Life
+VERIFIED_TITLE: [Once the Game Is Over]
+VERIFIED_AUTHOR: Traditional Tuscan proverb
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 17; compared with historical Italian and English witnesses
+SOURCE: https://italian.stackexchange.com/questions/6855/the-chess-proverb
+EDITION_NOTE: The Tuscan tradition is verified, but the precise age and source of the modern "same box" English rendering are undetermined.
+-->
+
+## [Once the Game Is Over]
+
+*Complete modern rendering of a traditional Tuscan proverb.*
+
+Once the game is over, the king and the pawn go back into the same box.
+
+*Traditional Tuscan proverb*
+
+<!-- Original Booklet Page 18 -->
+
+<!--
+WR-ID: WR-L-048
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: [There Is Delight in the Hardy Life]
+VERIFIED_AUTHOR: Theodore Roosevelt
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Four Roosevelt statements assembled at the Theodore Roosevelt Memorial
+SOURCE: https://www.nps.gov/places/000/theodore-roosevelt-memorial.htm
+EDITION_NOTE: Restores all four memorial statements and identifies the selection as a later composite rather than a continuous essay excerpt.
+-->
+
+## [There Is Delight in the Hardy Life]
+
+*Composite of four statements displayed at the Theodore Roosevelt Memorial.*
+
+There is delight in the hardy life of the open.
+
+There are no words that can tell the hidden spirit of the wilderness, that can reveal its mystery, its melancholy and its charm.
+
+The nation behaves well if it treats its natural resources as assets which it must turn over to the next generation increased and not impaired in value.
+
+Conservation means development as much as it does protection.
+
+*Theodore Roosevelt*
