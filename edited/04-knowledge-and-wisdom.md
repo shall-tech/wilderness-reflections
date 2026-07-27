@@ -1470,3 +1470,91 @@ EDITION_NOTE: Removes the booklet's added "the" before both "lawns" and "towns" 
 Hope and the future for me are not in lawns and cultivated fields, not in towns and cities, but in the impervious and quaking swamps.
 
 *Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-069
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [If It Were Required to Know]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry, October 1859; published in Autumn (1892)
+SOURCE: research/verification-log.md#wr-kw-069---if-we-were-required-to-know
+EDITION_NOTE: Restores "If it were required," the botanical term "indusium," and "helping to redeem" from the journal source.
+-->
+
+## [If It Were Required to Know]
+
+*Journal passage from October 1859.*
+
+If it were required to know the position of the fruit-dots or the character of the indusium, nothing could be easier to ascertain; but if it is required that you be affected by ferns, that they amount to anything, signify anything to you, that they be another sacred scripture and revelation to you, helping to redeem your life, this end is not so easily accomplished.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-070
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [We Are Affected Like the Earth]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry, March 21, 1853
+SOURCE: research/verification-log.md#wr-kw-070---we-are-affected-like-the-earth
+EDITION_NOTE: Restores the intervening sentence omitted by the booklet and the source punctuation, making the selected start-to-end passage continuous.
+-->
+
+## [We Are Affected Like the Earth]
+
+*Passage from the journal entry for March 21, 1853.*
+
+We are affected like the earth, and yield to the elemental tenderness. The frost is coming out of me, and I am heaved like the road. Winter breaks up within us; accumulated masses of ice and snow dissolve, and thoughts like a freshet pour down unwonted channels.
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-071
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [He Who Has Known How to Love the Land]
+VERIFIED_AUTHOR: Stefan Żeromski (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 40
+SOURCE: research/verification-log.md#wr-kw-071---he-who-has-known-how-to-love-the-land
+EDITION_NOTE: Corrects the author's spelling, but no Polish original, work title, translator, page reference, or early English witness supports a source-text restoration.
+-->
+
+## [He Who Has Known How to Love the Land]
+
+*Complete circulating statement; original provenance unresolved.*
+
+He who has known how to love the land has loved eternity.
+
+*Stefan Żeromski (as circulated)*
+
+<!--
+WR-ID: WR-KW-072
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [All That Glisters; Not All Those Who Wander]
+VERIFIED_AUTHOR: William Shakespeare and J. R. R. Tolkien
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Merchant of Venice, act 2, scene 7; "The Riddle of Strider" in The Fellowship of the Ring (1954)
+SOURCE: research/verification-log.md#wr-kw-072---all-that-glitters-is-not-gold
+EDITION_NOTE: Separates the composite, restores Shakespeare's "glisters," restores Tolkien's word order, and credits each limited excerpt to its author.
+-->
+
+## [All That Glisters; Not All Those Who Wander]
+
+*Composite of lines from The Merchant of Venice and "The Riddle of Strider."*
+
+All that glisters is not gold.
+
+*William Shakespeare*
+
+Not all those who wander are lost.
+
+*J. R. R. Tolkien*
