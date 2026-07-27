@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-068, correcting Carver's name, marking Emerson's mid-sentence boundary, withholding an uncertain complete poem, and restoring Whitman's spelling.
 - Extended the source-corrected Life edition through WR-L-064, withholding a substantial Berry passage, restoring the Braveheart and Mason wording with accurate authorship, and correcting Boone's sentence.
 - Extended the source-corrected Life edition through WR-L-060, withholding Strand's complete copyrighted poem, restoring Whitman and Allen, and retaining Einstein's unidentified translation without blending witnesses.
 - Extended the source-corrected Life edition through WR-L-056, restoring Thoreau, correcting an obvious booklet typo, retaining an unresolved Lincoln maxim, and labeling the Laozi selection as a modern adaptation.

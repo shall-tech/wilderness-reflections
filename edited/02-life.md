@@ -1577,3 +1577,89 @@ EDITION_NOTE: Restores "all of life" from the checked source witness.
 Those who have the humility of a child may find again the key to reverence for, and kinship with, all of life.
 
 *J. Allen Boone*
+
+<!--
+WR-ID: WR-L-065
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [Never a Day Passes]
+VERIFIED_AUTHOR: George Washington Carver
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 19; attribution compared with George Washington Carver in His Own Words (1987)
+SOURCE: research/verification-log.md#wr-l-065---never-a-day-passes
+EDITION_NOTE: Corrects Carver's middle name. The quotation is collected under his name, but its original document or occasion was not located.
+-->
+
+## [Never a Day Passes]
+
+*Complete quotation; original occasion unidentified.*
+
+Never a day passes but that I do myself the honor to commune with some of nature's varied forms.
+
+*George Washington Carver*
+
+<!--
+WR-ID: WR-L-066
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [At the Gates of the Forest]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Excerpt; Fragment
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Nature," in Essays: Second Series (1844)
+SOURCE: research/verification-log.md#wr-l-066---at-the-gates-of-the-forest
+EDITION_NOTE: The booklet stops after "back" in the middle of Emerson's second sentence. The selection boundary is preserved and made visible with an ellipsis.
+-->
+
+## [At the Gates of the Forest]
+
+*Excerpt from “Nature,” ending partway through its second sentence.*
+
+At the gates of the forest, the surprised man of the world is forced to leave his city estimates of great and small, wise and foolish. The knapsack of custom falls off his back...
+
+*Ralph Waldo Emerson*
+
+<!-- Original Booklet Page 20 -->
+
+<!--
+WR-ID: WR-L-067
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: A Sabbath Poem
+VERIFIED_AUTHOR: M. J. “Slim” Hooey (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Later complete-poem witness; original publication unidentified
+SOURCE: research/verification-log.md#wr-l-067---i-have-came-to-terms-with-the-future
+EDITION_NOTE: The booklet reproduces the complete poem as prose and introduces variants. The original publication and author identity remain undocumented, so replacement text is not reproduced.
+-->
+
+## A Sabbath Poem
+
+*Complete poem; text not reproduced.*
+
+*[Text omitted pending identification of the original publication and rights status.]*
+
+*M. J. “Slim” Hooey (as circulated)*
+
+<!--
+WR-ID: WR-L-068
+PAGE: 20
+SECTION: Life
+VERIFIED_TITLE: [I Think I Could Turn and Live with the Animals]
+VERIFIED_AUTHOR: Walt Whitman
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Song of Myself," section 32, later Leaves of Grass text
+SOURCE: research/verification-log.md#wr-l-068---i-think-i-could-turn-and-live-with-the-animals
+EDITION_NOTE: Restores Whitman's spelling "self-contain'd" while preserving the booklet's one-line selection.
+-->
+
+## [I Think I Could Turn and Live with the Animals]
+
+*Opening line of section 32 of “Song of Myself.”*
+
+I think I could turn and live with the animals, they are so placid and self-contain'd.
+
+*Walt Whitman*
