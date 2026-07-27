@@ -1558,3 +1558,89 @@ All that glisters is not gold.
 Not all those who wander are lost.
 
 *J. R. R. Tolkien*
+
+<!--
+WR-ID: WR-KW-073
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Went to the Woods]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden; or, Life in the Woods (1854), chapter 2, "Where I Lived, and What I Lived For"
+SOURCE: research/verification-log.md#wr-kw-073---i-went-to-the-woods
+EDITION_NOTE: Restores first-edition "practise," source punctuation, and lowercase "him" in the closing catechism quotation within the booklet's continuous excerpt boundary.
+-->
+
+## [I Went to the Woods]
+
+*Extended passage from Walden, chapter 2.*
+
+I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience, and be able to give a true account of it in my next excursion. For most men, it appears to me, are in a strange uncertainty about it, whether it is of the devil or of God, and have somewhat hastily concluded that it is the chief end of man here to “glorify God and enjoy him forever.”
+
+*Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-074
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [No Matter How Cold and Wet You Are]
+VERIFIED_AUTHOR: Anonymous woodsman, as reported by Sigurd F. Olson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Open Horizons (1969)
+SOURCE: research/verification-log.md#wr-kw-074---no-matter-how-cold-and-wet-you-are
+EDITION_NOTE: Identifies Olson's account and its unnamed speaker while preserving the booklet's sentence boundary after the omitted address "Remember, young fellow."
+-->
+
+## [No Matter How Cold and Wet You Are]
+
+*Woodsman's advice recalled by Sigurd F. Olson in Open Horizons.*
+
+No matter how cold and wet you are, you're always warm and dry.
+
+*Anonymous woodsman, as reported by Sigurd F. Olson*
+
+<!--
+WR-ID: WR-KW-075
+PAGE: 40
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [A Californian Whom I Had Recently the Pleasure of Meeting]
+VERIFIED_AUTHOR: George Santayana
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Genteel Tradition in American Philosophy" (1911), collected in Winds of Doctrine (1913)
+SOURCE: research/verification-log.md#wr-kw-075---a-californian-whom-i-had-recently-the-pleasure-of-meeting
+EDITION_NOTE: Restores "I should say," "that man," the article before "woods," source punctuation, and British "centre."
+-->
+
+## [A Californian Whom I Had Recently the Pleasure of Meeting]
+
+*Passage from "The Genteel Tradition in American Philosophy."*
+
+A Californian whom I had recently the pleasure of meeting observed that if the philosophers had lived among your mountains, their systems would have been different from what they are. Certainly, I should say, very different from what those systems are which the European genteel tradition has handed down since Socrates; for these systems are egotistical; directly or indirectly they are anthropocentric, and inspired by the conceited notion that man, or human reason, or the human distinction between good and evil, is the centre and pivot of the universe. That is what the mountains and the woods should make you at last ashamed to assert.
+
+*George Santayana*
+
+<!-- Original Booklet Page 41 -->
+
+<!--
+WR-ID: WR-KW-076
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: King of the Mountain
+VERIFIED_AUTHOR: Edward Cunningham (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 41; matching Philmont circulation
+SOURCE: research/verification-log.md#wr-kw-076---king-of-the-mountain
+EDITION_NOTE: The title and attribution recur in a matching Philmont collection, but no original publication, date, independent witness, or rights holder was located. The complete poem is not duplicated in the edited edition.
+-->
+
+## King of the Mountain
+
+*Complete poem; original provenance unresolved and text not reproduced.*
+
+*[Text omitted pending source verification and permission from the rights holder.]*
+
+*Edward Cunningham (as circulated)*
