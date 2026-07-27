@@ -524,3 +524,34 @@ EDITION_NOTE: Later collections frequently attribute the opening two sentences t
 Hold yourself responsible for a higher standard than anybody else expects of you. Never excuse yourself. Never pity yourself. Be a hard taskmaster to yourself and be lenient with everybody else.
 
 *Author unknown; attributed in the booklet to Henry Ward Beecher*
+
+<!-- Original Booklet Page 29 -->
+
+<!--
+WR-ID: WR-LE-025
+PAGE: 29
+SECTION: Leadership
+VERIFIED_TITLE: [I Learned This, at Least, by My Experiment]
+VERIFIED_AUTHOR: Henry David Thoreau
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Walden; or, Life in the Woods (1854), Conclusion
+SOURCE: https://www.gutenberg.org/files/205/205-h/205-h.htm
+EDITION_NOTE: Restores "will pass an invisible boundary," the repeated nouns in "nor poverty poverty, nor weakness weakness," and the source capitalization while preserving the booklet's three-paragraph boundary.
+-->
+
+## [I Learned This, at Least, by My Experiment]
+
+*Three-paragraph excerpt from the Conclusion of Walden.*
+
+I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.
+
+He will put some things behind, will pass an invisible boundary; new, universal, and more liberal laws will begin to establish themselves around and within him; or the old laws be expanded, and interpreted in his favor in a more liberal sense, and he will live with the license of a higher order of beings. In proportion as he simplifies his life, the laws of the universe will appear less complex, and solitude will not be solitude, nor poverty poverty, nor weakness weakness.
+
+If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.
+
+*Henry David Thoreau*
+
+<!-- Original Booklet Page 30 -->
+
+<!-- Blank page -->
