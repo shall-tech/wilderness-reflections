@@ -618,3 +618,85 @@ EDITION_NOTE: Retains the short booklet aphorism but qualifies the Leopold attri
 Wilderness is nature's bank of genetic variability.
 
 *Attributed to Aldo Leopold; exact source not located*
+
+<!--
+WR-ID: WR-W-029
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [The Idea of Wilderness Needs No Defense]
+VERIFIED_AUTHOR: Edward Paul Abbey
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Shadows from the Big Woods," collected in The Journey Home (1977), p. 223
+SOURCE: research/verification-log.md#wr-w-029---the-wilderness-needs-no-defense
+EDITION_NOTE: Corrects the booklet's false Aldo Leopold attribution and restores Abbey's two source sentences, including "The idea of wilderness."
+-->
+
+## [The Idea of Wilderness Needs No Defense]
+
+*Two sentences from "Shadows from the Big Woods."*
+
+The idea of wilderness needs no defense. It only needs more defenders.
+
+*Edward Abbey*
+
+<!--
+WR-ID: WR-W-030
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [A Thing Is Right When It Tends to Preserve]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: "The Land Ethic," A Sand County Almanac (1949), pp. 224-225
+SOURCE: research/verification-log.md#wr-w-030---a-thing-is-right-when-it-tends-to-preserve
+EDITION_NOTE: Retains the booklet's source-verified two consecutive sentences and preserves their excerpt boundary.
+-->
+
+## [A Thing Is Right When It Tends to Preserve]
+
+*Two consecutive sentences from "The Land Ethic."*
+
+A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community. It is wrong when it tends otherwise.
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-W-031
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: Sangre de Cristo Mountains
+VERIFIED_AUTHOR: Phillips Kloss (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Booklet text and independent Philmont witness; original poetry publication not located
+SOURCE: research/verification-log.md#wr-w-031---in-the-soft-evening-of-june
+EDITION_NOTE: Records the comparison witness's title and Phillips Kloss credit while keeping both provisional. The complete protected poem is not reproduced without an original witness and permission.
+-->
+
+## Sangre de Cristo Mountains
+
+*Complete six-line poem credited provisionally to Phillips Kloss; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Phillips Kloss (attribution provisional)*
+
+<!--
+WR-ID: WR-W-032
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [Money Is the Wealth of the Materialists]
+VERIFIED_AUTHOR: Ed Buryn
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Vagabonding in America: A Guidebook about Energy (1973), later revised as Vagabonding in the U.S.A.
+SOURCE: research/verification-log.md#wr-w-032---money-is-the-wealth-of-the-materialists
+EDITION_NOTE: Corrects the booklet's "Ed Burgen" to Ed Buryn and retains the short aphorism confirmed by the Philmont comparison witness.
+-->
+
+## [Money Is the Wealth of the Materialists]
+
+Money is the wealth of the materialists and works miracles in the realm of the physical. Time is the wealth of the pilgrim, and works miracles in all realms.
+
+*Ed Buryn, Vagabonding in America*

@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-032 by correcting Abbey's false Leopold attribution, retaining Leopold, withholding Kloss, and correcting Ed Buryn's name.
 - Extended the source-corrected Wilderness edition through WR-W-028 by qualifying Brower and Leopold, preserving the Shooter/Okute provenance limits, and restoring Abbey's punctuation.
 - Extended the source-corrected Wilderness edition through WR-W-024 by separating Johnson's two speeches, withholding Hagen, qualifying Berrill, and retaining Stendhal's unidentified English rendering.
 - Extended the source-corrected Wilderness edition through WR-W-020 by withholding Schutz, restoring Peattie, retaining the anonymous outdoors maxim, and separating Muir from Rexroth's protected translation.
