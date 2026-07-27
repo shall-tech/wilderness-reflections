@@ -275,3 +275,92 @@ EDITION_NOTE: Retains the three source-verified sentences, preserves their excer
 That wonderful world of high mountains, dazzling in their rock and ice, acts as a catalyst. It suggests the infinite but it is not the infinite. The heights only give us what we ourselves bring them.
 
 *Lucien Devies; translated by Nea Morin and Janet Adam Smith*
+
+<!-- Original Booklet Page 69 -->
+
+<!--
+WR-ID: WR-W-013
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [When Night Is Almost Done]
+VERIFIED_AUTHOR: Emily Dickinson
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Emily Dickinson poem, Franklin 679 / Johnson 347, composed circa 1862
+SOURCE: research/verification-log.md#wr-w-013---when-the-night-is-almost-done
+EDITION_NOTE: Restores Dickinson's "Sunrise grows," "Dimples," capitalization, and dashes in place of the booklet's regularization and two corruptions.
+-->
+
+## [When Night Is Almost Done]
+
+When Night is almost done—\
+And Sunrise grows so near\
+That we can touch the Spaces—\
+It's time to smooth the Hair—\
+And get the Dimples ready—\
+And wonder we could care\
+For that old—faded Midnight—\
+That frightened—but an Hour—
+
+*Emily Dickinson*
+
+<!--
+WR-ID: WR-W-014
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [Earth Laughs in Flowers]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Fragment; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Hamatreya" (1846)
+SOURCE: research/verification-log.md#wr-w-014---the-earth-laughs-in-flowers
+EDITION_NOTE: Removes the booklet's added "The" and preserves the selected opening clause without expanding into the source line's critique of possessive landowners.
+-->
+
+## [Earth Laughs in Flowers]
+
+*Opening clause of a line in "Hamatreya."*
+
+Earth laughs in flowers.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-015
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [I Do Not Know of a Flowering Plant]
+VERIFIED_AUTHOR: Euell Gibbons (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and later attributed quotation witnesses; original publication not located
+SOURCE: research/verification-log.md#wr-w-015---i-do-not-know-of-a-flowering-plant
+EDITION_NOTE: Retains the short booklet statement while qualifying the Gibbons attribution because no original book, article, interview, or recording was located.
+-->
+
+## [I Do Not Know of a Flowering Plant]
+
+I do not know of a flowering plant that tastes good and is poisonous. Nature is not out to get you.
+
+*Attributed to Euell Gibbons; original source not located*
+
+<!--
+WR-ID: WR-W-016
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [Since the Land Is the Parent]
+VERIFIED_AUTHOR: Plato; translator or paraphraser unidentified
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Loose modernization of Republic, book 3, 414e; named translation not identified
+SOURCE: research/verification-log.md#wr-w-016---since-the-land-is-the-parent
+EDITION_NOTE: Retains the booklet's compact modernization rather than blending it with a standard translation, and explicitly identifies the unidentified translator or paraphraser.
+-->
+
+## [Since the Land Is the Parent]
+
+*Loose modernization of Republic 3.414e.*
+
+Since the land is the parent, let the citizens take care of her more carefully than children do their mother.
+
+*Plato; translator or paraphraser unidentified*
