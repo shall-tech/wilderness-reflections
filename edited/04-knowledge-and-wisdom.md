@@ -95,3 +95,92 @@ EDITION_NOTE: Corrects the booklet's corrupted "inspiration to truth" to the est
 The search for truth is more precious than its possession.
 
 *Gotthold Ephraim Lessing*
+
+<!--
+WR-ID: WR-KW-005
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The End of All Our Exploring]
+VERIFIED_AUTHOR: T. S. Eliot
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Little Gidding," section V (1942), collected in Four Quartets
+SOURCE: research/verification-log.md#wr-kw-005---the-end-of-all-our-exploring
+EDITION_NOTE: Restores the poem's three-line presentation and corrects the booklet's spelling of Eliot's name while preserving the selected sentence.
+-->
+
+## [The End of All Our Exploring]
+
+*Three-line excerpt from “Little Gidding,” section V.*
+
+And the end of all our exploring\
+Will be to arrive where we started\
+And know the place for the first time.
+
+*T. S. Eliot*
+
+<!--
+WR-ID: WR-KW-006
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Once You Know Something]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 33
+SOURCE: research/verification-log.md#wr-kw-006---once-you-know-something
+EDITION_NOTE: No publication, speech, biographical identification, or independent witness supports the booklet's Don Hummel attribution.
+-->
+
+## [Once You Know Something]
+
+*Complete aphorism; attribution unresolved.*
+
+Once you know something, you can no longer believe it.
+
+*Author unknown; attributed in the booklet to Fr. Don Hummel*
+
+<!--
+WR-ID: WR-KW-007
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Learning Is Finding Out]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977), Messiah's Handbook passage
+SOURCE: research/verification-log.md#wr-kw-007---learning-is-finding-out
+EDITION_NOTE: Removes the booklet's added comma after "know it" and restores "and" before "teachers" while preserving the four-part presentation.
+-->
+
+## [Learning Is Finding Out]
+
+*Complete four-part Messiah's Handbook passage from Illusions.*
+
+Learning is finding out what you already know.\
+Doing is demonstrating that you know it.\
+Teaching is reminding others that they know it just as well as you.\
+You are all learners, doers, and teachers.
+
+*Richard Bach*
+
+<!--
+WR-ID: WR-KW-008
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [An Awareness of the Totality of the Person]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 33
+SOURCE: research/verification-log.md#wr-kw-008---an-awareness-of-the-totality-of-the-person
+EDITION_NOTE: No identifiable Jean Berry, original interview, publication, or reliable biographical match was located.
+-->
+
+## [An Awareness of the Totality of the Person]
+
+*Complete booklet passage; source and attribution unresolved.*
+
+The thing that I think is most important at this moment is an awareness of the totality of the person. One of the greatest stumbling blocks that people have today is understanding that one cannot experience life from the neck up... If I could I would wave a magic wand and have them be automatically convinced that brain existence is only a small part of their lives. They are missing out on a whole fantastic world.
+
+*Author unknown; attributed in the booklet to Jean Berry*
