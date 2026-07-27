@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-012, qualifying White and Phillips provenance, preserving Augustine's clause boundary, and correcting B. David Polis's name.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-008, restoring Eliot and Bach while retaining two explicitly unresolved booklet texts.
 - Started the source-corrected Knowledge and Wisdom edition through WR-KW-004, restoring Emerson, Næss, and Lessing while withholding a substantial Daumal translation pending rights clearance.
 - Completed the source-corrected Leadership edition through WR-LE-025 by restoring the booklet-bounded Walden conclusion passage and its original page structure.

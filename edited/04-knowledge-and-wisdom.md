@@ -184,3 +184,89 @@ EDITION_NOTE: No identifiable Jean Berry, original interview, publication, or re
 The thing that I think is most important at this moment is an awareness of the totality of the person. One of the greatest stumbling blocks that people have today is understanding that one cannot experience life from the neck up... If I could I would wave a magic wand and have them be automatically convinced that brain existence is only a small part of their lives. They are missing out on a whole fantastic world.
 
 *Author unknown; attributed in the booklet to Jean Berry*
+
+<!--
+WR-ID: WR-KW-009
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [A Little Learning]
+VERIFIED_AUTHOR: William Allen White (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 33; compared with later White-attributed witnesses
+SOURCE: research/verification-log.md#wr-kw-009---a-little-learning
+EDITION_NOTE: Later witnesses consistently credit White and usually read "to one" rather than "for one," but no original editorial, speech, letter, or contemporaneous source was located.
+-->
+
+## [A Little Learning]
+
+*Complete circulating maxim; original occasion unidentified.*
+
+A little learning is not a dangerous thing for one who does not mistake it for a great deal.
+
+*William Allen White (as circulated)*
+
+<!--
+WR-ID: WR-KW-010
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Best Informed People]
+VERIFIED_AUTHOR: Unknown; collected by Waite Phillips
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Waite Phillips's Epigrams (1964)
+SOURCE: research/verification-log.md#wr-kw-010---the-best-informed-people
+EDITION_NOTE: Inclusion in Phillips's collection is verified, but original authorship is not independently established. The booklet's redundant period after the closing question mark is omitted.
+-->
+
+## [The Best Informed People]
+
+*Complete collected epigram; original authorship unresolved.*
+
+The best informed people are those with acute observation and who are inquisitive to be continually asking “Why?”
+
+*Author unknown; collected by Waite Phillips*
+
+<!--
+WR-ID: WR-KW-011
+PAGE: 33
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Patience Is the Companion of Wisdom]
+VERIFIED_AUTHOR: Augustine of Hippo
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: English translation of De patientia (On Patience), chapter 5
+SOURCE: https://episcopalnet.org/READINGS/Hippo/Patience.html
+EDITION_NOTE: Preserves the booklet's opening-clause boundary; the remainder of Augustine's sentence stays outside the selection.
+-->
+
+## [Patience Is the Companion of Wisdom]
+
+*Opening-clause excerpt from On Patience, chapter 5.*
+
+Patience is the companion of wisdom.
+
+*Augustine of Hippo*
+
+<!-- Original Booklet Page 34 -->
+
+<!--
+WR-ID: WR-KW-012
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Must We Always Teach Our Children with Books?]
+VERIFIED_AUTHOR: B. David Polis
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 34; independently reproduced by 2000
+SOURCE: research/verification-log.md#wr-kw-012---must-we-always-teach-our-children-with-books
+EDITION_NOTE: Corrects the author's name. Several alternate forms circulate, and the original occasion was not located, so the independently witnessed booklet form is retained.
+-->
+
+## [Must We Always Teach Our Children with Books?]
+
+*Complete circulating statement; original occasion unidentified.*
+
+Must we always teach our children with books? Let them look at the stars and the mountains above. Let them look at the waters and the trees and flowers on Earth. Then they will begin to think, and to think is the beginning of a real education.
+
+*B. David Polis (as circulated)*
