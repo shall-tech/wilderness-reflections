@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-032, correcting Olson and Carhart, qualifying an Anatole France passage, and restoring the selected KJV clause.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-028, qualifying the Clark attribution, restoring Whitman and a named Tao Te Ching translation, and retaining one unresolved long booklet passage.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-024, rejecting a false Muir attribution, identifying a Tao Te Ching adaptation, and restoring the Muir journal and Lopez excerpts.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-020, separating Darling's composite, qualifying an unsupported Navajo attribution, and restoring Marshall and Wordsworth.

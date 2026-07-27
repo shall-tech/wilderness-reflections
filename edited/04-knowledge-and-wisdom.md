@@ -616,3 +616,87 @@ EDITION_NOTE: No publication, interview, institutional record, or reliable biogr
 The fact remains that the people who profess to know about these things and to love them haven't the vaguest notion of how to see nature. They don't know where to find it, they don't know how to experience it, and if they demonstrate the existence of it they do so on a field trip which is more a social outing than a field trip. If anything, they do more damage to nature by their activity than they do if they never brought the kids out at all. The point is that people should find these things out for themselves. You shouldn't have to go to some expert to know that if you look here or there you'll find something. You're there - look! It's as simple as that.
 
 *Author unknown; attributed in the booklet to T. J. Walker*
+
+<!--
+WR-ID: WR-KW-029
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Born with Curiosity and Wonder]
+VERIFIED_AUTHOR: Sigurd F. Olson
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Reflections from the North Country (1976), page 153
+SOURCE: research/verification-log.md#wr-kw-029---born-with-curiosity-and-wonder
+EDITION_NOTE: The booklet wording matches the source; this edition corrects the author's surname from "Olsen" to "Olson."
+-->
+
+## [Born with Curiosity and Wonder]
+
+*Complete passage from Reflections from the North Country.*
+
+While we are born with curiosity and wonder and our early years full of the adventure they bring, I know such inherent joys are often lost. I also know that, being deep within us, their latent glow can be fanned to flame again by awareness and an open mind.
+
+*Sigurd F. Olson*
+
+<!--
+WR-ID: WR-KW-030
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Awaken People's Curiosity]
+VERIFIED_AUTHOR: Anatole France (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 35; compared with later English and French circulating witnesses
+SOURCE: research/verification-log.md#wr-kw-030---awaken-peoples-curiosity
+EDITION_NOTE: The passage circulates under France's name, but no original title, speech, letter, or primary French publication was located; witnesses also vary between "inflammable" and "flammable."
+-->
+
+## [Awaken People's Curiosity]
+
+*Complete circulating passage; original provenance unresolved.*
+
+Do not try to satisfy your vanity by teaching a great many things. Awaken people's curiosity. It is enough to open minds; do not overload them. Put there just a spark. If there is some good inflammable stuff, it will catch fire.
+
+*Anatole France (as circulated)*
+
+<!--
+WR-ID: WR-KW-031
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [If We Are to Have Broad-Thinking Men and Women]
+VERIFIED_AUTHOR: Arthur H. Carhart
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Established text associated with Carhart's early U.S. Forest Service recreation planning
+SOURCE: research/verification-log.md#wr-kw-031---if-we-are-to-have-broad-thinking-men-and-women
+EDITION_NOTE: Restores "a communion with nature," plural "wilderness conditions," and the author's full name.
+-->
+
+## [If We Are to Have Broad-Thinking Men and Women]
+
+*One-sentence professional statement associated with Carhart's early Forest Service work.*
+
+If we are to have broad-thinking men and women of high mentality, of good physique and with a true perspective on life, we must allow our populace a communion with nature in areas of more or less wilderness conditions.
+
+*Arthur H. Carhart*
+
+<!--
+WR-ID: WR-KW-032
+PAGE: 35
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Or Speak to the Earth]
+VERIFIED_AUTHOR: Biblical Book of Job
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: King James Version, Job 12:8
+SOURCE: research/verification-log.md#wr-kw-032---speak-to-the-earth
+EDITION_NOTE: Restores the opening conjunction while preserving the booklet's first-clause boundary; the clause concerning the fishes remains outside the selection.
+-->
+
+## [Or Speak to the Earth]
+
+*First-clause excerpt from Job 12:8, King James Version.*
+
+Or speak to the earth, and it shall teach thee.
+
+*Job 12:8*
