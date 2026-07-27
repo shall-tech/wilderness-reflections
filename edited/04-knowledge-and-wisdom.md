@@ -270,3 +270,87 @@ EDITION_NOTE: Corrects the author's name. Several alternate forms circulate, and
 Must we always teach our children with books? Let them look at the stars and the mountains above. Let them look at the waters and the trees and flowers on Earth. Then they will begin to think, and to think is the beginning of a real education.
 
 *B. David Polis (as circulated)*
+
+<!--
+WR-ID: WR-KW-013
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Have a Low Opinion of Mountain Books]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Muir's March 18, 1872 letter to Ralph Waldo Emerson and expanded journal version
+SOURCE: research/verification-log.md#wr-kw-013---i-have-a-low-opinion-of-books
+EDITION_NOTE: Restores "mountain books" and "cartloads," and identifies the selection as a composite of Muir's letter and expanded journal wording.
+-->
+
+## [I Have a Low Opinion of Mountain Books]
+
+*Abridged composite excerpt from Muir's 1872 letter and journal version.*
+
+I have a low opinion of mountain books; they are but piles of stones set up to show where other minds have been, or at best signal smokes to call attention... One day's exposure to mountains is better than cartloads of books.
+
+*John Muir*
+
+<!--
+WR-ID: WR-KW-014
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [For Afterwards a Man Finds Pleasure]
+VERIFIED_AUTHOR: Homer; translated by George Herbert Palmer
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: George Herbert Palmer's 1891 translation of The Odyssey, book 15, lines 397-400
+SOURCE: research/verification-log.md#wr-kw-014---far-afterwards-a-man-finds-pleasure
+EDITION_NOTE: Restores Palmer's opening "For afterwards" and corrects the booklet's misspelling of The Odyssey.
+-->
+
+## [For Afterwards a Man Finds Pleasure]
+
+*One-sentence excerpt from The Odyssey, book 15.*
+
+For afterwards a man finds pleasure in his pains, when he has suffered long and wandered long, so I will tell you what you ask and seek to know.
+
+*Homer; translated by George Herbert Palmer*
+
+<!--
+WR-ID: WR-KW-015
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [He Who Resolves Never to Ransack Any Mind]
+VERIFIED_AUTHOR: Sir Joshua Reynolds
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Sixth Discourse to the Royal Academy, delivered December 10, 1774
+SOURCE: https://www.gutenberg.org/files/52436/52436-h/52436-h.htm
+EDITION_NOTE: Restores "will be soon," "barrenness," "imitations," and "obliged," and corrects the booklet's attribution date and spelling.
+-->
+
+## [He Who Resolves Never to Ransack Any Mind]
+
+*One-sentence excerpt from Reynolds's sixth Discourse.*
+
+He who resolves never to ransack any mind but his own, will be soon reduced, from mere barrenness, to the poorest of all imitations; he will be obliged to imitate himself, and to repeat what he has before often repeated.
+
+*Sir Joshua Reynolds, to students of the Royal Academy, December 10, 1774*
+
+<!--
+WR-ID: WR-KW-016
+PAGE: 34
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Old Lakota Were Wise]
+VERIFIED_AUTHOR: Luther Standing Bear
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Land of the Spotted Eagle (1933)
+SOURCE: research/verification-log.md#wr-kw-016---the-old-lakota-was-wise
+EDITION_NOTE: Restores the source's plural subject and pronouns while preserving the booklet's omission of the following sentence about youth.
+-->
+
+## [The Old Lakota Were Wise]
+
+*Abridged excerpt from Land of the Spotted Eagle.*
+
+The old Lakota were wise. They knew that man's heart, away from nature, becomes hard; they knew that lack of respect for growing, living things soon led to lack of respect for humans too.
+
+*Luther Standing Bear*
