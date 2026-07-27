@@ -364,3 +364,89 @@ EDITION_NOTE: Retains the booklet's compact modernization rather than blending i
 Since the land is the parent, let the citizens take care of her more carefully than children do their mother.
 
 *Plato; translator or paraphraser unidentified*
+
+<!--
+WR-ID: WR-W-017
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [Let Us Dance in the Sun]
+VERIFIED_AUTHOR: Susan Polis Schutz (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Later attributed quotation witnesses; original publication not located
+SOURCE: research/verification-log.md#wr-w-017---let-us-dance-in-the-sun
+EDITION_NOTE: Corrects the booklet's "Susan Poliz Schuetz" to Susan Polis Schutz but keeps the attribution provisional. The complete protected text is not reproduced without an original witness and permission.
+-->
+
+## [Let Us Dance in the Sun]
+
+*Complete circulating text attributed provisionally to Susan Polis Schutz; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Susan Polis Schutz (attribution provisional)*
+
+<!--
+WR-ID: WR-W-018
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [Nature Is More Than a Refuge]
+VERIFIED_AUTHOR: Donald Culross Peattie
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Opening of The Road of a Naturalist (1941)
+SOURCE: research/verification-log.md#wr-w-018---nature-is-more-than-a-refuge
+EDITION_NOTE: Restores Peattie's full name, hyphenates "smoke-filled," and corrects "quietude for ears" to the source wording "quietude from ears in torture."
+-->
+
+## [Nature Is More Than a Refuge]
+
+*Opening two sentences of The Road of a Naturalist.*
+
+Nature is more than a refuge from human chaos, more than fresh air for smoke-filled lungs, and quietude from ears in torture. It is the common way of living, and as such it is our touchstone.
+
+*Donald Culross Peattie*
+
+<!--
+WR-ID: WR-W-019
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [There Is No Graduation from the School of the Outdoors]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text; no earlier or attributable publication located
+SOURCE: research/verification-log.md#wr-w-019---there-is-no-graduation-from-the-school-of-the-outdoors
+EDITION_NOTE: Retains the short anonymous booklet statement without assigning unsupported authorship.
+-->
+
+## [There Is No Graduation from the School of the Outdoors]
+
+There is no graduation from the school of the outdoors.
+
+*Author unknown*
+
+<!--
+WR-ID: WR-W-020
+PAGE: 69
+SECTION: Wilderness
+VERIFIED_TITLE: [The Clearest Way into the Universe] / Deep in the Mountain Wilderness
+VERIFIED_AUTHOR: John Muir; Wang Wei, translated by Kenneth Rexroth
+WORK_SCOPE: Complete; Composite; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Muir journal entry (July 1890), collected in John of the Mountains (1938), p. 313; Rexroth's complete Wang Wei translation in Love and the Turning Year (1970), p. 58
+SOURCE: research/verification-log.md#wr-w-020---the-clearest-way-into-the-universe
+EDITION_NOTE: Separates Muir's public-domain sentence from Rexroth's complete protected translation, restores Muir's capitalized "Universe," and supplies the poem's author and translator. The translation is not reproduced.
+-->
+
+## [The Clearest Way into the Universe] / Deep in the Mountain Wilderness
+
+*Muir journal sentence followed in the booklet by Kenneth Rexroth's complete translation of Wang Wei.*
+
+The clearest way into the Universe is through a forest wilderness.
+
+*John Muir*
+
+*[Rexroth's translation "Deep in the Mountain Wilderness" omitted pending permission from the translation rights holder.]*
+
+*Wang Wei; translated by Kenneth Rexroth*
