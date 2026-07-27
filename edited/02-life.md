@@ -1399,3 +1399,95 @@ EDITION_NOTE: The booklet gives a modern expansion of chapter 23 rather than a t
 Hard rain cannot fall all day, harsh winds cannot blow forever. If nature cannot make violent actions last, how can you?
 
 *Laozi (traditional attribution)*
+
+<!--
+WR-ID: WR-L-057
+PAGE: 18
+SECTION: Life
+VERIFIED_TITLE: Keeping Things Whole
+VERIFIED_AUTHOR: Mark Strand
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Keeping Things Whole," first published as "A Reason for Moving" in Sleeping with One Eye Open (1964)
+SOURCE: research/verification-log.md#wr-l-057---in-a-field-i-am-the-absence-of-field
+EDITION_NOTE: The booklet reproduces the complete copyrighted poem as prose and introduces wording variants. The edited edition identifies the work but does not reproduce it without permission.
+-->
+
+## Keeping Things Whole
+
+*Complete poem; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Mark Strand*
+
+<!-- Original Booklet Page 19 -->
+
+<!--
+WR-ID: WR-L-058
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: Song of the Open Road
+VERIFIED_AUTHOR: Walt Whitman
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Song of the Open Road, section 1, later Leaves of Grass text
+SOURCE: https://www.poetryfoundation.org/poems/48859/song-of-the-open-road
+EDITION_NOTE: Restores the hyphen in the second occurrence of "good-fortune" while preserving the booklet's seven-line excerpt.
+-->
+
+## Song of the Open Road
+
+*Opening seven-line excerpt from section 1.*
+
+Afoot and light-hearted I take to the open road,\
+Healthy, free, the world before me,\
+The long brown path before me leading wherever I choose.\
+Henceforth I ask not good-fortune, I myself am good-fortune,\
+Henceforth I whimper no more, postpone no more, need nothing,\
+Done with indoor complaints, libraries, querulous criticisms,\
+Strong and content I travel the open road.
+
+*Walt Whitman*
+
+<!--
+WR-ID: WR-L-059
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [The Fairest Thing We Can Experience]
+VERIFIED_AUTHOR: Albert Einstein
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 19; compared with English translations of "What I Believe" (1930)
+SOURCE: research/verification-log.md#wr-l-059---the-fairest-thing-we-can-experience
+EDITION_NOTE: The booklet gives a shortened English translation, and exact published wording varies by translator; the booklet's selection is retained without silently blending witnesses.
+-->
+
+## [The Fairest Thing We Can Experience]
+
+*Abridged excerpt in an unidentified English translation of “What I Believe.”*
+
+The fairest thing we can experience is the mysterious. It is the fundamental emotion at the cradle of true art and true science. He who knows it not is as good as dead, a snuffed out candle...
+
+*Albert Einstein*
+
+<!--
+WR-ID: WR-L-060
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [They Sleep Generally in the Open Air]
+VERIFIED_AUTHOR: Joel Asaph Allen
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The American Bisons, Living and Extinct (1876)
+SOURCE: research/verification-log.md#wr-l-060---they-sleep-generally-in-the-open-air
+EDITION_NOTE: Restores "hordes," "yet," and "ordinary degree of refinement" from the source.
+-->
+
+## [They Sleep Generally in the Open Air]
+
+*Paragraph excerpt from The American Bisons, Living and Extinct.*
+
+They sleep generally in the open air, in winter as well as in summer, subjected to every inclemency of the weather. As may well be imagined, a buffalo hunter, at the end of the season, is by no means prepossessing in his appearance, being, in addition to his filthy aspect, a paradise for hordes of nameless parasites. They are yet a rollicking set, and occasionally include men of intelligence, who formerly possessed an ordinary degree of refinement.
+
+*Joel Asaph Allen*

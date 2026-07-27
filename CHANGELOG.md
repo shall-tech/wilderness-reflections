@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Life edition through WR-L-060, withholding Strand's complete copyrighted poem, restoring Whitman and Allen, and retaining Einstein's unidentified translation without blending witnesses.
 - Extended the source-corrected Life edition through WR-L-056, restoring Thoreau, correcting an obvious booklet typo, retaining an unresolved Lincoln maxim, and labeling the Laozi selection as a modern adaptation.
 - Extended the source-corrected Life edition through WR-L-052, restoring Cole's source wording and documenting three unresolved circulating attributions without endorsing them.
 - Extended the source-corrected Life edition through WR-L-048, restoring Keller and Frost, retaining the unresolved Tuscan proverb wording, and identifying Roosevelt's selection as a four-statement memorial composite.
