@@ -501,3 +501,90 @@ EDITION_NOTE: Restores the memorial inscription's British "colours" and plural "
 The wonder of the world, the beauty and the power, the shapes of things, their colours, lights and shades. These I saw. Look ye also while life lasts.
 
 *Unknown*
+
+<!--
+WR-ID: WR-B-021
+PAGE: 58
+SECTION: Beauty
+VERIFIED_TITLE: [Far Away There]
+VERIFIED_AUTHOR: Louisa May Alcott
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Christie's speech in Work: A Story of Experience (1873), chapter 12
+SOURCE: research/verification-log.md#wr-b-021---far-away-there
+EDITION_NOTE: Restores "I cannot reach them" and the source's prose presentation while preserving the booklet's endpoint before the speech continues with a frost-and-flowers image.
+-->
+
+## [Far Away There]
+
+*Shortened excerpt from Christie's speech in Work.*
+
+Far away there in the sunshine are my highest aspirations. I cannot reach them, but I can look up and see their beauty, believe in them, and try to follow where they lead.
+
+*Louisa May Alcott*
+
+<!-- Original Booklet Page 59 -->
+
+<!--
+WR-ID: WR-B-022
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: Pine Tree Tops
+VERIFIED_AUTHOR: Gary Snyder
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Clear Creek, no. 13 (March 1972); collected in Turtle Island (1974)
+SOURCE: research/verification-log.md#wr-b-022---pine-tree-tops
+EDITION_NOTE: Identifies the complete protected poem and documents the booklet's capitalization and punctuation variants without reproducing replacement source text.
+-->
+
+## Pine Tree Tops
+
+*Complete poem; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Gary Snyder*
+
+<!--
+WR-ID: WR-B-023
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [Sometimes the Rare, the Beautiful]
+VERIFIED_AUTHOR: Loren Eiseley
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Mind as Nature (Harper & Row, 1962)
+SOURCE: research/verification-log.md#wr-b-023---sometimes-the-rare-the-beautiful
+EDITION_NOTE: Identifies the substantial protected passage and its documented wording variants without reproducing replacement source text.
+-->
+
+## [Sometimes the Rare, the Beautiful]
+
+*Substantial passage from The Mind as Nature; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Loren Eiseley*
+
+<!--
+WR-ID: WR-B-024
+PAGE: 59
+SECTION: Beauty
+VERIFIED_TITLE: [No Synonym for God Is So Perfect as Beauty]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Journal entry dated June 26, 1875, published in John of the Mountains (1938), page 208
+SOURCE: research/verification-log.md#wr-b-024---no-synonym-for-god-is-so-perfect-as-beauty
+EDITION_NOTE: Restores plural "movements of water," capitalizes "Beauty," and restores the source exclamation point while preserving the complete sentence boundary.
+-->
+
+## [No Synonym for God Is So Perfect as Beauty]
+
+No synonym for God is so perfect as Beauty.
+Whether as seen carving the lines of the mountains with glaciers,
+or gathering matter into stars, or planning the movements of water,
+or gardening - still all is Beauty!
+
+*John Muir*
