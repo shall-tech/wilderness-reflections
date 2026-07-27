@@ -1491,3 +1491,89 @@ EDITION_NOTE: Restores "hordes," "yet," and "ordinary degree of refinement" from
 They sleep generally in the open air, in winter as well as in summer, subjected to every inclemency of the weather. As may well be imagined, a buffalo hunter, at the end of the season, is by no means prepossessing in his appearance, being, in addition to his filthy aspect, a paradise for hordes of nameless parasites. They are yet a rollicking set, and occasionally include men of intelligence, who formerly possessed an ordinary degree of refinement.
 
 *Joel Asaph Allen*
+
+<!--
+WR-ID: WR-L-061
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [Always in Big Woods]
+VERIFIED_AUTHOR: Wendell Berry
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Unforeseen Wilderness: An Essay on Kentucky's Red River Gorge (1971)
+SOURCE: research/verification-log.md#wr-l-061---always-in-a-big-woods
+EDITION_NOTE: The booklet condenses and alters a substantial copyrighted passage. The work and relationship are identified, but replacement source text is not reproduced without permission.
+-->
+
+## [Always in Big Woods]
+
+*Condensed excerpt from The Unforeseen Wilderness; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Wendell Berry*
+
+<!--
+WR-ID: WR-L-062
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [Every Man Dies]
+VERIFIED_AUTHOR: Randall Wallace
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Braveheart (1995), screenplay dialogue spoken by the fictionalized William Wallace
+SOURCE: research/verification-log.md#wr-l-062---all-men-die
+EDITION_NOTE: Restores the film line and credits its writer, Randall Wallace, rather than presenting it as a documented statement by the historical William Wallace.
+-->
+
+## [Every Man Dies]
+
+*One line of dialogue from Braveheart.*
+
+Every man dies, not every man really lives.
+
+*Randall Wallace; spoken by the fictionalized William Wallace*
+
+<!--
+WR-ID: WR-L-063
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [Their Feet That Danced the Dance of Life]
+VERIFIED_AUTHOR: Herbert Mason
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Gilgamesh: A Verse Narrative (1970)
+SOURCE: research/verification-log.md#wr-l-063---they-danced-the-dance-of-life
+EDITION_NOTE: Restores Mason's wording and lineation. These are lines from a modern verse narrative, not a literal quotation from an ancient tablet.
+-->
+
+## [Their Feet That Danced the Dance of Life]
+
+*Three-line excerpt from Gilgamesh: A Verse Narrative.*
+
+their feet\
+that danced the dance of life\
+Which hovers close to death.
+
+*Herbert Mason*
+
+<!--
+WR-ID: WR-L-064
+PAGE: 19
+SECTION: Life
+VERIFIED_TITLE: [Those Who Have the Humility of a Child]
+VERIFIED_AUTHOR: J. Allen Boone
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Kinship with All Life (1954)
+SOURCE: research/verification-log.md#wr-l-064---those-who-have-the-humility-of-a-child
+EDITION_NOTE: Restores "all of life" from the checked source witness.
+-->
+
+## [Those Who Have the Humility of a Child]
+
+*Complete sentence from Kinship with All Life.*
+
+Those who have the humility of a child may find again the key to reverence for, and kinship with, all of life.
+
+*J. Allen Boone*
