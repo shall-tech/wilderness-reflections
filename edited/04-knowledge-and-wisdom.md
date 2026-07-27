@@ -1124,3 +1124,91 @@ EDITION_NOTE: No Sufi author, original-language text, classical source, translat
 Pilgrimage to the place of the wise is to escape the flame of separation from nature.
 
 *Anonymous; circulated as an old Sufi saying*
+
+<!--
+WR-ID: WR-KW-053
+PAGE: 37
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [You Are Never Given a Wish]
+VERIFIED_AUTHOR: Richard Bach
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Illusions: The Adventures of a Reluctant Messiah (1977), Messiah's Handbook passage
+SOURCE: research/verification-log.md#wr-kw-053---you-are-never-given-a-wish
+EDITION_NOTE: Restores the source comma before "however" in this limited excerpt.
+-->
+
+## [You Are Never Given a Wish]
+
+*Messiah's Handbook passage from Illusions.*
+
+You are never given a wish without also being given the power to make it true. You may have to work for it, however.
+
+*Richard Bach*
+
+<!-- Original Booklet Page 38 -->
+
+<!--
+WR-ID: WR-KW-054
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: The Indian & the Cricket
+VERIFIED_AUTHOR: Dave Moriah (adapter); original author unknown
+WORK_SCOPE: Adapted; Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 38; matching Philmont collection identifies a Summit Expedition staff-manual source
+SOURCE: research/verification-log.md#wr-kw-054---the-indian--the-cricket
+EDITION_NOTE: Moriah's version is identified as an adaptation, but the staff-manual edition and original author remain unknown. The complete substantial anecdote is not duplicated in the edited edition.
+-->
+
+## The Indian & the Cricket
+
+*Complete adapted anecdote; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Dave Moriah (adapter); original author unknown*
+
+<!--
+WR-ID: WR-KW-055
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [In the Point of Rest]
+VERIFIED_AUTHOR: Dag Hammarskjöld
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Markings (1964), translated by W. H. Auden and Leif Sjöberg
+SOURCE: research/verification-log.md#wr-kw-055---in-the-point-of-rest
+EDITION_NOTE: The booklet closely follows the named English translation and presents one complete journal entry. The complete copyrighted translation is not reproduced without permission.
+-->
+
+## [In the Point of Rest]
+
+*Complete journal entry from Markings; translation not reproduced.*
+
+*[Text omitted pending permission from the translation rights holder.]*
+
+*Dag Hammarskjöld; translated by W. H. Auden and Leif Sjöberg*
+
+<!--
+WR-ID: WR-KW-056
+PAGE: 38
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [The Mental Domain of Phantasy]
+VERIFIED_AUTHOR: Sigmund Freud
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Introductory Lectures on Psycho-Analysis (1922), lecture 23, translated by Joan Riviere
+SOURCE: https://www.gutenberg.org/files/75810/75810-h/75810-h.htm
+EDITION_NOTE: Uses the named 1922 Riviere translation without blending witnesses, restores its "phantasy," "nature-parks," and "reality-principle," and preserves the booklet's omission between the nature-park introduction and the reservation explanation.
+-->
+
+## [The Mental Domain of Phantasy]
+
+*Abridged excerpt from lecture 23, "The Paths to the Formation of Symptoms."*
+
+The creation of the mental domain of phantasy has a complete counterpart in the establishment of “reservations” and “nature-parks” in places where the inroads of agriculture, traffic, or industry threaten to change the original face of the earth rapidly into something unrecognizable. . . .
+
+The “reservation” is to maintain the old condition of things which has been regretfully sacrificed to necessity everywhere else; there everything may grow and spread as it pleases, including what is useless and even what is harmful. The mental realm of phantasy is also such a reservation reclaimed from the encroaches of the reality-principle.
+
+*Sigmund Freud; translated by Joan Riviere*
