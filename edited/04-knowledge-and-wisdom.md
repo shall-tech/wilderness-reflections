@@ -786,3 +786,87 @@ EDITION_NOTE: Restores the source's prose presentation, "the animals," and the s
 I have learned a lot from trees; sometimes about the weather, sometimes about the animals, sometimes about the Great Spirit.
 
 *Tatanga Mani (Walking Buffalo)*
+
+<!--
+WR-ID: WR-KW-037
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [If You Understand]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36
+SOURCE: research/verification-log.md#wr-kw-037---if-you-understand
+EDITION_NOTE: The sentence circulates as a Zen proverb or verse, but no traditional text, original-language form, named teacher, or early publication was located.
+-->
+
+## [If You Understand]
+
+*Complete modern saying; traditional provenance unresolved.*
+
+If you understand, things are just as they are; if you do not understand, things are just as they are.
+
+*Anonymous; circulated as a Zen saying*
+
+<!--
+WR-ID: WR-KW-038
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Believe One Who Knows]
+VERIFIED_AUTHOR: Bernard of Clairvaux
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Letter 106 to Henry Murdach, English translation using "something greater"
+SOURCE: research/verification-log.md#wr-kw-038---believe-one-who-knows
+EDITION_NOTE: Identifies the letter and its recipient while retaining the selected translation wording; other translations read "more" and "forests."
+-->
+
+## [Believe One Who Knows]
+
+*Excerpt from Letter 106 to Henry Murdach.*
+
+Believe one who knows: you will find something greater in woods than in books. Trees and stones will teach you that which you can never learn from masters.
+
+*Bernard of Clairvaux*
+
+<!--
+WR-ID: WR-KW-039
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Wonder If the Mountains Still Stand]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 36
+SOURCE: research/verification-log.md#wr-kw-039---i-wonder-if-the-mountains-still-stand
+EDITION_NOTE: No author, earlier publication, or independent witness was located beyond matching Philmont circulation.
+-->
+
+## [I Wonder If the Mountains Still Stand]
+
+*Complete anonymous mountain epigram.*
+
+I wonder if the mountains still stand when I turn my head, or do they dip their peaks and nod at my retreating back.
+
+*Author unknown*
+
+<!--
+WR-ID: WR-KW-040
+PAGE: 36
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [All Things Excellent]
+VERIFIED_AUTHOR: Baruch Spinoza
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Ethics (1677), part V, proposition 42, scholium
+SOURCE: research/verification-log.md#wr-kw-040---things-excellent-are-as-difficult
+EDITION_NOTE: Restores the omitted opening conjunction and corrects the booklet's second "are" to "as"; the selection is the final sentence of the work.
+-->
+
+## [All Things Excellent]
+
+*Final sentence of Ethics, part V, proposition 42, scholium.*
+
+But all things excellent are as difficult as they are rare.
+
+*Baruch Spinoza*
