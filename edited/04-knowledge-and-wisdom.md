@@ -2280,3 +2280,87 @@ While my companion contemplated with a serious and satisfied spirit the magnific
 *Mary Wollstonecraft Shelley*
 
 <!-- Original Booklet Page 46 -->
+
+<!--
+WR-ID: WR-KW-105
+PAGE: 46
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [We of the Genus Homo Ride the Logs]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Round River - A Parable," in Round River: From the Journals of Aldo Leopold (1953)
+SOURCE: research/verification-log.md#wr-kw-105---we-of-the-genus-homo-ride-the-logs
+EDITION_NOTE: Identifies four booklet omissions or corruptions, including "conversation" printed as "conservation." The substantial protected passage is not reproduced.
+-->
+
+## [We of the Genus Homo Ride the Logs]
+
+*Passage from "The Round River - A Parable"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-106
+PAGE: 46
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Our Newly Found Capacity]
+VERIFIED_AUTHOR: Arthur H. Carhart (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Wilderness Reflections, original page 46; attributed and dated 1962
+SOURCE: research/verification-log.md#wr-kw-106---our-newly-found-capacity
+EDITION_NOTE: No original speech, essay, book, periodical, or archival document was located, and "has us to overlook" appears corrupt. The complete potentially protected statement is not duplicated.
+-->
+
+## [Our Newly Found Capacity]
+
+*Complete statement of unresolved provenance; text not reproduced.*
+
+See the scan-faithful booklet version and the cited source record.
+
+*Arthur H. Carhart (as circulated, dated 1962)*
+
+<!--
+WR-ID: WR-KW-107
+PAGE: 46
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: The Death of a Tree
+VERIFIED_AUTHOR: Edwin Way Teale
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "The Death of a Tree," The New Yorker (December 11, 1937), collected in Dune Boy (1943)
+SOURCE: research/verification-log.md#wr-kw-107---for-a-great-tree-death-comes
+EDITION_NOTE: Identifies the opening paragraph and its booklet variants, including "hill top" for "hilltop" and a missing article. The complete protected paragraph is not reproduced.
+-->
+
+## The Death of a Tree
+
+*Opening paragraph; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Edwin Way Teale*
+
+<!--
+WR-ID: WR-KW-108
+PAGE: 46
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [You Must Teach Your Children]
+VERIFIED_AUTHOR: Ted Perry, subsequently edited by John Stevens and anonymous adapters
+WORK_SCOPE: Abridged; Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Ecological speech written in 1971 for the television film Home, broadcast in 1972
+SOURCE: research/verification-log.md#wr-kw-108---you-must-teach-your-children
+EDITION_NOTE: Rejects the false Chief Seattle attribution and identifies the booklet's "tell you children" error. The substantial protected screenplay-derived text is not reproduced.
+-->
+
+## [You Must Teach Your Children]
+
+*Shortened modern screenplay-derived speech; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Ted Perry; subsequently edited by John Stevens and anonymous adapters*
