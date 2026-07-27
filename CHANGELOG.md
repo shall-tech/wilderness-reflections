@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Knowledge and Wisdom edition through WR-KW-064, withholding Merton's substantial copyrighted excerpt, restoring Wright's attribution, and retaining two anonymous sayings.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-060, qualifying Dodge and Szent-Györgyi, withholding Hughes's complete poem, and restoring McFarland's speech wording.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-056, correcting Bach, identifying two protected complete selections without reproducing them, and restoring Freud from the named Riviere translation.
 - Extended the source-corrected Knowledge and Wisdom edition through WR-KW-052, identifying the Brashear epitaph adaptation, correcting Priest and Franklin, and qualifying an unsupported Sufi attribution.

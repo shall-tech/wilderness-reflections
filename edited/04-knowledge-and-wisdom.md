@@ -1296,3 +1296,89 @@ EDITION_NOTE: Corrects the booklet's "has lighten" to "has lighted" and "this li
 It is the love of country that has lighted and that keeps glowing the holy fire of patriotism. And this love is excited, primarily, by the beauty of the country.
 
 *J. Horace McFarland*
+
+<!-- Original Booklet Page 39 -->
+
+<!--
+WR-ID: WR-KW-061
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: Rain and the Rhinoceros
+VERIFIED_AUTHOR: Thomas Merton
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Rain and the Rhinoceros," in Raids on the Unspeakable (1966)
+SOURCE: research/verification-log.md#wr-kw-061---rain-and-the-rhinoceros
+EDITION_NOTE: The booklet condenses noncontiguous prose and arranges it as verse. Because the substantial copyrighted replacement passage is unlicensed, it is not reproduced.
+-->
+
+## Rain and the Rhinoceros
+
+*Condensed prose excerpt from "Rain and the Rhinoceros"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Thomas Merton*
+
+<!--
+WR-ID: WR-KW-062
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Everywhere Is Walking Distance]
+VERIFIED_AUTHOR: Steven Wright (as circulated)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 39; compared with performance-linked circulating variants
+SOURCE: research/verification-log.md#wr-kw-062---everywhere-is-walking-distance
+EDITION_NOTE: Restores the omitted attribution but retains the booklet's wording because variants add "within" or use "you've got," and no official transcript was located.
+-->
+
+## [Everywhere Is Walking Distance]
+
+*Complete one-liner; wording retained from the booklet.*
+
+Everywhere is walking distance, if you have the time.
+
+*Steven Wright (as circulated)*
+
+<!--
+WR-ID: WR-KW-063
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [You Can't Be Lost]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 39
+SOURCE: research/verification-log.md#wr-kw-063---you-cant-be-lost
+EDITION_NOTE: The saying appears in later aviation-humor and travel collections, but no author, original publication, or early source was located.
+-->
+
+## [You Can't Be Lost]
+
+*Complete anonymous saying.*
+
+You can't be lost if you don't care where you are.
+
+*Author unknown*
+
+<!--
+WR-ID: WR-KW-064
+PAGE: 39
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [There Isn't Enough Darkness]
+VERIFIED_AUTHOR: Anonymous
+WORK_SCOPE: Adapted; Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 39; compared with older light-and-darkness maxims
+SOURCE: research/verification-log.md#wr-kw-064---there-isnt-enough-darkness
+EDITION_NOTE: Related forms predate the booklet, but its exact "snuff out" wording remains unattributed and the later Robert L. Alden attribution is unsupported.
+-->
+
+## [There Isn't Enough Darkness]
+
+*Complete modern variant of an older maxim.*
+
+There isn't enough darkness in all the world to snuff out the light of one little candle.
+
+*Author unknown*
