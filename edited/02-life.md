@@ -1950,3 +1950,113 @@ EDITION_NOTE: The booklet combines and alters a substantial copyrighted Murray p
 *[Text omitted pending permission from the rights holder and selection of an authoritative witness.]*
 
 *William H. Murray; closing couplet derived from John Anster's translation of Faust*
+
+<!--
+WR-ID: WR-L-081
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [I Said Out Loud]
+VERIFIED_AUTHOR: Jack Kerouac
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: The Dharma Bums (1958), concluding passage
+SOURCE: research/verification-log.md#wr-l-081---i-said-out-loud
+EDITION_NOTE: The booklet condenses and alters a substantial copyrighted passage from the novel's conclusion. The work and location are identified, but replacement source text is not reproduced without permission.
+-->
+
+## [I Said Out Loud]
+
+*Condensed excerpt from the conclusion of The Dharma Bums; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Jack Kerouac*
+
+<!--
+WR-ID: WR-L-082
+PAGE: 22
+SECTION: Life
+VERIFIED_TITLE: [Keep Your Face to the Sunshine]
+VERIFIED_AUTHOR: Helen Keller
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Sundry Interviews," A Magazet, undated, as preserved by the American Foundation for the Blind
+SOURCE: https://afb.org/about-afb/history/helen-keller/helen-keller-quotes/helen-keller-quotes-optimism
+EDITION_NOTE: Restores the archival witness's plural "shadows." The original occasion and Keller's priority over a similar earlier anonymous proverb remain undetermined.
+-->
+
+## [Keep Your Face to the Sunshine]
+
+*Complete maxim documented in an undated interview record.*
+
+Keep your face to the sunshine, and you cannot see the shadows.
+
+*Helen Keller (as documented)*
+
+<!-- Original Booklet Page 23 -->
+
+<!--
+WR-ID: WR-L-083
+PAGE: 23
+SECTION: Life
+VERIFIED_TITLE: Lessons for Life from Geese
+VERIFIED_AUTHOR: Robert McNeish (probable underlying author)
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Adapted circulating version; probable origin in a 1972 sermon
+SOURCE: research/verification-log.md#wr-l-083---lessons-for-life-from-geese
+EDITION_NOTE: The booklet reproduces an extensive adaptation whose exact source, wording, authorship, rights status, and scientific accuracy remain unresolved. "Chicken Soup for the Soul" is an intermediate publication, not the author.
+-->
+
+## Lessons for Life from Geese
+
+*Extensive adapted excerpt; text not reproduced.*
+
+*[Text omitted pending identification of an authoritative source and rights status.]*
+
+*Probably derived from Robert McNeish; exact authorship unresolved*
+
+<!--
+WR-ID: WR-L-084
+PAGE: 23
+SECTION: Life
+VERIFIED_TITLE: [There Is More to Life Than Increasing Its Speed]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Wilderness Reflections, original page 23
+SOURCE: research/verification-log.md#wr-l-084---there-is-more-to-life-than-increasing-its-speed
+EDITION_NOTE: Corrects the booklet's spelling of Gandhi's name in the attribution note, but no Gandhi writing, speech, interview, or contemporaneous witness supports the attribution.
+-->
+
+## [There Is More to Life Than Increasing Its Speed]
+
+*Complete circulating maxim; attribution unresolved.*
+
+There is more to life than increasing its speed.
+
+*Author unknown; attributed in the booklet to Mohandas K. Gandhi*
+
+<!--
+WR-ID: WR-L-085
+PAGE: 23
+SECTION: Life
+VERIFIED_TITLE: [Experience Is Not What Happens to a Man]
+VERIFIED_AUTHOR: Aldous Huxley
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Introduction to Texts and Pretexts: An Anthology with Commentaries (1932), page 5
+SOURCE: research/verification-log.md#wr-l-085---experience-is-not-what-happens-to-a-man
+EDITION_NOTE: Restores the source semicolon while preserving the booklet's two-clause selection boundary.
+-->
+
+## [Experience Is Not What Happens to a Man]
+
+*Two-clause excerpt from the introduction to Texts and Pretexts.*
+
+Experience is not what happens to a man; it is what a man does with what happens to him.
+
+*Aldous Huxley*
+
+<!-- Original Booklet Page 24 -->
+<!-- Blank page -->

@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed the source-corrected Life edition through WR-L-085, withholding substantial Kerouac and geese passages, restoring Keller and Huxley, and leaving the unsupported Gandhi attribution explicitly unresolved.
 - Extended the source-corrected Life edition through WR-L-080, retaining Ashby and Borland where primary witnesses remain unavailable, withholding substantial L'Amour and Murray passages, and documenting Murray's composite transmission.
 - Extended the source-corrected Life edition through WR-L-076, withholding substantial Beston and Abbey passages, restoring Huxley's wording, and reconstructing the booklet-bounded Kipling excerpt from the 1910 text.
 - Extended the source-corrected Life edition through WR-L-072, restoring Shakespeare's actual lines, flagging an unsupported Indigenous attribution, preserving Galland's uncertain provenance, and confirming the Sax excerpt.
