@@ -1,5 +1,6 @@
 # Changelog
 
+- Extended the source-corrected Wilderness edition through WR-W-056 by withholding the anonymous environment statement, retaining Little, restoring Cooper, and relabeling the Lincoln sentence as a modern paraphrase.
 - Extended the source-corrected Wilderness edition through WR-W-052 by restoring Irving and withholding protected or source-limited Carrighar, Nash, and Komarek selections.
 - Extended the source-corrected Wilderness edition through WR-W-048 by identifying and withholding protected Johnson, Austin, Dōgen-translation, and Rodrigues selections while correcting their metadata.
 - Extended the source-corrected Wilderness edition through WR-W-044 by restoring two Kennedy passages and the Scripture-Thoreau composite while qualifying the unresolved Asimov attribution.

@@ -1136,3 +1136,90 @@ EDITION_NOTE: Keeps the Komarek attribution provisional and records the unresolv
 *[Text omitted pending primary-source identification and permission from the rights holder.]*
 
 *E. V. Komarek Sr. (attribution provisional)*
+
+<!--
+WR-ID: WR-W-053
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: [I Am Part of My Environment]
+VERIFIED_AUTHOR: Unknown
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Booklet text and independent Philmont transmission; no earlier author or publication located
+SOURCE: research/verification-log.md#wr-w-053---i-am-part-of-my-environment
+EDITION_NOTE: Preserves the anonymous status and complete boundary. The substantial potentially protected statement is not reproduced without an original source and permission.
+-->
+
+## [I Am Part of My Environment]
+
+*Complete anonymous environmental statement; text not reproduced.*
+
+*[Text omitted pending primary-source identification and permission from the rights holder.]*
+
+*Author unknown*
+
+<!--
+WR-ID: WR-W-054
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: [The Good News Is That Americans Will]
+VERIFIED_AUTHOR: Charles E. Little
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Closing observation attributed to "The Land Between," in The American Land (1979); original volume not directly compared
+SOURCE: research/verification-log.md#wr-w-054---the-good-news-is-that-americans-will
+EDITION_NOTE: Retains the short booklet wording while explicitly recording that the precise later source has not yet been checked against the original volume.
+-->
+
+## [The Good News Is That Americans Will]
+
+*Closing observation attributed to "The Land Between."*
+
+The good news is that Americans will, in increasing numbers, begin to value and protect the vast American landscape. The bad news is that they may love it to death.
+
+*Charles E. Little*
+
+<!--
+WR-ID: WR-W-055
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: Come, Little Leaves
+VERIFIED_AUTHOR: George Cooper
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: First stanza of "Come, Little Leaves," from Ballads for Little Folks
+SOURCE: research/verification-log.md#wr-w-055---come-little-leaves
+EDITION_NOTE: Restores Cooper's title, authorship, quotation structure, "with me and play," and "red and gold" while preserving the first-stanza boundary.
+-->
+
+## Come, Little Leaves
+
+*First stanza.*
+
+"Come, little leaves," said the wind one day,\
+"Come o'er the meadows with me and play;\
+Put on your dresses of red and gold,\
+For summer is gone and the days grow cold."
+
+*George Cooper*
+
+<!--
+WR-ID: WR-W-056
+PAGE: 73
+SECTION: Wilderness
+VERIFIED_TITLE: [Laws Change; People Die]
+VERIFIED_AUTHOR: Unknown paraphraser after Abraham Lincoln
+WORK_SCOPE: Adapted
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Modern condensation of Lincoln's Second Annual Message to Congress (December 1, 1862); no verbatim source located
+SOURCE: research/verification-log.md#wr-w-056---laws-change-people-die
+EDITION_NOTE: Retains the familiar short condensation but no longer presents it as a verbatim Lincoln quotation; the official message discusses durable territory, changing people and laws, and the abiding earth.
+-->
+
+## [Laws Change; People Die]
+
+*Modern paraphrase of an argument in Lincoln's Second Annual Message.*
+
+Laws change; people die; the land remains.
+
+*After Abraham Lincoln; paraphraser unknown*
