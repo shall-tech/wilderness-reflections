@@ -216,3 +216,80 @@ EDITION_NOTE: Restores the source's capitalization of "Beauty" and biblical "See
 Adventure is not in the guidebook and Beauty is not on the map. Seek and ye shall find.
 
 *Terry Russell and Renny Russell*
+
+<!--
+WR-ID: WR-SA-009
+PAGE: 50
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [Walk Away Quietly]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Yellowstone National Park," revised for Our National Parks (1901), chapter 2
+SOURCE: research/verification-log.md#wr-sa-009---walk-away-quietly
+EDITION_NOTE: Makes the booklet's two-sentence internal omission explicit and restores plural "winds" while preserving the selected start and endpoint.
+-->
+
+## [Walk Away Quietly]
+
+*Selected passage from "The Yellowstone National Park."*
+
+Walk away quietly in any direction and taste the freedom of the mountaineer. . . .
+
+Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop off like autumn leaves.
+
+*John Muir*
+
+<!-- Original Booklet Page 51 -->
+
+<!--
+WR-ID: WR-SA-010
+PAGE: 51
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [The Mountains Are Calling]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Letter to Sarah Muir Galloway, September 3, 1873
+SOURCE: research/verification-log.md#wr-sa-010---the-mountains-are-calling
+EDITION_NOTE: Preserves the booklet's opening-clause boundary; the remainder of Muir's closing sentence stays outside the selection.
+-->
+
+## [The Mountains Are Calling]
+
+*Opening clause from the closing sentence of Muir's September 3, 1873 letter.*
+
+The mountains are calling and I must go.
+
+*John Muir*
+
+<!--
+WR-ID: WR-SA-011
+PAGE: 51
+SECTION: Scouting and Adventures
+VERIFIED_TITLE: [To Travel Hopefully; For My Part, I Travel]
+VERIFIED_AUTHOR: Robert Louis Stevenson
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "El Dorado" in Virginibus Puerisque (1881); Travels with a Donkey in the Cévennes (1879)
+SOURCE: research/verification-log.md#wr-sa-011---sometimes-it-is-better-to-travel
+EDITION_NOTE: Separates the composite, restores the first source's "To travel hopefully" wording, names Stevenson, and preserves the second source's opening-clause endpoint.
+-->
+
+## [To Travel Hopefully; For My Part, I Travel]
+
+*Composite of limited excerpts from "El Dorado" and Travels with a Donkey in the Cévennes.*
+
+To travel hopefully is a better thing than to arrive.
+
+*From "El Dorado"*
+
+For my part, I travel not to go anywhere, but to go.
+
+*From Travels with a Donkey in the Cévennes*
+
+*Robert Louis Stevenson*
+
+<!-- Original Booklet Page 52 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->
