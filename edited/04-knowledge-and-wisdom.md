@@ -1728,3 +1728,96 @@ EDITION_NOTE: Restores the source's articles, commas, and "There is the strength
 When I would recreate myself, I seek the darkest wood, the thickest and most interminable and, to the citizen, most dismal, swamp. I enter a swamp as a sacred place--a sanctum sanctorum. There is the strength, the marrow, of Nature.
 
 *Henry David Thoreau*
+
+<!--
+WR-ID: WR-KW-081
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [About Mountains; To the Attentive Eye]
+VERIFIED_AUTHOR: Anonymous and Ralph Waldo Emerson
+WORK_SCOPE: Composite; Excerpt
+EDITION_STATUS: Source restored in part
+TEXT_WITNESS: Wilderness Reflections, original page 41; Ralph Waldo Emerson, Nature (1836), chapter 3
+SOURCE: research/verification-log.md#wr-kw-081---about-mountains-it-is-useless-to-argue
+EDITION_NOTE: Retains the unidentified first paragraph under anonymous authorship and restores Emerson's separate sentence, correcting "movement" to "moment" and "it's" to "its."
+-->
+
+## [About Mountains; To the Attentive Eye]
+
+*Composite of an unidentified mountain passage and one sentence from Emerson's Nature.*
+
+About mountains it is useless to argue, you have either been up or you haven't. The view from halfway is nobody's view. The best flowers are on top under a ledge, nourished by the wind. A sense of smell is of less importance than a sense of balance, walking on clouds through holes in which you can see the earth, the wind has its own level to find.
+
+*Author unknown*
+
+To the attentive eye, each moment of the year has its own beauty, and in the same field it beholds, every hour, a picture which was never seen before, and which shall never be seen again.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-KW-082
+PAGE: 41
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [He Who Has Achieved This State]
+VERIFIED_AUTHOR: Laozi (traditional attribution)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Tao Te Ching, chapter 56, translated by Gia-Fu Feng and Jane English (1972)
+SOURCE: research/verification-log.md#wr-kw-082---he-who-has-achieved-this-state
+EDITION_NOTE: Identifies the named translation and preserves the booklet's closing-four-line boundary after the chapter's description of primal union.
+-->
+
+## [He Who Has Achieved This State]
+
+*Closing four lines of Tao Te Ching, chapter 56.*
+
+He who has achieved this state\
+Is unconcerned with friends and enemies,\
+With good and harm, with honor and disgrace.\
+This therefore is the highest state of man.
+
+*Laozi; translated by Gia-Fu Feng and Jane English*
+
+<!-- Original Booklet Page 42 -->
+
+<!--
+WR-ID: WR-KW-083
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [Ability to See the Cultural Value of Wilderness]
+VERIFIED_AUTHOR: Aldo Leopold
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "Wilderness," in A Sand County Almanac (1949)
+SOURCE: research/verification-log.md#wr-kw-083---ability-to-see-the-cultural-value-of-wilderness
+EDITION_NOTE: The source hyphenates "shallow-minded" and continues the second sentence beyond the booklet's endpoint. Because this is a substantial protected excerpt, replacement text is not reproduced without permission.
+-->
+
+## [Ability to See the Cultural Value of Wilderness]
+
+*Two-sentence excerpt from "Wilderness"; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Aldo Leopold*
+
+<!--
+WR-ID: WR-KW-084
+PAGE: 42
+SECTION: Knowledge and Wisdom
+VERIFIED_TITLE: [I Am in Love with This World]
+VERIFIED_AUTHOR: John Burroughs
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Summit of the Years (1913)
+SOURCE: research/verification-log.md#wr-kw-084---i-am-in-love-with-this-world
+EDITION_NOTE: Restores "by my constitution," punctuation, and an explicit ellipsis for the several intervening sentences omitted by the booklet.
+-->
+
+## [I Am in Love with This World]
+
+*Condensed passage from The Summit of the Years.*
+
+I am in love with this world; by my constitution I have nestled lovingly in it. . . . I have climbed its mountains, roamed its forests, sailed its waters, crossed its deserts, felt the sting of its frosts, the oppression of its heats, the drench of its rains, the fury of its winds, and always have beauty and joy waited upon my goings and comings.
+
+*John Burroughs*
