@@ -538,3 +538,83 @@ EDITION_NOTE: Retains the booklet's compact English rendering without blending i
 The landscapes were like a violin bow that played upon my soul.
 
 *Stendhal (Marie-Henri Beyle); English translator unidentified*
+
+<!--
+WR-ID: WR-W-025
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [There Is Not as Much Wilderness Out There]
+VERIFIED_AUTHOR: David Ross Brower (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and later attributed witnesses; original speech, interview, letter, or publication not located
+SOURCE: research/verification-log.md#wr-w-025---there-is-not-as-much-wilderness-out-there
+EDITION_NOTE: Retains the short booklet statement while qualifying the Brower attribution because no original source was located.
+-->
+
+## [There Is Not as Much Wilderness Out There]
+
+There is not as much wilderness out there as I wish there were. There is more inside than you think.
+
+*Attributed to David Ross Brower; original source not located*
+
+<!--
+WR-ID: WR-W-026
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [All Living Creatures and All Plants]
+VERIFIED_AUTHOR: Shooter (also recorded as Okute), Teton Sioux; recorder and translator unidentified
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Sentence from a longer statement in later scholarly and quotation witnesses; original published record not identified
+SOURCE: research/verification-log.md#wr-w-026---all-living-creatures-and-all-plants
+EDITION_NOTE: Retains the short transmitted wording without blending witnesses and records both names while leaving their historical relationship, recorder, and translator unresolved.
+-->
+
+## [All Living Creatures and All Plants]
+
+*One sentence from a longer transmitted statement.*
+
+All living creatures and all plants are a benefit to something.
+
+*Shooter (also recorded as Okute), Teton Sioux; recorder and translator unidentified*
+
+<!--
+WR-ID: WR-W-027
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [The Earth, Like the Sun, Like the Air]
+VERIFIED_AUTHOR: Edward Paul Abbey
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Closing sentence of "Come On In," collected in The Journey Home (1977), p. 88
+SOURCE: research/verification-log.md#wr-w-027---the-earth-like-the-sun-like-the-air
+EDITION_NOTE: Restores the source dash before the closing phrase while preserving the single-sentence boundary.
+-->
+
+## [The Earth, Like the Sun, Like the Air]
+
+*Closing sentence of "Come On In."*
+
+The earth, like the sun, like the air, belongs to everyone—and to no one.
+
+*Edward Abbey*
+
+<!--
+WR-ID: WR-W-028
+PAGE: 70
+SECTION: Wilderness
+VERIFIED_TITLE: [Wilderness Is Nature's Bank]
+VERIFIED_AUTHOR: Aldo Leopold (attribution not independently sourced)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text; exact wording not located in Leopold's published writings or archival quotation resources
+SOURCE: research/verification-log.md#wr-w-028---wilderness-is-natures-bank
+EDITION_NOTE: Retains the short booklet aphorism but qualifies the Leopold attribution; his work supports the general idea, not this exact wording.
+-->
+
+## [Wilderness Is Nature's Bank]
+
+Wilderness is nature's bank of genetic variability.
+
+*Attributed to Aldo Leopold; exact source not located*
