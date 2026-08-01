@@ -1862,3 +1862,87 @@ EDITION_NOTE: Retains the short transmitted statement, corrects the booklet's mi
 I conceive that the land belongs to a vast family of which many are dead, few are living, and countless numbers are still unborn.
 
 *Unidentified Yoruba chief*
+
+<!--
+WR-ID: WR-W-085
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [This Is About a Stretch of Mountain Country]
+VERIFIED_AUTHOR: David L. Caffey
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Head for the High Country: Living the Philmont Adventure (1973); independent Philmont comparison only
+SOURCE: research/verification-log.md#wr-w-085---this-is-about-a-stretch-of-mountain-country
+EDITION_NOTE: Identifies the booklet's condensed memoir passages and corrects the author's name. A paginated primary witness was unavailable, and the substantial protected passage is not reproduced.
+-->
+
+## [This Is About a Stretch of Mountain Country]
+
+*Condensed passages from Head for the High Country; text not reproduced.*
+
+*[Text omitted pending primary-page comparison and permission from the rights holder.]*
+
+*David L. Caffey*
+
+<!--
+WR-ID: WR-W-086
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [To Us the Ashes of Our Ancestors Are Sacred]
+VERIFIED_AUTHOR: Henry A. Smith (1887 reconstruction attributed to Chief Seattle)
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Henry A. Smith's 1887 reconstruction of an alleged 1854 speech by Chief Seattle
+SOURCE: research/verification-log.md#wr-w-086---to-us-the-ashes-of-our-ancestors-are-sacred
+EDITION_NOTE: Preserves the selected sentence while making clear that Smith published the reconstruction thirty-three years after the alleged speech and that no contemporary transcript corroborates it.
+-->
+
+## [To Us the Ashes of Our Ancestors Are Sacred]
+
+*Sentence from Henry A. Smith's disputed 1887 reconstruction.*
+
+To us the ashes of our ancestors are sacred and their resting place is hallowed ground.
+
+*Henry A. Smith's reconstruction, attributed to Chief Seattle*
+
+<!--
+WR-ID: WR-W-087
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [There Is No Quiet Place in the White Man's Cities]
+VERIFIED_AUTHOR: Ted Perry
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Ted Perry's screenplay for Home (written 1971; broadcast 1972)
+SOURCE: research/verification-log.md#wr-w-087---there-is-no-quiet-place-in-white-mans-cities
+EDITION_NOTE: Restores Perry's "the white man's cities," "in spring," and "an insect's wings," and replaces the false Chief Seattle attribution while preserving the two-sentence boundary.
+-->
+
+## [There Is No Quiet Place in the White Man's Cities]
+
+*Two sentences from Perry's screenplay for Home.*
+
+There is no quiet place in the white man's cities. No place to hear the unfurling of leaves in spring, or the rustle of an insect's wings.
+
+*Ted Perry*
+
+<!--
+WR-ID: WR-W-088
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [The Land, the Earth God Gave to Man]
+VERIFIED_AUTHOR: Unknown; attributed to Abraham Lincoln without contemporary evidence
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text and a longer statement documented long after Lincoln's death; no contemporary Lincoln witness located
+SOURCE: research/verification-log.md#wr-w-088---the-land-the-earth-god-gave-to-man
+EDITION_NOTE: Retains the booklet's shortened wording but removes the unsupported presentation as a verified Lincoln quotation. A 1934 land-reform journal printed a longer version while also publishing a challenge to prove its authenticity.
+-->
+
+## [The Land, the Earth God Gave to Man]
+
+*Shortened circulating statement, first documented long after Lincoln's death.*
+
+The land, the earth God gave to man for his home... should never be the possession of any man, corporation, [or] society... any more than the air or water.
+
+*Attributed to Abraham Lincoln; authenticity unresolved*
