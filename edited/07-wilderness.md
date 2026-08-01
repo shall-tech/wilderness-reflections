@@ -1575,3 +1575,104 @@ EDITION_NOTE: Restores the suppressed internal omission after "I" but otherwise 
 I . . . am always glad to touch the living rock again and dip my hand in the high mountain air.
 
 *John Muir*
+
+<!--
+WR-ID: WR-W-073
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
+VERIFIED_AUTHOR: John Muir
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Our National Parks (1901), chapter 1
+SOURCE: research/verification-log.md#wr-w-073---thousands-of-tired-nerve-shaken-over-civilized-people
+EDITION_NOTE: Restores Muir's "wildness," the omitted conjunction before the mountain-parks clause, and the source punctuation while preserving the single-sentence boundary.
+-->
+
+## [Thousands of Tired, Nerve-Shaken, Over-Civilized People]
+
+*Sentence from the opening chapter of Our National Parks.*
+
+Thousands of tired, nerve-shaken, over-civilized people are beginning to find out that going to the mountains is going home; that wildness is a necessity; and that mountain parks and reservations are useful not only as fountains of timber and irrigating rivers, but as fountains of life.
+
+*John Muir*
+
+<!--
+WR-ID: WR-W-074
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: As You Like It, Act 2, Scene 1
+VERIFIED_AUTHOR: William Shakespeare
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: As You Like It, act 2, scene 1; modern-spelling text
+SOURCE: research/verification-log.md#wr-w-074---and-this-our-life-exempt-from-public-haunt
+EDITION_NOTE: Restores the dramatic verse lineation and identifies Duke Senior as the speaker without extending the excerpt.
+-->
+
+## [And This, Our Life Exempt from Public Haunt]
+
+*Duke Senior, in As You Like It.*
+
+And this our life, exempt from public haunt,\
+Finds tongues in trees, books in the running brooks,\
+Sermons in stones, and good in everything.
+
+*William Shakespeare*
+
+<!--
+WR-ID: WR-W-075
+PAGE: 75
+SECTION: Wilderness
+VERIFIED_TITLE: Nature and Democracy—Morality
+VERIFIED_AUTHOR: Walt Whitman
+WORK_SCOPE: Adapted; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Specimen Days & Collect (1882), "Nature and Democracy—Morality"
+SOURCE: research/verification-log.md#wr-w-075---without-enough-wilderness-america-will-change
+EDITION_NOTE: Replaces the booklet's heavy rewrite with Whitman's corresponding sentence and omits the booklet's unsupported opening sentence.
+-->
+
+## Nature and Democracy—Morality
+
+*Sentence from Whitman's prose meditation.*
+
+American Democracy, in its myriad personalities, in factories, work-shops, stores, offices—through the dense streets and houses of cities, and all their manifold sophisticated life—must either be fibred, vitalized, by regular contact with out-door light and air and growths, farm-scenes, animals, fields, trees, birds, sun-warmth and free skies, or it will certainly dwindle and pale.
+
+*Walt Whitman*
+
+<!-- Original Booklet Page 76 -->
+
+<!--
+WR-ID: WR-W-076
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: Sand Dunes
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Sand Dunes," in Collected Poems of Robert Frost (1930)
+SOURCE: research/verification-log.md#wr-w-076---sand-dunes
+EDITION_NOTE: Follows the collected poem's complete wording, punctuation, and sixteen-line form.
+-->
+
+## Sand Dunes
+
+Sea waves are green and wet,\
+But up from where they die\
+Rise others vaster yet,\
+And those are brown and dry.\
+They are the sea made land\
+To come at the fisher town\
+And bury in solid sand\
+The men she could not drown.\
+She may know cove and cape,\
+But she does not know mankind\
+If by any change of shape\
+She hopes to cut off mind.\
+Men left her a ship to sink:\
+They can leave her a hut as well:\
+And be but more free to think\
+For the one more cast off shell.
+
+*Robert Frost*
