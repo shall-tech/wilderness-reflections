@@ -46,3 +46,21 @@ The displayed text and booklet attributions remain faithful to the scanned bookl
 - Repository changes passed `git diff --check`.
 
 Audit completed 2026-07-20.
+
+## Source-corrected edition completion
+
+The separate reading edition is complete for all 382 selections:
+
+| Section | Entries |
+| --- | ---: |
+| Life | 85 |
+| Leadership | 25 |
+| Knowledge and Wisdom | 108 |
+| Scouting and Adventures | 11 |
+| Beauty | 58 |
+| Wilderness | 95 |
+| **Total** | **382** |
+
+Every edited record retains its manuscript `WR-ID`, uses the controlled `WORK_SCOPE` vocabulary, identifies an edition status and text witness, links to its verification record, and documents the editorial treatment. Booklet selection boundaries remain intact. Public-domain source wording is restored where a reliable witness exists; protected complete works and substantial replacement passages are identified but not reproduced without permission; uncertain attributions and translations remain explicitly qualified.
+
+Source-corrected edition audit completed 2026-08-01.

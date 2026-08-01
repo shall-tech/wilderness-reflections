@@ -42,8 +42,10 @@
 - Knowledge and Wisdom entries WR-KW-001 through WR-KW-108 are complete in the edited edition; the section is complete.
 - Scouting and Adventures entries WR-SA-001 through WR-SA-011 are complete in the edited edition; the section is complete.
 - Beauty entries WR-B-001 through WR-B-058 are complete in the edited edition; the section is complete.
-- Wilderness entries WR-W-001 through WR-W-072 are complete in the edited edition.
+- Wilderness entries WR-W-001 through WR-W-095 are complete in the edited edition; the section is complete.
+- All 382 selections across all six thematic sections are represented in the source-corrected edition.
 - Excerpt boundaries are preserved; translation witnesses and rights-related source-text limitations are stated explicitly.
+- No source-corrected edition entries remain.
 
 ## Source
 

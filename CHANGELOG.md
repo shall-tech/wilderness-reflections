@@ -1,5 +1,6 @@
 # Changelog
 
+- Completed the source-corrected Wilderness edition through WR-W-095 and thereby completed all 382 edited selections, preserving excerpt boundaries and applying the established rights-aware source policy.
 - Extended the source-corrected Wilderness edition through WR-W-072 by restoring Keller, qualifying the Tanaka translation, separating two Muir sentiments, and restoring Muir's suppressed omission.
 - Extended the source-corrected Wilderness edition through WR-W-068 by correcting Isaiah and Frost while retaining two short, explicitly source-limited statements.
 - Extended the source-corrected Wilderness edition through WR-W-064 by qualifying Strand and the unidentified Indigenous statement, restoring Pinchot, and removing an unsupported Ho-Chunk attribution.

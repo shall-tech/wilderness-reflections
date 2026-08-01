@@ -6,6 +6,6 @@ All 84 leaves present in the updated PDF have been processed and visually verifi
 
 The source-verification pass is also complete for all 382 selections: 290 have verified attribution/source relationships and 92 retain explicitly documented attribution or provenance questions. See `research/completion-audit.md` for the final coverage and integrity summary.
 
-A separate source-corrected reading edition is now being developed in `edited/`. It preserves the booklet's excerpt boundaries, labels each work's scope, and leaves the historical transcription in `manuscript/` unchanged.
+A complete source-corrected reading edition is available in `edited/`. It preserves the booklet's excerpt boundaries, labels each work's scope, applies rights-aware source restoration, and leaves the historical transcription in `manuscript/` unchanged.
 
 The agreed specification for the first 5.5 × 8.5-inch coil-bound field edition is recorded in `research/print-plan.md`.

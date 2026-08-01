@@ -2028,3 +2028,114 @@ EDITION_NOTE: Retains the short circulating sentence while qualifying the Sadat 
 Land is immortal, for it harbors the mysteries of creation.
 
 *Attributed to Anwar el-Sadat; original source not located*
+
+<!--
+WR-ID: WR-W-093
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: General Prologue to The Canterbury Tales
+VERIFIED_AUTHOR: Geoffrey Chaucer; modern translator unidentified
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Lines 11-14 of the General Prologue in the booklet's unidentified modern translation, compared with independent complete witnesses
+SOURCE: research/verification-log.md#wr-w-093---general-prologue-to-the-canterbury-tales
+EDITION_NOTE: Preserves the booklet's four-line selection and unidentified modern translation while restoring "seeking," "shrines renowned," the Geoffrey spelling, and verse lineation.
+-->
+
+## General Prologue to The Canterbury Tales
+
+*Lines 11-14 in an unidentified modern translation.*
+
+For in their hearts doth Nature stir them so,\
+Then people long on pilgrimage to go,\
+And palmers to be seeking foreign strands,\
+To distant shrines renowned in sundry lands.
+
+*Geoffrey Chaucer; modern translator unidentified*
+
+<!--
+WR-ID: WR-W-094
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: [Parks Are at the Center of a Community's Character]
+VERIFIED_AUTHOR: The Conservation Foundation
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Independent civic-document transmission; original Conservation Foundation report or publication not located
+SOURCE: research/verification-log.md#wr-w-094---parks-are-at-the-center-of-a-communitys-character
+EDITION_NOTE: Retains the complete independently confirmed wording and standardizes the organizational credit, while recording that its first publication remains unresolved.
+-->
+
+## [Parks Are at the Center of a Community's Character]
+
+Parks are at the center of a community's character; they reflect and strengthen the sense of place and identity that makes cities fit places for people.
+
+*The Conservation Foundation*
+
+<!-- Original Booklet Page 79 -->
+
+<!--
+WR-ID: WR-W-095
+PAGE: 79
+SECTION: Wilderness
+VERIFIED_TITLE: The Call of the Wild
+VERIFIED_AUTHOR: Robert W. Service
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: The Spell of the Yukon and Other Verses, Project Gutenberg eBook 207, matching the 1907 and 1916 American editions; first published in Songs of a Sourdough (1907)
+SOURCE: research/verification-log.md#wr-w-095---the-call-of-the-wild
+EDITION_NOTE: Restores the complete public-domain poem, including its five-stanza structure, verse lineation, title capitalization, and numerous words, articles, punctuation marks, and capitalizations corrupted in the booklet.
+-->
+
+## The Call of the Wild
+
+Have you gazed on naked grandeur where there's nothing else to gaze on,\
+Set pieces and drop-curtain scenes galore,\
+Big mountains heaved to heaven, which the blinding sunsets blazon,\
+Black canyons where the rapids rip and roar?\
+Have you swept the visioned valley with the green stream streaking through it,\
+Searched the Vastness for a something you have lost?\
+Have you strung your soul to silence? Then for God's sake go and do it;\
+Hear the challenge, learn the lesson, pay the cost.
+
+Have you wandered in the wilderness, the sagebrush desolation,\
+The bunch-grass levels where the cattle graze?\
+Have you whistled bits of rag-time at the end of all creation,\
+And learned to know the desert's little ways?\
+Have you camped upon the foothills, have you galloped o'er the ranges,\
+Have you roamed the arid sun-lands through and through?\
+Have you chummed up with the mesa? Do you know its moods and changes?\
+Then listen to the Wild—it's calling you.
+
+Have you known the Great White Silence, not a snow-gemmed twig aquiver?\
+(Eternal truths that shame our soothing lies.)\
+Have you broken trail on snowshoes? mushed your huskies up the river,\
+Dared the unknown, led the way, and clutched the prize?\
+Have you marked the map's void spaces, mingled with the mongrel races,\
+Felt the savage strength of brute in every thew?\
+And though grim as hell the worst is, can you round it off with curses?\
+Then hearken to the Wild—it's wanting you.
+
+Have you suffered, starved and triumphed, groveled down, yet grasped at glory,\
+Grown bigger in the bigness of the whole?\
+"Done things" just for the doing, letting babblers tell the story,\
+Seeing through the nice veneer the naked soul?\
+Have you seen God in His splendors, heard the text that nature renders?\
+(You'll never hear it in the family pew.)\
+The simple things, the true things, the silent men who do things—\
+Then listen to the Wild—it's calling you.
+
+They have cradled you in custom, they have primed you with their preaching,\
+They have soaked you in convention through and through;\
+They have put you in a showcase; you're a credit to their teaching—\
+But can't you hear the Wild?—it's calling you.\
+Let us probe the silent places, let us seek what luck betide us;\
+Let us journey to a lonely land I know.\
+There's a whisper on the night-wind, there's a star agleam to guide us,\
+And the Wild is calling, calling... let us go.
+
+*Robert W. Service*
+
+<!-- Original Booklet Page 80 -->
+
+<!-- Blank page; no separate scanned leaf is present, inferred from booklet pagination -->
