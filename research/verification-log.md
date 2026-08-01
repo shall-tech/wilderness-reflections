@@ -2786,7 +2786,7 @@ This log records the external evidence used during the post-transcription verifi
 ### WR-W-078 - [A Thousand Fantasies Begin to Throng]
 
 - Verified author and work: John Milton, lines 205-209 of *A Maske Presented at Ludlow Castle* (1637), commonly titled *Comus*.
-- Relationship: Noncontiguous fragments; the booklet's ellipsis omits three lines about calling shapes, shadows, and airy tongues.
+- Relationship: Noncontiguous fragments; the booklet's ellipsis omits two lines about calling shapes, shadows, and airy tongues.
 - Evidence: [Complete contextual scan](https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Milton_epoch_%28IA_miltonepoch00stobrich%29.pdf).
 - Confidence: High.
 

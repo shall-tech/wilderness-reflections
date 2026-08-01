@@ -1676,3 +1676,92 @@ And be but more free to think\
 For the one more cast off shell.
 
 *Robert Frost*
+
+<!--
+WR-ID: WR-W-077
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: [There Is Just One Hope of Repulsing]
+VERIFIED_AUTHOR: Robert Marshall
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "The Problem of the Wilderness," The Scientific Monthly 30, no. 2 (February 1930), p. 141
+SOURCE: research/verification-log.md#wr-w-077---there-is-just-one-hope-of-repulsing
+EDITION_NOTE: Restores "every niche" and "freedom of the wilderness" and gives the author's full name while preserving the closing two-sentence boundary.
+-->
+
+## [There Is Just One Hope of Repulsing]
+
+*Closing call to action from "The Problem of the Wilderness."*
+
+There is just one hope of repulsing the tyrannical ambition of civilization to conquer every niche on the whole earth. That hope is the organization of spirited people who will fight for the freedom of the wilderness.
+
+*Robert Marshall*
+
+<!--
+WR-ID: WR-W-078
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: [A Thousand Fantasies Begin to Throng]
+VERIFIED_AUTHOR: John Milton
+WORK_SCOPE: Abridged; Composite; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: A Maske Presented at Ludlow Castle (1637), lines 205-209
+SOURCE: research/verification-log.md#wr-w-078---a-thousand-fantasies-begin-to-throng
+EDITION_NOTE: Restores verse lineation and punctuation while preserving the noncontiguous selection; the explicit omission represents lines 207-208.
+-->
+
+## [A Thousand Fantasies Begin to Throng]
+
+*The opening two and closing lines of a five-line passage from Comus.*
+
+A thousand fantasies\
+Begin to throng into my memory,
+
+*[Two lines omitted.]*
+
+On sands and shores and desert wildernesses.
+
+*John Milton*
+
+<!--
+WR-ID: WR-W-079
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: [Miller Owns This Field]
+VERIFIED_AUTHOR: Ralph Waldo Emerson
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Nature (1836), chapter 1
+SOURCE: research/verification-log.md#wr-w-079---miller-owns-the-field
+EDITION_NOTE: Restores "this field," the source punctuation, and "warranty-deeds" while retaining the boundary after the paragraph's omitted first sentence.
+-->
+
+## [Miller Owns This Field]
+
+*Most of the landscape paragraph from chapter 1 of Nature, beginning after its first sentence.*
+
+Miller owns this field, Locke that, and Manning the woodland beyond. But none of them owns the landscape. There is a property in the horizon which no man has but he whose eye can integrate all the parts, that is, the poet. This is the best part of these men's farms, yet to this their warranty-deeds give no title.
+
+*Ralph Waldo Emerson*
+
+<!--
+WR-ID: WR-W-080
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: [One Touch of Nature]
+VERIFIED_AUTHOR: William Shakespeare
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Troilus and Cressida, act 3, scene 3; modern-spelling text
+SOURCE: research/verification-log.md#wr-w-080---one-touch-of-nature
+EDITION_NOTE: Restores the source's terminal comma and notes that "nature" means a shared human tendency to praise novelty in dramatic context.
+-->
+
+## [One Touch of Nature]
+
+*One line from Ulysses's speech in Troilus and Cressida.*
+
+One touch of nature makes the whole world kin,
+
+*William Shakespeare*
