@@ -9,3 +9,5 @@ The source-verification pass is also complete for all 382 selections: 290 have v
 A complete source-corrected reading edition is available in `edited/`. It preserves the booklet's excerpt boundaries, labels each work's scope, applies rights-aware source restoration, and leaves the historical transcription in `manuscript/` unchanged.
 
 The agreed specification for the first 5.5 × 8.5-inch coil-bound field edition is recorded in `research/print-plan.md`.
+
+The first digital production proof is available in `output/pdf/`: a coil-safe print PDF and a linked screen/archive PDF. The reproducible build and validation scripts are in `scripts/`; see `publication/README.md` and `research/print-proof.md` for production and proofing status.

@@ -33,6 +33,14 @@
 2. Screen/archive PDF with normal margins and clickable source links.
 3. One locally printed physical proof before authorizing the complete run whenever the schedule permits.
 
+## Current status
+
+- Digital print PDF: complete and validated August 1, 2026.
+- Digital screen/archive PDF: complete and validated August 1, 2026.
+- Regenerated table of contents and indexes: complete.
+- Full rendered-page inspection: complete.
+- Local physical proof: next required production gate.
+
 ## Production sequence
 
 - Complete the edited manuscript and final pagination.
