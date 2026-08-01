@@ -1765,3 +1765,100 @@ EDITION_NOTE: Restores the source's terminal comma and notes that "nature" means
 One touch of nature makes the whole world kin,
 
 *William Shakespeare*
+
+<!--
+WR-ID: WR-W-081
+PAGE: 76
+SECTION: Wilderness
+VERIFIED_TITLE: On the Natural
+VERIFIED_AUTHOR: Hoyt Axton
+WORK_SCOPE: Adapted; Fragment; Excerpt
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: "On the Natural," from On the Natural (1969); complete-song comparison and independent Philmont transmission
+SOURCE: research/verification-log.md#wr-w-081---on-the-natural
+EDITION_NOTE: Identifies the booklet's noncontiguous, adapted fragments and records its removal of "Colorado" and "Rocky" and its other wording changes. The protected song lyrics are not reproduced.
+-->
+
+## On the Natural
+
+*Adapted fragments from the Colorado and Rocky Mountains verses; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Hoyt Axton*
+
+<!-- Original Booklet Page 77 -->
+
+<!--
+WR-ID: WR-W-082
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: Into My Own
+VERIFIED_AUTHOR: Robert Frost
+WORK_SCOPE: Complete
+EDITION_STATUS: Source restored
+TEXT_WITNESS: A Boy's Will (1913), as collected in Collected Poems of Robert Frost (1930)
+SOURCE: research/verification-log.md#wr-w-082---into-my-own
+EDITION_NOTE: Restores Frost's em dash before the final line and preserves the complete poem and its verse lineation.
+-->
+
+## Into My Own
+
+One of my wishes is that those dark trees,\
+So old and firm they scarcely show the breeze,\
+Were not, as 'twere, the merest mask of gloom,\
+But stretched away unto the edge of doom.\
+I should not be withheld but that some day\
+Into their vastness I should steal away,\
+Fearless of ever finding open land,\
+Or highway where the slow wheel pours the sand.\
+I do not see why I should e'er turn back,\
+Or those should not set forth upon my track\
+To overtake me, who should miss me here\
+And long to know if still I held them dear.\
+They would not find me changed from him they knew—\
+Only more sure of all I thought was true.
+
+*Robert Frost*
+
+<!--
+WR-ID: WR-W-083
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [It Was Kind of Solemn]
+VERIFIED_AUTHOR: Mark Twain (Samuel L. Clemens)
+WORK_SCOPE: Abridged; Excerpt
+EDITION_STATUS: Source restored
+TEXT_WITNESS: Adventures of Huckleberry Finn (1884), chapter 12
+SOURCE: research/verification-log.md#wr-w-083---it-was-kind-of-solemn
+EDITION_NOTE: Restores Twain's "we didn't ever feel like talking loud" through the booklet's endpoint; the continuation about low laughter remains outside the selection boundary.
+-->
+
+## [It Was Kind of Solemn]
+
+*Shortened sentence from chapter 12 of Adventures of Huckleberry Finn.*
+
+It was kind of solemn, drifting down the big, still river, laying on our backs looking up at the stars, and we didn't ever feel like talking loud.
+
+*Mark Twain*
+
+<!--
+WR-ID: WR-W-084
+PAGE: 77
+SECTION: Wilderness
+VERIFIED_TITLE: [I Conceive That the Land Belongs]
+VERIFIED_AUTHOR: Unidentified Yoruba chief (reported testimony)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Later reports of testimony before the West African Lands Committee; exact hearing, date, and speaker unresolved
+SOURCE: research/verification-log.md#wr-w-084---i-conceive-that-the-land-belongs
+EDITION_NOTE: Retains the short transmitted statement, corrects the booklet's misspelled and overly broad "Nigerian Chieftan," and identifies the speaker no more specifically than the evidence permits.
+-->
+
+## [I Conceive That the Land Belongs]
+
+*Reported testimony concerning customary Yoruba land tenure.*
+
+I conceive that the land belongs to a vast family of which many are dead, few are living, and countless numbers are still unborn.
+
+*Unidentified Yoruba chief*
