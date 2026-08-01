@@ -1946,3 +1946,85 @@ EDITION_NOTE: Retains the booklet's shortened wording but removes the unsupporte
 The land, the earth God gave to man for his home... should never be the possession of any man, corporation, [or] society... any more than the air or water.
 
 *Attributed to Abraham Lincoln; authenticity unresolved*
+
+<!-- Original Booklet Page 78 -->
+
+<!--
+WR-ID: WR-W-089
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: Sleeping in the Forest
+VERIFIED_AUTHOR: Mary Oliver
+WORK_SCOPE: Complete
+EDITION_STATUS: Source identified; text not reproduced
+TEXT_WITNESS: Sleeping in the Forest (Ohio Review chapbook, 1978); collected in Twelve Moons (1979)
+SOURCE: research/verification-log.md#wr-w-089---sleeping-in-the-forest
+EDITION_NOTE: Identifies Oliver's complete protected poem and records the booklet's "flowed" corruption for "floated." The poem is not reproduced without permission from the rights holder.
+-->
+
+## Sleeping in the Forest
+
+*Complete poem; text not reproduced.*
+
+*[Text omitted pending permission from the rights holder.]*
+
+*Mary Oliver*
+
+<!--
+WR-ID: WR-W-090
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: [There Is No Plant That Is Unimportant]
+VERIFIED_AUTHOR: Edward S. Ayensu
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Smithsonian educational magazine interview with Edward S. Ayensu (April-May 1978)
+SOURCE: research/verification-log.md#wr-w-090---there-is-no-plant-that-is-unimportant
+EDITION_NOTE: Retains the two-sentence booklet selection. The contemporary interview confirms the first sentence and its ecological context, but the exact second sentence was not visible in the available extracted passage.
+-->
+
+## [There Is No Plant That Is Unimportant]
+
+*Two-sentence conservation statement from a 1978 Smithsonian interview.*
+
+There is no plant that is unimportant. The genetic information contained in the germ plasm of each species is unique and cannot be reproduced once the last living tissue is gone.
+
+*Edward S. Ayensu*
+
+<!--
+WR-ID: WR-W-091
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: [We Are No Longer Nature's Children]
+VERIFIED_AUTHOR: Richard Garfield (attribution provisional)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Booklet text; no book, essay, interview, lecture, or reliable biographical context located
+SOURCE: research/verification-log.md#wr-w-091---we-are-no-longer-natures-children
+EDITION_NOTE: Retains the short booklet epigram while making the Garfield attribution provisional; both the credited person's identity and the statement's original source remain unresolved.
+-->
+
+## [We Are No Longer Nature's Children]
+
+We are no longer nature's children; we are her masters.
+
+*Attributed to Richard Garfield; identity and original source not located*
+
+<!--
+WR-ID: WR-W-092
+PAGE: 78
+SECTION: Wilderness
+VERIFIED_TITLE: [Land Is Immortal]
+VERIFIED_AUTHOR: Anwar el-Sadat (attribution provisional)
+WORK_SCOPE: Complete
+EDITION_STATUS: Booklet text retained
+TEXT_WITNESS: Later attributed quotation witnesses; no speech, memoir, interview, or other primary occurrence located
+SOURCE: research/verification-log.md#wr-w-092---land-is-immortal
+EDITION_NOTE: Retains the short circulating sentence while qualifying the Sadat attribution because later quotation collections provide neither a date nor an original source.
+-->
+
+## [Land Is Immortal]
+
+Land is immortal, for it harbors the mysteries of creation.
+
+*Attributed to Anwar el-Sadat; original source not located*
