@@ -54,6 +54,7 @@ class Entry:
     author: str
     scope: str
     status: str
+    omission_reason: str
     blocks: list[str]
     first_line: str
 
@@ -166,6 +167,54 @@ def visible_text(value: str) -> str:
     return value.strip(" []")
 
 
+OMISSION_REASONS = {
+    "copyright": "Copyright permission was not available for this edition.",
+    "source": "A sufficiently reliable source text was not available.",
+    "both": "Copyright permission and a sufficiently reliable source text were not available.",
+    "translation": "A suitable reproducible translation and its rights could not be established.",
+}
+
+
+def classify_omission(meta: dict[str, str]) -> str:
+    """Assign a conservative reader-facing reason without overstating legal facts."""
+    note = meta.get("EDITION_NOTE", "").casefold()
+    witness = meta.get("TEXT_WITNESS", "").casefold()
+    evidence = f"{witness} {note}"
+    translation_issue = (
+        any(word in evidence for word in ("translation", "translator"))
+        and any(word in evidence for word in (
+            "protected", "permission", "rights", "unidentified",
+            "without a named", "licensed", "public-domain",
+        ))
+    )
+    rights_issue = any(word in evidence for word in (
+        "copyright", "protected", "permission", "rights holder",
+        "unlicensed", "may remain protected", "potentially protected",
+    ))
+    source_issue = any(word in evidence for word in (
+        "not directly inspected", "original publication", "original occasion",
+        "original author", "original essay", "original witness", "primary source",
+        "primary witness", "primary-page", "paginated", "secondary",
+        "unresolved", "unidentified", "unknown", "no independent",
+        "no original", "no work title", "no earlier author",
+        "not located", "unavailable",
+    ))
+    if translation_issue:
+        return "translation"
+    if rights_issue and source_issue:
+        return "both"
+    if rights_issue:
+        return "copyright"
+    return "source"
+
+
+def omitted_scope_label(scope: str) -> str:
+    terms = [term.strip() for term in scope.split(";") if term.strip()]
+    terms = ["Complete work" if term == "Complete" else term for term in terms]
+    label = ", ".join(terms) if terms else "Selection"
+    return f"{label} — text not included."
+
+
 def parse_entries() -> list[Entry]:
     entries: list[Entry] = []
     pattern = re.compile(r"<!--\n(?P<meta>WR-ID: .*?)\n-->\n(?P<body>.*?)(?=\n<!--\nWR-ID:|\Z)", re.S)
@@ -187,6 +236,7 @@ def parse_entries() -> list[Entry]:
                 content.pop()
             blocks = [block.strip() for block in re.split(r"\n\s*\n", "\n".join(content)) if block.strip()]
             status = meta.get("EDITION_STATUS", "Booklet text retained")
+            omission_reason = classify_omission(meta) if status == OMITTED_STATUS else ""
             first_line = ""
             if status != OMITTED_STATUS:
                 for block in blocks:
@@ -200,7 +250,7 @@ def parse_entries() -> list[Entry]:
             entries.append(Entry(
                 wr_id=meta["WR-ID"], section=section, title=title, author=author,
                 scope=meta.get("WORK_SCOPE", ""), status=status,
-                blocks=blocks, first_line=first_line,
+                omission_reason=omission_reason, blocks=blocks, first_line=first_line,
             ))
     ids = [entry.wr_id for entry in entries]
     if len(ids) != 382 or len(set(ids)) != 382:
@@ -275,7 +325,7 @@ def build_story(entries: list[Entry], st: dict, screen: bool,
               Paragraph("First Field Edition · Source-Corrected Reading Edition", st["subtitle"]), Spacer(1, 20),
               Paragraph("Editorial Note", st["h1"]),
               Paragraph("This edition preserves the historic booklet’s order and selection boundaries while restoring verified source wording where a reliable, reproducible witness is available.", st["front"]),
-              Paragraph("Some selections are identified but not reproduced because publication permission or a sufficiently reliable reproducible text was unavailable. Their titles, attributions, scope, original positions, and index entries are retained, with a neutral omission notice in place of the selection text.", st["front"]),
+              Paragraph("Some selections are identified but not reproduced because copyright permission, a sufficiently reliable source text, or an established reproducible translation was unavailable for this edition. Their titles, attributions, scope, original positions, and index entries are retained. The brief reason shown with each omission records a publication decision; it does not mean permission was formally denied or that the work itself is unavailable.", st["front"]),
               Paragraph("The historical transcription remains preserved separately. This reading edition corrects verified author identities and source wording without silently rewriting unresolved material.", st["front"]),
               Spacer(1, 18), Paragraph("Prepared for Philmont Leadership Challenge faculty.<br/>Oklahoma City · 2026", st["subtitle"]), PageBreak()]
     # Historical introduction
@@ -300,10 +350,14 @@ def build_story(entries: list[Entry], st: dict, screen: bool,
             entry_story: list[Flowable] = [Marker("entry", entry.wr_id, entry.title)]
             anchor = f'<a name="{entry.wr_id}"/>' if screen else ""
             entry_story.append(Paragraph(anchor + html.escape(entry.title), st["title"]))
-            if entry.scope:
+            if entry.scope and entry.status != OMITTED_STATUS:
                 entry_story.append(Paragraph(html.escape(entry.scope), st["scope"]))
             if entry.status == OMITTED_STATUS:
-                entry_story.append(Paragraph("Text not included in this edition.", st["body"]))
+                entry_story.append(Paragraph(html.escape(omitted_scope_label(entry.scope)), st["scope"]))
+                entry_story.append(Paragraph(
+                    "Reason: " + html.escape(OMISSION_REASONS[entry.omission_reason]),
+                    st["scope"],
+                ))
             else:
                 for block in entry.blocks:
                     workflow_text = visible_text(block).casefold()

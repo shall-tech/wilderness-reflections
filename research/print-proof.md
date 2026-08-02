@@ -19,7 +19,7 @@ The page-count difference is intentional. The print file uses mirrored coil-safe
 - Present-edition editorial and rights note added.
 - All six source-corrected thematic sections included.
 - All 382 selections retained in their canonical order.
-- Eighty-three selections carry the neutral notice `Text not included in this edition.` under the approved rights/source-witness policy.
+- Eighty-three selections combine their scope with `text not included` and carry one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty.
 - Repository-facing workflow language is suppressed from the reading edition.
 - Author and first-line indexes regenerated from final pagination.
 - Omitted selections remain discoverable in both indexes without reproducing protected first lines.
@@ -33,7 +33,7 @@ The page-count difference is intentional. The print file uses mirrored coil-safe
 - Screen PDF contains internal navigation and section bookmarks.
 - No visible `WR-ID`, edition-status, text-witness, source, or editorial-note metadata.
 - No visible “pending permission” workflow language.
-- Eighty-three neutral omission notices confirmed.
+- Eighty-three controlled omission reasons confirmed.
 - Both PDFs are unencrypted and contain extractable text.
 - `git diff --check` passes.
 

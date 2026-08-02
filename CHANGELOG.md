@@ -1,5 +1,6 @@
 # Changelog
 
+- Clarified every non-reproduced selection with a combined scope/status line and a controlled reader-facing reason for the omission.
 - Built and validated the 5.5 × 8.5-inch First Field Edition print and screen PDFs, including new front matter, rights-aware omission notices, regenerated indexes, embedded fonts, coil-safe margins, and full rendered-page QA.
 - Completed the source-corrected Wilderness edition through WR-W-095 and thereby completed all 382 edited selections, preserving excerpt boundaries and applying the established rights-aware source policy.
 - Extended the source-corrected Wilderness edition through WR-W-072 by restoring Keller, qualifying the Tanaka translation, separating two Muir sentiments, and restoring Muir's suppressed omission.

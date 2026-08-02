@@ -9,11 +9,11 @@ The build reads the six canonical files in `edited/`. It does not alter or dupli
 
 ## Reader-facing omission policy
 
-Every selection retains its title, attribution, scope, position, and index presence. When publication permission or a sufficiently reliable reproducible witness is unavailable, the build substitutes the neutral sentence:
+Every selection retains its title, attribution, scope, position, and index presence. When text is not reproduced, the build combines the scope with a clear status line:
 
-> Text not included in this edition.
+> Complete work — text not included.
 
-Repository workflow notes such as “pending permission” are not printed. The editorial note explains this policy once for readers.
+It then supplies one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty. Repository workflow notes such as “pending permission” are not printed. The editorial note explains that the reason records a publication decision and does not imply that permission was formally denied.
 
 ## Build
 

@@ -17,6 +17,12 @@ SCREEN_PDF = ROOT / "output/pdf/wilderness-reflections-screen.pdf"
 PAGE_WIDTH = 396.0
 PAGE_HEIGHT = 612.0
 EXPECTED_IDS = 382
+OMISSION_REASONS = (
+    "Reason: Copyright permission was not available for this edition.",
+    "Reason: A sufficiently reliable source text was not available.",
+    "Reason: Copyright permission and a sufficiently reliable source text were not available.",
+    "Reason: A suitable reproducible translation and its rights could not be established.",
+)
 FORBIDDEN_VISIBLE = (
     "WR-ID:",
     "EDITION_STATUS:",
@@ -142,11 +148,13 @@ def main() -> int:
     print_pages, print_text = validate(PRINT_PDF, expect_links=False)
     screen_pages, screen_text = validate(SCREEN_PDF, expect_links=True)
     for name, text in (("print", print_text), ("screen", screen_text)):
-        if text.count("Text not included in this edition.") != 83:
+        reason_count = sum(text.count(reason) for reason in OMISSION_REASONS)
+        if reason_count != 83:
             raise AssertionError(
-                f"{name}: expected 83 neutral omission notices, "
-                f"found {text.count('Text not included in this edition.')}"
+                f"{name}: expected 83 controlled omission reasons, found {reason_count}"
             )
+        if "Text not included in this edition." in text:
+            raise AssertionError(f"{name}: obsolete generic omission notice remains")
 
     print(f"validated_ids={len(ids)}")
     print(f"print_pages={print_pages}")
@@ -155,7 +163,7 @@ def main() -> int:
     print("print_links=0")
     print("screen_links=present")
     print("fonts=embedded")
-    print("rights_omission_notices=83")
+    print("controlled_omission_reasons=83")
     return 0
 
 
