@@ -97,11 +97,19 @@ class EditionDoc(BaseDocTemplate):
             return Frame(left, bottom, width - left - right, height - top - bottom,
                          id=name, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
 
-        odd = PageTemplate("Odd", [frame("odd", odd_left, odd_right)], self._on_page,
-                           autoNextPageTemplate="Even")
-        even = PageTemplate("Even", [frame("even", even_left, even_right)], self._on_page,
-                            autoNextPageTemplate="Odd")
+        odd = PageTemplate("Odd", [frame("odd", odd_left, odd_right)], self._on_page)
+        even = PageTemplate("Even", [frame("even", even_left, even_right)], self._on_page)
         self.addPageTemplates([odd, even])
+
+    def afterPage(self) -> None:
+        """Select the next template from physical page parity.
+
+        ReportLab's autoNextPageTemplate retains each named template for an
+        extra page in this build path. Selecting it explicitly at page end
+        keeps print gutters mirrored on every successive page.
+        """
+        next_template = "Even" if self.page % 2 else "Odd"
+        self.handle_nextPageTemplate(next_template)
 
     def _on_page(self, canvas, doc) -> None:
         canvas.saveState()

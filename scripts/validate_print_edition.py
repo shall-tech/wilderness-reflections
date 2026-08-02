@@ -59,7 +59,7 @@ def font_is_embedded(font: object) -> bool:
     return any(descriptor.get(key) is not None for key in ("/FontFile", "/FontFile2", "/FontFile3"))
 
 
-def validate(path: Path, expect_links: bool) -> tuple[int, str]:
+def validate(path: Path, expect_links: bool, mirrored_margins: bool) -> tuple[int, str]:
     if not path.exists():
         raise AssertionError(f"missing output: {path}")
     reader = PdfReader(path)
@@ -81,6 +81,20 @@ def validate(path: Path, expect_links: bool) -> tuple[int, str]:
                 f"{path.name} page {number}: expected {PAGE_WIDTH}x{PAGE_HEIGHT}, got {width}x{height}"
             )
         text_parts.append(page.extract_text() or "")
+        header_positions: list[float] = []
+
+        def record_header(text, _cm, tm, _font, _size):
+            if text.strip() and float(tm[5]) > 570:
+                header_positions.append(float(tm[4]))
+
+        page.extract_text(visitor_text=record_header)
+        if number > 4 and header_positions:
+            expected_x = (46.0 if number % 2 else 30.0) if mirrored_margins else 36.0
+            if any(abs(x - expected_x) > 0.01 for x in header_positions):
+                raise AssertionError(
+                    f"{path.name} page {number}: expected header x={expected_x}, "
+                    f"got {header_positions}"
+                )
         for annotation in page.get("/Annots") or []:
             obj = annotation.get_object()
             if obj.get("/Subtype") == "/Link":
@@ -145,8 +159,8 @@ def main() -> int:
             f"got {len(ids)} records and {len(set(ids))} unique; duplicates={duplicates}"
         )
 
-    print_pages, print_text = validate(PRINT_PDF, expect_links=False)
-    screen_pages, screen_text = validate(SCREEN_PDF, expect_links=True)
+    print_pages, print_text = validate(PRINT_PDF, expect_links=False, mirrored_margins=True)
+    screen_pages, screen_text = validate(SCREEN_PDF, expect_links=True, mirrored_margins=False)
     for name, text in (("print", print_text), ("screen", screen_text)):
         reason_count = sum(text.count(reason) for reason in OMISSION_REASONS)
         if reason_count != 83:
@@ -163,6 +177,7 @@ def main() -> int:
     print("print_links=0")
     print("screen_links=present")
     print("fonts=embedded")
+    print("page_margins=validated")
     print("controlled_omission_reasons=83")
     return 0
 
