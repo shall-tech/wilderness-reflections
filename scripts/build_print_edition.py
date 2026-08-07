@@ -328,6 +328,11 @@ def build_story(entries: list[Entry], st: dict, screen: bool,
               Paragraph("The wisdom of the wise<br/>And the experience of the ages,<br/>May be preserved by quotation.", st["subtitle"]),
               Spacer(1, 8), Paragraph("— Isaac Disraeli", st["subtitle"]), Spacer(1, 95),
               Paragraph("FIRST FIELD EDITION · 2026", st["subtitle"]), PageBreak()]
+    # The printed cover is produced single-sided. Preserve its blank reverse so
+    # the first interior page begins on the right and mirrored gutters remain
+    # aligned with the physical coil binding. The screen edition needs no blank.
+    if not screen:
+        story += [Spacer(1, 1), PageBreak()]
     # Edition note/title page
     story += [Paragraph("Wilderness Reflections", st["h1"]),
               Paragraph("First Field Edition · Source-Corrected Reading Edition", st["subtitle"]), Spacer(1, 20),

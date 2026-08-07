@@ -3,6 +3,7 @@
 The publication build assembles the source-corrected reading edition into two 5.5 × 8.5-inch PDFs:
 
 - `output/pdf/wilderness-reflections-print.pdf` is the production file. It uses mirrored coil-safe margins and contains no link annotations.
+- Its page 2 is intentionally blank so a single-sided printed cover retains correct interior page parity and coil-side margins.
 - `output/pdf/wilderness-reflections-screen.pdf` is the archive and screen-reading file. It uses balanced margins and includes internal navigation.
 
 The build reads the six canonical files in `edited/`. It does not alter or duplicate their selection text. The historical cover epigraph and introduction come from `manuscript/00-cover.md` and `manuscript/01-introduction.md`; the table of contents and both indexes are regenerated for the new pagination.

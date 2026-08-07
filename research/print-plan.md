@@ -14,6 +14,7 @@
 - Printing: duplex.
 - Interior: black-and-white on 60–70 lb uncoated, preferably warm-white or natural, text stock.
 - Printed cover: 80–100 lb matte or uncoated cover stock.
+- Inside front cover: intentionally blank; the first interior content page begins on the right.
 - Protection: clear 7–10 mil plastic front sheet over the printed cover.
 - Back: black, navy, or forest-green poly back sheet.
 - Optional: rounded outside corners if available.
@@ -39,7 +40,9 @@
 - Digital screen/archive PDF: complete and validated August 1, 2026.
 - Regenerated table of contents and indexes: complete.
 - Full rendered-page inspection: complete.
-- Local physical proof: next required production gate.
+- First physical printing: received August 6, 2026; functional and legible.
+- Physical-proof finding: the printer produced a single-sided cover with a blank reverse, shifting the original PDF's interior pages to the opposite sides and placing their wider margins away from the coil.
+- Next-edition correction: complete; the print PDF now contains an intentional blank page 2 so interior page sides and mirrored gutters match standard single-sided-cover production.
 
 ## Production sequence
 

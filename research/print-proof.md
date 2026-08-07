@@ -6,11 +6,11 @@ Digital proof completed August 1, 2026.
 
 - Print PDF: `output/pdf/wilderness-reflections-print.pdf`
 - Screen/archive PDF: `output/pdf/wilderness-reflections-screen.pdf`
-- Print length: 137 pages
+- Print length: 138 pages
 - Screen length: 135 pages
 - Finished page size: 5.5 × 8.5 inches (396 × 612 points)
 
-The page-count difference is intentional. The print file uses mirrored coil-safe margins; the screen file uses balanced margins and internal navigation, producing slightly different line and page breaks. Each file has its own regenerated table of contents and index references.
+The page-count difference is intentional. The print file includes a blank inside front cover and uses mirrored coil-safe margins; the screen file omits the physical-production blank and uses balanced margins and internal navigation. Each file has its own regenerated table of contents and index references.
 
 ## Content assembly
 
@@ -39,7 +39,7 @@ The page-count difference is intentional. The print file uses mirrored coil-safe
 
 ## Visual validation
 
-All 137 print pages were rendered to PNG at 110 dpi. Seven full-book contact sheets were reviewed, followed by full-size inspection of:
+The original 137-page print proof was rendered in full to PNG at 110 dpi. Seven full-book contact sheets were reviewed, followed by full-size inspection of:
 
 - cover and editorial-note pages;
 - first body page;
@@ -51,9 +51,13 @@ All 137 print pages were rendered to PNG at 110 dpi. Seven full-book contact she
 
 The initial proof exposed and corrected visible HTML break tags, double-escaped index text, stale running headers, and short-entry page splits. The final render shows no clipping, overlap, metadata leakage, broken characters, or visible markup.
 
-## Remaining physical proof
+## Physical-proof result and revision
 
-The digital files are ready for a local physical proof. Before authorizing the complete run, inspect:
+The first books were received August 6, 2026. They are functional and legible, but the printer produced the cover single-sided with a blank reverse. Because that blank was not present in the supplied PDF, every subsequent printed page landed on the opposite physical side and its larger margin faced away from the coil.
+
+The revised print PDF now includes an intentional blank page 2. The editorial note begins on page 3, all later print pagination and indexes are regenerated, and the mirrored margins align with the physical page sides used by the printer. The screen edition remains unchanged at 135 pages.
+
+Before a future production run, inspect:
 
 1. finished trim size and duplex orientation;
 2. coil-punch clearance on both odd and even pages;

@@ -1,5 +1,6 @@
 # Changelog
 
+- Added an intentional blank inside front cover after the first physical printing revealed that standard single-sided-cover production shifted every interior page to the opposite side of the coil.
 - Corrected print-edition binding margins to alternate on every physical page and added automated parity validation.
 - Clarified every non-reproduced selection with a combined scope/status line and a controlled reader-facing reason for the omission.
 - Built and validated the 5.5 × 8.5-inch First Field Edition print and screen PDFs, including new front matter, rights-aware omission notices, regenerated indexes, embedded fonts, coil-safe margins, and full rendered-page QA.
