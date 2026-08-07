@@ -32,7 +32,8 @@
 
 1. Print-ready 5.5 × 8.5 PDF with coil-safe margins and nonessential hyperlinks removed from the visible page.
 2. Screen/archive PDF with normal margins and clickable source links.
-3. One locally printed physical proof before authorizing the complete run whenever the schedule permits.
+3. Printer handoff instructions identifying the intentional blank page and physical left/right page sequence.
+4. One locally printed physical proof before authorizing the complete run whenever the schedule permits.
 
 ## Current status
 

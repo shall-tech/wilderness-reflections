@@ -6,6 +6,8 @@ The publication build assembles the source-corrected reading edition into two 5.
 - Its page 2 is intentionally blank so a single-sided printed cover retains correct interior page parity and coil-side margins.
 - `output/pdf/wilderness-reflections-screen.pdf` is the archive and screen-reading file. It uses balanced margins and includes internal navigation.
 
+Give `publication/PRINTER-INSTRUCTIONS.md` to the printer with the production PDF. It records the physical page sequence, stock and binding specification, and page-side checkpoints that prevent an extra blank from shifting the mirrored margins.
+
 The build reads the six canonical files in `edited/`. It does not alter or duplicate their selection text. The historical cover epigraph and introduction come from `manuscript/00-cover.md` and `manuscript/01-introduction.md`; the table of contents and both indexes are regenerated for the new pagination.
 
 ## Reader-facing omission policy
