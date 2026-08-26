@@ -1605,18 +1605,18 @@ PAGE: 19
 SECTION: Life
 VERIFIED_TITLE: [At the Gates of the Forest]
 VERIFIED_AUTHOR: Ralph Waldo Emerson
-WORK_SCOPE: Excerpt; Fragment
+WORK_SCOPE: Expanded; Excerpt
 EDITION_STATUS: Source restored
 TEXT_WITNESS: "Nature," in Essays: Second Series (1844)
 SOURCE: research/verification-log.md#wr-l-066---at-the-gates-of-the-forest
-EDITION_NOTE: The booklet stops after "back" in the middle of Emerson's second sentence. The selection boundary is preserved and made visible with an ellipsis.
+EDITION_NOTE: The booklet stops after "back" in the middle of Emerson's second sentence. The reading edition expands the selection through the next two complete sentences from the verified 1844 text; the shorter historic boundary remains preserved in the manuscript transcription.
 -->
 
 ## [At the Gates of the Forest]
 
-*Excerpt from “Nature,” ending partway through its second sentence.*
+*Expanded excerpt from “Nature”; the historic booklet ends after “back.”*
 
-At the gates of the forest, the surprised man of the world is forced to leave his city estimates of great and small, wise and foolish. The knapsack of custom falls off his back...
+At the gates of the forest, the surprised man of the world is forced to leave his city estimates of great and small, wise and foolish. The knapsack of custom falls off his back with the first step he makes into these precincts. Here is sanctity which shames our religions, and reality which discredits our heroes. Here we find Nature to be the circumstance which dwarfs every other circumstance, and judges like a god all men that come to her.
 
 *Ralph Waldo Emerson*
 

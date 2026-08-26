@@ -527,8 +527,8 @@ This log records the external evidence used during the post-transcription verifi
 
 - Verified author: Ralph Waldo Emerson.
 - Source identity: "Nature" in *Essays: Second Series* (1844).
-- Relationship: Two-sentence excerpt ending mid-sentence after "back"; the source continues "with the first step he makes into these precincts."
-- Evidence: [Scanned 1844 edition](https://web.english.upenn.edu/~cavitch/pdf-library/Emerson_Essays_Second_Series_1844.pdf) and [Library of America edition citation](https://www.azquotes.com/quote/1036186).
+- Relationship: The historic booklet gives a two-sentence excerpt ending mid-sentence after "back." Following a PLC faculty recommendation received with the 2026 field edition, the reading edition expands the excerpt through "all men that come to her," restoring the remainder of that sentence and the next two complete sentences. The manuscript transcription retains the historic boundary.
+- Evidence: [Scanned 1844 edition](https://web.english.upenn.edu/~cavitch/pdf-library/Emerson_Essays_Second_Series_1844.pdf) and [Google Books record and passage from an 1844 copy](https://books.google.com/books/about/Essays.html?id=TVohAAAAMAAJ).
 - Confidence: High.
 
 ## 2026-07-20 - Life page 20, entries 1-3
