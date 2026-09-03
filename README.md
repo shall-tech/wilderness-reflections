@@ -11,3 +11,5 @@ A complete source-corrected reading edition is available in `edited/`. It preser
 The agreed specification for the first 5.5 × 8.5-inch coil-bound field edition is recorded in `research/print-plan.md`.
 
 The first digital production proof is available in `output/pdf/`: a coil-safe print PDF and a linked screen/archive PDF. The reproducible build and validation scripts are in `scripts/`; see `publication/README.md` and `research/print-proof.md` for production and proofing status.
+
+The entry-by-entry plan for restoring omitted material is maintained in `research/rights-restoration-audit.md`.

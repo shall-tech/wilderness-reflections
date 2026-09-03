@@ -1,5 +1,6 @@
 # Changelog
 
+- Created an entry-by-entry rights-restoration audit for all 83 omitted selections, routing each to source research, translation research, permission, or individualized fair-use review; the first source-only sweep identified Mary Austin as a high-priority public-domain restoration candidate.
 - Expanded Emerson's “At the Gates of the Forest” through the complete recommended passage from the verified 1844 text while preserving the historic booklet's shorter boundary in the manuscript transcription.
 - Added a printer handoff sheet with explicit cover, blank-verso, interior-page, first-quotation, and mirrored-margin checkpoints.
 - Added an intentional blank inside front cover after the first physical printing revealed that standard single-sided-cover production shifted every interior page to the opposite side of the coil.
