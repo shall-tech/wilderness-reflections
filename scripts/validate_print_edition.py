@@ -173,9 +173,9 @@ def main() -> int:
         raise AssertionError("screen PDF must not contain the print-only blank page")
     for name, text in (("print", print_text), ("screen", screen_text)):
         reason_count = sum(text.count(reason) for reason in OMISSION_REASONS)
-        if reason_count != 83:
+        if reason_count != 82:
             raise AssertionError(
-                f"{name}: expected 83 controlled omission reasons, found {reason_count}"
+                f"{name}: expected 82 controlled omission reasons, found {reason_count}"
             )
         if "Text not included in this edition." in text:
             raise AssertionError(f"{name}: obsolete generic omission notice remains")
@@ -189,7 +189,7 @@ def main() -> int:
     print("fonts=embedded")
     print("page_margins=validated")
     print("inside_front_cover=blank_in_print_only")
-    print("controlled_omission_reasons=83")
+    print("controlled_omission_reasons=82")
     return 0
 
 

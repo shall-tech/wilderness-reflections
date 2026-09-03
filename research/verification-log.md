@@ -2557,10 +2557,11 @@ This log records the external evidence used during the post-transcription verifi
 
 ### WR-W-046 - [Man Is Not Himself Only]
 
-- Verified author and collection: Mary Hunter Austin, collected in *Beyond Borders: The Selected Essays of Mary Austin* (1996); the original essay remains unidentified.
-- Relationship: Prose sentence arranged as free verse and shortened with ellipses by the booklet.
-- Evidence: [Sourced collection locator and complete prose comparison](https://libquotes.com/mary-hunter-austin/quote/lbg7x3h) and [independent formatted comparison](https://dspace.library.uu.nl/bitstream/1874/12179/17/full.pdf).
-- Confidence: Medium.
+- Verified author and source: Mary Hunter Austin, “Hasta Mañana,” in *The Land of Journey's Ending* (1924), page 437.
+- Relationship: The booklet selects three portions of the opening passage, removes intervening clauses with ellipses, and arranges the prose as free verse. The reading edition restores the 1924 wording and prose form while preserving both omissions visibly.
+- Rights status: The 1924 edition is public domain in the United States.
+- Evidence: [Internet Archive record and page-image scan](https://archive.org/details/austland_592806/page/n456/mode/1up) and [Google Books 1924 edition record](https://books.google.com/books?id=_WsLAQAAIAAJ).
+- Confidence: High; wording, title, page, and publication were checked directly against the 1924 page image.
 
 ### WR-W-047 - [Coming, Going, the Waterfowl]
 

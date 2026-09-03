@@ -4,7 +4,7 @@
 
 This working audit routes every selection omitted from the First Field Edition toward the most defensible restoration path. It is an editorial and research tool, not a legal opinion or a finding that any particular use is fair. Fair use must be evaluated selection by selection under 17 U.S.C. §107.
 
-The current edition contains 83 omitted selections: 45 copyright-only, 22 rights-plus-source, 11 translation, and 5 source-only cases.
+The audit began with 83 omitted selections. After restoring WR-W-046, the current edition contains 82: 45 copyright-only, 22 rights-plus-source, 11 translation, and 4 source-only cases. The matrix retains cleared entries as restoration history.
 
 ## Decision rules
 
@@ -96,7 +96,7 @@ Requests should specify: nonprofit PLC faculty use; no sale or fee; exact passag
 | WR-W-038 | Wilderness | Once in a While You Find a Place on Earth | Unknown; "Sundance" may identify a publication or commercial source | Complete | Rights + source | Establish authoritative wording and rights holder before requesting permission. |
 | WR-W-040 | Wilderness | Your Equipment Stands Between You and the Wilderness | Ed Buryn | Excerpt | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
 | WR-W-045 | Wilderness | When I Got to Be 70 | Claudia Alta "Lady Bird" Johnson | Abridged; Excerpt | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
-| WR-W-046 | Wilderness | Man Is Not Himself Only | Mary Hunter Austin | Abridged; Excerpt | Source | Compare the booklet against the located 1924 public-domain source, identify the page and full boundary, then restore verified wording. |
+| WR-W-046 | Wilderness | Man Is Not Himself Only | Mary Hunter Austin | Abridged; Excerpt | Cleared | Restored from “Hasta Mañana,” page 437 of the public-domain 1924 edition; booklet omissions remain visible. |
 | WR-W-047 | Wilderness | Waka on the Diamond Sutra | Eihei Dōgen; translated by Lucien Stryk and Takashi Ikemoto | Complete | Translation | Locate a public-domain translation or request a license for a named translation. |
 | WR-W-048 | Wilderness | At First, the People Talking About Ecology | Osmarino Amâncio Rodrigues | Complete | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
 | WR-W-050 | Wilderness | Home to the Wilderness | Sally Carrighar | Excerpt | Rights + source | Establish authoritative wording and rights holder before requesting permission. |
@@ -126,4 +126,4 @@ Each entry should advance through: **Queued → Source verified → Rights analy
 | WR-L-083 | “Lessons for Life from Geese” is an extensive adaptation with competing attribution histories and factual claims that also require checking. | Keep omitted; locate the earliest Robert McNeish sermon or publication and map later additions before analyzing rights. |
 | WR-KW-054 | The Dave Moriah text is documented as an adaptation of a “Summit Expedition” staff-manual anecdote, but the manual edition and underlying author remain unidentified. | Keep omitted; search Philmont and Summit Expedition staff-manual archives and contact knowledgeable former staff. |
 | WR-B-053 | The booklet text is an unidentified modern paraphrase of Psalm 19:1–6. The biblical source is ancient, but the paraphrase itself has not been identified. | Editorial choice required later: continue searching for the paraphrase, or substitute a clearly named public-domain translation while disclosing the change. |
-| WR-W-046 | A fuller form of Mary Austin’s sentence has been traced to *The Land of Journey’s Ending* (1924), rather than only to the 1996 collected edition. The 1924 work is public domain in the United States and full-view copies are available. | High-priority restoration candidate; complete a page-image comparison before changing the reading edition. Sources: [Online Books Page record](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Austin%2C+Mary%2C+1868-1934) and [Google Books 1924 edition](https://books.google.com/books?id=_WsLAQAAIAAJ). |
+| WR-W-046 | The passage is the opening of Mary Austin’s “Hasta Mañana” in *The Land of Journey’s Ending* (1924), page 437. Direct page-image comparison identified the booklet’s two omitted spans and artificial lineation. | Cleared and restored from the public-domain 1924 text. Sources: [Internet Archive page image](https://archive.org/details/austland_592806/page/n456/mode/1up) and [Google Books 1924 edition](https://books.google.com/books?id=_WsLAQAAIAAJ). |

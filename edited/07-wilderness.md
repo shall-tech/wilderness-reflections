@@ -995,17 +995,17 @@ SECTION: Wilderness
 VERIFIED_TITLE: [Man Is Not Himself Only]
 VERIFIED_AUTHOR: Mary Hunter Austin
 WORK_SCOPE: Abridged; Excerpt
-EDITION_STATUS: Source identified; text not reproduced
-TEXT_WITNESS: Prose sentence collected in Beyond Borders: The Selected Essays of Mary Austin (1996); original essay not identified
+EDITION_STATUS: Source restored
+TEXT_WITNESS: "Hasta Mañana," in The Land of Journey's Ending (1924), page 437; Internet Archive scan of the Century edition
 SOURCE: research/verification-log.md#wr-w-046---man-is-not-himself-only
-EDITION_NOTE: Identifies the booklet's artificial free-verse arrangement and ellipsis-shortened prose, but the original essay and publication remain unknown. Replacement text is not reproduced without a primary witness.
+EDITION_NOTE: Restores the selected prose from the public-domain 1924 source, removes the booklet's artificial free-verse lineation, and preserves its two substantial omissions with visible ellipses.
 -->
 
 ## [Man Is Not Himself Only]
 
-*Shortened prose sentence arranged as verse by the booklet; text not reproduced.*
+*Selected portions of the opening passage of “Hasta Mañana,” with the booklet’s omissions preserved.*
 
-*[Text omitted pending identification of the original essay and a primary-page comparison.]*
+Man is not himself only. . . . He is all that he sees; all that flows to him from a thousand sources. . . . He is the land, the lift of its mountain lines, the reach of its valleys.
 
 *Mary Hunter Austin*
 

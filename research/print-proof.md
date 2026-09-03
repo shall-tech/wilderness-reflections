@@ -19,7 +19,7 @@ The page-count difference is intentional. The print file includes a blank inside
 - Present-edition editorial and rights note added.
 - All six source-corrected thematic sections included.
 - All 382 selections retained in their canonical order.
-- Eighty-three selections combine their scope with `text not included` and carry one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty.
+- Eighty-two selections combine their scope with `text not included` and carry one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty.
 - Repository-facing workflow language is suppressed from the reading edition.
 - Author and first-line indexes regenerated from final pagination.
 - Omitted selections remain discoverable in both indexes without reproducing protected first lines.
@@ -33,7 +33,7 @@ The page-count difference is intentional. The print file includes a blank inside
 - Screen PDF contains internal navigation and section bookmarks.
 - No visible `WR-ID`, edition-status, text-witness, source, or editorial-note metadata.
 - No visible “pending permission” workflow language.
-- Eighty-three controlled omission reasons confirmed.
+- Eighty-two controlled omission reasons confirmed.
 - Both PDFs are unencrypted and contain extractable text.
 - `git diff --check` passes.
 
