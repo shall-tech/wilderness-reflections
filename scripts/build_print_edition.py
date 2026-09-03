@@ -264,8 +264,8 @@ def parse_entries() -> list[Entry]:
     if len(ids) != 382 or len(set(ids)) != 382:
         raise ValueError(f"expected 382 unique entries, got {len(ids)} records / {len(set(ids))} unique")
     omitted = sum(entry.status == OMITTED_STATUS for entry in entries)
-    if omitted != 82:
-        raise ValueError(f"expected 82 omitted selections, got {omitted}")
+    if omitted != 81:
+        raise ValueError(f"expected 81 omitted selections, got {omitted}")
     return entries
 
 
@@ -425,7 +425,7 @@ def build_story(entries: list[Entry], st: dict, screen: bool,
                   Marker("section", "About This Edition", "About This Edition"),
                   Paragraph("About This Edition", st["h1"]),
                   Paragraph("Wilderness Reflections began as a Philmont staff collection in 1985 and grew through several historical editions. This First Field Edition was prepared from a page-verified transcription of the surviving booklet and a selection-by-selection source review.", st["front"]),
-                  Paragraph("The repository preserves the scan-faithful transcription, source evidence, unresolved attribution questions, and the canonical source-corrected Markdown used for this publication. Eighty-two identified selections are represented without their source text because permission or a sufficiently reliable reproducible witness was unavailable.", st["front"]),
+                  Paragraph("The repository preserves the scan-faithful transcription, source evidence, unresolved attribution questions, and the canonical source-corrected Markdown used for this publication. Eighty-one identified selections are represented without their source text because permission or a sufficiently reliable reproducible witness was unavailable.", st["front"]),
                   Paragraph("First Field Edition · 2026", st["subtitle"])]
     return story
 

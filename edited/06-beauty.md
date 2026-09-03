@@ -1203,22 +1203,22 @@ See the scan-faithful booklet version and the cited source record.
 WR-ID: WR-B-053
 PAGE: 63
 SECTION: Beauty
-VERIFIED_TITLE: [The Heavens Declare God's Glory]
-VERIFIED_AUTHOR: Psalm 19:1-6 (paraphrase; translator unidentified)
-WORK_SCOPE: Adapted; Excerpt
-EDITION_STATUS: Source identified; text not reproduced
-TEXT_WITNESS: Free modern paraphrase of Psalm 19:1-6; exact English source unidentified
+VERIFIED_TITLE: [The Heavens Declare the Glory of God]
+VERIFIED_AUTHOR: Psalm 19:1-6; World English Bible
+WORK_SCOPE: Excerpt
+EDITION_STATUS: Public-domain text substituted
+TEXT_WITNESS: World English Bible, Psalm 19:1-6; public-domain text published by eBible.org
 SOURCE: research/verification-log.md#wr-b-053---the-heavens-declare-gods-glory
-EDITION_NOTE: Corrects the booklet's incomplete 1-4 range to 1-6, whose sun imagery supplies the final portion. The substantial unidentified modern paraphrase is not reproduced.
+EDITION_NOTE: Replaces the booklet's unidentified modern paraphrase with Psalm 19:1-6 from the public-domain World English Bible. The scan-faithful transcription preserves the historical wording and its incomplete 1-4 citation.
 -->
 
-## [The Heavens Declare God's Glory]
+## [The Heavens Declare the Glory of God]
 
-*Free modern paraphrase of Psalm 19:1-6; text not reproduced.*
+*Psalm 19:1-6, World English Bible. Public-domain text substituted for the booklet's unidentified modern paraphrase.*
 
-*[Text omitted pending identification of the paraphrase or selection of a named public-domain translation.]*
+The heavens declare the glory of God. The expanse shows his handiwork. Day after day they pour out speech, and night after night they display knowledge. There is no speech nor language where their voice is not heard. Their voice has gone out through all the earth, their words to the end of the world. In them he has set a tent for the sun, which is as a bridegroom coming out of his room, like a strong man rejoicing to run his course. His going out is from the end of the heavens, his circuit to its ends. There is nothing hidden from its heat.
 
-*Psalm 19:1-6*
+*Psalm 19:1-6 · World English Bible*
 
 <!--
 WR-ID: WR-B-054

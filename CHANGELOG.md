@@ -1,5 +1,6 @@
 # Changelog
 
+- Replaced the unidentified Psalm 19:1–6 paraphrase with the explicitly labeled public-domain World English Bible text while retaining the booklet wording in the scan-faithful manuscript.
 - Restored Mary Hunter Austin’s “Man Is Not Himself Only” selection from page 437 of the public-domain 1924 first edition, preserving the booklet’s two omissions while correcting its artificial lineation.
 - Created an entry-by-entry rights-restoration audit for all 83 omitted selections, routing each to source research, translation research, permission, or individualized fair-use review; the first source-only sweep identified Mary Austin as a high-priority public-domain restoration candidate.
 - Expanded Emerson's “At the Gates of the Forest” through the complete recommended passage from the verified 1844 text while preserving the historic booklet's shorter boundary in the manuscript transcription.

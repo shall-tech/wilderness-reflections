@@ -2194,10 +2194,11 @@ This log records the external evidence used during the post-transcription verifi
 
 ### WR-B-053 - [The Heavens Declare God's Glory]
 
-- Restored source range: free modern paraphrase of Psalm 19:1-6; the booklet cites only verses 1-4.
-- Relationship: The text's bridegroom, athlete, circuit, and heat images derive from verses 5-6. The exact English translator or paraphraser was not located.
-- Evidence: [Independent witness reproducing the bridegroom-and-athlete wording and correct 1-6 range](https://www.soulfood.com.au/programs/SoulFoodTas_Jun_20.pdf), [translation comparison for verse 5](https://biblehub.com/strongs/psalms/19-5.htm), and [textual notes on Psalm 19's sun imagery](https://bible.org/book/export/html/21483).
-- Confidence: Medium.
+- Restored source range: the booklet's free modern paraphrase draws on Psalm 19:1-6, although its attribution cites only verses 1-4.
+- Relationship: The booklet's bridegroom, athlete, circuit, and heat images derive from verses 5-6. Because the exact paraphraser remains unidentified, the reading edition substitutes the complete corresponding passage from the World English Bible and labels the change explicitly; the manuscript retains the historical wording.
+- Rights status: The World English Bible is dedicated to the public domain and may be reproduced freely. Its wording is reproduced without alteration.
+- Evidence: [Official World English Bible text of Psalm 19](https://ebible.org/engwebp/PSA019.htm) and [official public-domain statement](https://ebible.org/engwebp/copyright.htm).
+- Confidence: High for the substituted text, source range, and public-domain status; the booklet paraphrase's provenance remains unresolved.
 
 ### WR-B-054 - [Nothing Is Less Known; Nothing More Neglected]
 
