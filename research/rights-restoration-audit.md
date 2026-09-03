@@ -4,7 +4,7 @@
 
 This working audit routes every selection omitted from the First Field Edition toward the most defensible restoration path. It is an editorial and research tool, not a legal opinion or a finding that any particular use is fair. Fair use must be evaluated selection by selection under 17 U.S.C. §107.
 
-The audit began with 83 omitted selections. After restoring WR-W-046 and substituting a public-domain translation for WR-B-053, the current edition contains 81: 45 copyright-only, 22 rights-plus-source, 11 translation, and 3 source-only cases. The matrix retains cleared entries as restoration history.
+The audit began with 83 omitted selections. After restoring WR-W-046 and WR-KW-054 and substituting a public-domain translation for WR-B-053, the current edition contains 80: 45 copyright-only, 22 rights-plus-source, 11 translation, and 2 source-only cases. The matrix retains cleared entries as restoration history.
 
 ## Decision rules
 
@@ -38,7 +38,7 @@ Requests should specify: nonprofit PLC faculty use; no sale or fee; exact passag
 | WR-KW-045 | Knowledge and Wisdom | Perspective - Use It or Lose It | Richard Bach | Excerpt | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
 | WR-KW-047 | Knowledge and Wisdom | The Old People Came Literally to Love the Soil | Luther Standing Bear | Excerpt | Copyright | Conduct an individualized fair-use review; request permission if the case is weak. |
 | WR-KW-048 | Knowledge and Wisdom | The White Man Does Not Understand the Indian | Luther Standing Bear | Excerpt | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
-| WR-KW-054 | Knowledge and Wisdom | The Indian & the Cricket | Dave Moriah (adapter); original author unknown | Adapted; Complete | Source | Locate and authenticate the originating text; then reassess rights. |
+| WR-KW-054 | Knowledge and Wisdom | The Indian & the Cricket | Dave Moriah (adapter); original author unknown | Adapted; Complete | Cleared editorially | Restored by explicit editorial decision based on longstanding outdoor-education circulation; original provenance and formal rights status remain unresolved. |
 | WR-KW-055 | Knowledge and Wisdom | In the Point of Rest | Dag Hammarskjöld | Excerpt | Translation | Locate a public-domain translation or request a license for a named translation. |
 | WR-KW-058 | Knowledge and Wisdom | Two Somewhat Different Epigrams | Langston Hughes | Excerpt | Copyright | Conduct an individualized fair-use review; request permission if the case is weak. |
 | WR-KW-061 | Knowledge and Wisdom | Rain and the Rhinoceros | Thomas Merton | Abridged; Excerpt | Copyright | Seek limited-print permission; do not rely on blanket fair use. |
@@ -124,6 +124,6 @@ Each entry should advance through: **Queued → Source verified → Rights analy
 |---|---|---|
 | WR-L-067 | “A Sabbath Poem” continues to circulate under M. J. “Slim” Hooey, but no original publication or documented author identity has been located. | Keep omitted; pursue periodical, environmental-education, and archival witnesses rather than treating later devotional copies as authoritative. |
 | WR-L-083 | “Lessons for Life from Geese” is an extensive adaptation with competing attribution histories and factual claims that also require checking. | Keep omitted; locate the earliest Robert McNeish sermon or publication and map later additions before analyzing rights. |
-| WR-KW-054 | The Dave Moriah text is documented as an adaptation of a “Summit Expedition” staff-manual anecdote, but the manual edition and underlying author remain unidentified. | Keep omitted; search Philmont and Summit Expedition staff-manual archives and contact knowledgeable former staff. |
+| WR-KW-054 | The Dave Moriah text is documented as an adaptation of a Summit Expedition staff-manual anecdote and appears in multiple outdoor-education collections, but the manual edition and underlying author remain unidentified. | Restored by explicit editorial decision based on longstanding public circulation; this is not recorded as a definitive public-domain determination. Continue searching Summit Adventure and Cornell Outdoor Education archives. |
 | WR-B-053 | The booklet text is an unidentified modern paraphrase of Psalm 19:1–6. The biblical source is ancient, but the paraphrase itself has not been identified. | Cleared by editorial substitution: Psalm 19:1–6 from the public-domain World English Bible now appears with explicit disclosure; the manuscript preserves the booklet text. |
 | WR-W-046 | The passage is the opening of Mary Austin’s “Hasta Mañana” in *The Land of Journey’s Ending* (1924), page 437. Direct page-image comparison identified the booklet’s two omitted spans and artificial lineation. | Cleared and restored from the public-domain 1924 text. Sources: [Internet Archive page image](https://archive.org/details/austland_592806/page/n456/mode/1up) and [Google Books 1924 edition](https://books.google.com/books?id=_WsLAQAAIAAJ). |

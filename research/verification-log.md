@@ -1295,9 +1295,10 @@ This log records the external evidence used during the post-transcription verifi
 ### WR-KW-054 - The Indian & the Cricket
 
 - Booklet attribution: Dave Moriah.
-- Finding: A matching Philmont collection identifies Moriah's telling as adapted from a "Summit Expedition" staff manual. The manual edition and the anecdote's original author were not located.
-- Evidence: [Matching collection and adaptation note](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html).
-- Confidence: Medium for Moriah as adapter; original provenance unresolved.
+- Finding: Matching outdoor-education collections identify Moriah's telling as adapted from a "Summit Expedition" staff manual. Summit Expedition was a California wilderness-education organization founded by Tim Hansel and succeeded by Summit Adventure in 1988. The manual edition and the anecdote's original author were not located.
+- Editorial disposition: Restored by explicit editorial decision based on the anecdote's longstanding public circulation in outdoor-education collections. This is not a definitive public-domain finding. The reading edition corrects the booklet's apparent "plans flying overhead" typo to "planes flying overhead" from the matching witness; the manuscript preserves the printed wording.
+- Evidence: [Matching Philmont collection and adaptation note](https://www.oocities.org/yosemite/6318/philmont/campfire/warmstars4.html), [independent Wilderness Adventures republication](https://www.wildernessadventures.com/blog/our-favorite-quotes-from-the-wa-quotebook/), and [Summit Adventure institutional history](https://summitadventure.com/about-us/).
+- Confidence: High for Moriah's adapted wording and the Summit Expedition relationship; original provenance and formal rights status remain unresolved.
 
 ### WR-KW-055 - [In the Point of Rest]
 

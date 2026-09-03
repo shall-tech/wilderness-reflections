@@ -1155,17 +1155,33 @@ SECTION: Knowledge and Wisdom
 VERIFIED_TITLE: The Indian & the Cricket
 VERIFIED_AUTHOR: Dave Moriah (adapter); original author unknown
 WORK_SCOPE: Adapted; Complete
-EDITION_STATUS: Source identified; text not reproduced
+EDITION_STATUS: Editorially restored
 TEXT_WITNESS: Wilderness Reflections, original page 38; matching Philmont collection identifies a Summit Expedition staff-manual source
 SOURCE: research/verification-log.md#wr-kw-054---the-indian--the-cricket
-EDITION_NOTE: Moriah's version is identified as an adaptation, but the staff-manual edition and original author remain unknown. The complete substantial anecdote is not duplicated in the edited edition.
+EDITION_NOTE: Restores Moriah's complete adapted anecdote by editorial decision based on its longstanding circulation in outdoor-education collections. The staff-manual edition and original author remain unknown. Corrects the booklet's apparent typo "plans flying overhead" to "planes flying overhead," supported by an independent matching witness.
 -->
 
 ## The Indian & the Cricket
 
-*Complete adapted anecdote; text not reproduced.*
+*Adapted anecdote from a Summit Expedition staff manual; original author and manual edition unidentified.*
 
-See the scan-faithful booklet version and the cited source record.
+I was walking with my friend, an American Indian, on a crowded street in New York City when he suddenly exclaimed, “I hear a cricket.”
+
+“You're crazy,” I said, as I observed the crowded noon-time street scene in mid-town. Cars were honking, construction crews working, planes flying overhead.
+
+“No, I hear a cricket,” he insisted, and proceeded to walk to a flower bed in front of a fancy office building. There, under a leafy plant, he showed me a cricket chirping with life.
+
+“That's amazing,” I responded. “You must have fantastic hearing.”
+
+“Not really. It all depends on what you're tuned into,” my friend explained.
+
+“I find that hard to believe,” I said.
+
+“Watch,” my wise friend offered, and he proceeded to drop a handful of coins onto the crowded sidewalk.
+
+Instantly heads turned, eyes darted, and hands reached for pockets to see if they were the poor soul who'd lost his or her money.
+
+“See,” his eyes twinkled, “it all depends on what you're tuned into.”
 
 *Dave Moriah (adapter); original author unknown*
 

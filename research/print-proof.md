@@ -6,7 +6,7 @@ Digital proof completed August 1, 2026.
 
 - Print PDF: `output/pdf/wilderness-reflections-print.pdf`
 - Screen/archive PDF: `output/pdf/wilderness-reflections-screen.pdf`
-- Print length: 138 pages
+- Print length: 139 pages
 - Screen length: 136 pages
 - Finished page size: 5.5 × 8.5 inches (396 × 612 points)
 
@@ -19,7 +19,7 @@ The page-count difference is intentional. The print file includes a blank inside
 - Present-edition editorial and rights note added.
 - All six source-corrected thematic sections included.
 - All 382 selections retained in their canonical order.
-- Eighty-one selections combine their scope with `text not included` and carry one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty.
+- Eighty selections combine their scope with `text not included` and carry one controlled reason covering copyright permission, source-text reliability, both limitations, or translation and reproduction-rights uncertainty.
 - Repository-facing workflow language is suppressed from the reading edition.
 - Author and first-line indexes regenerated from final pagination.
 - Omitted selections remain discoverable in both indexes without reproducing protected first lines.
@@ -33,7 +33,7 @@ The page-count difference is intentional. The print file includes a blank inside
 - Screen PDF contains internal navigation and section bookmarks.
 - No visible `WR-ID`, edition-status, text-witness, source, or editorial-note metadata.
 - No visible “pending permission” workflow language.
-- Eighty-one controlled omission reasons confirmed.
+- Eighty controlled omission reasons confirmed.
 - Both PDFs are unencrypted and contain extractable text.
 - `git diff --check` passes.
 
@@ -55,7 +55,7 @@ The initial proof exposed and corrected visible HTML break tags, double-escaped 
 
 The first books were received August 6, 2026. They are functional and legible, but the printer produced the cover single-sided with a blank reverse. Because that blank was not present in the supplied PDF, every subsequent printed page landed on the opposite physical side and its larger margin faced away from the coil.
 
-The revised print PDF includes an intentional blank page 2. The editorial note begins on page 3, all later print pagination and indexes are regenerated, and the mirrored margins align with the physical page sides used by the printer. The screen edition is 136 pages after the Psalm 19 restoration reflowed the Beauty section.
+The revised print PDF includes an intentional blank page 2. The editorial note begins on page 3, all later print pagination and indexes are regenerated, and the mirrored margins align with the physical page sides used by the printer. Restoring “The Indian & the Cricket” reflowed the print edition to 139 pages; the screen edition remains 136 pages.
 
 Before a future production run, inspect:
 

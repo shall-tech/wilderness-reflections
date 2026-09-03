@@ -1,5 +1,6 @@
 # Changelog
 
+- Restored Dave Moriah’s “The Indian & the Cricket” by explicit editorial decision, documenting its Summit Expedition staff-manual lineage and unresolved original provenance while correcting the booklet’s apparent “plans” typo to “planes.”
 - Replaced the unidentified Psalm 19:1–6 paraphrase with the explicitly labeled public-domain World English Bible text while retaining the booklet wording in the scan-faithful manuscript.
 - Restored Mary Hunter Austin’s “Man Is Not Himself Only” selection from page 437 of the public-domain 1924 first edition, preserving the booklet’s two omissions while correcting its artificial lineation.
 - Created an entry-by-entry rights-restoration audit for all 83 omitted selections, routing each to source research, translation research, permission, or individualized fair-use review; the first source-only sweep identified Mary Austin as a high-priority public-domain restoration candidate.
